@@ -27,6 +27,7 @@ update_leaderboard(years = 2021, new_games = T)
 hoop_math_names <- read_csv("hoop_math_names.csv")
 types <- c("OffTable", "RebTable", "TransOTable", "DefTable", "TransDTable")
 years <- 2012:2020
+new_games = F
 for (i in 1:length(years)) {
   # get year
   year <- years[i]
@@ -60,16 +61,9 @@ for (i in 1:length(years)) {
 }
 
 # exploring team datasets from hoop-math.com
-off_tables <- scrape_hoop_math_team_tables(team = "Duke", 
-                                           type = "OffTable", 
-                                           years = 2012)
-scrape_hoop_math_team_tables()
 off_tables %>% 
   filter(name == "Total") %>% view()
 
-off_trans_tables <- scrape_hoop_math_team_tables(team = "Duke", 
-                                                 type = "TransOTable", 
-                                                 years = 2012:2020)
 
 n <- nrow(ids)
 ### Pull Games
