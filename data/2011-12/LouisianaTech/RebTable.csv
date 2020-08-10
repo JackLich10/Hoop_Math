@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Brandon Gibson,13,0.151,0.14,0.545,0.034,0,0,2011-12
-Michale Kyser,12,0.132,0.114,0.5710000000000001,0.09300000000000001,0.2,0.6,2011-12
-J.L. Lewis,11,0.188,0.2,0.667,0.047,0.071,0.5,2011-12
-Romario Souza,10,0.086,0.08199999999999999,0.667,0.019,0,0,2011-12
-Raheem Appleby,9,0.040999999999999995,0.05,0.75,0.028999999999999998,0.027000000000000003,0.4,2011-12
-Kenneth Smith,9,0.027999999999999997,0,0,0.25,0.2,0.125,2011-12
-Cordarius Johnson,8,0.08800000000000001,0.11800000000000001,0.8,0.032,0,0,2011-12
-Lonnie Smith,5,0.364,0.4,0.5,0.125,0,0,2011-12
-Trevor Gaskins,4,0.017,0.027999999999999997,1,0.01,0.025,1,2011-12
-Isaiah Massey,3,0.5,0.75,1,0,0,NA,2011-12
-Kenyon McNeail,3,0.023,0.043,1,0.025,0.077,1,2011-12
-Stojan Gjuroski,1,0,0,NA,1,NA,0,2011-12
-Total,88,0.09300000000000001,0.099,0.655,0.045,0.039,0.31,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Brandon Gibson,13,0.151,0.14,0.545,0.034,0,0,2011-12,LouisianaTech
+Michale Kyser,12,0.132,0.114,0.5710000000000001,0.09300000000000001,0.2,0.6,2011-12,LouisianaTech
+J.L. Lewis,11,0.188,0.2,0.667,0.047,0.071,0.5,2011-12,LouisianaTech
+Romario Souza,10,0.086,0.08199999999999999,0.667,0.019,0,0,2011-12,LouisianaTech
+Raheem Appleby,9,0.040999999999999995,0.05,0.75,0.028999999999999998,0.027000000000000003,0.4,2011-12,LouisianaTech
+Kenneth Smith,9,0.027999999999999997,0,0,0.25,0.2,0.125,2011-12,LouisianaTech
+Cordarius Johnson,8,0.08800000000000001,0.11800000000000001,0.8,0.032,0,0,2011-12,LouisianaTech
+Lonnie Smith,5,0.364,0.4,0.5,0.125,0,0,2011-12,LouisianaTech
+Trevor Gaskins,4,0.017,0.027999999999999997,1,0.01,0.025,1,2011-12,LouisianaTech
+Isaiah Massey,3,0.5,0.75,1,0,0,NA,2011-12,LouisianaTech
+Kenyon McNeail,3,0.023,0.043,1,0.025,0.077,1,2011-12,LouisianaTech
+Stojan Gjuroski,1,0,0,NA,1,NA,0,2011-12,LouisianaTech
+Total,88,0.09300000000000001,0.099,0.655,0.045,0.039,0.31,2011-12,LouisianaTech

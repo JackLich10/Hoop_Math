@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.39899999999999997,0.644,0.084,0.703,2013-14
-2pt Jumpers,0.26,0.381,0.064,0.408,2013-14
-3pt Shots,0.341,0.409,0.006,0.41100000000000003,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.39899999999999997,0.644,0.084,0.703,2013-14,Cornell
+2pt Jumpers,0.26,0.381,0.064,0.408,2013-14,Cornell
+3pt Shots,0.341,0.409,0.006,0.41100000000000003,2013-14,Cornell

@@ -1,16 +1,16 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Dequan Hicks,34,0.163,0.154,0.552,0.031,0.017,0.2,2013-14
-Zikiteran Woodley,31,0.139,0.14400000000000002,0.708,0.083,0.087,0.5710000000000001,2013-14
-Marvin Frazier,17,0.28600000000000003,0.16699999999999998,0.375,0.026000000000000002,0,0,2013-14
-Patrick Robinson,14,0.2,0.17600000000000002,0.5,0.14300000000000002,0.33299999999999996,0.5,2013-14
-Ryan King,13,0.273,0.29,0.75,0.071,0,0,2013-14
-Tra'Von Joseph,8,0.2,0.304,1,0.083,0,0,2013-14
-Brison White,7,0.031,0.022000000000000002,0.5,0.023,0,0,2013-14
-Jalan West,4,0.027999999999999997,0.016,0.33299999999999996,0,0,NA,2013-14
-Gary Stewart,3,0.091,0.083,0.5,0.038,0,0,2013-14
-Matt Killian,1,0.091,0,0,0,NA,NA,2013-14
-Tyler Washington,1,0,0,NA,0.05,0,0,2013-14
-Dadrian Harris,1,0.2,0,0,0,0,NA,2013-14
-Dustin Adams,1,0.25,0.5,1,0,0,NA,2013-14
-Sabri Thompson,1,0.032,0.083,1,0,0,NA,2013-14
-Total,136,0.13,0.125,0.593,0.034,0.024,0.273,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Dequan Hicks,34,0.163,0.154,0.552,0.031,0.017,0.2,2013-14,NorthwesternSt.
+Zikiteran Woodley,31,0.139,0.14400000000000002,0.708,0.083,0.087,0.5710000000000001,2013-14,NorthwesternSt.
+Marvin Frazier,17,0.28600000000000003,0.16699999999999998,0.375,0.026000000000000002,0,0,2013-14,NorthwesternSt.
+Patrick Robinson,14,0.2,0.17600000000000002,0.5,0.14300000000000002,0.33299999999999996,0.5,2013-14,NorthwesternSt.
+Ryan King,13,0.273,0.29,0.75,0.071,0,0,2013-14,NorthwesternSt.
+Tra'Von Joseph,8,0.2,0.304,1,0.083,0,0,2013-14,NorthwesternSt.
+Brison White,7,0.031,0.022000000000000002,0.5,0.023,0,0,2013-14,NorthwesternSt.
+Jalan West,4,0.027999999999999997,0.016,0.33299999999999996,0,0,NA,2013-14,NorthwesternSt.
+Gary Stewart,3,0.091,0.083,0.5,0.038,0,0,2013-14,NorthwesternSt.
+Matt Killian,1,0.091,0,0,0,NA,NA,2013-14,NorthwesternSt.
+Tyler Washington,1,0,0,NA,0.05,0,0,2013-14,NorthwesternSt.
+Dadrian Harris,1,0.2,0,0,0,0,NA,2013-14,NorthwesternSt.
+Dustin Adams,1,0.25,0.5,1,0,0,NA,2013-14,NorthwesternSt.
+Sabri Thompson,1,0.032,0.083,1,0,0,NA,2013-14,NorthwesternSt.
+Total,136,0.13,0.125,0.593,0.034,0.024,0.273,2013-14,NorthwesternSt.

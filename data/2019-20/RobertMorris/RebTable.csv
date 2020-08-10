@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-AJ Bramah,28,0.107,0.107,0.696,0.055999999999999994,0.087,0.4,2019-20
-Yannis Mendy,24,0.152,0.168,0.727,0.024,0,0,2019-20
-Charles Bain,12,0.11800000000000001,0.16699999999999998,0.6,0.026000000000000002,0.091,1,2019-20
-Jalen Hawkins,8,0.051,0.039,0.4,0.067,0.1,0.5,2019-20
-Josh Williams,7,0.051,0.03,0.33299999999999996,0,0,NA,2019-20
-Jon Williams,4,0.14300000000000002,0.2,0.667,0,0,NA,2019-20
-Dante Treacy,2,0.025,0.04,1,0,0,NA,2019-20
-Sayveon McEwen,2,0,0,NA,0,0,NA,2019-20
-DJ Russell,1,0.05,0,0,0,0,NA,2019-20
-Total,88,0.092,0.1,0.652,0.023,0.027999999999999997,0.4,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+AJ Bramah,28,0.107,0.107,0.696,0.055999999999999994,0.087,0.4,2019-20,RobertMorris
+Yannis Mendy,24,0.152,0.168,0.727,0.024,0,0,2019-20,RobertMorris
+Charles Bain,12,0.11800000000000001,0.16699999999999998,0.6,0.026000000000000002,0.091,1,2019-20,RobertMorris
+Jalen Hawkins,8,0.051,0.039,0.4,0.067,0.1,0.5,2019-20,RobertMorris
+Josh Williams,7,0.051,0.03,0.33299999999999996,0,0,NA,2019-20,RobertMorris
+Jon Williams,4,0.14300000000000002,0.2,0.667,0,0,NA,2019-20,RobertMorris
+Dante Treacy,2,0.025,0.04,1,0,0,NA,2019-20,RobertMorris
+Sayveon McEwen,2,0,0,NA,0,0,NA,2019-20,RobertMorris
+DJ Russell,1,0.05,0,0,0,0,NA,2019-20,RobertMorris
+Total,88,0.092,0.1,0.652,0.023,0.027999999999999997,0.4,2019-20,RobertMorris

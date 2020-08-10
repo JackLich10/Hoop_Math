@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Brandon Rachal,19,0.124,0.155,0.846,0.045,0,0,2019-20
-Martins Igbanu,18,0.092,0.094,0.643,0.044000000000000004,0.047,0.5,2019-20
-Jeriah Horne,11,0.13,0.156,0.833,0.052000000000000005,0.065,0.5,2019-20
-Darien Jackson,10,0.069,0.037000000000000005,0.33299999999999996,0.083,0,0,2019-20
-Elijah Joiner,5,0.040999999999999995,0.073,1,0.047,0,0,2019-20
-Josh Earley,5,0.28600000000000003,0.222,0.5,0.091,0,0,2019-20
-Reggie Jones,3,0.062,0,0,0.037000000000000005,0,0,2019-20
-Emmanuel Ugboh,3,0.091,0.14300000000000002,1,0.045,0.14300000000000002,1,2019-20
-Lawson Korita,1,0.03,0,0,0,0,NA,2019-20
-Isaiah Hill,1,0.026000000000000002,0.043,1,0,0,NA,2019-20
-Total,76,0.085,0.092,0.667,0.042,0.032,0.263,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Brandon Rachal,19,0.124,0.155,0.846,0.045,0,0,2019-20,Tulsa
+Martins Igbanu,18,0.092,0.094,0.643,0.044000000000000004,0.047,0.5,2019-20,Tulsa
+Jeriah Horne,11,0.13,0.156,0.833,0.052000000000000005,0.065,0.5,2019-20,Tulsa
+Darien Jackson,10,0.069,0.037000000000000005,0.33299999999999996,0.083,0,0,2019-20,Tulsa
+Elijah Joiner,5,0.040999999999999995,0.073,1,0.047,0,0,2019-20,Tulsa
+Josh Earley,5,0.28600000000000003,0.222,0.5,0.091,0,0,2019-20,Tulsa
+Reggie Jones,3,0.062,0,0,0.037000000000000005,0,0,2019-20,Tulsa
+Emmanuel Ugboh,3,0.091,0.14300000000000002,1,0.045,0.14300000000000002,1,2019-20,Tulsa
+Lawson Korita,1,0.03,0,0,0,0,NA,2019-20,Tulsa
+Isaiah Hill,1,0.026000000000000002,0.043,1,0,0,NA,2019-20,Tulsa
+Total,76,0.085,0.092,0.667,0.042,0.032,0.263,2019-20,Tulsa

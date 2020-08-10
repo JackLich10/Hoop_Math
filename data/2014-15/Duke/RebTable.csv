@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jahlil Okafor,62,0.212,0.18100000000000002,0.655,0.044000000000000004,0.062,0.7140000000000001,2014-15
-Amile Jefferson,27,0.20199999999999999,0.177,0.609,0.114,0.067,0.25,2014-15
-Justise Winslow,20,0.105,0.11800000000000001,0.75,0.043,0.04,0.25,2014-15
-Matt Jones,8,0.083,0.129,0.8,0.055999999999999994,0.083,0.5,2014-15
-Marshall Plumlee,8,0.226,0.222,0.857,0.1,0.25,1,2014-15
-Grayson Allen,6,0.179,0.23800000000000002,1,0.038,0,0,2014-15
-Quinn Cook,3,0.011000000000000001,0.016,1,0.011000000000000001,0,0,2014-15
-Tyus Jones,2,0.012,0.022000000000000002,1,0.008,0,0,2014-15
-Total,136,0.132,0.135,0.6990000000000001,0.035,0.039,0.429,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jahlil Okafor,62,0.212,0.18100000000000002,0.655,0.044000000000000004,0.062,0.7140000000000001,2014-15,Duke
+Amile Jefferson,27,0.20199999999999999,0.177,0.609,0.114,0.067,0.25,2014-15,Duke
+Justise Winslow,20,0.105,0.11800000000000001,0.75,0.043,0.04,0.25,2014-15,Duke
+Matt Jones,8,0.083,0.129,0.8,0.055999999999999994,0.083,0.5,2014-15,Duke
+Marshall Plumlee,8,0.226,0.222,0.857,0.1,0.25,1,2014-15,Duke
+Grayson Allen,6,0.179,0.23800000000000002,1,0.038,0,0,2014-15,Duke
+Quinn Cook,3,0.011000000000000001,0.016,1,0.011000000000000001,0,0,2014-15,Duke
+Tyus Jones,2,0.012,0.022000000000000002,1,0.008,0,0,2014-15,Duke
+Total,136,0.132,0.135,0.6990000000000001,0.035,0.039,0.429,2014-15,Duke

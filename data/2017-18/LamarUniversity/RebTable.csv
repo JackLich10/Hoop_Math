@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Josh Nzeakor,41,0.174,0.17300000000000001,0.59,0.026000000000000002,0,0,2017-18
-Colton Weisbrod,36,0.147,0.177,0.647,0.021,0.034,0.5,2017-18
-Zjori Bosha,13,0.13,0.18,0.75,0,0,NA,2017-18
-Jordan Foster,9,0.33299999999999996,0.381,1,1,NA,0,2017-18
-James Harrison,8,0.135,0.235,0.8,0.044000000000000004,0,0,2017-18
-Tyrin Atwood,7,0.11599999999999999,0.16,0.8,0.077,0.1,0.5,2017-18
-Avery Sullivan,5,0.192,0.111,0.2,0,0,NA,2017-18
-Joey Frenchwood,1,0,0,NA,0.021,0.071,1,2017-18
-Nick Garth,1,0.018000000000000002,0,0,0,0,NA,2017-18
-Total,121,0.129,0.154,0.6509999999999999,0.023,0.019,0.3,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Josh Nzeakor,41,0.174,0.17300000000000001,0.59,0.026000000000000002,0,0,2017-18,LamarUniversity
+Colton Weisbrod,36,0.147,0.177,0.647,0.021,0.034,0.5,2017-18,LamarUniversity
+Zjori Bosha,13,0.13,0.18,0.75,0,0,NA,2017-18,LamarUniversity
+Jordan Foster,9,0.33299999999999996,0.381,1,1,NA,0,2017-18,LamarUniversity
+James Harrison,8,0.135,0.235,0.8,0.044000000000000004,0,0,2017-18,LamarUniversity
+Tyrin Atwood,7,0.11599999999999999,0.16,0.8,0.077,0.1,0.5,2017-18,LamarUniversity
+Avery Sullivan,5,0.192,0.111,0.2,0,0,NA,2017-18,LamarUniversity
+Joey Frenchwood,1,0,0,NA,0.021,0.071,1,2017-18,LamarUniversity
+Nick Garth,1,0.018000000000000002,0,0,0,0,NA,2017-18,LamarUniversity
+Total,121,0.129,0.154,0.6509999999999999,0.023,0.019,0.3,2017-18,LamarUniversity

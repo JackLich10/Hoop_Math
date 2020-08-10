@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Josiah Heath,38,0.243,0.185,0.486,0.026000000000000002,0.023,0.33299999999999996,2014-15
-Jamal Reynolds,24,0.16399999999999998,0.17800000000000002,0.591,0.154,0,0,2014-15
-Kevin Bleeker,20,0.33899999999999997,0.353,0.6,0,0,NA,2014-15
-Phil Valenti,17,0.15,0.15,0.562,0.021,0,0,2014-15
-Jermaine Crumpton,8,0.16699999999999998,0.12,0.375,0,0,NA,2014-15
-Kassius Robertson,7,0.107,0.121,0.667,0,0,NA,2014-15
-Zach Lewis,5,0.055999999999999994,0.067,0.5,0.011000000000000001,0,0,2014-15
-Adam Weir,5,0.179,0.28600000000000003,0.4,0,NA,NA,2014-15
-Cassidy Ryan,3,0.214,0.25,0.33299999999999996,0,0,NA,2014-15
-Jan Grzelinski,1,0,0,NA,0.034,0,0,2014-15
-Jeremiah Williams,1,0,0,NA,0.019,0,0,2014-15
-Total,129,0.162,0.16,0.529,0.02,0.006,0.111,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Josiah Heath,38,0.243,0.185,0.486,0.026000000000000002,0.023,0.33299999999999996,2014-15,Canisius
+Jamal Reynolds,24,0.16399999999999998,0.17800000000000002,0.591,0.154,0,0,2014-15,Canisius
+Kevin Bleeker,20,0.33899999999999997,0.353,0.6,0,0,NA,2014-15,Canisius
+Phil Valenti,17,0.15,0.15,0.562,0.021,0,0,2014-15,Canisius
+Jermaine Crumpton,8,0.16699999999999998,0.12,0.375,0,0,NA,2014-15,Canisius
+Kassius Robertson,7,0.107,0.121,0.667,0,0,NA,2014-15,Canisius
+Zach Lewis,5,0.055999999999999994,0.067,0.5,0.011000000000000001,0,0,2014-15,Canisius
+Adam Weir,5,0.179,0.28600000000000003,0.4,0,NA,NA,2014-15,Canisius
+Cassidy Ryan,3,0.214,0.25,0.33299999999999996,0,0,NA,2014-15,Canisius
+Jan Grzelinski,1,0,0,NA,0.034,0,0,2014-15,Canisius
+Jeremiah Williams,1,0,0,NA,0.019,0,0,2014-15,Canisius
+Total,129,0.162,0.16,0.529,0.02,0.006,0.111,2014-15,Canisius

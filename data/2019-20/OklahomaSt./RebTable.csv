@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kalib Boone,18,0.185,0.213,0.667,0.14300000000000002,0.222,0.667,2019-20
-Yor Anei,18,0.158,0.161,0.562,0.024,0,0,2019-20
-Jonathan Laurent,10,0.15,0.139,0.556,0.111,0,0,2019-20
-Keylan  Boone,10,0.33299999999999996,0.33299999999999996,0.625,0,NA,NA,2019-20
-Isaac Likekele,9,0.042,0.043,0.5710000000000001,0.035,0.071,0.5,2019-20
-Cameron McGriff,8,0.053,0.027000000000000003,0.33299999999999996,0,0,NA,2019-20
-III Waters,5,0.075,0.027999999999999997,0.25,0,0,NA,2019-20
-Hidde Roessink,3,0.33299999999999996,0.5,0.667,0,0,NA,2019-20
-III Anderson,2,0,0,NA,0,0,NA,2019-20
-Thomas Dziagwa,1,0.111,0.14300000000000002,1,0,0,NA,2019-20
-Harris Chris,1,0,0,NA,0.059000000000000004,0,0,2019-20
-Total,85,0.098,0.095,0.565,0.019,0.019,0.33299999999999996,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kalib Boone,18,0.185,0.213,0.667,0.14300000000000002,0.222,0.667,2019-20,OklahomaSt.
+Yor Anei,18,0.158,0.161,0.562,0.024,0,0,2019-20,OklahomaSt.
+Jonathan Laurent,10,0.15,0.139,0.556,0.111,0,0,2019-20,OklahomaSt.
+Keylan  Boone,10,0.33299999999999996,0.33299999999999996,0.625,0,NA,NA,2019-20,OklahomaSt.
+Isaac Likekele,9,0.042,0.043,0.5710000000000001,0.035,0.071,0.5,2019-20,OklahomaSt.
+Cameron McGriff,8,0.053,0.027000000000000003,0.33299999999999996,0,0,NA,2019-20,OklahomaSt.
+III Waters,5,0.075,0.027999999999999997,0.25,0,0,NA,2019-20,OklahomaSt.
+Hidde Roessink,3,0.33299999999999996,0.5,0.667,0,0,NA,2019-20,OklahomaSt.
+III Anderson,2,0,0,NA,0,0,NA,2019-20,OklahomaSt.
+Thomas Dziagwa,1,0.111,0.14300000000000002,1,0,0,NA,2019-20,OklahomaSt.
+Harris Chris,1,0,0,NA,0.059000000000000004,0,0,2019-20,OklahomaSt.
+Total,85,0.098,0.095,0.565,0.019,0.019,0.33299999999999996,2019-20,OklahomaSt.

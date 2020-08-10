@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.337,0.53,0.161,0.631,2018-19
-2pt Jumpers,0.27899999999999997,0.342,0.063,0.365,2018-19
-3pt Shots,0.384,0.313,0.008,0.316,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.337,0.53,0.161,0.631,2018-19,UCF
+2pt Jumpers,0.27899999999999997,0.342,0.063,0.365,2018-19,UCF
+3pt Shots,0.384,0.313,0.008,0.316,2018-19,UCF

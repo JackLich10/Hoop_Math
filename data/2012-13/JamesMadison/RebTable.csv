@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Rayshawn Goins,28,0.13,0.157,0.7,0.047,0.08900000000000001,0.5,2012-13
-Andre Nation,13,0.13699999999999998,0.16699999999999998,0.8,0.037000000000000005,0.045,0.33299999999999996,2012-13
-Enoch Hood,11,0.28,0.222,0.5710000000000001,0.105,0.071,0.25,2012-13
-A.J. Davis,11,0.122,0.125,0.8,0.022000000000000002,0,0,2012-13
-Taylor Bessick,9,0.28600000000000003,0.444,1,0.069,0,0,2012-13
-Alioune Diouf,8,0.071,0.09300000000000001,0.8,0.05,0.11800000000000001,0.667,2012-13
-Charles Cook,6,0.038,0.059000000000000004,1,0.068,0.136,0.75,2012-13
-Devon Moore,6,0.054000000000000006,0.068,0.833,0,0,NA,2012-13
-Ron Curry,5,0,0,NA,0.051,0.05,0.33299999999999996,2012-13
-Andrey Semenov,5,0.33299999999999996,0.5,0.667,0.154,0,0,2012-13
-Gene Swindle,1,0.5,NA,0,0,0,NA,2012-13
-Arman Marks,1,1,1,1,0,0,NA,2012-13
-Total,104,0.11199999999999999,0.132,0.75,0.047,0.054000000000000006,0.364,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Rayshawn Goins,28,0.13,0.157,0.7,0.047,0.08900000000000001,0.5,2012-13,JamesMadison
+Andre Nation,13,0.13699999999999998,0.16699999999999998,0.8,0.037000000000000005,0.045,0.33299999999999996,2012-13,JamesMadison
+Enoch Hood,11,0.28,0.222,0.5710000000000001,0.105,0.071,0.25,2012-13,JamesMadison
+A.J. Davis,11,0.122,0.125,0.8,0.022000000000000002,0,0,2012-13,JamesMadison
+Taylor Bessick,9,0.28600000000000003,0.444,1,0.069,0,0,2012-13,JamesMadison
+Alioune Diouf,8,0.071,0.09300000000000001,0.8,0.05,0.11800000000000001,0.667,2012-13,JamesMadison
+Charles Cook,6,0.038,0.059000000000000004,1,0.068,0.136,0.75,2012-13,JamesMadison
+Devon Moore,6,0.054000000000000006,0.068,0.833,0,0,NA,2012-13,JamesMadison
+Ron Curry,5,0,0,NA,0.051,0.05,0.33299999999999996,2012-13,JamesMadison
+Andrey Semenov,5,0.33299999999999996,0.5,0.667,0.154,0,0,2012-13,JamesMadison
+Gene Swindle,1,0.5,NA,0,0,0,NA,2012-13,JamesMadison
+Arman Marks,1,1,1,1,0,0,NA,2012-13,JamesMadison
+Total,104,0.11199999999999999,0.132,0.75,0.047,0.054000000000000006,0.364,2012-13,JamesMadison

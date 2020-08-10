@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Yohanny Dalembert,24,0.14,0.133,0.619,0.048,0.059000000000000004,0.33299999999999996,2015-16
-Shakir Brown,17,0.221,0.263,0.667,0.034,0,0,2015-16
-Tom Vodanovich,7,0.092,0.096,0.7140000000000001,0,0,NA,2015-16
-Dimitrije Cabarkapa,6,0.094,0.086,0.6,0.023,0,0,2015-16
-Paulius Satkus,5,0.105,0.16,1,0.037000000000000005,0.1,1,2015-16
-Jackson Kent,4,0.07,0,0,0,0,NA,2015-16
-Ivan Lukic,4,0.2,0.111,0.33299999999999996,0.14300000000000002,0,0,2015-16
-Winston Grays III,3,0.042,0.083,1,0.091,0.1,0.5,2015-16
-Ron Curry,3,0,0,NA,0.01,0.024,1,2015-16
-Devontae Morgan,3,0.095,0.083,0.5,0.16699999999999998,0.33299999999999996,1,2015-16
-Kevin Kangni,2,0.33299999999999996,0,0,0,0,NA,2015-16
-Joey McLean,1,0.043,0.091,1,0,0,NA,2015-16
-Total,79,0.106,0.106,0.609,0.025,0.027000000000000003,0.41700000000000004,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Yohanny Dalembert,24,0.14,0.133,0.619,0.048,0.059000000000000004,0.33299999999999996,2015-16,JamesMadison
+Shakir Brown,17,0.221,0.263,0.667,0.034,0,0,2015-16,JamesMadison
+Tom Vodanovich,7,0.092,0.096,0.7140000000000001,0,0,NA,2015-16,JamesMadison
+Dimitrije Cabarkapa,6,0.094,0.086,0.6,0.023,0,0,2015-16,JamesMadison
+Paulius Satkus,5,0.105,0.16,1,0.037000000000000005,0.1,1,2015-16,JamesMadison
+Jackson Kent,4,0.07,0,0,0,0,NA,2015-16,JamesMadison
+Ivan Lukic,4,0.2,0.111,0.33299999999999996,0.14300000000000002,0,0,2015-16,JamesMadison
+Winston Grays III,3,0.042,0.083,1,0.091,0.1,0.5,2015-16,JamesMadison
+Ron Curry,3,0,0,NA,0.01,0.024,1,2015-16,JamesMadison
+Devontae Morgan,3,0.095,0.083,0.5,0.16699999999999998,0.33299999999999996,1,2015-16,JamesMadison
+Kevin Kangni,2,0.33299999999999996,0,0,0,0,NA,2015-16,JamesMadison
+Joey McLean,1,0.043,0.091,1,0,0,NA,2015-16,JamesMadison
+Total,79,0.106,0.106,0.609,0.025,0.027000000000000003,0.41700000000000004,2015-16,JamesMadison

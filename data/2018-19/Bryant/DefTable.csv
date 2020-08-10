@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.41100000000000003,0.586,0.086,0.6409999999999999,2018-19
-2pt Jumpers,0.207,0.414,0.037000000000000005,0.429,2018-19
-3pt Shots,0.381,0.38799999999999996,0.006,0.39,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.41100000000000003,0.586,0.086,0.6409999999999999,2018-19,Bryant
+2pt Jumpers,0.207,0.414,0.037000000000000005,0.429,2018-19,Bryant
+3pt Shots,0.381,0.38799999999999996,0.006,0.39,2018-19,Bryant

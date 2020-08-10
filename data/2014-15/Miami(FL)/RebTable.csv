@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tonye Jekiri,30,0.182,0.172,0.611,0.08199999999999999,0.069,0.33299999999999996,2014-15
-Sheldon McClellan,16,0.076,0.077,0.727,0.05,0.028999999999999998,0.2,2014-15
-Davon Reed,11,0.185,0.20600000000000002,0.7,0.034,0.16699999999999998,1,2014-15
-Omar Sherman,10,0.191,0.152,0.556,0.033,0,0,2014-15
-Joe Thomas,9,0.33299999999999996,0.47100000000000003,0.889,0,0,NA,2014-15
-Ivan Cruz Uceda,6,0.217,0.222,0.4,0.091,0.2,1,2014-15
-James Palmer,4,0.07400000000000001,0.05,0.5,0.055999999999999994,0,0,2014-15
-Manu Lecomte,3,0.026000000000000002,0.062,1,0.033,0.042,0.5,2014-15
-Deandre Burnett,3,0.023,0.045,1,0.049,0.071,0.5,2014-15
-CRUZ,1,NA,NA,NA,0.33299999999999996,0,0,2014-15
-Total,93,0.10099999999999999,0.113,0.667,0.046,0.045,0.33299999999999996,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tonye Jekiri,30,0.182,0.172,0.611,0.08199999999999999,0.069,0.33299999999999996,2014-15,Miami(FL)
+Sheldon McClellan,16,0.076,0.077,0.727,0.05,0.028999999999999998,0.2,2014-15,Miami(FL)
+Davon Reed,11,0.185,0.20600000000000002,0.7,0.034,0.16699999999999998,1,2014-15,Miami(FL)
+Omar Sherman,10,0.191,0.152,0.556,0.033,0,0,2014-15,Miami(FL)
+Joe Thomas,9,0.33299999999999996,0.47100000000000003,0.889,0,0,NA,2014-15,Miami(FL)
+Ivan Cruz Uceda,6,0.217,0.222,0.4,0.091,0.2,1,2014-15,Miami(FL)
+James Palmer,4,0.07400000000000001,0.05,0.5,0.055999999999999994,0,0,2014-15,Miami(FL)
+Manu Lecomte,3,0.026000000000000002,0.062,1,0.033,0.042,0.5,2014-15,Miami(FL)
+Deandre Burnett,3,0.023,0.045,1,0.049,0.071,0.5,2014-15,Miami(FL)
+CRUZ,1,NA,NA,NA,0.33299999999999996,0,0,2014-15,Miami(FL)
+Total,93,0.10099999999999999,0.113,0.667,0.046,0.045,0.33299999999999996,2014-15,Miami(FL)

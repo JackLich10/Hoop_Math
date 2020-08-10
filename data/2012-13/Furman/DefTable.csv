@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.39299999999999996,0.603,0.124,0.688,2012-13
-2pt Jumpers,0.301,0.359,0.053,0.38,2012-13
-3pt Shots,0.306,0.38,0.006,0.382,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.39299999999999996,0.603,0.124,0.688,2012-13,Furman
+2pt Jumpers,0.301,0.359,0.053,0.38,2012-13,Furman
+3pt Shots,0.306,0.38,0.006,0.382,2012-13,Furman

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.324,0.625,0.11,0.7020000000000001,2019-20
-2pt Jumpers,0.26899999999999996,0.361,0.10300000000000001,0.40299999999999997,2019-20
-3pt Shots,0.40700000000000003,0.349,0.01,0.353,2019-20
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.324,0.625,0.11,0.7020000000000001,2019-20,LongBeachSt.
+2pt Jumpers,0.26899999999999996,0.361,0.10300000000000001,0.40299999999999997,2019-20,LongBeachSt.
+3pt Shots,0.40700000000000003,0.349,0.01,0.353,2019-20,LongBeachSt.

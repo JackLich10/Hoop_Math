@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Wayne Martin,34,0.166,0.171,0.667,0.013999999999999999,0.028999999999999998,1,2016-17
-Jordan Reed,27,0.205,0.265,0.72,0.053,0,0,2016-17
-"HAMILTON,K",22,0.253,0.268,0.579,0.10300000000000001,0,0,2016-17
-Tahjere McCall,15,0.067,0.11800000000000001,1,0.043,0.04,0.25,2016-17
-Christian Mekowulu,15,0.233,0.128,0.35700000000000004,0.03,0,0,2016-17
-A'Torey Everett,3,0.214,0.33299999999999996,0.667,0,0,NA,2016-17
-Xavier Williams,3,0.375,0.4,0.667,0,NA,NA,2016-17
-Darreon Reddick,2,0.055999999999999994,0.1,1,0,0,NA,2016-17
-Armani Chaney,1,0,0,NA,0,0,NA,2016-17
-Delano Spencer,1,0.036000000000000004,0.062,1,0,0,NA,2016-17
-Samson Oyediran,1,0.5,0.5,1,0,0,NA,2016-17
-Jalen Duke,1,0,0,NA,0.25,0.5,1,2016-17
-Total,125,0.149,0.171,0.67,0.027999999999999997,0.022000000000000002,0.25,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Wayne Martin,34,0.166,0.171,0.667,0.013999999999999999,0.028999999999999998,1,2016-17,TennesseeSt.
+Jordan Reed,27,0.205,0.265,0.72,0.053,0,0,2016-17,TennesseeSt.
+"HAMILTON,K",22,0.253,0.268,0.579,0.10300000000000001,0,0,2016-17,TennesseeSt.
+Tahjere McCall,15,0.067,0.11800000000000001,1,0.043,0.04,0.25,2016-17,TennesseeSt.
+Christian Mekowulu,15,0.233,0.128,0.35700000000000004,0.03,0,0,2016-17,TennesseeSt.
+A'Torey Everett,3,0.214,0.33299999999999996,0.667,0,0,NA,2016-17,TennesseeSt.
+Xavier Williams,3,0.375,0.4,0.667,0,NA,NA,2016-17,TennesseeSt.
+Darreon Reddick,2,0.055999999999999994,0.1,1,0,0,NA,2016-17,TennesseeSt.
+Armani Chaney,1,0,0,NA,0,0,NA,2016-17,TennesseeSt.
+Delano Spencer,1,0.036000000000000004,0.062,1,0,0,NA,2016-17,TennesseeSt.
+Samson Oyediran,1,0.5,0.5,1,0,0,NA,2016-17,TennesseeSt.
+Jalen Duke,1,0,0,NA,0.25,0.5,1,2016-17,TennesseeSt.
+Total,125,0.149,0.171,0.67,0.027999999999999997,0.022000000000000002,0.25,2016-17,TennesseeSt.

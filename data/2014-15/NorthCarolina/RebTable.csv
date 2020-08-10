@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kennedy Meeks,57,0.295,0.312,0.774,0.141,0.138,0.462,2014-15
-Brice Johnson,45,0.179,0.174,0.727,0.09699999999999999,0.071,0.348,2014-15
-Justin Jackson,31,0.175,0.19,0.727,0.113,0.14300000000000002,0.632,2014-15
-Isaiah Hicks,23,0.114,0.153,1,0.14300000000000002,0.306,0.7859999999999999,2014-15
-Joel James,20,0.381,0.3,0.375,0.17600000000000002,0.10300000000000001,0.25,2014-15
-J.P. Tokoto,17,0.153,0.17800000000000002,0.889,0.046,0.054000000000000006,0.375,2014-15
-Theo Pinson,7,0.316,0.3,0.5,0.045,0,0,2014-15
-Marcus Paige,3,0.022000000000000002,0.045,1,0.016,0.038,1,2014-15
-Desmond Hubert,2,1,1,1,0,NA,NA,2014-15
-Nate Britt,1,0,0,NA,0.015,0.037000000000000005,1,2014-15
-Total,206,0.177,0.195,0.747,0.08900000000000001,0.10099999999999999,0.491,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kennedy Meeks,57,0.295,0.312,0.774,0.141,0.138,0.462,2014-15,NorthCarolina
+Brice Johnson,45,0.179,0.174,0.727,0.09699999999999999,0.071,0.348,2014-15,NorthCarolina
+Justin Jackson,31,0.175,0.19,0.727,0.113,0.14300000000000002,0.632,2014-15,NorthCarolina
+Isaiah Hicks,23,0.114,0.153,1,0.14300000000000002,0.306,0.7859999999999999,2014-15,NorthCarolina
+Joel James,20,0.381,0.3,0.375,0.17600000000000002,0.10300000000000001,0.25,2014-15,NorthCarolina
+J.P. Tokoto,17,0.153,0.17800000000000002,0.889,0.046,0.054000000000000006,0.375,2014-15,NorthCarolina
+Theo Pinson,7,0.316,0.3,0.5,0.045,0,0,2014-15,NorthCarolina
+Marcus Paige,3,0.022000000000000002,0.045,1,0.016,0.038,1,2014-15,NorthCarolina
+Desmond Hubert,2,1,1,1,0,NA,NA,2014-15,NorthCarolina
+Nate Britt,1,0,0,NA,0.015,0.037000000000000005,1,2014-15,NorthCarolina
+Total,206,0.177,0.195,0.747,0.08900000000000001,0.10099999999999999,0.491,2014-15,NorthCarolina

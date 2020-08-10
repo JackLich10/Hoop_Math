@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.34299999999999997,0.589,0.07,0.633,2019-20
-2pt Jumpers,0.21,0.32,0.039,0.33299999999999996,2019-20
-3pt Shots,0.447,0.319,0.019,0.325,2019-20
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.34299999999999997,0.589,0.07,0.633,2019-20,UMBC
+2pt Jumpers,0.21,0.32,0.039,0.33299999999999996,2019-20,UMBC
+3pt Shots,0.447,0.319,0.019,0.325,2019-20,UMBC

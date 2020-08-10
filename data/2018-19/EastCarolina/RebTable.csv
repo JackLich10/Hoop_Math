@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Seth LeDay,36,0.195,0.22399999999999998,0.71,0.075,0.045,0.2,2018-19
-Jayden Gardner,32,0.146,0.134,0.556,0.035,0.019,0.2,2018-19
-Isaac Fleming,10,0.054000000000000006,0.052000000000000005,0.625,0.036000000000000004,0.105,1,2018-19
-Tyler Foster,5,0.09300000000000001,0.08,0.5,0.023,0,0,2018-19
-Dimitri Spasojevic,2,0.051,0,0,0,0,NA,2018-19
-Shawn Williams,2,0.04,0.083,1,0.013999999999999999,0,0,2018-19
-K.J. Davis,2,0.036000000000000004,0,0,0.015,0.05,1,2018-19
-Justice Obasohan,2,0.28600000000000003,0.33299999999999996,0.5,0,0,NA,2018-19
-Tae Hardy,1,0.071,0,0,0,0,NA,2018-19
-Rico Quinton,1,0.25,0.5,1,0,0,NA,2018-19
-Total,93,0.11800000000000001,0.11900000000000001,0.603,0.026000000000000002,0.025,0.33299999999999996,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Seth LeDay,36,0.195,0.22399999999999998,0.71,0.075,0.045,0.2,2018-19,EastCarolina
+Jayden Gardner,32,0.146,0.134,0.556,0.035,0.019,0.2,2018-19,EastCarolina
+Isaac Fleming,10,0.054000000000000006,0.052000000000000005,0.625,0.036000000000000004,0.105,1,2018-19,EastCarolina
+Tyler Foster,5,0.09300000000000001,0.08,0.5,0.023,0,0,2018-19,EastCarolina
+Dimitri Spasojevic,2,0.051,0,0,0,0,NA,2018-19,EastCarolina
+Shawn Williams,2,0.04,0.083,1,0.013999999999999999,0,0,2018-19,EastCarolina
+K.J. Davis,2,0.036000000000000004,0,0,0.015,0.05,1,2018-19,EastCarolina
+Justice Obasohan,2,0.28600000000000003,0.33299999999999996,0.5,0,0,NA,2018-19,EastCarolina
+Tae Hardy,1,0.071,0,0,0,0,NA,2018-19,EastCarolina
+Rico Quinton,1,0.25,0.5,1,0,0,NA,2018-19,EastCarolina
+Total,93,0.11800000000000001,0.11900000000000001,0.603,0.026000000000000002,0.025,0.33299999999999996,2018-19,EastCarolina

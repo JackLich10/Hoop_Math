@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Luke Kornet,24,0.262,0.213,0.47600000000000003,0.07,0.071,0.33299999999999996,2015-16
-Damian Jones,22,0.098,0.081,0.625,0.040999999999999995,0.049,0.5,2015-16
-Jeff Roberson,21,0.192,0.184,0.6,0.154,0.083,0.16699999999999998,2015-16
-Josh Henderson,8,0.115,0.125,0.667,0.098,0.091,0.4,2015-16
-Samir Sehic,6,0.7140000000000001,1,0.8,0.125,NA,0,2015-16
-Nolan Cressler,5,0.021,0.03,1,0.267,0.28600000000000003,0.5,2015-16
-Joe Toye,5,0.10800000000000001,0.136,0.75,0.062,0,0,2015-16
-Riley LaChance,4,0.033,0.077,1,0.013999999999999999,0,0,2015-16
-Matthew Fisher-Davis,3,0,0,NA,0.048,0,0,2015-16
-Wade Baldwin IV,3,0.017,0.017,0.5,0.011000000000000001,0,0,2015-16
-"IV,WADE",1,0.5,1,1,0,NA,NA,2015-16
-Camron Justice,1,0,0,NA,0.091,0,0,2015-16
-Total,103,0.111,0.10800000000000001,0.609,0.057,0.046,0.29,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Luke Kornet,24,0.262,0.213,0.47600000000000003,0.07,0.071,0.33299999999999996,2015-16,Vanderbilt
+Damian Jones,22,0.098,0.081,0.625,0.040999999999999995,0.049,0.5,2015-16,Vanderbilt
+Jeff Roberson,21,0.192,0.184,0.6,0.154,0.083,0.16699999999999998,2015-16,Vanderbilt
+Josh Henderson,8,0.115,0.125,0.667,0.098,0.091,0.4,2015-16,Vanderbilt
+Samir Sehic,6,0.7140000000000001,1,0.8,0.125,NA,0,2015-16,Vanderbilt
+Nolan Cressler,5,0.021,0.03,1,0.267,0.28600000000000003,0.5,2015-16,Vanderbilt
+Joe Toye,5,0.10800000000000001,0.136,0.75,0.062,0,0,2015-16,Vanderbilt
+Riley LaChance,4,0.033,0.077,1,0.013999999999999999,0,0,2015-16,Vanderbilt
+Matthew Fisher-Davis,3,0,0,NA,0.048,0,0,2015-16,Vanderbilt
+Wade Baldwin IV,3,0.017,0.017,0.5,0.011000000000000001,0,0,2015-16,Vanderbilt
+"IV,WADE",1,0.5,1,1,0,NA,NA,2015-16,Vanderbilt
+Camron Justice,1,0,0,NA,0.091,0,0,2015-16,Vanderbilt
+Total,103,0.111,0.10800000000000001,0.609,0.057,0.046,0.29,2015-16,Vanderbilt

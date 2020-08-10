@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Naz Bohannon,24,0.175,0.185,0.667,0.063,0.08,0.4,2018-19
-Olamide Pedersen,14,0.3,0.261,0.5,0.222,0,0,2018-19
-Garrett Covington,12,0.1,0.068,0.429,0.042,0.047,0.4,2018-19
-Noe Anabir,11,0.18899999999999997,0.19399999999999998,0.7,0.03,0,0,2018-19
-Jelani Simmons,10,0.175,0.069,0.28600000000000003,0.044000000000000004,0.062,0.5,2018-19
-Alex Holcombe,6,0.4,0.33299999999999996,0.667,0,0,NA,2018-19
-Michael Akuckie,6,0.22699999999999998,0.154,0.4,0,0,NA,2018-19
-Antwan Maxwell,5,0.25,0.429,1,0.054000000000000006,0.059000000000000004,0.5,2018-19
-Devin Morgan,5,0.067,0.133,1,0.025,0.065,1,2018-19
-Donel Cathcart,4,0.021,0.033,1,0.043,0.11800000000000001,1,2018-19
-Darius Quisenberry,3,0.016,0.028999999999999998,1,0,0,NA,2018-19
-Kendale Hampton,2,0.059000000000000004,0.091,1,0.05,0,0,2018-19
-John Sally,2,0.1,0,0,0.1,0.16699999999999998,1,2018-19
-Total,104,0.124,0.122,0.6,0.040999999999999995,0.053,0.478,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Naz Bohannon,24,0.175,0.185,0.667,0.063,0.08,0.4,2018-19,YoungstownSt.
+Olamide Pedersen,14,0.3,0.261,0.5,0.222,0,0,2018-19,YoungstownSt.
+Garrett Covington,12,0.1,0.068,0.429,0.042,0.047,0.4,2018-19,YoungstownSt.
+Noe Anabir,11,0.18899999999999997,0.19399999999999998,0.7,0.03,0,0,2018-19,YoungstownSt.
+Jelani Simmons,10,0.175,0.069,0.28600000000000003,0.044000000000000004,0.062,0.5,2018-19,YoungstownSt.
+Alex Holcombe,6,0.4,0.33299999999999996,0.667,0,0,NA,2018-19,YoungstownSt.
+Michael Akuckie,6,0.22699999999999998,0.154,0.4,0,0,NA,2018-19,YoungstownSt.
+Antwan Maxwell,5,0.25,0.429,1,0.054000000000000006,0.059000000000000004,0.5,2018-19,YoungstownSt.
+Devin Morgan,5,0.067,0.133,1,0.025,0.065,1,2018-19,YoungstownSt.
+Donel Cathcart,4,0.021,0.033,1,0.043,0.11800000000000001,1,2018-19,YoungstownSt.
+Darius Quisenberry,3,0.016,0.028999999999999998,1,0,0,NA,2018-19,YoungstownSt.
+Kendale Hampton,2,0.059000000000000004,0.091,1,0.05,0,0,2018-19,YoungstownSt.
+John Sally,2,0.1,0,0,0.1,0.16699999999999998,1,2018-19,YoungstownSt.
+Total,104,0.124,0.122,0.6,0.040999999999999995,0.053,0.478,2018-19,YoungstownSt.

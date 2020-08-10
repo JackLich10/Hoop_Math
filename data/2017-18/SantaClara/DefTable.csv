@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.444,0.626,0.08,0.68,2017-18
-2pt Jumpers,0.249,0.40700000000000003,0.032,0.42,2017-18
-3pt Shots,0.306,0.39899999999999997,0.004,0.401,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.444,0.626,0.08,0.68,2017-18,SantaClara
+2pt Jumpers,0.249,0.40700000000000003,0.032,0.42,2017-18,SantaClara
+3pt Shots,0.306,0.39899999999999997,0.004,0.401,2017-18,SantaClara

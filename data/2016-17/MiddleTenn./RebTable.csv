@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Upshaw Reggie,31,0.153,0.162,0.7829999999999999,0.055999999999999994,0.073,0.5710000000000001,2016-17
-Jacorey Williams,25,0.09,0.114,0.875,0.027000000000000003,0.023,0.375,2016-17
-Brandon Walters,20,0.21100000000000002,0.23600000000000002,0.867,0.114,0.067,0.2,2016-17
-Giddy Potts,12,0.068,0.078,0.857,0.047,0.047,0.4,2016-17
-Xavier Habersham,4,0.13,0.059000000000000004,0.33299999999999996,0.05,0.111,1,2016-17
-Tyrik Dixon,3,0.037000000000000005,0.077,1,0.017,0,0,2016-17
-Antwain Johnson,3,0.043,0,0,0.024,0,0,2016-17
-Aldonis Foote,3,0.081,0.095,0.667,0,0,NA,2016-17
-Karl Gamble,2,0.11800000000000001,0.1,0.5,0,0,NA,2016-17
-Simpson Edward,1,0,0,NA,0,0,NA,2016-17
-Total,104,0.105,0.121,0.7809999999999999,0.037000000000000005,0.035,0.39299999999999996,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Upshaw Reggie,31,0.153,0.162,0.7829999999999999,0.055999999999999994,0.073,0.5710000000000001,2016-17,MiddleTenn.
+Jacorey Williams,25,0.09,0.114,0.875,0.027000000000000003,0.023,0.375,2016-17,MiddleTenn.
+Brandon Walters,20,0.21100000000000002,0.23600000000000002,0.867,0.114,0.067,0.2,2016-17,MiddleTenn.
+Giddy Potts,12,0.068,0.078,0.857,0.047,0.047,0.4,2016-17,MiddleTenn.
+Xavier Habersham,4,0.13,0.059000000000000004,0.33299999999999996,0.05,0.111,1,2016-17,MiddleTenn.
+Tyrik Dixon,3,0.037000000000000005,0.077,1,0.017,0,0,2016-17,MiddleTenn.
+Antwain Johnson,3,0.043,0,0,0.024,0,0,2016-17,MiddleTenn.
+Aldonis Foote,3,0.081,0.095,0.667,0,0,NA,2016-17,MiddleTenn.
+Karl Gamble,2,0.11800000000000001,0.1,0.5,0,0,NA,2016-17,MiddleTenn.
+Simpson Edward,1,0,0,NA,0,0,NA,2016-17,MiddleTenn.
+Total,104,0.105,0.121,0.7809999999999999,0.037000000000000005,0.035,0.39299999999999996,2016-17,MiddleTenn.

@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Bobby Portis,38,0.233,0.242,0.815,0.066,0.08199999999999999,0.455,2013-14
-Michael Qualls,19,0.145,0.16699999999999998,0.688,0.027999999999999997,0.048,0.5,2013-14
-Coty Clarke,15,0.141,0.11900000000000001,0.5,0.046,0.079,0.6,2013-14
-Moses Kingsley,13,0.225,0.259,0.778,0.10300000000000001,0.133,0.5,2013-14
-Rashad Madden,9,0.06,0.08,0.8,0.061,0.04,0.25,2013-14
-Jacorey Williams,8,0.25,0.217,0.625,0,0,NA,2013-14
-Alandise Harris,7,0.06,0.081,0.857,0,0,NA,2013-14
-Rickey Scott,3,0.107,0.2,1,0,0,NA,2013-14
-Anthlon Bell,3,0,0,NA,0.034,0.042,0.5,2013-14
-Fred Gulley III,1,0.024,0.055999999999999994,1,0,0,NA,2013-14
-Total,116,0.127,0.15,0.7440000000000001,0.038,0.053,0.46399999999999997,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Bobby Portis,38,0.233,0.242,0.815,0.066,0.08199999999999999,0.455,2013-14,Arkansas
+Michael Qualls,19,0.145,0.16699999999999998,0.688,0.027999999999999997,0.048,0.5,2013-14,Arkansas
+Coty Clarke,15,0.141,0.11900000000000001,0.5,0.046,0.079,0.6,2013-14,Arkansas
+Moses Kingsley,13,0.225,0.259,0.778,0.10300000000000001,0.133,0.5,2013-14,Arkansas
+Rashad Madden,9,0.06,0.08,0.8,0.061,0.04,0.25,2013-14,Arkansas
+Jacorey Williams,8,0.25,0.217,0.625,0,0,NA,2013-14,Arkansas
+Alandise Harris,7,0.06,0.081,0.857,0,0,NA,2013-14,Arkansas
+Rickey Scott,3,0.107,0.2,1,0,0,NA,2013-14,Arkansas
+Anthlon Bell,3,0,0,NA,0.034,0.042,0.5,2013-14,Arkansas
+Fred Gulley III,1,0.024,0.055999999999999994,1,0,0,NA,2013-14,Arkansas
+Total,116,0.127,0.15,0.7440000000000001,0.038,0.053,0.46399999999999997,2013-14,Arkansas

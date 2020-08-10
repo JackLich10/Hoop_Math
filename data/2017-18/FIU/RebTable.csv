@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jay Harvey,19,0.405,0.389,0.467,0.5710000000000001,0.5,0.25,2017-18
-Eric Lockett,17,0.085,0.114,0.857,0.017,0.016,0.33299999999999996,2017-18
-Trejon Jacob,11,0.091,0.091,0.6,0.015,0.05,1,2017-18
-Hassan Hussein,10,0.16699999999999998,0.133,0.5,0.019,0.05,1,2017-18
-Osasumwen Osaghae,10,0.18600000000000003,0.2,0.75,0.25,0,0,2017-18
-Elhadji Dieng,7,0.28,0.2,0.28600000000000003,0,NA,NA,2017-18
-Michael Douglas,7,0.125,0.105,0.5,0.055,0,0,2017-18
-Nunez Wily,3,0.14300000000000002,0.14300000000000002,0.5,0.067,0,0,2017-18
-Ronald Whitaker,3,0.17600000000000002,0.154,0.667,0,NA,NA,2017-18
-Isaiah Banks,2,0.1,0.077,0.5,0,0,NA,2017-18
-Beard Brian,1,0.005,0.01,1,0,0,NA,2017-18
-Total,90,0.1,0.10300000000000001,0.595,0.028999999999999998,0.027000000000000003,0.312,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jay Harvey,19,0.405,0.389,0.467,0.5710000000000001,0.5,0.25,2017-18,FIU
+Eric Lockett,17,0.085,0.114,0.857,0.017,0.016,0.33299999999999996,2017-18,FIU
+Trejon Jacob,11,0.091,0.091,0.6,0.015,0.05,1,2017-18,FIU
+Hassan Hussein,10,0.16699999999999998,0.133,0.5,0.019,0.05,1,2017-18,FIU
+Osasumwen Osaghae,10,0.18600000000000003,0.2,0.75,0.25,0,0,2017-18,FIU
+Elhadji Dieng,7,0.28,0.2,0.28600000000000003,0,NA,NA,2017-18,FIU
+Michael Douglas,7,0.125,0.105,0.5,0.055,0,0,2017-18,FIU
+Nunez Wily,3,0.14300000000000002,0.14300000000000002,0.5,0.067,0,0,2017-18,FIU
+Ronald Whitaker,3,0.17600000000000002,0.154,0.667,0,NA,NA,2017-18,FIU
+Isaiah Banks,2,0.1,0.077,0.5,0,0,NA,2017-18,FIU
+Beard Brian,1,0.005,0.01,1,0,0,NA,2017-18,FIU
+Total,90,0.1,0.10300000000000001,0.595,0.028999999999999998,0.027000000000000003,0.312,2017-18,FIU

@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tariq Owens,23,0.172,0.168,0.727,0.02,0.038,1,2018-19
-Jarrett Culver,21,0.078,0.048,0.41200000000000003,0.012,0,0,2018-19
-Norense Odiase,15,0.16899999999999998,0.157,0.727,0.133,0,0,2018-19
-Deshawn Corprew,9,0.196,0.212,0.778,0,0,NA,2018-19
-Kyler Edwards,4,0.077,0.077,0.5,0,0,NA,2018-19
-Brandone Francis,4,0.06,0,0,0.018000000000000002,0,0,2018-19
-Malik Ondigo,4,0.14300000000000002,0.14300000000000002,1,0.273,1,0.667,2018-19
-Matt Mooney,1,0.011000000000000001,0.018000000000000002,1,0,0,NA,2018-19
-Josh Mballa,1,0.14300000000000002,0.25,1,0,NA,NA,2018-19
-Parker Hicks,1,0.25,0.33299999999999996,1,0,NA,NA,2018-19
-Avery Benson,1,0,0,NA,0.25,NA,0,2018-19
-Total,84,0.09699999999999999,0.09,0.629,0.019,0.013000000000000001,0.25,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tariq Owens,23,0.172,0.168,0.727,0.02,0.038,1,2018-19,TexasTech
+Jarrett Culver,21,0.078,0.048,0.41200000000000003,0.012,0,0,2018-19,TexasTech
+Norense Odiase,15,0.16899999999999998,0.157,0.727,0.133,0,0,2018-19,TexasTech
+Deshawn Corprew,9,0.196,0.212,0.778,0,0,NA,2018-19,TexasTech
+Kyler Edwards,4,0.077,0.077,0.5,0,0,NA,2018-19,TexasTech
+Brandone Francis,4,0.06,0,0,0.018000000000000002,0,0,2018-19,TexasTech
+Malik Ondigo,4,0.14300000000000002,0.14300000000000002,1,0.273,1,0.667,2018-19,TexasTech
+Matt Mooney,1,0.011000000000000001,0.018000000000000002,1,0,0,NA,2018-19,TexasTech
+Josh Mballa,1,0.14300000000000002,0.25,1,0,NA,NA,2018-19,TexasTech
+Parker Hicks,1,0.25,0.33299999999999996,1,0,NA,NA,2018-19,TexasTech
+Avery Benson,1,0,0,NA,0.25,NA,0,2018-19,TexasTech
+Total,84,0.09699999999999999,0.09,0.629,0.019,0.013000000000000001,0.25,2018-19,TexasTech

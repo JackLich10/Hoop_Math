@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Daniel Amigo,27,0.174,0.18,0.696,0.021,0.024,0.5,2016-17
-C.J. Bobbitt,15,0.158,0.16899999999999998,0.667,0,0,NA,2016-17
-Christian Mackey,12,0.2,0.195,0.667,0,0,NA,2016-17
-Joe Rosga,5,0.012,0.023,1,0.023,0.028999999999999998,0.5,2016-17
-Duke Douglas,3,0.12,0.067,0.33299999999999996,0,0,NA,2016-17
-Ade Murkey,3,0.057,0.1,1,0.031,0.062,1,2016-17
-Abiola Akintola,2,0.059000000000000004,0.1,1,0.125,0,0,2016-17
-Emil Knighton,1,1,NA,0,NA,NA,NA,2016-17
-Jake Krafka,1,0,0,NA,0.036000000000000004,0,0,2016-17
-Total,69,0.102,0.113,0.672,0.016,0.016,0.444,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Daniel Amigo,27,0.174,0.18,0.696,0.021,0.024,0.5,2016-17,Denver
+C.J. Bobbitt,15,0.158,0.16899999999999998,0.667,0,0,NA,2016-17,Denver
+Christian Mackey,12,0.2,0.195,0.667,0,0,NA,2016-17,Denver
+Joe Rosga,5,0.012,0.023,1,0.023,0.028999999999999998,0.5,2016-17,Denver
+Duke Douglas,3,0.12,0.067,0.33299999999999996,0,0,NA,2016-17,Denver
+Ade Murkey,3,0.057,0.1,1,0.031,0.062,1,2016-17,Denver
+Abiola Akintola,2,0.059000000000000004,0.1,1,0.125,0,0,2016-17,Denver
+Emil Knighton,1,1,NA,0,NA,NA,NA,2016-17,Denver
+Jake Krafka,1,0,0,NA,0.036000000000000004,0,0,2016-17,Denver
+Total,69,0.102,0.113,0.672,0.016,0.016,0.444,2016-17,Denver

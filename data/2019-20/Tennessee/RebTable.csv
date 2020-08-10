@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Yves Pons,25,0.215,0.191,0.643,0.077,0.07400000000000001,0.444,2019-20
-John Fulkerson,13,0.073,0.067,0.7,0.026000000000000002,0.039,0.667,2019-20
-Olivier Nkamhoua,10,0.213,0.2,0.6,0,0,NA,2019-20
-Davonte Gaines,8,0.318,0.308,0.5710000000000001,0.062,0,0,2019-20
-Uros Plavsic,5,0.278,0.4,0.8,0,0,NA,2019-20
-Jalen Johnson,4,0.133,0.111,0.5,0.125,0.33299999999999996,1,2019-20
-Josiah-Jordan James,4,0.057,0.055999999999999994,0.5,0.028999999999999998,0.048,0.5,2019-20
-Santiago Vescovi,3,0.051,0.05,0.5,0.033,0,0,2019-20
-Jordan Bowden,3,0.024,0,0,0.009000000000000001,0,0,2019-20
-Drew Pember,2,0.33299999999999996,0.5,1,0,0,NA,2019-20
-Brock Jancek,1,0,NA,NA,1,NA,0,2019-20
-Total,78,0.109,0.111,0.625,0.035,0.038,0.42100000000000004,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Yves Pons,25,0.215,0.191,0.643,0.077,0.07400000000000001,0.444,2019-20,Tennessee
+John Fulkerson,13,0.073,0.067,0.7,0.026000000000000002,0.039,0.667,2019-20,Tennessee
+Olivier Nkamhoua,10,0.213,0.2,0.6,0,0,NA,2019-20,Tennessee
+Davonte Gaines,8,0.318,0.308,0.5710000000000001,0.062,0,0,2019-20,Tennessee
+Uros Plavsic,5,0.278,0.4,0.8,0,0,NA,2019-20,Tennessee
+Jalen Johnson,4,0.133,0.111,0.5,0.125,0.33299999999999996,1,2019-20,Tennessee
+Josiah-Jordan James,4,0.057,0.055999999999999994,0.5,0.028999999999999998,0.048,0.5,2019-20,Tennessee
+Santiago Vescovi,3,0.051,0.05,0.5,0.033,0,0,2019-20,Tennessee
+Jordan Bowden,3,0.024,0,0,0.009000000000000001,0,0,2019-20,Tennessee
+Drew Pember,2,0.33299999999999996,0.5,1,0,0,NA,2019-20,Tennessee
+Brock Jancek,1,0,NA,NA,1,NA,0,2019-20,Tennessee
+Total,78,0.109,0.111,0.625,0.035,0.038,0.42100000000000004,2019-20,Tennessee

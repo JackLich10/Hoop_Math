@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Michael Buchanan,38,0.19,0.20600000000000002,0.733,0.077,0.048,0.25,2015-16
-Jacob Schulte,14,0.136,0.13,0.636,0.091,0,0,2015-16
-Marvin Smith,14,0.161,0.14,0.667,0.075,0.125,0.6,2015-16
-Philip Whittington,13,0.17800000000000002,0.156,0.625,0.048,0.045,0.4,2015-16
-Deion Holmes,10,0.1,0.086,0.429,0.022000000000000002,0.022000000000000002,0.33299999999999996,2015-16
-Malik Moore,8,0.13,0.14300000000000002,0.7140000000000001,0.059000000000000004,0.16699999999999998,1,2015-16
-Josh Cuthbertson,8,0.09699999999999999,0.114,0.833,0.045,0.059000000000000004,0.5,2015-16
-Damian Goodwin,2,0.154,0.16699999999999998,0.5,0,0,NA,2015-16
-Mike Cunningham,1,0.023,0,0,0,0,NA,2015-16
-Jure Span,1,0,0,NA,0,0,NA,2015-16
-Ramel Thompkins,1,0,0,NA,0.14300000000000002,0.33299999999999996,1,2015-16
-Total,110,0.131,0.138,0.667,0.045,0.047,0.39299999999999996,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Michael Buchanan,38,0.19,0.20600000000000002,0.733,0.077,0.048,0.25,2015-16,USCUpstate
+Jacob Schulte,14,0.136,0.13,0.636,0.091,0,0,2015-16,USCUpstate
+Marvin Smith,14,0.161,0.14,0.667,0.075,0.125,0.6,2015-16,USCUpstate
+Philip Whittington,13,0.17800000000000002,0.156,0.625,0.048,0.045,0.4,2015-16,USCUpstate
+Deion Holmes,10,0.1,0.086,0.429,0.022000000000000002,0.022000000000000002,0.33299999999999996,2015-16,USCUpstate
+Malik Moore,8,0.13,0.14300000000000002,0.7140000000000001,0.059000000000000004,0.16699999999999998,1,2015-16,USCUpstate
+Josh Cuthbertson,8,0.09699999999999999,0.114,0.833,0.045,0.059000000000000004,0.5,2015-16,USCUpstate
+Damian Goodwin,2,0.154,0.16699999999999998,0.5,0,0,NA,2015-16,USCUpstate
+Mike Cunningham,1,0.023,0,0,0,0,NA,2015-16,USCUpstate
+Jure Span,1,0,0,NA,0,0,NA,2015-16,USCUpstate
+Ramel Thompkins,1,0,0,NA,0.14300000000000002,0.33299999999999996,1,2015-16,USCUpstate
+Total,110,0.131,0.138,0.667,0.045,0.047,0.39299999999999996,2015-16,USCUpstate

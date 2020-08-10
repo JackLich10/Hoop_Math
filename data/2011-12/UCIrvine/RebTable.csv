@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Will Davis II,33,0.18,0.155,0.55,0.146,0.265,0.6920000000000001,2011-12
-Adam Folker,26,0.138,0.128,0.611,0.11599999999999999,0.115,0.375,2011-12
-Chris McNealy,13,0.13699999999999998,0.1,0.429,0.047,0.05,0.33299999999999996,2011-12
-Daman Starring,8,0.028999999999999998,0.057,1,0.048,0.024,0.16699999999999998,2011-12
-Marcus Bradley,5,0,0,NA,0.22699999999999998,0,0,2011-12
-Mike Best,5,0.14300000000000002,0.067,0.33299999999999996,0.024,0.059000000000000004,1,2011-12
-Michael Wilder,3,0.051,0.042,0.5,0.043,0,0,2011-12
-Collin Woods,1,0,0,NA,0.04,0,0,2011-12
-Derick Flowers,1,0.016,0.032,1,0,0,NA,2011-12
-Aaron Wright,1,0.043,0.111,1,0,0,NA,2011-12
-Travis Souza,1,0,0,NA,0.125,0,0,2011-12
-Total,97,0.102,0.099,0.574,0.068,0.079,0.395,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Will Davis II,33,0.18,0.155,0.55,0.146,0.265,0.6920000000000001,2011-12,UCIrvine
+Adam Folker,26,0.138,0.128,0.611,0.11599999999999999,0.115,0.375,2011-12,UCIrvine
+Chris McNealy,13,0.13699999999999998,0.1,0.429,0.047,0.05,0.33299999999999996,2011-12,UCIrvine
+Daman Starring,8,0.028999999999999998,0.057,1,0.048,0.024,0.16699999999999998,2011-12,UCIrvine
+Marcus Bradley,5,0,0,NA,0.22699999999999998,0,0,2011-12,UCIrvine
+Mike Best,5,0.14300000000000002,0.067,0.33299999999999996,0.024,0.059000000000000004,1,2011-12,UCIrvine
+Michael Wilder,3,0.051,0.042,0.5,0.043,0,0,2011-12,UCIrvine
+Collin Woods,1,0,0,NA,0.04,0,0,2011-12,UCIrvine
+Derick Flowers,1,0.016,0.032,1,0,0,NA,2011-12,UCIrvine
+Aaron Wright,1,0.043,0.111,1,0,0,NA,2011-12,UCIrvine
+Travis Souza,1,0,0,NA,0.125,0,0,2011-12,UCIrvine
+Total,97,0.102,0.099,0.574,0.068,0.079,0.395,2011-12,UCIrvine

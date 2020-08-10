@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-B.J. Monteiro,14,0.052000000000000005,0.034,0.4,0.055999999999999994,0.043,0.25,2011-12
-Mamadou Datt,13,0.303,0.273,0.6,0.107,0,0,2011-12
-Andre Marhold,13,0.139,0.10400000000000001,0.455,0.048,0,0,2011-12
-Jerry Jones,9,0.146,0.139,0.7140000000000001,0,0,NA,2011-12
-Sean Johnson,8,0.061,0.052000000000000005,0.5,0.019,0,0,2011-12
-Eric Evans,8,0.066,0.022000000000000002,0.2,0.048,0,0,2011-12
-T.J. McConnell,7,0.068,0.039,0.4,0.019,0.022000000000000002,0.5,2011-12
-Kadeem Pantophlet,6,0.222,0.364,1,0.133,0.16699999999999998,0.5,2011-12
-Mike Talley,3,0.025,0.022000000000000002,0.5,0.033,0,0,2011-12
-Derrick Martin,1,1,1,1,0,0,NA,2011-12
-Rich Piekarski,1,1,NA,0,NA,NA,NA,2011-12
-Total,83,0.08800000000000001,0.07200000000000001,0.516,0.039,0.018000000000000002,0.158,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+B.J. Monteiro,14,0.052000000000000005,0.034,0.4,0.055999999999999994,0.043,0.25,2011-12,Duquesne
+Mamadou Datt,13,0.303,0.273,0.6,0.107,0,0,2011-12,Duquesne
+Andre Marhold,13,0.139,0.10400000000000001,0.455,0.048,0,0,2011-12,Duquesne
+Jerry Jones,9,0.146,0.139,0.7140000000000001,0,0,NA,2011-12,Duquesne
+Sean Johnson,8,0.061,0.052000000000000005,0.5,0.019,0,0,2011-12,Duquesne
+Eric Evans,8,0.066,0.022000000000000002,0.2,0.048,0,0,2011-12,Duquesne
+T.J. McConnell,7,0.068,0.039,0.4,0.019,0.022000000000000002,0.5,2011-12,Duquesne
+Kadeem Pantophlet,6,0.222,0.364,1,0.133,0.16699999999999998,0.5,2011-12,Duquesne
+Mike Talley,3,0.025,0.022000000000000002,0.5,0.033,0,0,2011-12,Duquesne
+Derrick Martin,1,1,1,1,0,0,NA,2011-12,Duquesne
+Rich Piekarski,1,1,NA,0,NA,NA,NA,2011-12,Duquesne
+Total,83,0.08800000000000001,0.07200000000000001,0.516,0.039,0.018000000000000002,0.158,2011-12,Duquesne

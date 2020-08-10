@@ -1,8 +1,8 @@
-start_of_poss,percent_of_initial_attempts,e_fg_percent,percent_shots_at_rim,fg_percent_at_rim,percent_shots_2pt_jumpers,fg_percent_2pt_jumpers,percent_shots_3pt,fg_percent_3pt,season
-"Rebound, 0-10 s",0.11,0.47,0.28,0.609,0.317,0.25,0.402,0.364,2012-13
-"Rebound, 11-30 s",0.209,0.45,0.158,0.6940000000000001,0.455,0.355,0.387,0.308,2012-13
-"Opp score, 0-10 s",0.068,0.485,0.307,0.613,0.396,0.45,0.297,0.267,2012-13
-"Opp score, 11-30 s",0.38299999999999995,0.43799999999999994,0.155,0.648,0.452,0.335,0.39399999999999996,0.317,2012-13
-"Steal, 0-10 s",0.051,0.6,0.627,0.66,0.24,0.444,0.133,0.4,2012-13
-"Steal, 11-30 s",0.027999999999999997,0.305,0.195,0.25,0.512,0.28600000000000003,0.293,0.25,2012-13
-Transition,0.22899999999999998,0.503,0.365,0.629,0.324,0.355,0.312,0.34,2012-13
+start_of_poss,percent_of_initial_attempts,e_fg_percent,percent_shots_at_rim,fg_percent_at_rim,percent_shots_2pt_jumpers,fg_percent_2pt_jumpers,percent_shots_3pt,fg_percent_3pt,season,team
+"Rebound, 0-10 s",0.11,0.47,0.28,0.609,0.317,0.25,0.402,0.364,2012-13,SouthCarolina
+"Rebound, 11-30 s",0.209,0.45,0.158,0.6940000000000001,0.455,0.355,0.387,0.308,2012-13,SouthCarolina
+"Opp score, 0-10 s",0.068,0.485,0.307,0.613,0.396,0.45,0.297,0.267,2012-13,SouthCarolina
+"Opp score, 11-30 s",0.38299999999999995,0.43799999999999994,0.155,0.648,0.452,0.335,0.39399999999999996,0.317,2012-13,SouthCarolina
+"Steal, 0-10 s",0.051,0.6,0.627,0.66,0.24,0.444,0.133,0.4,2012-13,SouthCarolina
+"Steal, 11-30 s",0.027999999999999997,0.305,0.195,0.25,0.512,0.28600000000000003,0.293,0.25,2012-13,SouthCarolina
+Transition,0.22899999999999998,0.503,0.365,0.629,0.324,0.355,0.312,0.34,2012-13,SouthCarolina

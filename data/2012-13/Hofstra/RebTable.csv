@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Moussa Kone,26,0.182,0.217,0.75,0.102,0.16699999999999998,0.5,2012-13
-Stephen Nwaukoni,18,0.21100000000000002,0.212,0.583,0.07200000000000001,0.10300000000000001,0.5,2012-13
-David Imes,15,0.21600000000000003,0.212,0.636,0.055,0.045,0.25,2012-13
-Jimmy Hall,15,0.379,0.391,0.818,0.095,0.154,0.5,2012-13
-Jordan Allen,12,0.151,0.13699999999999998,0.636,0.02,0,0,2012-13
-Taran Buie,8,0.062,0.125,0.75,0.022000000000000002,0.048,0.667,2012-13
-Stevie Mejia,7,0.038,0.061,0.667,0.023,0.043,0.667,2012-13
-Daquan Brown,3,0.08,0.062,0.5,0.036000000000000004,0,0,2012-13
-Adam Savion,2,0.182,0.14300000000000002,0.5,0,0,NA,2012-13
-Matt Grogan,1,0.14300000000000002,0,0,0,0,NA,2012-13
-Kentrell Washington,1,0.2,0.25,1,0,0,NA,2012-13
-Darren Payen,1,0.14300000000000002,0.33299999999999996,1,0,0,NA,2012-13
-Shaquille Stokes,1,0,0,NA,0.026000000000000002,0,0,2012-13
-Total,110,0.145,0.17800000000000002,0.684,0.042,0.061,0.44799999999999995,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Moussa Kone,26,0.182,0.217,0.75,0.102,0.16699999999999998,0.5,2012-13,Hofstra
+Stephen Nwaukoni,18,0.21100000000000002,0.212,0.583,0.07200000000000001,0.10300000000000001,0.5,2012-13,Hofstra
+David Imes,15,0.21600000000000003,0.212,0.636,0.055,0.045,0.25,2012-13,Hofstra
+Jimmy Hall,15,0.379,0.391,0.818,0.095,0.154,0.5,2012-13,Hofstra
+Jordan Allen,12,0.151,0.13699999999999998,0.636,0.02,0,0,2012-13,Hofstra
+Taran Buie,8,0.062,0.125,0.75,0.022000000000000002,0.048,0.667,2012-13,Hofstra
+Stevie Mejia,7,0.038,0.061,0.667,0.023,0.043,0.667,2012-13,Hofstra
+Daquan Brown,3,0.08,0.062,0.5,0.036000000000000004,0,0,2012-13,Hofstra
+Adam Savion,2,0.182,0.14300000000000002,0.5,0,0,NA,2012-13,Hofstra
+Matt Grogan,1,0.14300000000000002,0,0,0,0,NA,2012-13,Hofstra
+Kentrell Washington,1,0.2,0.25,1,0,0,NA,2012-13,Hofstra
+Darren Payen,1,0.14300000000000002,0.33299999999999996,1,0,0,NA,2012-13,Hofstra
+Shaquille Stokes,1,0,0,NA,0.026000000000000002,0,0,2012-13,Hofstra
+Total,110,0.145,0.17800000000000002,0.684,0.042,0.061,0.44799999999999995,2012-13,Hofstra

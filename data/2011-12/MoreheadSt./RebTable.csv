@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Drew Kelly,21,0.132,0.187,0.778,0.044000000000000004,0,0,2011-12
-Milton Chavis,20,0.128,0.08199999999999999,0.4,0.084,0.091,0.5,2011-12
-Kahlil Owens,19,0.27899999999999997,0.295,0.765,0.071,0.091,0.5,2011-12
-Dionte Ferguson,5,0.28600000000000003,0.4,0.5,0.14300000000000002,0,0,2011-12
-Will Bailey,4,0.13,0.16699999999999998,0.667,0.111,0.25,1,2011-12
-Angelo Warner,3,0.031,0,0,0.047,0.083,0.5,2011-12
-Lamont Austin,3,0.024,0.048,1,0.069,0,0,2011-12
-Marsell Holden,1,0,0,NA,0,0,NA,2011-12
-Devon Atkinson,1,0,0,NA,0.071,0,0,2011-12
-Deandre Mathieu,1,0.026000000000000002,0,0,0,0,NA,2011-12
-Jordan Percell,1,0,0,NA,0.2,0.33299999999999996,1,2011-12
-Total,79,0.10300000000000001,0.121,0.655,0.047,0.048,0.391,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Drew Kelly,21,0.132,0.187,0.778,0.044000000000000004,0,0,2011-12,MoreheadSt.
+Milton Chavis,20,0.128,0.08199999999999999,0.4,0.084,0.091,0.5,2011-12,MoreheadSt.
+Kahlil Owens,19,0.27899999999999997,0.295,0.765,0.071,0.091,0.5,2011-12,MoreheadSt.
+Dionte Ferguson,5,0.28600000000000003,0.4,0.5,0.14300000000000002,0,0,2011-12,MoreheadSt.
+Will Bailey,4,0.13,0.16699999999999998,0.667,0.111,0.25,1,2011-12,MoreheadSt.
+Angelo Warner,3,0.031,0,0,0.047,0.083,0.5,2011-12,MoreheadSt.
+Lamont Austin,3,0.024,0.048,1,0.069,0,0,2011-12,MoreheadSt.
+Marsell Holden,1,0,0,NA,0,0,NA,2011-12,MoreheadSt.
+Devon Atkinson,1,0,0,NA,0.071,0,0,2011-12,MoreheadSt.
+Deandre Mathieu,1,0.026000000000000002,0,0,0,0,NA,2011-12,MoreheadSt.
+Jordan Percell,1,0,0,NA,0.2,0.33299999999999996,1,2011-12,MoreheadSt.
+Total,79,0.10300000000000001,0.121,0.655,0.047,0.048,0.391,2011-12,MoreheadSt.

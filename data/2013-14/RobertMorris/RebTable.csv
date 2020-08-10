@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Stephan Hawkins,24,0.349,0.306,0.5,0.022000000000000002,0.028999999999999998,0.5,2013-14
-Aaron Tate,21,0.27699999999999997,0.21600000000000003,0.444,0.083,0.1,0.33299999999999996,2013-14
-David Appolon,21,0.27899999999999997,0.325,0.684,0.083,0.111,0.5,2013-14
-Lucky Jones,21,0.168,0.217,0.588,0.043,0.027999999999999997,0.25,2013-14
-Karvel Anderson,8,0.052000000000000005,0.059000000000000004,0.75,0.026000000000000002,0.026000000000000002,0.5,2013-14
-Mike McFadden,7,0.102,0.09699999999999999,0.5,0.02,0.059000000000000004,1,2013-14
-Jeremiah Worthem,7,0.159,0.217,0.7140000000000001,0,0,NA,2013-14
-Anthony Myers-Pate,4,0.011000000000000001,0,0,0.021,0,0,2013-14
-Kavon Stewart,4,0.053,0.028999999999999998,0.25,0,0,NA,2013-14
-Desjuan Newton,2,0.059000000000000004,0.14300000000000002,1,0.2,0.5,1,2013-14
-Charles Oliver,2,0.021,0.034,1,0,0,NA,2013-14
-Total,121,0.141,0.15,0.56,0.028999999999999998,0.033,0.444,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Stephan Hawkins,24,0.349,0.306,0.5,0.022000000000000002,0.028999999999999998,0.5,2013-14,RobertMorris
+Aaron Tate,21,0.27699999999999997,0.21600000000000003,0.444,0.083,0.1,0.33299999999999996,2013-14,RobertMorris
+David Appolon,21,0.27899999999999997,0.325,0.684,0.083,0.111,0.5,2013-14,RobertMorris
+Lucky Jones,21,0.168,0.217,0.588,0.043,0.027999999999999997,0.25,2013-14,RobertMorris
+Karvel Anderson,8,0.052000000000000005,0.059000000000000004,0.75,0.026000000000000002,0.026000000000000002,0.5,2013-14,RobertMorris
+Mike McFadden,7,0.102,0.09699999999999999,0.5,0.02,0.059000000000000004,1,2013-14,RobertMorris
+Jeremiah Worthem,7,0.159,0.217,0.7140000000000001,0,0,NA,2013-14,RobertMorris
+Anthony Myers-Pate,4,0.011000000000000001,0,0,0.021,0,0,2013-14,RobertMorris
+Kavon Stewart,4,0.053,0.028999999999999998,0.25,0,0,NA,2013-14,RobertMorris
+Desjuan Newton,2,0.059000000000000004,0.14300000000000002,1,0.2,0.5,1,2013-14,RobertMorris
+Charles Oliver,2,0.021,0.034,1,0,0,NA,2013-14,RobertMorris
+Total,121,0.141,0.15,0.56,0.028999999999999998,0.033,0.444,2013-14,RobertMorris

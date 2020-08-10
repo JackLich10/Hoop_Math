@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Angel Matias,28,0.209,0.243,0.667,0.026000000000000002,0,0,2014-15
-Trent Wiedeman,22,0.16899999999999998,0.18100000000000002,0.75,0.013000000000000001,0.018000000000000002,0.5,2014-15
-Eric Ferguson,18,0.2,0.245,0.722,0,0,NA,2014-15
-Mike Hughes,13,0.151,0.213,0.909,0.062,0,0,2014-15
-Kyle Doyle,11,0.17,0.222,0.75,0.13,0,0,2014-15
-Jelani Hewitt,5,0,0,NA,0.024,0.043,0.5,2014-15
-Coye Simmons,4,0.308,0.429,0.75,0,0,NA,2014-15
-Curtis Diamond,3,0.04,0.067,1,0.02,0,0,2014-15
-Scott Kelly,1,1,1,1,NA,NA,NA,2014-15
-Jake Allsmiller,1,0.25,0,0,0,0,NA,2014-15
-Grayson Clark,1,0.33299999999999996,0.5,1,0,NA,NA,2014-15
-Devonte Boykins,1,0.125,0.16699999999999998,1,0,0,NA,2014-15
-Total,108,0.153,0.18899999999999997,0.745,0.024,0.016,0.2,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Angel Matias,28,0.209,0.243,0.667,0.026000000000000002,0,0,2014-15,Ga.Southern
+Trent Wiedeman,22,0.16899999999999998,0.18100000000000002,0.75,0.013000000000000001,0.018000000000000002,0.5,2014-15,Ga.Southern
+Eric Ferguson,18,0.2,0.245,0.722,0,0,NA,2014-15,Ga.Southern
+Mike Hughes,13,0.151,0.213,0.909,0.062,0,0,2014-15,Ga.Southern
+Kyle Doyle,11,0.17,0.222,0.75,0.13,0,0,2014-15,Ga.Southern
+Jelani Hewitt,5,0,0,NA,0.024,0.043,0.5,2014-15,Ga.Southern
+Coye Simmons,4,0.308,0.429,0.75,0,0,NA,2014-15,Ga.Southern
+Curtis Diamond,3,0.04,0.067,1,0.02,0,0,2014-15,Ga.Southern
+Scott Kelly,1,1,1,1,NA,NA,NA,2014-15,Ga.Southern
+Jake Allsmiller,1,0.25,0,0,0,0,NA,2014-15,Ga.Southern
+Grayson Clark,1,0.33299999999999996,0.5,1,0,NA,NA,2014-15,Ga.Southern
+Devonte Boykins,1,0.125,0.16699999999999998,1,0,0,NA,2014-15,Ga.Southern
+Total,108,0.153,0.18899999999999997,0.745,0.024,0.016,0.2,2014-15,Ga.Southern

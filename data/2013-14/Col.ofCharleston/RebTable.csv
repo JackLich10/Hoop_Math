@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Willis Hall,41,0.231,0.23199999999999998,0.64,0.146,0.2,0.5379999999999999,2013-14
-Adjehi Baru,24,0.174,0.14800000000000002,0.5329999999999999,0.077,0.062,0.33299999999999996,2013-14
-Anthony Thomas,15,0.13,0.14,0.667,0.034,0.028999999999999998,0.33299999999999996,2013-14
-David Wishon,15,0.325,0.28600000000000003,0.462,0.087,0,0,2013-14
-Nori Johnson,5,0.14300000000000002,0.33299999999999996,1,0.214,0.4,0.667,2013-14
-Anthony Stitt,4,0,0,NA,0.025,0,0,2013-14
-Canyon Barry,4,0.039,0.033,0.5,0.027000000000000003,0,0,2013-14
-Theo Johnson,4,0.071,0.1,1,0.214,0,0,2013-14
-Terrance O'Donohue,3,0.667,1,0.5,0.2,0.5,1,2013-14
-Johnathan Burroughs-Cook,2,0.091,0,0,0.2,NA,0,2013-14
-Joe Chealey,1,0,0,NA,0,0,NA,2013-14
-Total,118,0.133,0.13699999999999998,0.589,0.07,0.075,0.359,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Willis Hall,41,0.231,0.23199999999999998,0.64,0.146,0.2,0.5379999999999999,2013-14,Col.ofCharleston
+Adjehi Baru,24,0.174,0.14800000000000002,0.5329999999999999,0.077,0.062,0.33299999999999996,2013-14,Col.ofCharleston
+Anthony Thomas,15,0.13,0.14,0.667,0.034,0.028999999999999998,0.33299999999999996,2013-14,Col.ofCharleston
+David Wishon,15,0.325,0.28600000000000003,0.462,0.087,0,0,2013-14,Col.ofCharleston
+Nori Johnson,5,0.14300000000000002,0.33299999999999996,1,0.214,0.4,0.667,2013-14,Col.ofCharleston
+Anthony Stitt,4,0,0,NA,0.025,0,0,2013-14,Col.ofCharleston
+Canyon Barry,4,0.039,0.033,0.5,0.027000000000000003,0,0,2013-14,Col.ofCharleston
+Theo Johnson,4,0.071,0.1,1,0.214,0,0,2013-14,Col.ofCharleston
+Terrance O'Donohue,3,0.667,1,0.5,0.2,0.5,1,2013-14,Col.ofCharleston
+Johnathan Burroughs-Cook,2,0.091,0,0,0.2,NA,0,2013-14,Col.ofCharleston
+Joe Chealey,1,0,0,NA,0,0,NA,2013-14,Col.ofCharleston
+Total,118,0.133,0.13699999999999998,0.589,0.07,0.075,0.359,2013-14,Col.ofCharleston

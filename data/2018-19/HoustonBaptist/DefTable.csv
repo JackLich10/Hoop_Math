@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.374,0.64,0.05,0.674,2018-19
-2pt Jumpers,0.284,0.40399999999999997,0.025,0.415,2018-19
-3pt Shots,0.342,0.401,0.006,0.40399999999999997,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.374,0.64,0.05,0.674,2018-19,HoustonBaptist
+2pt Jumpers,0.284,0.40399999999999997,0.025,0.415,2018-19,HoustonBaptist
+3pt Shots,0.342,0.401,0.006,0.40399999999999997,2018-19,HoustonBaptist

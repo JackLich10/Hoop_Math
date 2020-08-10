@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.375,0.623,0.09699999999999999,0.69,2017-18
-2pt Jumpers,0.244,0.368,0.03,0.379,2017-18
-3pt Shots,0.38,0.374,0.006,0.376,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.375,0.623,0.09699999999999999,0.69,2017-18,Stetson
+2pt Jumpers,0.244,0.368,0.03,0.379,2017-18,Stetson
+3pt Shots,0.38,0.374,0.006,0.376,2017-18,Stetson

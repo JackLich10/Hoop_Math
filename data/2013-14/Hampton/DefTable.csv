@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.39,0.49,0.168,0.588,2013-14
-2pt Jumpers,0.301,0.325,0.115,0.36700000000000005,2013-14
-3pt Shots,0.309,0.35200000000000004,0.019,0.359,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.39,0.49,0.168,0.588,2013-14,Hampton
+2pt Jumpers,0.301,0.325,0.115,0.36700000000000005,2013-14,Hampton
+3pt Shots,0.309,0.35200000000000004,0.019,0.359,2013-14,Hampton

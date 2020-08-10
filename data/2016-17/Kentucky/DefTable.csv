@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.36,0.605,0.132,0.698,2016-17
-2pt Jumpers,0.308,0.33899999999999997,0.1,0.377,2016-17
-3pt Shots,0.332,0.306,0.026000000000000002,0.314,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.36,0.605,0.132,0.698,2016-17,Kentucky
+2pt Jumpers,0.308,0.33899999999999997,0.1,0.377,2016-17,Kentucky
+3pt Shots,0.332,0.306,0.026000000000000002,0.314,2016-17,Kentucky

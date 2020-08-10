@@ -1,9 +1,9 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Lyonell Gaines,25,0.303,0.289,0.565,0.019,0.053,1,2012-13
-Donovan Gibbs,16,0.141,0.139,0.7140000000000001,0.015,0,0,2012-13
-Mitchell Patton,12,0.05,0.059000000000000004,0.833,0.043,0.07400000000000001,0.833,2012-13
-John Hart,3,0.083,0,0,0,0,NA,2012-13
-Sean Esposito,3,0.071,0.071,0.5,0,0,NA,2012-13
-Greg Rice,2,0.022000000000000002,0.022000000000000002,0.5,0,0,NA,2012-13
-Cameron Loepker,2,0.667,0,0,0,0,NA,2012-13
-Total,63,0.107,0.1,0.5770000000000001,0.013000000000000001,0.022000000000000002,0.667,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Lyonell Gaines,25,0.303,0.289,0.565,0.019,0.053,1,2012-13,IUPUI
+Donovan Gibbs,16,0.141,0.139,0.7140000000000001,0.015,0,0,2012-13,IUPUI
+Mitchell Patton,12,0.05,0.059000000000000004,0.833,0.043,0.07400000000000001,0.833,2012-13,IUPUI
+John Hart,3,0.083,0,0,0,0,NA,2012-13,IUPUI
+Sean Esposito,3,0.071,0.071,0.5,0,0,NA,2012-13,IUPUI
+Greg Rice,2,0.022000000000000002,0.022000000000000002,0.5,0,0,NA,2012-13,IUPUI
+Cameron Loepker,2,0.667,0,0,0,0,NA,2012-13,IUPUI
+Total,63,0.107,0.1,0.5770000000000001,0.013000000000000001,0.022000000000000002,0.667,2012-13,IUPUI

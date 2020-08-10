@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.349,0.521,0.154,0.615,2014-15
-2pt Jumpers,0.331,0.342,0.083,0.373,2014-15
-3pt Shots,0.32,0.315,0.009000000000000001,0.318,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.349,0.521,0.154,0.615,2014-15,Kansas
+2pt Jumpers,0.331,0.342,0.083,0.373,2014-15,Kansas
+3pt Shots,0.32,0.315,0.009000000000000001,0.318,2014-15,Kansas

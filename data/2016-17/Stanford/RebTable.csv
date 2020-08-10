@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Reid Travis,43,0.217,0.203,0.667,0.033,0.042,0.5,2016-17
-Michael Humphrey,36,0.292,0.33299999999999996,0.677,0.043,0.023,0.2,2016-17
-Grant Verhoeven,17,0.349,0.231,0.4,0.08,0,0,2016-17
-Josh Sharma,9,0.159,0.174,0.5710000000000001,0.051,0,0,2016-17
-Dorian Pickens,7,0.13,0.138,0.667,0,0,NA,2016-17
-Trevor Stanback,5,0.41700000000000004,0.667,0.4,0,NA,NA,2016-17
-Marcus Allen,4,0.031,0,0,0,0,NA,2016-17
-Cameron Walker,2,0.2,0.25,0.5,NA,NA,NA,2016-17
-Total,123,0.156,0.154,0.5870000000000001,0.023,0.015,0.231,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Reid Travis,43,0.217,0.203,0.667,0.033,0.042,0.5,2016-17,Stanford
+Michael Humphrey,36,0.292,0.33299999999999996,0.677,0.043,0.023,0.2,2016-17,Stanford
+Grant Verhoeven,17,0.349,0.231,0.4,0.08,0,0,2016-17,Stanford
+Josh Sharma,9,0.159,0.174,0.5710000000000001,0.051,0,0,2016-17,Stanford
+Dorian Pickens,7,0.13,0.138,0.667,0,0,NA,2016-17,Stanford
+Trevor Stanback,5,0.41700000000000004,0.667,0.4,0,NA,NA,2016-17,Stanford
+Marcus Allen,4,0.031,0,0,0,0,NA,2016-17,Stanford
+Cameron Walker,2,0.2,0.25,0.5,NA,NA,NA,2016-17,Stanford
+Total,123,0.156,0.154,0.5870000000000001,0.023,0.015,0.231,2016-17,Stanford

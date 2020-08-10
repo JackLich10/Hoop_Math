@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Freddie Gillespie,37,0.22399999999999998,0.217,0.667,0.163,0.138,0.409,2019-20
-Mark Vital,22,0.135,0.131,0.615,0.196,0.5,0.556,2019-20
-Matthew Mayer,9,0.135,0.158,0.6,0.065,0.055999999999999994,0.33299999999999996,2019-20
-Devonte Bandoo,8,0.027999999999999997,0.045,1,0.096,0.15,0.429,2019-20
-MaCio Teague,7,0.054000000000000006,0.031,0.33299999999999996,0.04,0.071,0.667,2019-20
-Jared Butler,4,0.02,0.033,1,0.021,0,0,2019-20
-Flo Thamba,4,0.083,0.1,1,0.2,0.33299999999999996,0.33299999999999996,2019-20
-Tristan Clark,3,0.051,0.087,1,0.026000000000000002,0.067,1,2019-20
-Total,94,0.078,0.085,0.667,0.086,0.109,0.44,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Freddie Gillespie,37,0.22399999999999998,0.217,0.667,0.163,0.138,0.409,2019-20,Baylor
+Mark Vital,22,0.135,0.131,0.615,0.196,0.5,0.556,2019-20,Baylor
+Matthew Mayer,9,0.135,0.158,0.6,0.065,0.055999999999999994,0.33299999999999996,2019-20,Baylor
+Devonte Bandoo,8,0.027999999999999997,0.045,1,0.096,0.15,0.429,2019-20,Baylor
+MaCio Teague,7,0.054000000000000006,0.031,0.33299999999999996,0.04,0.071,0.667,2019-20,Baylor
+Jared Butler,4,0.02,0.033,1,0.021,0,0,2019-20,Baylor
+Flo Thamba,4,0.083,0.1,1,0.2,0.33299999999999996,0.33299999999999996,2019-20,Baylor
+Tristan Clark,3,0.051,0.087,1,0.026000000000000002,0.067,1,2019-20,Baylor
+Total,94,0.078,0.085,0.667,0.086,0.109,0.44,2019-20,Baylor

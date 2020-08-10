@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Neemias Queta,32,0.124,0.14,0.8,0.106,0.136,0.429,2018-19
-Quinn Taylor,17,0.14300000000000002,0.153,0.733,0.048,0,0,2018-19
-Justin Bean,14,0.19,0.19399999999999998,0.636,0.136,0,0,2018-19
-Ben Fakira,6,0.5,0.16699999999999998,0.16699999999999998,0,NA,NA,2018-19
-Brown Dwayne,6,0.053,0.065,0.8,0.043,0.14300000000000002,1,2018-19
-Diogo Brito,5,0.053,0.07,0.75,0.031,0,0,2018-19
-Tauriawn Knight,3,0.053,0.111,1,0.062,0,0,2018-19
-Sam Merrill,2,0.016,0.025,1,0,0,NA,2018-19
-John Knight III,2,0.043,0,0,0,0,NA,2018-19
-Alek Johnson,1,1,NA,0,NA,NA,NA,2018-19
-Total,88,0.086,0.094,0.685,0.036000000000000004,0.026000000000000002,0.267,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Neemias Queta,32,0.124,0.14,0.8,0.106,0.136,0.429,2018-19,UtahSt.
+Quinn Taylor,17,0.14300000000000002,0.153,0.733,0.048,0,0,2018-19,UtahSt.
+Justin Bean,14,0.19,0.19399999999999998,0.636,0.136,0,0,2018-19,UtahSt.
+Ben Fakira,6,0.5,0.16699999999999998,0.16699999999999998,0,NA,NA,2018-19,UtahSt.
+Brown Dwayne,6,0.053,0.065,0.8,0.043,0.14300000000000002,1,2018-19,UtahSt.
+Diogo Brito,5,0.053,0.07,0.75,0.031,0,0,2018-19,UtahSt.
+Tauriawn Knight,3,0.053,0.111,1,0.062,0,0,2018-19,UtahSt.
+Sam Merrill,2,0.016,0.025,1,0,0,NA,2018-19,UtahSt.
+John Knight III,2,0.043,0,0,0,0,NA,2018-19,UtahSt.
+Alek Johnson,1,1,NA,0,NA,NA,NA,2018-19,UtahSt.
+Total,88,0.086,0.094,0.685,0.036000000000000004,0.026000000000000002,0.267,2018-19,UtahSt.

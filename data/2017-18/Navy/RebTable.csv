@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Evan Wieck,17,0.163,0.159,0.688,0.04,0,0,2017-18
-Tom Lacey,17,0.152,0.203,0.882,0,0,NA,2017-18
-Shawn Anderson,12,0.054000000000000006,0.044000000000000004,0.5,0.038,0.032,0.25,2017-18
-George Kiernan,10,0.125,0.061,0.28600000000000003,0.083,0.077,0.33299999999999996,2017-18
-Tyler Riemersma,8,0.214,0.214,0.5,0.111,0.16699999999999998,0.5,2017-18
-Bryce Dulin,8,0.10099999999999999,0.077,0.5,0,0,NA,2017-18
-Mo Lewis,6,0.25,0.312,0.833,0,0,NA,2017-18
-Hasan Abdullah,1,0,0,NA,0,0,NA,2017-18
-Connor Mannion,1,NA,NA,NA,1,1,1,2017-18
-Luke Loehr,1,0.16699999999999998,0.2,1,NA,NA,NA,2017-18
-Total,81,0.105,0.111,0.652,0.024,0.025,0.364,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Evan Wieck,17,0.163,0.159,0.688,0.04,0,0,2017-18,Navy
+Tom Lacey,17,0.152,0.203,0.882,0,0,NA,2017-18,Navy
+Shawn Anderson,12,0.054000000000000006,0.044000000000000004,0.5,0.038,0.032,0.25,2017-18,Navy
+George Kiernan,10,0.125,0.061,0.28600000000000003,0.083,0.077,0.33299999999999996,2017-18,Navy
+Tyler Riemersma,8,0.214,0.214,0.5,0.111,0.16699999999999998,0.5,2017-18,Navy
+Bryce Dulin,8,0.10099999999999999,0.077,0.5,0,0,NA,2017-18,Navy
+Mo Lewis,6,0.25,0.312,0.833,0,0,NA,2017-18,Navy
+Hasan Abdullah,1,0,0,NA,0,0,NA,2017-18,Navy
+Connor Mannion,1,NA,NA,NA,1,1,1,2017-18,Navy
+Luke Loehr,1,0.16699999999999998,0.2,1,NA,NA,NA,2017-18,Navy
+Total,81,0.105,0.111,0.652,0.024,0.025,0.364,2017-18,Navy

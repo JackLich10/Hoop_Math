@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Bryce Nze,26,0.18899999999999997,0.205,0.75,0.091,0,0,2016-17
-Brett Prahl,14,0.10300000000000001,0.1,0.6920000000000001,0.048,0.111,1,2016-17
-Brock Stull,8,0.07,0.07400000000000001,0.5710000000000001,0.006999999999999999,0,0,2016-17
-Jeremiah Bell,5,0.055999999999999994,0.022000000000000002,0.2,0,0,NA,2016-17
-Cameron Harvey,4,0.16699999999999998,0.214,0.75,0,0,NA,2016-17
-Dan Studer,3,0.188,0,0,0,0,NA,2016-17
-Cody Wichmann,2,0.036000000000000004,0.027999999999999997,0.5,0,0,NA,2016-17
-Jeremy Johnson,2,0.032,0.03,0.5,0,0,NA,2016-17
-Bryce Barnes,2,0.039,0.043,0.5,0,0,NA,2016-17
-August Haas,1,0.016,0.03,1,0,0,NA,2016-17
-Total,67,0.08800000000000001,0.092,0.619,0.009000000000000001,0.006,0.25,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Bryce Nze,26,0.18899999999999997,0.205,0.75,0.091,0,0,2016-17,Milwaukee
+Brett Prahl,14,0.10300000000000001,0.1,0.6920000000000001,0.048,0.111,1,2016-17,Milwaukee
+Brock Stull,8,0.07,0.07400000000000001,0.5710000000000001,0.006999999999999999,0,0,2016-17,Milwaukee
+Jeremiah Bell,5,0.055999999999999994,0.022000000000000002,0.2,0,0,NA,2016-17,Milwaukee
+Cameron Harvey,4,0.16699999999999998,0.214,0.75,0,0,NA,2016-17,Milwaukee
+Dan Studer,3,0.188,0,0,0,0,NA,2016-17,Milwaukee
+Cody Wichmann,2,0.036000000000000004,0.027999999999999997,0.5,0,0,NA,2016-17,Milwaukee
+Jeremy Johnson,2,0.032,0.03,0.5,0,0,NA,2016-17,Milwaukee
+Bryce Barnes,2,0.039,0.043,0.5,0,0,NA,2016-17,Milwaukee
+August Haas,1,0.016,0.03,1,0,0,NA,2016-17,Milwaukee
+Total,67,0.08800000000000001,0.092,0.619,0.009000000000000001,0.006,0.25,2016-17,Milwaukee

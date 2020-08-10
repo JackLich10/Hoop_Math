@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Johnathan Williams,23,0.12,0.126,0.7,0.054000000000000006,0.071,0.667,2016-17
-Zach Collins,22,0.135,0.16,0.8420000000000001,0.067,0.08,0.667,2016-17
-Przemek Karnowski,13,0.051,0.05,0.636,0.008,0,0,2016-17
-Jordan Mathews,9,0.14,0.09699999999999999,0.375,0.019,0,0,2016-17
-Killian Tillie,9,0.205,0.207,0.667,0,0,NA,2016-17
-Nigel Williams-Goss,8,0.033,0.042,0.8,0.011000000000000001,0,0,2016-17
-Rui Hachimura,6,0.182,0.062,0.25,0.11800000000000001,0.125,0.5,2016-17
-Silas Melson,6,0.092,0.081,0.5,0,0,NA,2016-17
-Ryan Edwards,5,0.33299999999999996,0.364,0.8,0,0,NA,2016-17
-Jeremy Jones,3,0.222,0.33299999999999996,1,0.33299999999999996,NA,0,2016-17
-Total,104,0.095,0.1,0.674,0.022000000000000002,0.019,0.385,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Johnathan Williams,23,0.12,0.126,0.7,0.054000000000000006,0.071,0.667,2016-17,Gonzaga
+Zach Collins,22,0.135,0.16,0.8420000000000001,0.067,0.08,0.667,2016-17,Gonzaga
+Przemek Karnowski,13,0.051,0.05,0.636,0.008,0,0,2016-17,Gonzaga
+Jordan Mathews,9,0.14,0.09699999999999999,0.375,0.019,0,0,2016-17,Gonzaga
+Killian Tillie,9,0.205,0.207,0.667,0,0,NA,2016-17,Gonzaga
+Nigel Williams-Goss,8,0.033,0.042,0.8,0.011000000000000001,0,0,2016-17,Gonzaga
+Rui Hachimura,6,0.182,0.062,0.25,0.11800000000000001,0.125,0.5,2016-17,Gonzaga
+Silas Melson,6,0.092,0.081,0.5,0,0,NA,2016-17,Gonzaga
+Ryan Edwards,5,0.33299999999999996,0.364,0.8,0,0,NA,2016-17,Gonzaga
+Jeremy Jones,3,0.222,0.33299999999999996,1,0.33299999999999996,NA,0,2016-17,Gonzaga
+Total,104,0.095,0.1,0.674,0.022000000000000002,0.019,0.385,2016-17,Gonzaga

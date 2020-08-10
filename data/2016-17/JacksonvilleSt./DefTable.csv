@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.312,0.519,0.154,0.614,2016-17
-2pt Jumpers,0.322,0.368,0.062,0.392,2016-17
-3pt Shots,0.36700000000000005,0.376,0.001,0.376,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.312,0.519,0.154,0.614,2016-17,JacksonvilleSt.
+2pt Jumpers,0.322,0.368,0.062,0.392,2016-17,JacksonvilleSt.
+3pt Shots,0.36700000000000005,0.376,0.001,0.376,2016-17,JacksonvilleSt.

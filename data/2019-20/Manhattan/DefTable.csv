@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.353,0.513,0.171,0.618,2019-20
-2pt Jumpers,0.316,0.38799999999999996,0.036000000000000004,0.402,2019-20
-3pt Shots,0.331,0.345,0.011000000000000001,0.349,2019-20
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.353,0.513,0.171,0.618,2019-20,Manhattan
+2pt Jumpers,0.316,0.38799999999999996,0.036000000000000004,0.402,2019-20,Manhattan
+3pt Shots,0.331,0.345,0.011000000000000001,0.349,2019-20,Manhattan

@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Marvin King-Davis,30,0.209,0.205,0.593,0.013999999999999999,0,0,2015-16
-Maurice Jeffers,14,0.188,0.281,0.75,0.038,0.067,0.5,2015-16
-Skye Johnson,7,0.259,0.312,0.7140000000000001,0,0,NA,2015-16
-Cazmon Hayes,5,0.053,0.037000000000000005,0.4,0,0,NA,2015-16
-Kory Holden,5,0.006999999999999999,0.015,1,0.023,0.064,1,2015-16
-Barnett Harris,4,0.4,0.5,1,0.25,0.5,0.5,2015-16
-Chivarsky Corbett,3,0.222,0,0,0.25,0.33299999999999996,1,2015-16
-Devonne Pinkard,3,0.188,0.14300000000000002,0.33299999999999996,0,0,NA,2015-16
-Anthony Mosley,1,0,0,NA,0.032,0,0,2015-16
-Total,72,0.09300000000000001,0.109,0.61,0.023,0.035,0.5,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Marvin King-Davis,30,0.209,0.205,0.593,0.013999999999999999,0,0,2015-16,Delaware
+Maurice Jeffers,14,0.188,0.281,0.75,0.038,0.067,0.5,2015-16,Delaware
+Skye Johnson,7,0.259,0.312,0.7140000000000001,0,0,NA,2015-16,Delaware
+Cazmon Hayes,5,0.053,0.037000000000000005,0.4,0,0,NA,2015-16,Delaware
+Kory Holden,5,0.006999999999999999,0.015,1,0.023,0.064,1,2015-16,Delaware
+Barnett Harris,4,0.4,0.5,1,0.25,0.5,0.5,2015-16,Delaware
+Chivarsky Corbett,3,0.222,0,0,0.25,0.33299999999999996,1,2015-16,Delaware
+Devonne Pinkard,3,0.188,0.14300000000000002,0.33299999999999996,0,0,NA,2015-16,Delaware
+Anthony Mosley,1,0,0,NA,0.032,0,0,2015-16,Delaware
+Total,72,0.09300000000000001,0.109,0.61,0.023,0.035,0.5,2015-16,Delaware

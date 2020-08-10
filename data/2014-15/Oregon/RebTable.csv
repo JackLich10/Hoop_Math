@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Dillon Brooks,31,0.187,0.207,0.607,0.031,0,0,2014-15
-Elgin Cook,18,0.096,0.12,0.833,0,0,NA,2014-15
-Dwayne Benjamin,17,0.161,0.107,0.429,0.051,0.053,0.33299999999999996,2014-15
-Jordan Bell,17,0.14800000000000002,0.139,0.688,0.032,0,0,2014-15
-Michael Chandler,7,0.318,0.462,0.857,0,0,NA,2014-15
-Joseph Young,5,0.013999999999999999,0,0,0.015,0.012,0.33299999999999996,2014-15
-Jalil Abdul-Bassit,2,0.08,0.14300000000000002,1,0,0,NA,2014-15
-Ahmaad Rorie,2,0.026000000000000002,0,0,0.026000000000000002,0,0,2014-15
-Casey Benson,1,0,0,NA,0.059000000000000004,0,0,2014-15
-Total,100,0.11199999999999999,0.11699999999999999,0.648,0.019,0.008,0.16699999999999998,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Dillon Brooks,31,0.187,0.207,0.607,0.031,0,0,2014-15,Oregon
+Elgin Cook,18,0.096,0.12,0.833,0,0,NA,2014-15,Oregon
+Dwayne Benjamin,17,0.161,0.107,0.429,0.051,0.053,0.33299999999999996,2014-15,Oregon
+Jordan Bell,17,0.14800000000000002,0.139,0.688,0.032,0,0,2014-15,Oregon
+Michael Chandler,7,0.318,0.462,0.857,0,0,NA,2014-15,Oregon
+Joseph Young,5,0.013999999999999999,0,0,0.015,0.012,0.33299999999999996,2014-15,Oregon
+Jalil Abdul-Bassit,2,0.08,0.14300000000000002,1,0,0,NA,2014-15,Oregon
+Ahmaad Rorie,2,0.026000000000000002,0,0,0.026000000000000002,0,0,2014-15,Oregon
+Casey Benson,1,0,0,NA,0.059000000000000004,0,0,2014-15,Oregon
+Total,100,0.11199999999999999,0.11699999999999999,0.648,0.019,0.008,0.16699999999999998,2014-15,Oregon

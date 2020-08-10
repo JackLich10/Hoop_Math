@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Max Jacobsen,20,0.15,0.14300000000000002,0.733,0.045,0.040999999999999995,0.4,2012-13
-Gaellan Bewernick,11,0.1,0.105,0.75,0.05,0.038,0.33299999999999996,2012-13
-Jordyn Martin,9,0.267,0.278,0.625,0.033,0,0,2012-13
-Michael Dunn,8,0.21600000000000003,0.28600000000000003,0.75,0,0,NA,2012-13
-Ephraim Ekanem,8,0.14,0.121,0.5710000000000001,0.033,0,0,2012-13
-Gabe Rogers,5,0.02,0,0,0.01,0.012,0.5,2012-13
-Dewayne Russell,3,0.011000000000000001,0.021,1,0.006,0,0,2012-13
-Ben Olayinka,2,0.33299999999999996,0.5,1,0,0,NA,2012-13
-Stallon Saldivar,1,0.02,0.034,1,0,0,NA,2012-13
-Total,67,0.099,0.11199999999999999,0.706,0.018000000000000002,0.013999999999999999,0.308,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Max Jacobsen,20,0.15,0.14300000000000002,0.733,0.045,0.040999999999999995,0.4,2012-13,NorthernAriz.
+Gaellan Bewernick,11,0.1,0.105,0.75,0.05,0.038,0.33299999999999996,2012-13,NorthernAriz.
+Jordyn Martin,9,0.267,0.278,0.625,0.033,0,0,2012-13,NorthernAriz.
+Michael Dunn,8,0.21600000000000003,0.28600000000000003,0.75,0,0,NA,2012-13,NorthernAriz.
+Ephraim Ekanem,8,0.14,0.121,0.5710000000000001,0.033,0,0,2012-13,NorthernAriz.
+Gabe Rogers,5,0.02,0,0,0.01,0.012,0.5,2012-13,NorthernAriz.
+Dewayne Russell,3,0.011000000000000001,0.021,1,0.006,0,0,2012-13,NorthernAriz.
+Ben Olayinka,2,0.33299999999999996,0.5,1,0,0,NA,2012-13,NorthernAriz.
+Stallon Saldivar,1,0.02,0.034,1,0,0,NA,2012-13,NorthernAriz.
+Total,67,0.099,0.11199999999999999,0.706,0.018000000000000002,0.013999999999999999,0.308,2012-13,NorthernAriz.

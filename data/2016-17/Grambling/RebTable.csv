@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Averyl Ugba,60,0.292,0.27399999999999997,0.593,0.09,0.20800000000000002,0.833,2016-17
-Remond Brown,14,0.10800000000000001,0.115,0.7140000000000001,0,0,NA,2016-17
-Ervin Mitchell,13,0.035,0.035,0.6,0.07,0.162,0.857,2016-17
-Noah Cummings,6,0.385,0.429,0.6,0.2,0.5,1,2016-17
-Diontae Jones,6,0.11900000000000001,0.1,0.4,0.031,0,0,2016-17
-Deonte       Y earns,4,0.154,0.231,0.75,0,0,NA,2016-17
-Drake Wilks,3,0.1,0.059000000000000004,0.33299999999999996,0,0,NA,2016-17
-Nigel Riberio,3,0.011000000000000001,0,0,0.033,0.05,0.5,2016-17
-Chase Cormier,2,0.025,0,0,0,0,NA,2016-17
-Carlton Lowe,1,0.059000000000000004,0.071,1,0,0,NA,2016-17
-Ivy Smith.Jr,1,0.028999999999999998,0.053,1,0,0,NA,2016-17
-Marcel Thompson,1,0,0,NA,0.091,0,0,2016-17
-Total,114,0.12,0.124,0.596,0.031,0.064,0.722,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Averyl Ugba,60,0.292,0.27399999999999997,0.593,0.09,0.20800000000000002,0.833,2016-17,Grambling
+Remond Brown,14,0.10800000000000001,0.115,0.7140000000000001,0,0,NA,2016-17,Grambling
+Ervin Mitchell,13,0.035,0.035,0.6,0.07,0.162,0.857,2016-17,Grambling
+Noah Cummings,6,0.385,0.429,0.6,0.2,0.5,1,2016-17,Grambling
+Diontae Jones,6,0.11900000000000001,0.1,0.4,0.031,0,0,2016-17,Grambling
+Deonte       Y earns,4,0.154,0.231,0.75,0,0,NA,2016-17,Grambling
+Drake Wilks,3,0.1,0.059000000000000004,0.33299999999999996,0,0,NA,2016-17,Grambling
+Nigel Riberio,3,0.011000000000000001,0,0,0.033,0.05,0.5,2016-17,Grambling
+Chase Cormier,2,0.025,0,0,0,0,NA,2016-17,Grambling
+Carlton Lowe,1,0.059000000000000004,0.071,1,0,0,NA,2016-17,Grambling
+Ivy Smith.Jr,1,0.028999999999999998,0.053,1,0,0,NA,2016-17,Grambling
+Marcel Thompson,1,0,0,NA,0.091,0,0,2016-17,Grambling
+Total,114,0.12,0.124,0.596,0.031,0.064,0.722,2016-17,Grambling

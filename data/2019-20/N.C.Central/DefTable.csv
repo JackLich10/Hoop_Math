@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.369,0.585,0.091,0.644,2019-20
-2pt Jumpers,0.243,0.332,0.059000000000000004,0.35200000000000004,2019-20
-3pt Shots,0.38799999999999996,0.301,0.01,0.305,2019-20
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.369,0.585,0.091,0.644,2019-20,N.C.Central
+2pt Jumpers,0.243,0.332,0.059000000000000004,0.35200000000000004,2019-20,N.C.Central
+3pt Shots,0.38799999999999996,0.301,0.01,0.305,2019-20,N.C.Central

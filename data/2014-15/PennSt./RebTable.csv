@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Donovon Jack,19,0.33899999999999997,0.41200000000000003,0.737,0,0,NA,2014-15
-Ross Travis,15,0.19699999999999998,0.205,0.667,0.03,0.024,0.33299999999999996,2014-15
-D.J. Newbill,11,0.057,0.022000000000000002,0.222,0.009000000000000001,0.011000000000000001,0.5,2014-15
-Brandon Taylor,9,0.182,0.17600000000000002,0.5,0.03,0,0,2014-15
-Julian Moore,7,0.3,0.33299999999999996,0.667,0.053,0,0,2014-15
-Jordan Dickerson,5,0.08,0.10300000000000001,0.75,0.059000000000000004,0,0,2014-15
-Devin Foster,5,0.20800000000000002,0.235,0.8,0,NA,NA,2014-15
-Geno Thorpe,4,0.031,0.036000000000000004,0.667,0,0,NA,2014-15
-Payton Banks,2,0,0,NA,0.25,0,0,2014-15
-Shep Garner,2,0.018000000000000002,0.038,1,0,0,NA,2014-15
-John Johnson,1,0.032,0.062,1,0,0,NA,2014-15
-Kevin Montminy,1,1,NA,0,0,NA,NA,2014-15
-Total,81,0.113,0.12300000000000001,0.627,0.019,0.009000000000000001,0.16699999999999998,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Donovon Jack,19,0.33899999999999997,0.41200000000000003,0.737,0,0,NA,2014-15,PennSt.
+Ross Travis,15,0.19699999999999998,0.205,0.667,0.03,0.024,0.33299999999999996,2014-15,PennSt.
+D.J. Newbill,11,0.057,0.022000000000000002,0.222,0.009000000000000001,0.011000000000000001,0.5,2014-15,PennSt.
+Brandon Taylor,9,0.182,0.17600000000000002,0.5,0.03,0,0,2014-15,PennSt.
+Julian Moore,7,0.3,0.33299999999999996,0.667,0.053,0,0,2014-15,PennSt.
+Jordan Dickerson,5,0.08,0.10300000000000001,0.75,0.059000000000000004,0,0,2014-15,PennSt.
+Devin Foster,5,0.20800000000000002,0.235,0.8,0,NA,NA,2014-15,PennSt.
+Geno Thorpe,4,0.031,0.036000000000000004,0.667,0,0,NA,2014-15,PennSt.
+Payton Banks,2,0,0,NA,0.25,0,0,2014-15,PennSt.
+Shep Garner,2,0.018000000000000002,0.038,1,0,0,NA,2014-15,PennSt.
+John Johnson,1,0.032,0.062,1,0,0,NA,2014-15,PennSt.
+Kevin Montminy,1,1,NA,0,0,NA,NA,2014-15,PennSt.
+Total,81,0.113,0.12300000000000001,0.627,0.019,0.009000000000000001,0.16699999999999998,2014-15,PennSt.

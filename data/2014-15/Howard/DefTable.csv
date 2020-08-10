@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.35600000000000004,0.507,0.145,0.594,2014-15
-2pt Jumpers,0.249,0.33399999999999996,0.073,0.361,2014-15
-3pt Shots,0.395,0.314,0.015,0.319,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.35600000000000004,0.507,0.145,0.594,2014-15,Howard
+2pt Jumpers,0.249,0.33399999999999996,0.073,0.361,2014-15,Howard
+3pt Shots,0.395,0.314,0.015,0.319,2014-15,Howard

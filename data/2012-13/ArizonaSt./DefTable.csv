@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.337,0.5329999999999999,0.191,0.659,2012-13
-2pt Jumpers,0.34299999999999997,0.35700000000000004,0.09699999999999999,0.396,2012-13
-3pt Shots,0.321,0.337,0.006999999999999999,0.34,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.337,0.5329999999999999,0.191,0.659,2012-13,ArizonaSt.
+2pt Jumpers,0.34299999999999997,0.35700000000000004,0.09699999999999999,0.396,2012-13,ArizonaSt.
+3pt Shots,0.321,0.337,0.006999999999999999,0.34,2012-13,ArizonaSt.

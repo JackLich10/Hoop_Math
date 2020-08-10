@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Aubrey Williams,42,0.247,0.282,0.775,0.02,0,0,2016-17
-Johannes Nielsen,15,0.275,0.25,0.5710000000000001,0.017,0,0,2016-17
-Jordan Jones,9,0.134,0.159,0.778,0,0,NA,2016-17
-Kendrick Ray,8,0.039,0.022000000000000002,0.33299999999999996,0.006,0.013999999999999999,1,2016-17
-Anthony Wilson,7,0.25,0.35700000000000004,0.833,0.045,0,0,2016-17
-Nick Masterson,6,0.278,0.364,0.8,0.009000000000000001,0,0,2016-17
-Zach Cameron,5,0.35700000000000004,0.222,0.4,0,0,NA,2016-17
-Kyle Clarke,3,0.057,0.10300000000000001,1,0,0,NA,2016-17
-James Scott,3,0.061,0.083,0.667,0,0,NA,2016-17
-Tyler Hooker,3,0.02,0.04,1,0.017,0.055999999999999994,1,2016-17
-Josh Burnett,1,0.111,0,0,0,0,NA,2016-17
-Total,102,0.142,0.166,0.6990000000000001,0.009000000000000001,0.006999999999999999,0.28600000000000003,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Aubrey Williams,42,0.247,0.282,0.775,0.02,0,0,2016-17,KennesawSt.
+Johannes Nielsen,15,0.275,0.25,0.5710000000000001,0.017,0,0,2016-17,KennesawSt.
+Jordan Jones,9,0.134,0.159,0.778,0,0,NA,2016-17,KennesawSt.
+Kendrick Ray,8,0.039,0.022000000000000002,0.33299999999999996,0.006,0.013999999999999999,1,2016-17,KennesawSt.
+Anthony Wilson,7,0.25,0.35700000000000004,0.833,0.045,0,0,2016-17,KennesawSt.
+Nick Masterson,6,0.278,0.364,0.8,0.009000000000000001,0,0,2016-17,KennesawSt.
+Zach Cameron,5,0.35700000000000004,0.222,0.4,0,0,NA,2016-17,KennesawSt.
+Kyle Clarke,3,0.057,0.10300000000000001,1,0,0,NA,2016-17,KennesawSt.
+James Scott,3,0.061,0.083,0.667,0,0,NA,2016-17,KennesawSt.
+Tyler Hooker,3,0.02,0.04,1,0.017,0.055999999999999994,1,2016-17,KennesawSt.
+Josh Burnett,1,0.111,0,0,0,0,NA,2016-17,KennesawSt.
+Total,102,0.142,0.166,0.6990000000000001,0.009000000000000001,0.006999999999999999,0.28600000000000003,2016-17,KennesawSt.

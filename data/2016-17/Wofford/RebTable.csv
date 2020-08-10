@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Cameron Jackson,30,0.142,0.141,0.655,0.012,0,0,2016-17
-Ryan Sawvell,16,0.163,0.179,0.75,0,0,NA,2016-17
-Dishon Lowery,10,0.4,0.308,0.4,0,NA,NA,2016-17
-Matt Pegram,9,0.159,0.16699999999999998,0.857,0.024,0,0,2016-17
-Justin Tucker,9,0.258,0.133,0.25,0.059000000000000004,0.2,1,2016-17
-Nathan Hoover,4,0.09699999999999999,0.11800000000000001,0.667,0.023,0.062,1,2016-17
-Eric Garcia,2,0,0,NA,0.015,0,0,2016-17
-Fletcher Magee,2,0.013999999999999999,0.024,1,0.009000000000000001,0,0,2016-17
-Jaylen Allen,2,0.043,0,0,0.025,0.1,1,2016-17
-Trevor Stumpe,1,0.5,NA,0,NA,NA,NA,2016-17
-Total,85,0.122,0.11900000000000001,0.605,0.015,0.015,0.375,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Cameron Jackson,30,0.142,0.141,0.655,0.012,0,0,2016-17,Wofford
+Ryan Sawvell,16,0.163,0.179,0.75,0,0,NA,2016-17,Wofford
+Dishon Lowery,10,0.4,0.308,0.4,0,NA,NA,2016-17,Wofford
+Matt Pegram,9,0.159,0.16699999999999998,0.857,0.024,0,0,2016-17,Wofford
+Justin Tucker,9,0.258,0.133,0.25,0.059000000000000004,0.2,1,2016-17,Wofford
+Nathan Hoover,4,0.09699999999999999,0.11800000000000001,0.667,0.023,0.062,1,2016-17,Wofford
+Eric Garcia,2,0,0,NA,0.015,0,0,2016-17,Wofford
+Fletcher Magee,2,0.013999999999999999,0.024,1,0.009000000000000001,0,0,2016-17,Wofford
+Jaylen Allen,2,0.043,0,0,0.025,0.1,1,2016-17,Wofford
+Trevor Stumpe,1,0.5,NA,0,NA,NA,NA,2016-17,Wofford
+Total,85,0.122,0.11900000000000001,0.605,0.015,0.015,0.375,2016-17,Wofford

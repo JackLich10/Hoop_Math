@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.43200000000000005,0.56,0.087,0.614,2015-16
-2pt Jumpers,0.225,0.373,0.02,0.381,2015-16
-3pt Shots,0.342,0.359,0.002,0.36,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.43200000000000005,0.56,0.087,0.614,2015-16,SacredHeart
+2pt Jumpers,0.225,0.373,0.02,0.381,2015-16,SacredHeart
+3pt Shots,0.342,0.359,0.002,0.36,2015-16,SacredHeart

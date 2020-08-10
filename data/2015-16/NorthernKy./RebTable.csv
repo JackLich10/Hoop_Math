@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jalen Billups,23,0.127,0.135,0.7,0.035,0.026000000000000002,0.33299999999999996,2015-16
-Drew McDonald,21,0.15,0.139,0.55,0.015,0.043,1,2015-16
-Jordan Garnett,10,0.17,0.179,0.556,0.062,0,0,2015-16
-Brennan Gillis,6,0.14300000000000002,0.16699999999999998,0.5,0.182,0,0,2015-16
-Cole Murray,4,0.091,0.11800000000000001,1,0.077,0.154,1,2015-16
-Jake Giesler,3,0.125,0.214,1,0,0,NA,2015-16
-Deontae Cole,2,0,0,NA,0.14300000000000002,0.2,1,2015-16
-Tyler White,2,0.019,0.018000000000000002,0.5,0,0,NA,2015-16
-Lavone Holland II,2,0.025,0.043,1,0,0,NA,2015-16
-Todd Johnson,1,0.16699999999999998,0.33299999999999996,1,0,0,NA,2015-16
-Total,74,0.10099999999999999,0.11199999999999999,0.6509999999999999,0.023,0.032,0.5,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jalen Billups,23,0.127,0.135,0.7,0.035,0.026000000000000002,0.33299999999999996,2015-16,NorthernKy.
+Drew McDonald,21,0.15,0.139,0.55,0.015,0.043,1,2015-16,NorthernKy.
+Jordan Garnett,10,0.17,0.179,0.556,0.062,0,0,2015-16,NorthernKy.
+Brennan Gillis,6,0.14300000000000002,0.16699999999999998,0.5,0.182,0,0,2015-16,NorthernKy.
+Cole Murray,4,0.091,0.11800000000000001,1,0.077,0.154,1,2015-16,NorthernKy.
+Jake Giesler,3,0.125,0.214,1,0,0,NA,2015-16,NorthernKy.
+Deontae Cole,2,0,0,NA,0.14300000000000002,0.2,1,2015-16,NorthernKy.
+Tyler White,2,0.019,0.018000000000000002,0.5,0,0,NA,2015-16,NorthernKy.
+Lavone Holland II,2,0.025,0.043,1,0,0,NA,2015-16,NorthernKy.
+Todd Johnson,1,0.16699999999999998,0.33299999999999996,1,0,0,NA,2015-16,NorthernKy.
+Total,74,0.10099999999999999,0.11199999999999999,0.6509999999999999,0.023,0.032,0.5,2015-16,NorthernKy.

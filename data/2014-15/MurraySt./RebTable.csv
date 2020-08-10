@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jarvis Williams,46,0.152,0.132,0.588,0.102,0.114,0.41700000000000004,2014-15
-Jonathan Fairell,34,0.266,0.254,0.586,0.156,0,0,2014-15
-Wayne Langston,13,0.316,0.28,0.583,0.1,0,0,2014-15
-Cameron Payne,9,0.053,0.017,0.2,0.018000000000000002,0.02,0.5,2014-15
-Tyler Rambo,8,0.154,0.16699999999999998,0.833,0.133,0,0,2014-15
-Jeffery Moss,8,0.10800000000000001,0.136,0.857,0.012,0.027999999999999997,1,2014-15
-T.J. Sapp,3,0.04,0.037000000000000005,0.667,0,0,NA,2014-15
-Justin Seymour,3,0.05,0.083,1,0.016,0,0,2014-15
-Terron Gillmore,1,0.14300000000000002,0,0,0,NA,NA,2014-15
-Total,125,0.14400000000000002,0.132,0.602,0.042,0.034,0.308,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jarvis Williams,46,0.152,0.132,0.588,0.102,0.114,0.41700000000000004,2014-15,MurraySt.
+Jonathan Fairell,34,0.266,0.254,0.586,0.156,0,0,2014-15,MurraySt.
+Wayne Langston,13,0.316,0.28,0.583,0.1,0,0,2014-15,MurraySt.
+Cameron Payne,9,0.053,0.017,0.2,0.018000000000000002,0.02,0.5,2014-15,MurraySt.
+Tyler Rambo,8,0.154,0.16699999999999998,0.833,0.133,0,0,2014-15,MurraySt.
+Jeffery Moss,8,0.10800000000000001,0.136,0.857,0.012,0.027999999999999997,1,2014-15,MurraySt.
+T.J. Sapp,3,0.04,0.037000000000000005,0.667,0,0,NA,2014-15,MurraySt.
+Justin Seymour,3,0.05,0.083,1,0.016,0,0,2014-15,MurraySt.
+Terron Gillmore,1,0.14300000000000002,0,0,0,NA,NA,2014-15,MurraySt.
+Total,125,0.14400000000000002,0.132,0.602,0.042,0.034,0.308,2014-15,MurraySt.

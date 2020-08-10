@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.326,0.6509999999999999,0.09300000000000001,0.718,2014-15
-2pt Jumpers,0.32799999999999996,0.374,0.065,0.4,2014-15
-3pt Shots,0.345,0.376,0.009000000000000001,0.379,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.326,0.6509999999999999,0.09300000000000001,0.718,2014-15,Omaha
+2pt Jumpers,0.32799999999999996,0.374,0.065,0.4,2014-15,Omaha
+3pt Shots,0.345,0.376,0.009000000000000001,0.379,2014-15,Omaha

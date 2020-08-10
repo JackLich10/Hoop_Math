@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Stacy Davis,33,0.209,0.247,0.792,0.049,0.040999999999999995,0.33299999999999996,2014-15
-Jett Raines,16,0.076,0.049,0.4,0.059000000000000004,0.051,0.33299999999999996,2014-15
-Atif Russell,8,0.098,0.158,0.75,0.057999999999999996,0.138,1,2014-15
-Murray Lamond,8,0.14300000000000002,0.172,0.7140000000000001,0.009000000000000001,0,0,2014-15
-Shawn Olden,8,0.075,0.075,0.6,0.08800000000000001,0,0,2014-15
-David Jesperson,6,0.267,0.3,0.75,0.182,0,0,2014-15
-Jeremy Major,4,0.045,0.067,0.667,0.013000000000000001,0.034,1,2014-15
-Nate Gehring,1,0.16699999999999998,0,0,0,NA,NA,2014-15
-A.J. John,1,0,0,NA,0.048,0.14300000000000002,1,2014-15
-Total,85,0.10800000000000001,0.127,0.672,0.040999999999999995,0.044000000000000004,0.40700000000000003,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Stacy Davis,33,0.209,0.247,0.792,0.049,0.040999999999999995,0.33299999999999996,2014-15,Pepperdine
+Jett Raines,16,0.076,0.049,0.4,0.059000000000000004,0.051,0.33299999999999996,2014-15,Pepperdine
+Atif Russell,8,0.098,0.158,0.75,0.057999999999999996,0.138,1,2014-15,Pepperdine
+Murray Lamond,8,0.14300000000000002,0.172,0.7140000000000001,0.009000000000000001,0,0,2014-15,Pepperdine
+Shawn Olden,8,0.075,0.075,0.6,0.08800000000000001,0,0,2014-15,Pepperdine
+David Jesperson,6,0.267,0.3,0.75,0.182,0,0,2014-15,Pepperdine
+Jeremy Major,4,0.045,0.067,0.667,0.013000000000000001,0.034,1,2014-15,Pepperdine
+Nate Gehring,1,0.16699999999999998,0,0,0,NA,NA,2014-15,Pepperdine
+A.J. John,1,0,0,NA,0.048,0.14300000000000002,1,2014-15,Pepperdine
+Total,85,0.10800000000000001,0.127,0.672,0.040999999999999995,0.044000000000000004,0.40700000000000003,2014-15,Pepperdine

@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Derail Green,16,0.171,0.22,0.643,0.016,0,0,2015-16
-Kyle Hittle,13,0.11199999999999999,0.09699999999999999,0.5379999999999999,0,0,NA,2015-16
-Shawn Johnson,13,0.18100000000000002,0.077,0.231,0,0,NA,2015-16
-Simi Socks,5,0.1,0.037000000000000005,0.2,0,0,NA,2015-16
-Tyler Singleton,5,0.073,0.045,0.33299999999999996,0.034,0.045,0.5,2015-16
-Jerred Kite,4,0.231,0.33299999999999996,0.667,1,NA,0,2015-16
-Tavin Askew,3,0.273,0.33299999999999996,0.667,0,0,NA,2015-16
-Mitchell Badillo,3,0.022000000000000002,0.036000000000000004,1,0.027000000000000003,0,0,2015-16
-Phillip Johnson,2,0.4,1,0.5,0,0,NA,2015-16
-Jontrell Walker,2,0.018000000000000002,0,0,0,0,NA,2015-16
-Sam Burmeister,1,0.016,0.04,1,0,0,NA,2015-16
-Total,67,0.1,0.08900000000000001,0.483,0.013999999999999999,0.006,0.16699999999999998,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Derail Green,16,0.171,0.22,0.643,0.016,0,0,2015-16,UIW
+Kyle Hittle,13,0.11199999999999999,0.09699999999999999,0.5379999999999999,0,0,NA,2015-16,UIW
+Shawn Johnson,13,0.18100000000000002,0.077,0.231,0,0,NA,2015-16,UIW
+Simi Socks,5,0.1,0.037000000000000005,0.2,0,0,NA,2015-16,UIW
+Tyler Singleton,5,0.073,0.045,0.33299999999999996,0.034,0.045,0.5,2015-16,UIW
+Jerred Kite,4,0.231,0.33299999999999996,0.667,1,NA,0,2015-16,UIW
+Tavin Askew,3,0.273,0.33299999999999996,0.667,0,0,NA,2015-16,UIW
+Mitchell Badillo,3,0.022000000000000002,0.036000000000000004,1,0.027000000000000003,0,0,2015-16,UIW
+Phillip Johnson,2,0.4,1,0.5,0,0,NA,2015-16,UIW
+Jontrell Walker,2,0.018000000000000002,0,0,0,0,NA,2015-16,UIW
+Sam Burmeister,1,0.016,0.04,1,0,0,NA,2015-16,UIW
+Total,67,0.1,0.08900000000000001,0.483,0.013999999999999999,0.006,0.16699999999999998,2015-16,UIW

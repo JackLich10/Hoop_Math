@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.425,0.535,0.135,0.618,2018-19
-2pt Jumpers,0.302,0.364,0.047,0.382,2018-19
-3pt Shots,0.273,0.34600000000000003,0.019,0.35200000000000004,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.425,0.535,0.135,0.618,2018-19,Stanford
+2pt Jumpers,0.302,0.364,0.047,0.382,2018-19,Stanford
+3pt Shots,0.273,0.34600000000000003,0.019,0.35200000000000004,2018-19,Stanford

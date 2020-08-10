@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tony Washington,34,0.262,0.268,0.688,0.047,0.045,0.5,2017-18
-B.J. Johnson,26,0.19399999999999998,0.191,0.65,0.03,0.025,0.33299999999999996,2017-18
-Isiah Deas,9,0.087,0.125,0.833,0.048,0.062,0.33299999999999996,2017-18
-Miles Brookins,8,0.16699999999999998,0.2,0.75,0,0,NA,2017-18
-Saul Phiri,5,0.139,0.267,0.8,0,0,NA,2017-18
-Amar Stukes,3,0.034,0,0,0,0,NA,2017-18
-Pookie Powell,1,0.006999999999999999,0.012,1,0,0,NA,2017-18
-Cian Sullivan,1,0.5,NA,0,0,NA,NA,2017-18
-Johnnie Shuler,1,0,0,NA,0,0,NA,2017-18
-Total,88,0.11800000000000001,0.136,0.6709999999999999,0.02,0.019,0.364,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tony Washington,34,0.262,0.268,0.688,0.047,0.045,0.5,2017-18,LaSalle
+B.J. Johnson,26,0.19399999999999998,0.191,0.65,0.03,0.025,0.33299999999999996,2017-18,LaSalle
+Isiah Deas,9,0.087,0.125,0.833,0.048,0.062,0.33299999999999996,2017-18,LaSalle
+Miles Brookins,8,0.16699999999999998,0.2,0.75,0,0,NA,2017-18,LaSalle
+Saul Phiri,5,0.139,0.267,0.8,0,0,NA,2017-18,LaSalle
+Amar Stukes,3,0.034,0,0,0,0,NA,2017-18,LaSalle
+Pookie Powell,1,0.006999999999999999,0.012,1,0,0,NA,2017-18,LaSalle
+Cian Sullivan,1,0.5,NA,0,0,NA,NA,2017-18,LaSalle
+Johnnie Shuler,1,0,0,NA,0,0,NA,2017-18,LaSalle
+Total,88,0.11800000000000001,0.136,0.6709999999999999,0.02,0.019,0.364,2017-18,LaSalle

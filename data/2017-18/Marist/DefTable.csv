@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.376,0.58,0.07400000000000001,0.626,2017-18
-2pt Jumpers,0.23,0.392,0.037000000000000005,0.40700000000000003,2017-18
-3pt Shots,0.39399999999999996,0.369,0.006,0.371,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.376,0.58,0.07400000000000001,0.626,2017-18,Marist
+2pt Jumpers,0.23,0.392,0.037000000000000005,0.40700000000000003,2017-18,Marist
+3pt Shots,0.39399999999999996,0.369,0.006,0.371,2017-18,Marist

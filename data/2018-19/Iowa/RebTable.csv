@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tyler Cook,28,0.127,0.14400000000000002,0.741,0,0,NA,2018-19
-Luka Garza,23,0.183,0.212,0.818,0,0,NA,2018-19
-Ryan Kriener,18,0.239,0.24,0.75,0.043,0,0,2018-19
-Joe Wieskamp,17,0.14,0.175,0.7859999999999999,0.059000000000000004,0.33299999999999996,1,2018-19
-Nicholas Baer,10,0.175,0.16,0.5710000000000001,0,0,NA,2018-19
-Jordan Bohannon,5,0.038,0,0,0.028999999999999998,0.077,1,2018-19
-Connor McCaffery,3,0.047,0.095,1,0.04,0,0,2018-19
-Isaiah Moss,3,0.027000000000000003,0.061,1,0.011000000000000001,0,0,2018-19
-Maishe Dailey,1,0.045,0,0,0,0,NA,2018-19
-Riley Till,1,0.125,0,0,0,NA,NA,2018-19
-Total,109,0.126,0.15,0.7340000000000001,0.013000000000000001,0.012,0.33299999999999996,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tyler Cook,28,0.127,0.14400000000000002,0.741,0,0,NA,2018-19,Iowa
+Luka Garza,23,0.183,0.212,0.818,0,0,NA,2018-19,Iowa
+Ryan Kriener,18,0.239,0.24,0.75,0.043,0,0,2018-19,Iowa
+Joe Wieskamp,17,0.14,0.175,0.7859999999999999,0.059000000000000004,0.33299999999999996,1,2018-19,Iowa
+Nicholas Baer,10,0.175,0.16,0.5710000000000001,0,0,NA,2018-19,Iowa
+Jordan Bohannon,5,0.038,0,0,0.028999999999999998,0.077,1,2018-19,Iowa
+Connor McCaffery,3,0.047,0.095,1,0.04,0,0,2018-19,Iowa
+Isaiah Moss,3,0.027000000000000003,0.061,1,0.011000000000000001,0,0,2018-19,Iowa
+Maishe Dailey,1,0.045,0,0,0,0,NA,2018-19,Iowa
+Riley Till,1,0.125,0,0,0,NA,NA,2018-19,Iowa
+Total,109,0.126,0.15,0.7340000000000001,0.013000000000000001,0.012,0.33299999999999996,2018-19,Iowa

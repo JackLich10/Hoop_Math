@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.292,0.552,0.122,0.628,2014-15
-2pt Jumpers,0.3,0.34299999999999997,0.064,0.366,2014-15
-3pt Shots,0.408,0.325,0.015,0.33,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.292,0.552,0.122,0.628,2014-15,CoastalCarolina
+2pt Jumpers,0.3,0.34299999999999997,0.064,0.366,2014-15,CoastalCarolina
+3pt Shots,0.408,0.325,0.015,0.33,2014-15,CoastalCarolina

@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-A.J. Hammons,33,0.20600000000000002,0.157,0.5379999999999999,0.045,0.059000000000000004,0.429,2012-13
-Donnie Hale,21,0.29100000000000004,0.207,0.375,0.078,0.045,0.2,2012-13
-Terone Johnson,12,0.059000000000000004,0.091,0.75,0.022000000000000002,0.015,0.25,2012-13
-Sandi Marcius,9,0.188,0.133,0.444,0,0,NA,2012-13
-Ronnie Johnson,9,0.036000000000000004,0.027000000000000003,0.4,0.024,0.02,0.25,2012-13
-Rapheal Davis,9,0.095,0.055999999999999994,0.33299999999999996,0.049,0.1,1,2012-13
-D.J. Byrd,8,0.28,0.308,0.5710000000000001,0.026000000000000002,0.067,1,2012-13
-Jay Simpson,6,0.5,0.429,0.6,0.071,0.25,1,2012-13
-Travis Carroll,6,0.2,0.16699999999999998,0.75,0.1,0,0,2012-13
-Anthony Johnson,4,0.067,0.115,1,0.011000000000000001,0,0,2012-13
-Jacob Lawson,3,0.13,0.067,0.33299999999999996,0,0,NA,2012-13
-Dru Anthrop,1,0.16699999999999998,0.25,1,0,0,NA,2012-13
-Total,121,0.134,0.12,0.527,0.033,0.035,0.37,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+A.J. Hammons,33,0.20600000000000002,0.157,0.5379999999999999,0.045,0.059000000000000004,0.429,2012-13,Purdue
+Donnie Hale,21,0.29100000000000004,0.207,0.375,0.078,0.045,0.2,2012-13,Purdue
+Terone Johnson,12,0.059000000000000004,0.091,0.75,0.022000000000000002,0.015,0.25,2012-13,Purdue
+Sandi Marcius,9,0.188,0.133,0.444,0,0,NA,2012-13,Purdue
+Ronnie Johnson,9,0.036000000000000004,0.027000000000000003,0.4,0.024,0.02,0.25,2012-13,Purdue
+Rapheal Davis,9,0.095,0.055999999999999994,0.33299999999999996,0.049,0.1,1,2012-13,Purdue
+D.J. Byrd,8,0.28,0.308,0.5710000000000001,0.026000000000000002,0.067,1,2012-13,Purdue
+Jay Simpson,6,0.5,0.429,0.6,0.071,0.25,1,2012-13,Purdue
+Travis Carroll,6,0.2,0.16699999999999998,0.75,0.1,0,0,2012-13,Purdue
+Anthony Johnson,4,0.067,0.115,1,0.011000000000000001,0,0,2012-13,Purdue
+Jacob Lawson,3,0.13,0.067,0.33299999999999996,0,0,NA,2012-13,Purdue
+Dru Anthrop,1,0.16699999999999998,0.25,1,0,0,NA,2012-13,Purdue
+Total,121,0.134,0.12,0.527,0.033,0.035,0.37,2012-13,Purdue

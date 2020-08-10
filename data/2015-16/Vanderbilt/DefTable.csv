@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.353,0.536,0.15,0.631,2015-16
-2pt Jumpers,0.341,0.312,0.10099999999999999,0.34700000000000003,2015-16
-3pt Shots,0.306,0.294,0.006,0.29600000000000004,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.353,0.536,0.15,0.631,2015-16,Vanderbilt
+2pt Jumpers,0.341,0.312,0.10099999999999999,0.34700000000000003,2015-16,Vanderbilt
+3pt Shots,0.306,0.294,0.006,0.29600000000000004,2015-16,Vanderbilt

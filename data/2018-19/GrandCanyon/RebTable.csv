@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Carlos Johnson,21,0.098,0.078,0.5,0.064,0.09699999999999999,0.6,2018-19
-Michael Finke,18,0.191,0.16699999999999998,0.706,0.018000000000000002,0.032,1,2018-19
-Alessandro Lever,16,0.10400000000000001,0.125,0.7140000000000001,0.011000000000000001,0,0,2018-19
-Oscar Frayer,8,0.127,0.132,0.7140000000000001,0.031,0.1,1,2018-19
-Matt Jackson,7,0.154,0.16699999999999998,0.667,0,0,NA,2018-19
-Trey Drechsel,7,0.094,0.098,0.667,0,0,NA,2018-19
-Tim Finke,6,0.158,0.17600000000000002,0.5,0,0,NA,2018-19
-Damari Milstead,5,0.039,0.06,0.75,0.01,0.026000000000000002,1,2018-19
-Roberts Blumbergs,3,0.13,0.062,0.33299999999999996,0,0,NA,2018-19
-Gerard Martin,1,0.043,0.067,1,0,NA,NA,2018-19
-Total,92,0.109,0.11199999999999999,0.638,0.018000000000000002,0.031,0.667,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Carlos Johnson,21,0.098,0.078,0.5,0.064,0.09699999999999999,0.6,2018-19,GrandCanyon
+Michael Finke,18,0.191,0.16699999999999998,0.706,0.018000000000000002,0.032,1,2018-19,GrandCanyon
+Alessandro Lever,16,0.10400000000000001,0.125,0.7140000000000001,0.011000000000000001,0,0,2018-19,GrandCanyon
+Oscar Frayer,8,0.127,0.132,0.7140000000000001,0.031,0.1,1,2018-19,GrandCanyon
+Matt Jackson,7,0.154,0.16699999999999998,0.667,0,0,NA,2018-19,GrandCanyon
+Trey Drechsel,7,0.094,0.098,0.667,0,0,NA,2018-19,GrandCanyon
+Tim Finke,6,0.158,0.17600000000000002,0.5,0,0,NA,2018-19,GrandCanyon
+Damari Milstead,5,0.039,0.06,0.75,0.01,0.026000000000000002,1,2018-19,GrandCanyon
+Roberts Blumbergs,3,0.13,0.062,0.33299999999999996,0,0,NA,2018-19,GrandCanyon
+Gerard Martin,1,0.043,0.067,1,0,NA,NA,2018-19,GrandCanyon
+Total,92,0.109,0.11199999999999999,0.638,0.018000000000000002,0.031,0.667,2018-19,GrandCanyon

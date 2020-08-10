@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.37200000000000005,0.555,0.114,0.626,2014-15
-2pt Jumpers,0.28,0.37,0.038,0.385,2014-15
-3pt Shots,0.349,0.33299999999999996,0,0.33299999999999996,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.37200000000000005,0.555,0.114,0.626,2014-15,ArkansasSt.
+2pt Jumpers,0.28,0.37,0.038,0.385,2014-15,ArkansasSt.
+3pt Shots,0.349,0.33299999999999996,0,0.33299999999999996,2014-15,ArkansasSt.

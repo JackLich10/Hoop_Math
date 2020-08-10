@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.34,0.535,0.134,0.617,2019-20
-2pt Jumpers,0.301,0.385,0.037000000000000005,0.4,2019-20
-3pt Shots,0.358,0.353,0.004,0.354,2019-20
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.34,0.535,0.134,0.617,2019-20,Quinnipiac
+2pt Jumpers,0.301,0.385,0.037000000000000005,0.4,2019-20,Quinnipiac
+3pt Shots,0.358,0.353,0.004,0.354,2019-20,Quinnipiac

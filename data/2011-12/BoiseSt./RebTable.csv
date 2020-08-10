@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kenny Buckner,36,0.24,0.203,0.667,0.182,0.239,0.611,2011-12
-Ryan Watkins,24,0.319,0.314,0.733,0.079,0.077,0.33299999999999996,2011-12
-Thomas Bropleh,13,0.18600000000000003,0.24,0.75,0.10400000000000001,0.214,0.6,2011-12
-Drew Wiley,9,0.5,0.75,0.6,0.235,0.2,0.25,2011-12
-Derrick Marks,8,0.068,0.02,0.2,0.028999999999999998,0.051,0.667,2011-12
-Anthony Drmic,5,0.096,0.031,0.2,0,0,NA,2011-12
-Westly Perryman,5,0.048,0.055999999999999994,0.667,0.061,0,0,2011-12
-Jarrell Crayton,4,0.14300000000000002,0,0,0.231,0.375,1,2011-12
-Igor Hadziomerovic,2,0.111,0.16699999999999998,1,0.043,0,0,2011-12
-Tre Nichols,1,0.048,0.083,1,0,0,NA,2011-12
-Total,107,0.15,0.14,0.613,0.078,0.11,0.511,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kenny Buckner,36,0.24,0.203,0.667,0.182,0.239,0.611,2011-12,BoiseSt.
+Ryan Watkins,24,0.319,0.314,0.733,0.079,0.077,0.33299999999999996,2011-12,BoiseSt.
+Thomas Bropleh,13,0.18600000000000003,0.24,0.75,0.10400000000000001,0.214,0.6,2011-12,BoiseSt.
+Drew Wiley,9,0.5,0.75,0.6,0.235,0.2,0.25,2011-12,BoiseSt.
+Derrick Marks,8,0.068,0.02,0.2,0.028999999999999998,0.051,0.667,2011-12,BoiseSt.
+Anthony Drmic,5,0.096,0.031,0.2,0,0,NA,2011-12,BoiseSt.
+Westly Perryman,5,0.048,0.055999999999999994,0.667,0.061,0,0,2011-12,BoiseSt.
+Jarrell Crayton,4,0.14300000000000002,0,0,0.231,0.375,1,2011-12,BoiseSt.
+Igor Hadziomerovic,2,0.111,0.16699999999999998,1,0.043,0,0,2011-12,BoiseSt.
+Tre Nichols,1,0.048,0.083,1,0,0,NA,2011-12,BoiseSt.
+Total,107,0.15,0.14,0.613,0.078,0.11,0.511,2011-12,BoiseSt.

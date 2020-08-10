@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.35,0.596,0.124,0.68,2013-14
-2pt Jumpers,0.299,0.316,0.063,0.337,2013-14
-3pt Shots,0.35100000000000003,0.32799999999999996,0.005,0.33,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.35,0.596,0.124,0.68,2013-14,ClevelandSt.
+2pt Jumpers,0.299,0.316,0.063,0.337,2013-14,ClevelandSt.
+3pt Shots,0.35100000000000003,0.32799999999999996,0.005,0.33,2013-14,ClevelandSt.

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.239,0.657,0.063,0.701,2017-18
-2pt Jumpers,0.307,0.44799999999999995,0.049,0.47100000000000003,2017-18
-3pt Shots,0.45399999999999996,0.36700000000000005,0.004,0.368,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.239,0.657,0.063,0.701,2017-18,SouthernMiss.
+2pt Jumpers,0.307,0.44799999999999995,0.049,0.47100000000000003,2017-18,SouthernMiss.
+3pt Shots,0.45399999999999996,0.36700000000000005,0.004,0.368,2017-18,SouthernMiss.

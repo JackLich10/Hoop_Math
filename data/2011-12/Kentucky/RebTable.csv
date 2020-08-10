@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Anthony Davis,61,0.23600000000000002,0.237,0.878,0.14,0.16399999999999998,0.45,2011-12
-Terrence Jones,50,0.174,0.179,0.759,0.152,0.105,0.19,2011-12
-Michael Kidd-Gilchrist,32,0.11199999999999999,0.1,0.625,0.121,0.149,0.43799999999999994,2011-12
-Darius Miller,15,0.22399999999999998,0.222,0.727,0.038,0.039,0.5,2011-12
-Kyle Wiltjer,12,0.375,0.375,0.667,0.053,0.05,0.33299999999999996,2011-12
-Eloy Vargas,10,0.3,0.33299999999999996,0.667,0.28,0.16699999999999998,0.14300000000000002,2011-12
-Doron Lamb,7,0.063,0.057999999999999996,0.6,0.016,0,0,2011-12
-Marquis Teague,3,0.013000000000000001,0.023,1,0.009000000000000001,0.03,1,2011-12
-Twany Beckham,1,1,NA,0,NA,NA,NA,2011-12
-Total,191,0.145,0.155,0.7609999999999999,0.087,0.084,0.33799999999999997,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Anthony Davis,61,0.23600000000000002,0.237,0.878,0.14,0.16399999999999998,0.45,2011-12,Kentucky
+Terrence Jones,50,0.174,0.179,0.759,0.152,0.105,0.19,2011-12,Kentucky
+Michael Kidd-Gilchrist,32,0.11199999999999999,0.1,0.625,0.121,0.149,0.43799999999999994,2011-12,Kentucky
+Darius Miller,15,0.22399999999999998,0.222,0.727,0.038,0.039,0.5,2011-12,Kentucky
+Kyle Wiltjer,12,0.375,0.375,0.667,0.053,0.05,0.33299999999999996,2011-12,Kentucky
+Eloy Vargas,10,0.3,0.33299999999999996,0.667,0.28,0.16699999999999998,0.14300000000000002,2011-12,Kentucky
+Doron Lamb,7,0.063,0.057999999999999996,0.6,0.016,0,0,2011-12,Kentucky
+Marquis Teague,3,0.013000000000000001,0.023,1,0.009000000000000001,0.03,1,2011-12,Kentucky
+Twany Beckham,1,1,NA,0,NA,NA,NA,2011-12,Kentucky
+Total,191,0.145,0.155,0.7609999999999999,0.087,0.084,0.33799999999999997,2011-12,Kentucky

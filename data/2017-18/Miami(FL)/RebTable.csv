@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Dewan Huell,32,0.19899999999999998,0.222,0.857,0.036000000000000004,0.077,0.75,2017-18
-Ebuka Izundu,21,0.27699999999999997,0.2,0.611,0.077,0,0,2017-18
-Anthony Lawrence,12,0.185,0.152,0.5,0.036000000000000004,0.053,0.5,2017-18
-Bruce Brown,9,0.073,0.083,0.667,0.065,0.071,0.33299999999999996,2017-18
-Sam Waardenburg,8,0.41200000000000003,0.375,0.429,0.111,0,0,2017-18
-DJ Vasiljevic,8,0.135,0.087,0.4,0.065,0.071,0.5,2017-18
-Lonnie Walker IV,6,0.032,0.054000000000000006,1,0.033,0,0,2017-18
-Rodney Miller,3,0.429,0.5,0.667,0,0,NA,2017-18
-Ja'Quan Newton,3,0.011000000000000001,0,0,0.016,0,0,2017-18
-"II,ANTHONY",3,0.33299999999999996,0.25,0.33299999999999996,0,0,NA,2017-18
-Chris Lykes,1,0,0,NA,0.022000000000000002,0.062,1,2017-18
-Total,106,0.127,0.128,0.655,0.037000000000000005,0.036000000000000004,0.35,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Dewan Huell,32,0.19899999999999998,0.222,0.857,0.036000000000000004,0.077,0.75,2017-18,Miami(FL)
+Ebuka Izundu,21,0.27699999999999997,0.2,0.611,0.077,0,0,2017-18,Miami(FL)
+Anthony Lawrence,12,0.185,0.152,0.5,0.036000000000000004,0.053,0.5,2017-18,Miami(FL)
+Bruce Brown,9,0.073,0.083,0.667,0.065,0.071,0.33299999999999996,2017-18,Miami(FL)
+Sam Waardenburg,8,0.41200000000000003,0.375,0.429,0.111,0,0,2017-18,Miami(FL)
+DJ Vasiljevic,8,0.135,0.087,0.4,0.065,0.071,0.5,2017-18,Miami(FL)
+Lonnie Walker IV,6,0.032,0.054000000000000006,1,0.033,0,0,2017-18,Miami(FL)
+Rodney Miller,3,0.429,0.5,0.667,0,0,NA,2017-18,Miami(FL)
+Ja'Quan Newton,3,0.011000000000000001,0,0,0.016,0,0,2017-18,Miami(FL)
+"II,ANTHONY",3,0.33299999999999996,0.25,0.33299999999999996,0,0,NA,2017-18,Miami(FL)
+Chris Lykes,1,0,0,NA,0.022000000000000002,0.062,1,2017-18,Miami(FL)
+Total,106,0.127,0.128,0.655,0.037000000000000005,0.036000000000000004,0.35,2017-18,Miami(FL)

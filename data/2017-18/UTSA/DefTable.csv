@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.287,0.59,0.092,0.65,2017-18
-2pt Jumpers,0.314,0.348,0.054000000000000006,0.368,2017-18
-3pt Shots,0.39899999999999997,0.344,0.004,0.34600000000000003,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.287,0.59,0.092,0.65,2017-18,UTSA
+2pt Jumpers,0.314,0.348,0.054000000000000006,0.368,2017-18,UTSA
+3pt Shots,0.39899999999999997,0.344,0.004,0.34600000000000003,2017-18,UTSA

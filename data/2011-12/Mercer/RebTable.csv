@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Justin Cecil,15,0.16399999999999998,0.22899999999999998,0.8,0.08800000000000001,0.043,0.2,2011-12
-Jake Gollon,15,0.098,0.133,0.769,0.023,0,0,2011-12
-Monty Brown,14,0.133,0.179,0.833,0.1,0,0,2011-12
-Daniel Coursey,14,0.078,0.07400000000000001,0.636,0.045,0.028999999999999998,0.33299999999999996,2011-12
-Bud Thomas,8,0.06,0.059000000000000004,0.667,0.045,0.091,1,2011-12
-Chris Smith,5,0.185,0.133,0.4,0,0,NA,2011-12
-Paul Larsen,5,0.121,0.2,0.5,0.05,0.16699999999999998,1,2011-12
-Travis Smith,3,0.065,0.091,1,0.012,0,0,2011-12
-T.J. Hallice,3,0.2,0.33299999999999996,0.667,0,NA,NA,2011-12
-Jibri Bryan,1,0.125,0.33299999999999996,1,0,0,NA,2011-12
-Shaquille Harris,1,0.083,0.125,1,0,0,NA,2011-12
-Darious Moten,1,0.25,0,0,0,NA,NA,2011-12
-Total,85,0.1,0.11800000000000001,0.71,0.028999999999999998,0.023,0.312,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Justin Cecil,15,0.16399999999999998,0.22899999999999998,0.8,0.08800000000000001,0.043,0.2,2011-12,Mercer
+Jake Gollon,15,0.098,0.133,0.769,0.023,0,0,2011-12,Mercer
+Monty Brown,14,0.133,0.179,0.833,0.1,0,0,2011-12,Mercer
+Daniel Coursey,14,0.078,0.07400000000000001,0.636,0.045,0.028999999999999998,0.33299999999999996,2011-12,Mercer
+Bud Thomas,8,0.06,0.059000000000000004,0.667,0.045,0.091,1,2011-12,Mercer
+Chris Smith,5,0.185,0.133,0.4,0,0,NA,2011-12,Mercer
+Paul Larsen,5,0.121,0.2,0.5,0.05,0.16699999999999998,1,2011-12,Mercer
+Travis Smith,3,0.065,0.091,1,0.012,0,0,2011-12,Mercer
+T.J. Hallice,3,0.2,0.33299999999999996,0.667,0,NA,NA,2011-12,Mercer
+Jibri Bryan,1,0.125,0.33299999999999996,1,0,0,NA,2011-12,Mercer
+Shaquille Harris,1,0.083,0.125,1,0,0,NA,2011-12,Mercer
+Darious Moten,1,0.25,0,0,0,NA,NA,2011-12,Mercer
+Total,85,0.1,0.11800000000000001,0.71,0.028999999999999998,0.023,0.312,2011-12,Mercer

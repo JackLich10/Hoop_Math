@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.322,0.59,0.124,0.674,2015-16
-2pt Jumpers,0.295,0.392,0.065,0.42,2015-16
-3pt Shots,0.38299999999999995,0.389,0.003,0.39,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.322,0.59,0.124,0.674,2015-16,SouthDakota
+2pt Jumpers,0.295,0.392,0.065,0.42,2015-16,SouthDakota
+3pt Shots,0.38299999999999995,0.389,0.003,0.39,2015-16,SouthDakota

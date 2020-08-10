@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.39799999999999996,0.61,0.099,0.6779999999999999,2017-18
-2pt Jumpers,0.258,0.4,0.044000000000000004,0.419,2017-18
-3pt Shots,0.344,0.38,0.005,0.382,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.39799999999999996,0.61,0.099,0.6779999999999999,2017-18,SouthernUtah
+2pt Jumpers,0.258,0.4,0.044000000000000004,0.419,2017-18,SouthernUtah
+3pt Shots,0.344,0.38,0.005,0.382,2017-18,SouthernUtah

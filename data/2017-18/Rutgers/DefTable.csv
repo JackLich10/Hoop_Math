@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.349,0.5660000000000001,0.145,0.6609999999999999,2017-18
-2pt Jumpers,0.27,0.349,0.06,0.371,2017-18
-3pt Shots,0.38,0.32,0.012,0.324,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.349,0.5660000000000001,0.145,0.6609999999999999,2017-18,Rutgers
+2pt Jumpers,0.27,0.349,0.06,0.371,2017-18,Rutgers
+3pt Shots,0.38,0.32,0.012,0.324,2017-18,Rutgers

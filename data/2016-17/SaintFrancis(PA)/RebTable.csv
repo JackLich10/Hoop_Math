@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Josh Nebo,38,0.225,0.243,0.75,0.015,0.018000000000000002,0.5,2016-17
-Keith Braxton,22,0.105,0.11199999999999999,0.65,0.016,0.042,1,2016-17
-Isaiah Blackmon,10,0.059000000000000004,0.092,0.75,0.034,0.04,0.5,2016-17
-Deivydas Kuzavas,7,0.294,0.125,0.2,0.182,0.33299999999999996,0.5,2016-17
-Randall Gaskins,5,0.081,0.079,0.6,0,0,NA,2016-17
-Jamaal King,5,0.037000000000000005,0.062,1,0.012,0,0,2016-17
-Ifeanyi Umezurike,4,0.125,0.14300000000000002,0.5,0.16699999999999998,NA,0,2016-17
-Patrick Wrencher,3,0.105,0.16699999999999998,1,0.062,0,0,2016-17
-Georgios Angelou,3,0,0,NA,0.04,0.14300000000000002,1,2016-17
-Andre Wolford,1,0.032,0.05,1,0,0,NA,2016-17
-Total,98,0.107,0.126,0.6990000000000001,0.022000000000000002,0.024,0.41700000000000004,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Josh Nebo,38,0.225,0.243,0.75,0.015,0.018000000000000002,0.5,2016-17,SaintFrancis(PA)
+Keith Braxton,22,0.105,0.11199999999999999,0.65,0.016,0.042,1,2016-17,SaintFrancis(PA)
+Isaiah Blackmon,10,0.059000000000000004,0.092,0.75,0.034,0.04,0.5,2016-17,SaintFrancis(PA)
+Deivydas Kuzavas,7,0.294,0.125,0.2,0.182,0.33299999999999996,0.5,2016-17,SaintFrancis(PA)
+Randall Gaskins,5,0.081,0.079,0.6,0,0,NA,2016-17,SaintFrancis(PA)
+Jamaal King,5,0.037000000000000005,0.062,1,0.012,0,0,2016-17,SaintFrancis(PA)
+Ifeanyi Umezurike,4,0.125,0.14300000000000002,0.5,0.16699999999999998,NA,0,2016-17,SaintFrancis(PA)
+Patrick Wrencher,3,0.105,0.16699999999999998,1,0.062,0,0,2016-17,SaintFrancis(PA)
+Georgios Angelou,3,0,0,NA,0.04,0.14300000000000002,1,2016-17,SaintFrancis(PA)
+Andre Wolford,1,0.032,0.05,1,0,0,NA,2016-17,SaintFrancis(PA)
+Total,98,0.107,0.126,0.6990000000000001,0.022000000000000002,0.024,0.41700000000000004,2016-17,SaintFrancis(PA)

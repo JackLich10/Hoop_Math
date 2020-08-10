@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.375,0.51,0.17800000000000002,0.621,2015-16
-2pt Jumpers,0.253,0.365,0.075,0.395,2015-16
-3pt Shots,0.37200000000000005,0.374,0.01,0.37799999999999995,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.375,0.51,0.17800000000000002,0.621,2015-16,NorfolkSt.
+2pt Jumpers,0.253,0.365,0.075,0.395,2015-16,NorfolkSt.
+3pt Shots,0.37200000000000005,0.374,0.01,0.37799999999999995,2015-16,NorfolkSt.

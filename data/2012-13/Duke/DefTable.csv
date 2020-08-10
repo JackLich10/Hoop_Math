@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.345,0.616,0.099,0.684,2012-13
-2pt Jumpers,0.387,0.324,0.071,0.349,2012-13
-3pt Shots,0.26899999999999996,0.29,0.016,0.295,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.345,0.616,0.099,0.684,2012-13,Duke
+2pt Jumpers,0.387,0.324,0.071,0.349,2012-13,Duke
+3pt Shots,0.26899999999999996,0.29,0.016,0.295,2012-13,Duke

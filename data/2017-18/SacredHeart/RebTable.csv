@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Joseph Lopez,41,0.187,0.2,0.625,0.011000000000000001,0,0,2017-18
-Mario Matasovic,20,0.128,0.135,0.7,0,0,NA,2017-18
-E.J. Anosike,18,0.27399999999999997,0.281,0.529,0.023,0,0,2017-18
-De'Von Barnett,9,0.1,0.105,0.667,0,0,NA,2017-18
-Kinnon LaRose,7,0.107,0.125,0.833,0,0,NA,2017-18
-Zach Radz,4,0.098,0.105,0.5,0,0,NA,2017-18
-Sean Hoehn,4,0.013999999999999999,0.013999999999999999,0.5,0.036000000000000004,0.083,1,2017-18
-Chris Robinson,4,0.1,0.133,0.667,0,0,NA,2017-18
-Alex Watson,2,0.045,0.091,1,0.05,0,0,2017-18
-Total,109,0.11900000000000001,0.132,0.637,0.011000000000000001,0.008,0.25,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Joseph Lopez,41,0.187,0.2,0.625,0.011000000000000001,0,0,2017-18,SacredHeart
+Mario Matasovic,20,0.128,0.135,0.7,0,0,NA,2017-18,SacredHeart
+E.J. Anosike,18,0.27399999999999997,0.281,0.529,0.023,0,0,2017-18,SacredHeart
+De'Von Barnett,9,0.1,0.105,0.667,0,0,NA,2017-18,SacredHeart
+Kinnon LaRose,7,0.107,0.125,0.833,0,0,NA,2017-18,SacredHeart
+Zach Radz,4,0.098,0.105,0.5,0,0,NA,2017-18,SacredHeart
+Sean Hoehn,4,0.013999999999999999,0.013999999999999999,0.5,0.036000000000000004,0.083,1,2017-18,SacredHeart
+Chris Robinson,4,0.1,0.133,0.667,0,0,NA,2017-18,SacredHeart
+Alex Watson,2,0.045,0.091,1,0.05,0,0,2017-18,SacredHeart
+Total,109,0.11900000000000001,0.132,0.637,0.011000000000000001,0.008,0.25,2017-18,SacredHeart

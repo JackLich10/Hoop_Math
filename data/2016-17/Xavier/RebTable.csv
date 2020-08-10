@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Rashid Gaston,35,0.225,0.198,0.581,0.07,0.042,0.25,2016-17
-Tyrique Jones,28,0.26,0.306,0.76,0.17600000000000002,0,0,2016-17
-Sean O'Mara,20,0.187,0.18100000000000002,0.65,0,0,NA,2016-17
-J.P. Macura,18,0.113,0.10300000000000001,0.529,0.012,0.036000000000000004,1,2016-17
-Kaiser Gates,14,0.33299999999999996,0.42100000000000004,0.667,0.222,0.25,0.5,2016-17
-Trevon Bluiett,10,0.085,0.07,0.5,0.013999999999999999,0.016,0.5,2016-17
-Malcolm Bernard,7,0.07200000000000001,0.114,0.8,0.062,0,0,2016-17
-Edmond Sumner,3,0.027000000000000003,0.015,0.33299999999999996,0,0,NA,2016-17
-Quentin Goodin,3,0.027000000000000003,0.042,0.667,0,0,NA,2016-17
-Total,138,0.135,0.145,0.629,0.028999999999999998,0.023,0.308,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Rashid Gaston,35,0.225,0.198,0.581,0.07,0.042,0.25,2016-17,Xavier
+Tyrique Jones,28,0.26,0.306,0.76,0.17600000000000002,0,0,2016-17,Xavier
+Sean O'Mara,20,0.187,0.18100000000000002,0.65,0,0,NA,2016-17,Xavier
+J.P. Macura,18,0.113,0.10300000000000001,0.529,0.012,0.036000000000000004,1,2016-17,Xavier
+Kaiser Gates,14,0.33299999999999996,0.42100000000000004,0.667,0.222,0.25,0.5,2016-17,Xavier
+Trevon Bluiett,10,0.085,0.07,0.5,0.013999999999999999,0.016,0.5,2016-17,Xavier
+Malcolm Bernard,7,0.07200000000000001,0.114,0.8,0.062,0,0,2016-17,Xavier
+Edmond Sumner,3,0.027000000000000003,0.015,0.33299999999999996,0,0,NA,2016-17,Xavier
+Quentin Goodin,3,0.027000000000000003,0.042,0.667,0,0,NA,2016-17,Xavier
+Total,138,0.135,0.145,0.629,0.028999999999999998,0.023,0.308,2016-17,Xavier

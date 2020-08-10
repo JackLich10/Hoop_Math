@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.308,0.6409999999999999,0.091,0.705,2014-15
-2pt Jumpers,0.32799999999999996,0.35,0.1,0.38799999999999996,2014-15
-3pt Shots,0.364,0.35200000000000004,0.005,0.353,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.308,0.6409999999999999,0.091,0.705,2014-15,UNCGreensboro
+2pt Jumpers,0.32799999999999996,0.35,0.1,0.38799999999999996,2014-15,UNCGreensboro
+3pt Shots,0.364,0.35200000000000004,0.005,0.353,2014-15,UNCGreensboro

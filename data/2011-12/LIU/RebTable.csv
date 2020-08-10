@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jamal Olasewere,45,0.177,0.19899999999999998,0.7440000000000001,0.033,0,0,2011-12
-Julian Boyd,28,0.132,0.11199999999999999,0.6,0.023,0.02,0.33299999999999996,2011-12
-Kenny Onyechi,13,0.109,0.08800000000000001,0.41700000000000004,0.077,0,0,2011-12
-Booker Hucks,7,0.467,0.455,0.7140000000000001,0,NA,NA,2011-12
-Michael Culpo,6,0.1,0.059000000000000004,0.33299999999999996,0.027000000000000003,0.043,0.5,2011-12
-Arnold Mayorga,5,0.25,0.2,0.5,0.091,0,0,2011-12
-C.J. Garner,5,0.023,0.011000000000000001,0.25,0.008,0.026000000000000002,1,2011-12
-Brandon Thompson,3,0.111,0.059000000000000004,0.33299999999999996,0,0,NA,2011-12
-Pete Aguilar,1,0.33299999999999996,0.5,1,0,0,NA,2011-12
-ODOCH,1,0.5,0,0,0,0,NA,2011-12
-Total,114,0.11599999999999999,0.11699999999999999,0.612,0.023,0.019,0.3,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jamal Olasewere,45,0.177,0.19899999999999998,0.7440000000000001,0.033,0,0,2011-12,LIU
+Julian Boyd,28,0.132,0.11199999999999999,0.6,0.023,0.02,0.33299999999999996,2011-12,LIU
+Kenny Onyechi,13,0.109,0.08800000000000001,0.41700000000000004,0.077,0,0,2011-12,LIU
+Booker Hucks,7,0.467,0.455,0.7140000000000001,0,NA,NA,2011-12,LIU
+Michael Culpo,6,0.1,0.059000000000000004,0.33299999999999996,0.027000000000000003,0.043,0.5,2011-12,LIU
+Arnold Mayorga,5,0.25,0.2,0.5,0.091,0,0,2011-12,LIU
+C.J. Garner,5,0.023,0.011000000000000001,0.25,0.008,0.026000000000000002,1,2011-12,LIU
+Brandon Thompson,3,0.111,0.059000000000000004,0.33299999999999996,0,0,NA,2011-12,LIU
+Pete Aguilar,1,0.33299999999999996,0.5,1,0,0,NA,2011-12,LIU
+ODOCH,1,0.5,0,0,0,0,NA,2011-12,LIU
+Total,114,0.11599999999999999,0.11699999999999999,0.612,0.023,0.019,0.3,2011-12,LIU

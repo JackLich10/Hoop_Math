@@ -26,7 +26,8 @@ scrape_hoop_math_team_tables <- function(team, years, type = c("OffTable", "RebT
       html_text() %>% 
       str_split(., "word")
     # reshape table
-    df <- reshape_table(list_table = table_list, type = type, year = year) 
+    df <- reshape_table(list_table = table_list, type = type, year = year) %>% 
+      mutate(team = team)
     
     if (!exists("total_df")) {
       total_df <- df

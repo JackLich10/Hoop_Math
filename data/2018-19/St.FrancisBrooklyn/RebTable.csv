@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Deniz Celen,26,0.23,0.258,0.8,0.08199999999999999,0.139,0.833,2018-19
-Christian  Rohlehr,20,0.321,0.31,0.529,0.231,0.4,0.667,2018-19
-Rosel Hurley,18,0.105,0.141,0.8240000000000001,0.02,0,0,2018-19
-Cori Johnson,10,0.237,0.20800000000000002,0.556,0.038,0,0,2018-19
-Glenn Sanabria,9,0.044000000000000004,0.061,0.667,0.033,0,0,2018-19
-Yaradyah Evans,7,0.091,0.031,0.2,0.053,0.2,1,2018-19
-Jalen Jordan,6,0.061,0.031,0.25,0.012,0.028999999999999998,1,2018-19
-Chauncey Hawkins,4,0.032,0,0,0.012,0.033,1,2018-19
-Stevan Krtinic,4,0.042,0.071,1,0,0,NA,2018-19
-Keon Williams,4,0.133,0.13,0.75,0,0,NA,2018-19
-Jordan Williams,2,1,1,1,0.5,NA,0,2018-19
-Total,110,0.11599999999999999,0.131,0.632,0.039,0.066,0.588,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Deniz Celen,26,0.23,0.258,0.8,0.08199999999999999,0.139,0.833,2018-19,St.FrancisBrooklyn
+Christian  Rohlehr,20,0.321,0.31,0.529,0.231,0.4,0.667,2018-19,St.FrancisBrooklyn
+Rosel Hurley,18,0.105,0.141,0.8240000000000001,0.02,0,0,2018-19,St.FrancisBrooklyn
+Cori Johnson,10,0.237,0.20800000000000002,0.556,0.038,0,0,2018-19,St.FrancisBrooklyn
+Glenn Sanabria,9,0.044000000000000004,0.061,0.667,0.033,0,0,2018-19,St.FrancisBrooklyn
+Yaradyah Evans,7,0.091,0.031,0.2,0.053,0.2,1,2018-19,St.FrancisBrooklyn
+Jalen Jordan,6,0.061,0.031,0.25,0.012,0.028999999999999998,1,2018-19,St.FrancisBrooklyn
+Chauncey Hawkins,4,0.032,0,0,0.012,0.033,1,2018-19,St.FrancisBrooklyn
+Stevan Krtinic,4,0.042,0.071,1,0,0,NA,2018-19,St.FrancisBrooklyn
+Keon Williams,4,0.133,0.13,0.75,0,0,NA,2018-19,St.FrancisBrooklyn
+Jordan Williams,2,1,1,1,0.5,NA,0,2018-19,St.FrancisBrooklyn
+Total,110,0.11599999999999999,0.131,0.632,0.039,0.066,0.588,2018-19,St.FrancisBrooklyn

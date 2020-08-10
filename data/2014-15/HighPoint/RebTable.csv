@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-John Brown,59,0.20800000000000002,0.21,0.7290000000000001,0.054000000000000006,0.08,0.545,2014-15
-Devante Wallace,15,0.244,0.185,0.455,0.05,0.08,0.667,2014-15
-Tarique Thompson,13,0.128,0.15,0.6,0.055,0.045,0.33299999999999996,2014-15
-Lorenzo Cugini,7,0.08,0.055999999999999994,0.5,0.057,0.12,1,2014-15
-Adam Weary,4,0.036000000000000004,0.040999999999999995,0.667,0.013000000000000001,0.031,1,2014-15
-Haiishen McIntyre,3,0.043,0.04,0.5,0.027000000000000003,0,0,2014-15
-K.J. James,3,0.087,0.154,1,0.1,0.25,1,2014-15
-Brian Richardson,2,0.028999999999999998,0.055999999999999994,1,0,0,NA,2014-15
-Quincy Drye,1,0.16699999999999998,0,0,0,0,NA,2014-15
-Anthony Lindauer,1,0,0,NA,0,0,NA,2014-15
-Jorge Perez-Laham,1,0.043,0.1,1,0,0,NA,2014-15
-Austin White,1,0.05,0,0,0,0,NA,2014-15
-Total,110,0.124,0.131,0.659,0.039,0.061,0.609,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+John Brown,59,0.20800000000000002,0.21,0.7290000000000001,0.054000000000000006,0.08,0.545,2014-15,HighPoint
+Devante Wallace,15,0.244,0.185,0.455,0.05,0.08,0.667,2014-15,HighPoint
+Tarique Thompson,13,0.128,0.15,0.6,0.055,0.045,0.33299999999999996,2014-15,HighPoint
+Lorenzo Cugini,7,0.08,0.055999999999999994,0.5,0.057,0.12,1,2014-15,HighPoint
+Adam Weary,4,0.036000000000000004,0.040999999999999995,0.667,0.013000000000000001,0.031,1,2014-15,HighPoint
+Haiishen McIntyre,3,0.043,0.04,0.5,0.027000000000000003,0,0,2014-15,HighPoint
+K.J. James,3,0.087,0.154,1,0.1,0.25,1,2014-15,HighPoint
+Brian Richardson,2,0.028999999999999998,0.055999999999999994,1,0,0,NA,2014-15,HighPoint
+Quincy Drye,1,0.16699999999999998,0,0,0,0,NA,2014-15,HighPoint
+Anthony Lindauer,1,0,0,NA,0,0,NA,2014-15,HighPoint
+Jorge Perez-Laham,1,0.043,0.1,1,0,0,NA,2014-15,HighPoint
+Austin White,1,0.05,0,0,0,0,NA,2014-15,HighPoint
+Total,110,0.124,0.131,0.659,0.039,0.061,0.609,2014-15,HighPoint

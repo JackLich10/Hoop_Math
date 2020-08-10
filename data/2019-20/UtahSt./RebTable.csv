@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Justin Bean,49,0.235,0.252,0.667,0.015,0,0,2019-20
-Alphonso Anderson,14,0.14400000000000002,0.183,0.7859999999999999,0,0,NA,2019-20
-Neemias Queta,14,0.096,0.063,0.455,0.053,0.107,1,2019-20
-Trevin Dorius,14,0.298,0.33299999999999996,0.643,0,0,NA,2019-20
-Diogo Brito,7,0.071,0.078,0.667,0.031,0.111,1,2019-20
-Brock Miller,3,0.038,0.067,1,0.034,0.042,0.5,2019-20
-Kuba Karwowski,3,0.12,0.059000000000000004,0.33299999999999996,0,NA,NA,2019-20
-Roche Grootfaam,2,0.11800000000000001,0.1,0.5,0,0,NA,2019-20
-Abel Porter,2,0.016,0.03,1,0.067,0.33299999999999996,1,2019-20
-Klay Stall,1,0.2,0,0,NA,NA,NA,2019-20
-Sam Merrill,1,0,0,NA,0,0,NA,2019-20
-Sean Bairstow,1,0.024,0.042,1,0,0,NA,2019-20
-Total,111,0.121,0.129,0.647,0.021,0.040999999999999995,0.75,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Justin Bean,49,0.235,0.252,0.667,0.015,0,0,2019-20,UtahSt.
+Alphonso Anderson,14,0.14400000000000002,0.183,0.7859999999999999,0,0,NA,2019-20,UtahSt.
+Neemias Queta,14,0.096,0.063,0.455,0.053,0.107,1,2019-20,UtahSt.
+Trevin Dorius,14,0.298,0.33299999999999996,0.643,0,0,NA,2019-20,UtahSt.
+Diogo Brito,7,0.071,0.078,0.667,0.031,0.111,1,2019-20,UtahSt.
+Brock Miller,3,0.038,0.067,1,0.034,0.042,0.5,2019-20,UtahSt.
+Kuba Karwowski,3,0.12,0.059000000000000004,0.33299999999999996,0,NA,NA,2019-20,UtahSt.
+Roche Grootfaam,2,0.11800000000000001,0.1,0.5,0,0,NA,2019-20,UtahSt.
+Abel Porter,2,0.016,0.03,1,0.067,0.33299999999999996,1,2019-20,UtahSt.
+Klay Stall,1,0.2,0,0,NA,NA,NA,2019-20,UtahSt.
+Sam Merrill,1,0,0,NA,0,0,NA,2019-20,UtahSt.
+Sean Bairstow,1,0.024,0.042,1,0,0,NA,2019-20,UtahSt.
+Total,111,0.121,0.129,0.647,0.021,0.040999999999999995,0.75,2019-20,UtahSt.

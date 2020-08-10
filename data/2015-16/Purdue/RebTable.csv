@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-A.J. Hammons,35,0.17600000000000002,0.14,0.696,0.062,0.063,0.41700000000000004,2015-16
-Caleb Swanigan,20,0.233,0.24600000000000002,0.882,0.022000000000000002,0,0,2015-16
-Vince Edwards,20,0.10300000000000001,0.156,1,0.094,0.10400000000000001,0.41700000000000004,2015-16
-Isaac Haas,20,0.139,0.14800000000000002,0.818,0.068,0.046,0.33299999999999996,2015-16
-Johnny Hill,7,0.091,0.1,0.8,0.045,0.062,0.5,2015-16
-Rapheal Davis,6,0.043,0.024,0.33299999999999996,0.035,0,0,2015-16
-Jacquil Taylor,3,0.429,0.33299999999999996,0.667,0,0,NA,2015-16
-P.J. Thompson,1,0,0,NA,0.038,0.1,1,2015-16
-Total,112,0.131,0.13699999999999998,0.7829999999999999,0.052000000000000005,0.05,0.366,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+A.J. Hammons,35,0.17600000000000002,0.14,0.696,0.062,0.063,0.41700000000000004,2015-16,Purdue
+Caleb Swanigan,20,0.233,0.24600000000000002,0.882,0.022000000000000002,0,0,2015-16,Purdue
+Vince Edwards,20,0.10300000000000001,0.156,1,0.094,0.10400000000000001,0.41700000000000004,2015-16,Purdue
+Isaac Haas,20,0.139,0.14800000000000002,0.818,0.068,0.046,0.33299999999999996,2015-16,Purdue
+Johnny Hill,7,0.091,0.1,0.8,0.045,0.062,0.5,2015-16,Purdue
+Rapheal Davis,6,0.043,0.024,0.33299999999999996,0.035,0,0,2015-16,Purdue
+Jacquil Taylor,3,0.429,0.33299999999999996,0.667,0,0,NA,2015-16,Purdue
+P.J. Thompson,1,0,0,NA,0.038,0.1,1,2015-16,Purdue
+Total,112,0.131,0.13699999999999998,0.7829999999999999,0.052000000000000005,0.05,0.366,2015-16,Purdue

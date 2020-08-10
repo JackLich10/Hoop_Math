@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Nnanna Egwu,26,0.273,0.308,0.8,0.067,0.095,0.545,2012-13
-Sam McLaurin,24,0.308,0.258,0.5,0.14800000000000002,0.312,0.625,2012-13
-Tyler Griffey,14,0.28600000000000003,0.231,0.6,0.048,0,0,2012-13
-Myke Henry,14,0.414,0.375,0.5,0.095,0.33299999999999996,0.5,2012-13
-Joseph Bertrand,13,0.228,0.214,0.6920000000000001,0,0,NA,2012-13
-Tracy Abrams,5,0.036000000000000004,0.048,0.75,0.009000000000000001,0,0,2012-13
-D.J. Richardson,3,0.051,0.054000000000000006,0.667,0,0,NA,2012-13
-Devin Langford,2,0.25,NA,0,0.16699999999999998,0.33299999999999996,1,2012-13
-Brandon Paul,2,0.011000000000000001,0.017,1,0.008,0.022000000000000002,1,2012-13
-Mike Shaw,2,1,1,0.5,0,NA,NA,2012-13
-Total,105,0.156,0.152,0.623,0.038,0.053,0.519,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Nnanna Egwu,26,0.273,0.308,0.8,0.067,0.095,0.545,2012-13,Illinois
+Sam McLaurin,24,0.308,0.258,0.5,0.14800000000000002,0.312,0.625,2012-13,Illinois
+Tyler Griffey,14,0.28600000000000003,0.231,0.6,0.048,0,0,2012-13,Illinois
+Myke Henry,14,0.414,0.375,0.5,0.095,0.33299999999999996,0.5,2012-13,Illinois
+Joseph Bertrand,13,0.228,0.214,0.6920000000000001,0,0,NA,2012-13,Illinois
+Tracy Abrams,5,0.036000000000000004,0.048,0.75,0.009000000000000001,0,0,2012-13,Illinois
+D.J. Richardson,3,0.051,0.054000000000000006,0.667,0,0,NA,2012-13,Illinois
+Devin Langford,2,0.25,NA,0,0.16699999999999998,0.33299999999999996,1,2012-13,Illinois
+Brandon Paul,2,0.011000000000000001,0.017,1,0.008,0.022000000000000002,1,2012-13,Illinois
+Mike Shaw,2,1,1,0.5,0,NA,NA,2012-13,Illinois
+Total,105,0.156,0.152,0.623,0.038,0.053,0.519,2012-13,Illinois

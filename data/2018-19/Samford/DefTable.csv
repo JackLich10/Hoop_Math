@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.275,0.617,0.113,0.695,2018-19
-2pt Jumpers,0.28300000000000003,0.325,0.09,0.35700000000000004,2018-19
-3pt Shots,0.442,0.353,0.01,0.35700000000000004,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.275,0.617,0.113,0.695,2018-19,Samford
+2pt Jumpers,0.28300000000000003,0.325,0.09,0.35700000000000004,2018-19,Samford
+3pt Shots,0.442,0.353,0.01,0.35700000000000004,2018-19,Samford

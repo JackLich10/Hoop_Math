@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.361,0.595,0.133,0.6859999999999999,2012-13
-2pt Jumpers,0.325,0.308,0.096,0.341,2012-13
-3pt Shots,0.314,0.33399999999999996,0.01,0.337,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.361,0.595,0.133,0.6859999999999999,2012-13,Buffalo
+2pt Jumpers,0.325,0.308,0.096,0.341,2012-13,Buffalo
+3pt Shots,0.314,0.33399999999999996,0.01,0.337,2012-13,Buffalo

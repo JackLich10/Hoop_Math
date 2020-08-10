@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.44,0.629,0.096,0.696,2014-15
-2pt Jumpers,0.272,0.406,0.086,0.444,2014-15
-3pt Shots,0.28800000000000003,0.376,0.004,0.37799999999999995,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.44,0.629,0.096,0.696,2014-15,CentralArk.
+2pt Jumpers,0.272,0.406,0.086,0.444,2014-15,CentralArk.
+3pt Shots,0.28800000000000003,0.376,0.004,0.37799999999999995,2014-15,CentralArk.

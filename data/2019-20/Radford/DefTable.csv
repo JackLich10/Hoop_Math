@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.293,0.593,0.086,0.648,2019-20
-2pt Jumpers,0.256,0.387,0.028999999999999998,0.39899999999999997,2019-20
-3pt Shots,0.451,0.326,0.01,0.32899999999999996,2019-20
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.293,0.593,0.086,0.648,2019-20,Radford
+2pt Jumpers,0.256,0.387,0.028999999999999998,0.39899999999999997,2019-20,Radford
+3pt Shots,0.451,0.326,0.01,0.32899999999999996,2019-20,Radford

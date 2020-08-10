@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.317,0.691,0.057,0.733,2011-12
-2pt Jumpers,0.34700000000000003,0.371,0.042,0.38799999999999996,2011-12
-3pt Shots,0.336,0.385,0,0.385,2011-12
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.317,0.691,0.057,0.733,2011-12,NichollsSt.
+2pt Jumpers,0.34700000000000003,0.371,0.042,0.38799999999999996,2011-12,NichollsSt.
+3pt Shots,0.336,0.385,0,0.385,2011-12,NichollsSt.

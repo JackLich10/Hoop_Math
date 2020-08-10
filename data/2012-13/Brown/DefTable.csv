@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.33,0.55,0.133,0.635,2012-13
-2pt Jumpers,0.325,0.34600000000000003,0.07200000000000001,0.37200000000000005,2012-13
-3pt Shots,0.345,0.375,0.004,0.376,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.33,0.55,0.133,0.635,2012-13,Brown
+2pt Jumpers,0.325,0.34600000000000003,0.07200000000000001,0.37200000000000005,2012-13,Brown
+3pt Shots,0.345,0.375,0.004,0.376,2012-13,Brown

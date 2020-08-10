@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.34600000000000003,0.637,0.075,0.6890000000000001,2013-14
-2pt Jumpers,0.245,0.348,0.066,0.373,2013-14
-3pt Shots,0.409,0.379,0.003,0.38,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.34600000000000003,0.637,0.075,0.6890000000000001,2013-14,Miami(OH)
+2pt Jumpers,0.245,0.348,0.066,0.373,2013-14,Miami(OH)
+3pt Shots,0.409,0.379,0.003,0.38,2013-14,Miami(OH)

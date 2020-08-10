@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Dantrell Thomas,23,0.138,0.13,0.619,0.021,0,0,2013-14
-Ja'Dante' Frye,14,0.35100000000000003,0.26899999999999996,0.5379999999999999,0.045,0,0,2013-14
-Jeremy Smith,10,0.08,0.075,0.667,0.009000000000000001,0,0,2013-14
-Liam Thomas,8,0.182,0.179,0.625,0,0,NA,2013-14
-Jamarkus Horace,8,0.25,0.235,0.5,0,0,NA,2013-14
-Cade Towers,6,0.375,0.6,0.5,0,0,NA,2013-14
-Sam McBeath,6,0.10400000000000001,0.038,0.2,0.055999999999999994,0.14300000000000002,1,2013-14
-Travis Julien,5,0.5,0.8,0.8,0,NA,NA,2013-14
-Luke Doyle,5,0.19,0.273,0.75,0.111,0.5,1,2013-14
-T.J. Carpenter,3,0.06,0.071,0.667,0,0,NA,2013-14
-Shane Rillieux,2,0.018000000000000002,0.03,1,0.02,0,0,2013-14
-Amin Torres,1,0.028999999999999998,0.05,1,0,0,NA,2013-14
-Total,91,0.135,0.131,0.595,0.018000000000000002,0.013999999999999999,0.28600000000000003,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Dantrell Thomas,23,0.138,0.13,0.619,0.021,0,0,2013-14,NichollsSt.
+Ja'Dante' Frye,14,0.35100000000000003,0.26899999999999996,0.5379999999999999,0.045,0,0,2013-14,NichollsSt.
+Jeremy Smith,10,0.08,0.075,0.667,0.009000000000000001,0,0,2013-14,NichollsSt.
+Liam Thomas,8,0.182,0.179,0.625,0,0,NA,2013-14,NichollsSt.
+Jamarkus Horace,8,0.25,0.235,0.5,0,0,NA,2013-14,NichollsSt.
+Cade Towers,6,0.375,0.6,0.5,0,0,NA,2013-14,NichollsSt.
+Sam McBeath,6,0.10400000000000001,0.038,0.2,0.055999999999999994,0.14300000000000002,1,2013-14,NichollsSt.
+Travis Julien,5,0.5,0.8,0.8,0,NA,NA,2013-14,NichollsSt.
+Luke Doyle,5,0.19,0.273,0.75,0.111,0.5,1,2013-14,NichollsSt.
+T.J. Carpenter,3,0.06,0.071,0.667,0,0,NA,2013-14,NichollsSt.
+Shane Rillieux,2,0.018000000000000002,0.03,1,0.02,0,0,2013-14,NichollsSt.
+Amin Torres,1,0.028999999999999998,0.05,1,0,0,NA,2013-14,NichollsSt.
+Total,91,0.135,0.131,0.595,0.018000000000000002,0.013999999999999999,0.28600000000000003,2013-14,NichollsSt.

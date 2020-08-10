@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Myles Johnson,22,0.225,0.213,0.556,0.10300000000000001,0.105,0.5,2018-19
-Shaq Carter,20,0.258,0.2,0.5,0.182,0.125,0.25,2018-19
-Eugene Omoruyi,19,0.106,0.111,0.647,0.018000000000000002,0,0,2018-19
-Shaquille Doorson,18,0.22,0.158,0.462,0.23800000000000002,0.25,0.6,2018-19
-Peter Kiss,8,0.14,0.111,0.429,0.038,0,0,2018-19
-Montez Mathis,8,0.055999999999999994,0.062,0.5710000000000001,0.016,0,0,2018-19
-Issa Thiam,7,0.263,0.25,0.4,0,0,NA,2018-19
-Caleb McConnell,4,0.12,0.188,1,0.02,0,0,2018-19
-Harper Ron,3,0.034,0.025,0.5,0,0,NA,2018-19
-",RON",1,1,1,1,0,NA,NA,2018-19
-Geo Baker,1,0.013999999999999999,0.032,1,0,0,NA,2018-19
-Total,111,0.126,0.121,0.556,0.035,0.036000000000000004,0.33299999999999996,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Myles Johnson,22,0.225,0.213,0.556,0.10300000000000001,0.105,0.5,2018-19,Rutgers
+Shaq Carter,20,0.258,0.2,0.5,0.182,0.125,0.25,2018-19,Rutgers
+Eugene Omoruyi,19,0.106,0.111,0.647,0.018000000000000002,0,0,2018-19,Rutgers
+Shaquille Doorson,18,0.22,0.158,0.462,0.23800000000000002,0.25,0.6,2018-19,Rutgers
+Peter Kiss,8,0.14,0.111,0.429,0.038,0,0,2018-19,Rutgers
+Montez Mathis,8,0.055999999999999994,0.062,0.5710000000000001,0.016,0,0,2018-19,Rutgers
+Issa Thiam,7,0.263,0.25,0.4,0,0,NA,2018-19,Rutgers
+Caleb McConnell,4,0.12,0.188,1,0.02,0,0,2018-19,Rutgers
+Harper Ron,3,0.034,0.025,0.5,0,0,NA,2018-19,Rutgers
+",RON",1,1,1,1,0,NA,NA,2018-19,Rutgers
+Geo Baker,1,0.013999999999999999,0.032,1,0,0,NA,2018-19,Rutgers
+Total,111,0.126,0.121,0.556,0.035,0.036000000000000004,0.33299999999999996,2018-19,Rutgers

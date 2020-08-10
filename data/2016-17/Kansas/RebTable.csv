@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Josh Jackson,28,0.12,0.157,0.909,0.039,0.051,0.5,2016-17
-Bragg Carlton,21,0.171,0.157,0.5710000000000001,0.152,0.188,0.429,2016-17
-Landen Lucas,17,0.099,0.106,0.769,0.083,0,0,2016-17
-Lagerald Vick,14,0.092,0.078,0.5710000000000001,0.13699999999999998,0.083,0.14300000000000002,2016-17
-Dwight Coleby,8,0.4,0.385,0.625,0,0,NA,2016-17
-Frank Mason,6,0.011000000000000001,0.019,1,0.022000000000000002,0.018000000000000002,0.33299999999999996,2016-17
-Sviatoslav Mykhailiuk,6,0.098,0.053,0.33299999999999996,0,0,NA,2016-17
-Mitch Lightfoot,4,0.25,0.16699999999999998,0.33299999999999996,0.33299999999999996,0.5,1,2016-17
-Devonte' Graham,3,0.035,0.05,1,0.015,0,0,2016-17
-Udoka Azubuike,2,0.069,0.1,1,0,0,NA,2016-17
-Total,109,0.094,0.10300000000000001,0.7090000000000001,0.051,0.043,0.31,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Josh Jackson,28,0.12,0.157,0.909,0.039,0.051,0.5,2016-17,Kansas
+Bragg Carlton,21,0.171,0.157,0.5710000000000001,0.152,0.188,0.429,2016-17,Kansas
+Landen Lucas,17,0.099,0.106,0.769,0.083,0,0,2016-17,Kansas
+Lagerald Vick,14,0.092,0.078,0.5710000000000001,0.13699999999999998,0.083,0.14300000000000002,2016-17,Kansas
+Dwight Coleby,8,0.4,0.385,0.625,0,0,NA,2016-17,Kansas
+Frank Mason,6,0.011000000000000001,0.019,1,0.022000000000000002,0.018000000000000002,0.33299999999999996,2016-17,Kansas
+Sviatoslav Mykhailiuk,6,0.098,0.053,0.33299999999999996,0,0,NA,2016-17,Kansas
+Mitch Lightfoot,4,0.25,0.16699999999999998,0.33299999999999996,0.33299999999999996,0.5,1,2016-17,Kansas
+Devonte' Graham,3,0.035,0.05,1,0.015,0,0,2016-17,Kansas
+Udoka Azubuike,2,0.069,0.1,1,0,0,NA,2016-17,Kansas
+Total,109,0.094,0.10300000000000001,0.7090000000000001,0.051,0.043,0.31,2016-17,Kansas

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.293,0.551,0.133,0.635,2012-13
-2pt Jumpers,0.368,0.297,0.127,0.34,2012-13
-3pt Shots,0.33899999999999997,0.326,0.011000000000000001,0.33,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.293,0.551,0.133,0.635,2012-13,NJIT
+2pt Jumpers,0.368,0.297,0.127,0.34,2012-13,NJIT
+3pt Shots,0.33899999999999997,0.326,0.011000000000000001,0.33,2012-13,NJIT

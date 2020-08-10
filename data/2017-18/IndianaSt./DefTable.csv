@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.32,0.622,0.111,0.7,2017-18
-2pt Jumpers,0.311,0.364,0.073,0.39299999999999996,2017-18
-3pt Shots,0.369,0.355,0.008,0.358,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.32,0.622,0.111,0.7,2017-18,IndianaSt.
+2pt Jumpers,0.311,0.364,0.073,0.39299999999999996,2017-18,IndianaSt.
+3pt Shots,0.369,0.355,0.008,0.358,2017-18,IndianaSt.

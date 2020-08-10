@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.41100000000000003,0.544,0.172,0.657,2014-15
-2pt Jumpers,0.313,0.349,0.109,0.392,2014-15
-3pt Shots,0.276,0.34299999999999997,0.046,0.36,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.41100000000000003,0.544,0.172,0.657,2014-15,Chattanooga
+2pt Jumpers,0.313,0.349,0.109,0.392,2014-15,Chattanooga
+3pt Shots,0.276,0.34299999999999997,0.046,0.36,2014-15,Chattanooga

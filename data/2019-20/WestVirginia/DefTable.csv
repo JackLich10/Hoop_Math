@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.363,0.54,0.128,0.62,2019-20
-2pt Jumpers,0.262,0.33,0.039,0.344,2019-20
-3pt Shots,0.375,0.28800000000000003,0.016,0.292,2019-20
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.363,0.54,0.128,0.62,2019-20,WestVirginia
+2pt Jumpers,0.262,0.33,0.039,0.344,2019-20,WestVirginia
+3pt Shots,0.375,0.28800000000000003,0.016,0.292,2019-20,WestVirginia

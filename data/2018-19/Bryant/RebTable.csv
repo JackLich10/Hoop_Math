@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Sabastian Townes,21,0.151,0.16399999999999998,0.632,0.006999999999999999,0,0,2018-19
-Patrick Harding,10,0.222,0.24,0.6,0,0,NA,2018-19
-Byron Hawkins,9,0.055,0.096,0.833,0.018000000000000002,0.048,1,2018-19
-Joe Kasperzyk,7,0.038,0.035,0.5,0,0,NA,2018-19
-Juan Cardenas,7,0.125,0.15,0.857,0,0,NA,2018-19
-Adam Grant,5,0.021,0.022000000000000002,0.5,0.011000000000000001,0.027000000000000003,1,2018-19
-Monty Urmilevicius,3,0.33299999999999996,0.2,0.33299999999999996,NA,NA,NA,2018-19
-Brandon Carroll,2,0.222,0.25,0.5,0,NA,NA,2018-19
-Dren Dedushaj,1,NA,NA,NA,1,NA,0,2018-19
-Nino Hernandez,1,0.053,0.077,1,0,NA,NA,2018-19
-Taylor McHugh,1,0.083,0.14300000000000002,1,0,0,NA,2018-19
-Total,67,0.08900000000000001,0.106,0.649,0.012,0.016,0.5,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Sabastian Townes,21,0.151,0.16399999999999998,0.632,0.006999999999999999,0,0,2018-19,Bryant
+Patrick Harding,10,0.222,0.24,0.6,0,0,NA,2018-19,Bryant
+Byron Hawkins,9,0.055,0.096,0.833,0.018000000000000002,0.048,1,2018-19,Bryant
+Joe Kasperzyk,7,0.038,0.035,0.5,0,0,NA,2018-19,Bryant
+Juan Cardenas,7,0.125,0.15,0.857,0,0,NA,2018-19,Bryant
+Adam Grant,5,0.021,0.022000000000000002,0.5,0.011000000000000001,0.027000000000000003,1,2018-19,Bryant
+Monty Urmilevicius,3,0.33299999999999996,0.2,0.33299999999999996,NA,NA,NA,2018-19,Bryant
+Brandon Carroll,2,0.222,0.25,0.5,0,NA,NA,2018-19,Bryant
+Dren Dedushaj,1,NA,NA,NA,1,NA,0,2018-19,Bryant
+Nino Hernandez,1,0.053,0.077,1,0,NA,NA,2018-19,Bryant
+Taylor McHugh,1,0.083,0.14300000000000002,1,0,0,NA,2018-19,Bryant
+Total,67,0.08900000000000001,0.106,0.649,0.012,0.016,0.5,2018-19,Bryant

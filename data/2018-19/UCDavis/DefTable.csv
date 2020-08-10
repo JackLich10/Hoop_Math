@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.33799999999999997,0.621,0.08,0.675,2018-19
-2pt Jumpers,0.28300000000000003,0.401,0.04,0.418,2018-19
-3pt Shots,0.379,0.341,0.008,0.34299999999999997,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.33799999999999997,0.621,0.08,0.675,2018-19,UCDavis
+2pt Jumpers,0.28300000000000003,0.401,0.04,0.418,2018-19,UCDavis
+3pt Shots,0.379,0.341,0.008,0.34299999999999997,2018-19,UCDavis

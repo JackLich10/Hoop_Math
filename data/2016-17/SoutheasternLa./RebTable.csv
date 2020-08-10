@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Dominic Nelson,41,0.462,0.34600000000000003,0.375,0.37799999999999995,0.524,0.647,2016-17
-James Currington,25,0.261,0.22899999999999998,0.667,0.141,0.213,0.769,2016-17
-Moses Greenwood,25,0.133,0.16699999999999998,0.846,0.07200000000000001,0.098,0.667,2016-17
-Eddy Polanco,13,0.154,0.2,0.75,0.05,0.055999999999999994,0.33299999999999996,2016-17
-Davon Hayes,8,0.040999999999999995,0.07,1,0.038,0.03,0.25,2016-17
-Marlain Veal,4,0,0,NA,0.021,0,0,2016-17
-Dimi Cook,3,0.062,0.042,0.33299999999999996,0,0,NA,2016-17
-Jab Singleton,2,0,0,NA,0.036000000000000004,0,0,2016-17
-George Brock,1,0,0,NA,0.071,0,0,2016-17
-Jordan Capps,1,0,0,NA,0.16699999999999998,0.2,1,2016-17
-Total,123,0.11800000000000001,0.121,0.603,0.084,0.12,0.593,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Dominic Nelson,41,0.462,0.34600000000000003,0.375,0.37799999999999995,0.524,0.647,2016-17,SoutheasternLa.
+James Currington,25,0.261,0.22899999999999998,0.667,0.141,0.213,0.769,2016-17,SoutheasternLa.
+Moses Greenwood,25,0.133,0.16699999999999998,0.846,0.07200000000000001,0.098,0.667,2016-17,SoutheasternLa.
+Eddy Polanco,13,0.154,0.2,0.75,0.05,0.055999999999999994,0.33299999999999996,2016-17,SoutheasternLa.
+Davon Hayes,8,0.040999999999999995,0.07,1,0.038,0.03,0.25,2016-17,SoutheasternLa.
+Marlain Veal,4,0,0,NA,0.021,0,0,2016-17,SoutheasternLa.
+Dimi Cook,3,0.062,0.042,0.33299999999999996,0,0,NA,2016-17,SoutheasternLa.
+Jab Singleton,2,0,0,NA,0.036000000000000004,0,0,2016-17,SoutheasternLa.
+George Brock,1,0,0,NA,0.071,0,0,2016-17,SoutheasternLa.
+Jordan Capps,1,0,0,NA,0.16699999999999998,0.2,1,2016-17,SoutheasternLa.
+Total,123,0.11800000000000001,0.121,0.603,0.084,0.12,0.593,2016-17,SoutheasternLa.

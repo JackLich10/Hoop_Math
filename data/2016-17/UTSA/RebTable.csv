@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jeff Beverly,30,0.19699999999999998,0.24600000000000002,0.667,0.02,0.01,0.2,2016-17
-Byron Frohnen,29,0.185,0.195,0.652,0.068,0.188,1,2016-17
-Lucas O'Brien,24,0.43799999999999994,0.43799999999999994,0.667,0.07,0.05,0.33299999999999996,2016-17
-Nick Allen,13,0.2,0.2,0.7,0.044000000000000004,0.08,0.667,2016-17
-George Willborn III,10,0.145,0.14300000000000002,0.556,0.025,0.125,1,2016-17
-J.R. Harris,3,0.125,0,0,0.33299999999999996,0.33299999999999996,0.5,2016-17
-Austin Karrer,3,0.136,0.231,1,0,0,NA,2016-17
-Bola Alade,3,0.222,0,0,0,0,NA,2016-17
-Gino Littles,3,0.05,0.111,1,0,0,NA,2016-17
-Mitar Stanojevic,1,0.077,0.1,1,0,0,NA,2016-17
-Total,119,0.149,0.183,0.66,0.028999999999999998,0.049,0.6,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jeff Beverly,30,0.19699999999999998,0.24600000000000002,0.667,0.02,0.01,0.2,2016-17,UTSA
+Byron Frohnen,29,0.185,0.195,0.652,0.068,0.188,1,2016-17,UTSA
+Lucas O'Brien,24,0.43799999999999994,0.43799999999999994,0.667,0.07,0.05,0.33299999999999996,2016-17,UTSA
+Nick Allen,13,0.2,0.2,0.7,0.044000000000000004,0.08,0.667,2016-17,UTSA
+George Willborn III,10,0.145,0.14300000000000002,0.556,0.025,0.125,1,2016-17,UTSA
+J.R. Harris,3,0.125,0,0,0.33299999999999996,0.33299999999999996,0.5,2016-17,UTSA
+Austin Karrer,3,0.136,0.231,1,0,0,NA,2016-17,UTSA
+Bola Alade,3,0.222,0,0,0,0,NA,2016-17,UTSA
+Gino Littles,3,0.05,0.111,1,0,0,NA,2016-17,UTSA
+Mitar Stanojevic,1,0.077,0.1,1,0,0,NA,2016-17,UTSA
+Total,119,0.149,0.183,0.66,0.028999999999999998,0.049,0.6,2016-17,UTSA

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.20800000000000002,0.667,0.063,0.711,2011-12
-2pt Jumpers,0.455,0.39399999999999996,0.049,0.414,2011-12
-3pt Shots,0.337,0.359,0.002,0.36,2011-12
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.20800000000000002,0.667,0.063,0.711,2011-12,UNI
+2pt Jumpers,0.455,0.39399999999999996,0.049,0.414,2011-12,UNI
+3pt Shots,0.337,0.359,0.002,0.36,2011-12,UNI

@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jason Burnell,33,0.179,0.21899999999999997,0.893,0.040999999999999995,0.07,0.6,2018-19
-Christian Cunningham,29,0.198,0.18100000000000002,0.68,0.08900000000000001,0.077,0.25,2018-19
-Marlon Hunter,19,0.131,0.161,0.818,0.036000000000000004,0.031,0.375,2018-19
-Jacara Cross,11,0.153,0.182,0.889,0.08,0.091,0.5,2018-19
-Maros Zeliznak,4,0.14300000000000002,0.077,0.33299999999999996,0.125,0.25,1,2018-19
-Jamall Gregory,2,0.02,0.031,1,0,0,NA,2018-19
-Detrick Mostella,2,0.026000000000000002,0.05,1,0.025,0.062,1,2018-19
-Jacob Hyde,1,0.33299999999999996,0,0,0,NA,NA,2018-19
-Maurice Dunlap,1,0.1,0.25,1,0,0,NA,2018-19
-Derek St. Hilaire,1,0.16699999999999998,0,0,0,NA,NA,2018-19
-ST,1,0.33299999999999996,NA,0,0,0,NA,2018-19
-ST.,1,0.038,0.053,1,0,0,NA,2018-19
-De'Torrion Ware,1,0.048,0.077,1,0,0,NA,2018-19
-Total,106,0.11699999999999999,0.136,0.7759999999999999,0.032,0.040999999999999995,0.47600000000000003,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jason Burnell,33,0.179,0.21899999999999997,0.893,0.040999999999999995,0.07,0.6,2018-19,JacksonvilleSt.
+Christian Cunningham,29,0.198,0.18100000000000002,0.68,0.08900000000000001,0.077,0.25,2018-19,JacksonvilleSt.
+Marlon Hunter,19,0.131,0.161,0.818,0.036000000000000004,0.031,0.375,2018-19,JacksonvilleSt.
+Jacara Cross,11,0.153,0.182,0.889,0.08,0.091,0.5,2018-19,JacksonvilleSt.
+Maros Zeliznak,4,0.14300000000000002,0.077,0.33299999999999996,0.125,0.25,1,2018-19,JacksonvilleSt.
+Jamall Gregory,2,0.02,0.031,1,0,0,NA,2018-19,JacksonvilleSt.
+Detrick Mostella,2,0.026000000000000002,0.05,1,0.025,0.062,1,2018-19,JacksonvilleSt.
+Jacob Hyde,1,0.33299999999999996,0,0,0,NA,NA,2018-19,JacksonvilleSt.
+Maurice Dunlap,1,0.1,0.25,1,0,0,NA,2018-19,JacksonvilleSt.
+Derek St. Hilaire,1,0.16699999999999998,0,0,0,NA,NA,2018-19,JacksonvilleSt.
+ST,1,0.33299999999999996,NA,0,0,0,NA,2018-19,JacksonvilleSt.
+ST.,1,0.038,0.053,1,0,0,NA,2018-19,JacksonvilleSt.
+De'Torrion Ware,1,0.048,0.077,1,0,0,NA,2018-19,JacksonvilleSt.
+Total,106,0.11699999999999999,0.136,0.7759999999999999,0.032,0.040999999999999995,0.47600000000000003,2018-19,JacksonvilleSt.

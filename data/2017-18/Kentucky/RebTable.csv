@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Wenyen Gabriel,32,0.44,0.467,0.636,0.244,0.2,0.3,2017-18
-PJ Washington,28,0.151,0.196,0.905,0.06,0,0,2017-18
-Nick Richards,25,0.32299999999999995,0.26,0.619,0.085,0.053,0.25,2017-18
-Jarred Vanderbilt,22,0.389,0.409,0.643,0.258,0,0,2017-18
-Sacha Killeya-Jones,16,0.359,0.303,0.7140000000000001,0.054000000000000006,0,0,2017-18
-Hamdiou Diallo,15,0.09,0.068,0.5,0.04,0.028999999999999998,0.2,2017-18
-Shai Gilgeous-Alexander,12,0.048,0.059000000000000004,0.75,0.026000000000000002,0.017,0.25,2017-18
-Kevin Knox,6,0.032,0.016,0.33299999999999996,0.017,0.013000000000000001,0.33299999999999996,2017-18
-Tai Wynyard,3,0.4,0.33299999999999996,0.5,0.5,NA,0,2017-18
-Quade Green,1,0,0,NA,0.01,0,0,2017-18
-Total,160,0.152,0.154,0.6779999999999999,0.054000000000000006,0.023,0.159,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Wenyen Gabriel,32,0.44,0.467,0.636,0.244,0.2,0.3,2017-18,Kentucky
+PJ Washington,28,0.151,0.196,0.905,0.06,0,0,2017-18,Kentucky
+Nick Richards,25,0.32299999999999995,0.26,0.619,0.085,0.053,0.25,2017-18,Kentucky
+Jarred Vanderbilt,22,0.389,0.409,0.643,0.258,0,0,2017-18,Kentucky
+Sacha Killeya-Jones,16,0.359,0.303,0.7140000000000001,0.054000000000000006,0,0,2017-18,Kentucky
+Hamdiou Diallo,15,0.09,0.068,0.5,0.04,0.028999999999999998,0.2,2017-18,Kentucky
+Shai Gilgeous-Alexander,12,0.048,0.059000000000000004,0.75,0.026000000000000002,0.017,0.25,2017-18,Kentucky
+Kevin Knox,6,0.032,0.016,0.33299999999999996,0.017,0.013000000000000001,0.33299999999999996,2017-18,Kentucky
+Tai Wynyard,3,0.4,0.33299999999999996,0.5,0.5,NA,0,2017-18,Kentucky
+Quade Green,1,0,0,NA,0.01,0,0,2017-18,Kentucky
+Total,160,0.152,0.154,0.6779999999999999,0.054000000000000006,0.023,0.159,2017-18,Kentucky

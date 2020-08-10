@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.428,0.5589999999999999,0.102,0.622,2015-16
-2pt Jumpers,0.316,0.39399999999999996,0.036000000000000004,0.409,2015-16
-3pt Shots,0.256,0.386,0,0.386,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.428,0.5589999999999999,0.102,0.622,2015-16,AppalachianSt.
+2pt Jumpers,0.316,0.39399999999999996,0.036000000000000004,0.409,2015-16,AppalachianSt.
+3pt Shots,0.256,0.386,0,0.386,2015-16,AppalachianSt.

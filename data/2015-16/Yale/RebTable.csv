@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Justin Sears,31,0.153,0.17300000000000001,0.708,0.051,0.083,0.7140000000000001,2015-16
-Brandon Sherrod,26,0.136,0.135,0.636,0.051,0.061,0.5,2015-16
-Sam Downey,13,0.17600000000000002,0.163,0.667,0.034,0,0,2015-16
-Nick Victor,11,0.13,0.2,0.889,0.111,NA,0,2015-16
-Blake Reynolds,5,0.263,0.083,0.2,0,0,NA,2015-16
-Anthony Dallier,5,0.11599999999999999,0.19,0.8,0,0,NA,2015-16
-Eric Anderson,3,0.095,0.1,0.5,0.125,0,0,2015-16
-Trey Phills,3,0.17600000000000002,0,0,0,NA,NA,2015-16
-Khaliq Bedart Ghani,2,0.14300000000000002,0.16699999999999998,0.5,0,0,NA,2015-16
-Makai Mason,2,0.015,0.032,1,0,0,NA,2015-16
-Eli Lininger,1,0.33299999999999996,0,0,NA,NA,NA,2015-16
-Matt Greene,1,0.2,0,0,0,0,NA,2015-16
-Jack Montague,1,0,NA,NA,0,0,NA,2015-16
-Total,104,0.132,0.142,0.632,0.027000000000000003,0.032,0.5,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Justin Sears,31,0.153,0.17300000000000001,0.708,0.051,0.083,0.7140000000000001,2015-16,Yale
+Brandon Sherrod,26,0.136,0.135,0.636,0.051,0.061,0.5,2015-16,Yale
+Sam Downey,13,0.17600000000000002,0.163,0.667,0.034,0,0,2015-16,Yale
+Nick Victor,11,0.13,0.2,0.889,0.111,NA,0,2015-16,Yale
+Blake Reynolds,5,0.263,0.083,0.2,0,0,NA,2015-16,Yale
+Anthony Dallier,5,0.11599999999999999,0.19,0.8,0,0,NA,2015-16,Yale
+Eric Anderson,3,0.095,0.1,0.5,0.125,0,0,2015-16,Yale
+Trey Phills,3,0.17600000000000002,0,0,0,NA,NA,2015-16,Yale
+Khaliq Bedart Ghani,2,0.14300000000000002,0.16699999999999998,0.5,0,0,NA,2015-16,Yale
+Makai Mason,2,0.015,0.032,1,0,0,NA,2015-16,Yale
+Eli Lininger,1,0.33299999999999996,0,0,NA,NA,NA,2015-16,Yale
+Matt Greene,1,0.2,0,0,0,0,NA,2015-16,Yale
+Jack Montague,1,0,NA,NA,0,0,NA,2015-16,Yale
+Total,104,0.132,0.142,0.632,0.027000000000000003,0.032,0.5,2015-16,Yale

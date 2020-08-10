@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.377,0.593,0.07400000000000001,0.64,2016-17
-2pt Jumpers,0.275,0.318,0.038,0.331,2016-17
-3pt Shots,0.348,0.363,0.005,0.365,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.377,0.593,0.07400000000000001,0.64,2016-17,La.-Monroe
+2pt Jumpers,0.275,0.318,0.038,0.331,2016-17,La.-Monroe
+3pt Shots,0.348,0.363,0.005,0.365,2016-17,La.-Monroe

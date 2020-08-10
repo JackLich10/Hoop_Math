@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Vince Hunter,28,0.087,0.098,0.8,0.14300000000000002,0.16,0.308,2013-14
-John Bohannon,24,0.14400000000000002,0.17800000000000002,0.941,0.063,0.085,0.5710000000000001,2013-14
-Cedrick Lang,22,0.191,0.204,0.647,0.08900000000000001,0.15,0.6,2013-14
-Matt Willms,17,0.171,0.154,0.615,0.083,0.188,0.75,2013-14
-Julian Washburn,7,0.067,0.075,0.8,0.012,0.016,0.5,2013-14
-C.J. Cooper,4,0.091,0.16699999999999998,1,0.03,0,0,2013-14
-Mckenzie Moore,3,0.053,0.1,1,0.04,0.1,1,2013-14
-Tevin Caldwell,1,0.071,0.14300000000000002,1,0,0,NA,2013-14
-Jake Flaggert,1,0.111,0,0,0,0,NA,2013-14
-Total,107,0.114,0.13,0.767,0.055,0.07400000000000001,0.47100000000000003,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Vince Hunter,28,0.087,0.098,0.8,0.14300000000000002,0.16,0.308,2013-14,UTEP
+John Bohannon,24,0.14400000000000002,0.17800000000000002,0.941,0.063,0.085,0.5710000000000001,2013-14,UTEP
+Cedrick Lang,22,0.191,0.204,0.647,0.08900000000000001,0.15,0.6,2013-14,UTEP
+Matt Willms,17,0.171,0.154,0.615,0.083,0.188,0.75,2013-14,UTEP
+Julian Washburn,7,0.067,0.075,0.8,0.012,0.016,0.5,2013-14,UTEP
+C.J. Cooper,4,0.091,0.16699999999999998,1,0.03,0,0,2013-14,UTEP
+Mckenzie Moore,3,0.053,0.1,1,0.04,0.1,1,2013-14,UTEP
+Tevin Caldwell,1,0.071,0.14300000000000002,1,0,0,NA,2013-14,UTEP
+Jake Flaggert,1,0.111,0,0,0,0,NA,2013-14,UTEP
+Total,107,0.114,0.13,0.767,0.055,0.07400000000000001,0.47100000000000003,2013-14,UTEP

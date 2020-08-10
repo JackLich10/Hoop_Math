@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Mason Peatling,26,0.207,0.20800000000000002,0.696,0.061,0.077,0.33299999999999996,2017-18
-Benas Griciunas,11,0.111,0.09300000000000001,0.5,0.02,0.053,1,2017-18
-Bogdan Bliznyuk,7,0.040999999999999995,0.033,0.5,0.004,0.008,1,2017-18
-Jesse Hunt,7,0.10300000000000001,0.10300000000000001,0.75,0.08800000000000001,0.25,1,2017-18
-Jacob Davison,7,0.076,0.051,0.4,0.067,0.16699999999999998,1,2017-18
-Sir Washington,4,0.065,0.1,0.75,0,0,NA,2017-18
-Richard Polanco,4,0.08800000000000001,0.14300000000000002,1,0.053,0.125,1,2017-18
-Ty Gibson,2,0,0,NA,0.125,0.25,1,2017-18
-Luka Vulikic,2,0.091,0,0,0.026000000000000002,0,0,2017-18
-Cody Benzel,1,0,NA,NA,0,0,NA,2017-18
-Total,71,0.096,0.09699999999999999,0.625,0.022000000000000002,0.037000000000000005,0.769,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Mason Peatling,26,0.207,0.20800000000000002,0.696,0.061,0.077,0.33299999999999996,2017-18,EasternWash.
+Benas Griciunas,11,0.111,0.09300000000000001,0.5,0.02,0.053,1,2017-18,EasternWash.
+Bogdan Bliznyuk,7,0.040999999999999995,0.033,0.5,0.004,0.008,1,2017-18,EasternWash.
+Jesse Hunt,7,0.10300000000000001,0.10300000000000001,0.75,0.08800000000000001,0.25,1,2017-18,EasternWash.
+Jacob Davison,7,0.076,0.051,0.4,0.067,0.16699999999999998,1,2017-18,EasternWash.
+Sir Washington,4,0.065,0.1,0.75,0,0,NA,2017-18,EasternWash.
+Richard Polanco,4,0.08800000000000001,0.14300000000000002,1,0.053,0.125,1,2017-18,EasternWash.
+Ty Gibson,2,0,0,NA,0.125,0.25,1,2017-18,EasternWash.
+Luka Vulikic,2,0.091,0,0,0.026000000000000002,0,0,2017-18,EasternWash.
+Cody Benzel,1,0,NA,NA,0,0,NA,2017-18,EasternWash.
+Total,71,0.096,0.09699999999999999,0.625,0.022000000000000002,0.037000000000000005,0.769,2017-18,EasternWash.

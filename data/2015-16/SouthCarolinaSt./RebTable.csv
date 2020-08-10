@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tashombe Riley,32,0.314,0.18,0.33299999999999996,0.031,0.059000000000000004,0.8,2015-16
-Gabe McCray,22,0.11599999999999999,0.157,0.812,0.053,0.065,0.5,2015-16
-Darryl Palmer,15,0.114,0.114,0.75,0.036000000000000004,0.105,0.667,2015-16
-Luka Radovic,6,0.294,0.364,0.8,0.083,0,0,2015-16
-Eric Eaves,5,0.018000000000000002,0.028999999999999998,1,0.012,0.033,1,2015-16
-Doudou Gueye,5,0.25,0,0,0.154,0.16699999999999998,0.5,2015-16
-Greg Mortimer,4,0.034,0.079,1,0.018000000000000002,0,0,2015-16
-Edward Stephens,4,0.016,0.026000000000000002,1,0.018000000000000002,0,0,2015-16
-Najee Pritchett,3,0.16699999999999998,0.125,0.5,0.2,0.5,1,2015-16
-Jaylen Reid,1,1,NA,0,0,0,NA,2015-16
-Tyvoris Soloman,1,0.091,0.16699999999999998,1,0,0,NA,2015-16
-Total,98,0.1,0.098,0.6,0.034,0.054000000000000006,0.5710000000000001,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tashombe Riley,32,0.314,0.18,0.33299999999999996,0.031,0.059000000000000004,0.8,2015-16,SouthCarolinaSt.
+Gabe McCray,22,0.11599999999999999,0.157,0.812,0.053,0.065,0.5,2015-16,SouthCarolinaSt.
+Darryl Palmer,15,0.114,0.114,0.75,0.036000000000000004,0.105,0.667,2015-16,SouthCarolinaSt.
+Luka Radovic,6,0.294,0.364,0.8,0.083,0,0,2015-16,SouthCarolinaSt.
+Eric Eaves,5,0.018000000000000002,0.028999999999999998,1,0.012,0.033,1,2015-16,SouthCarolinaSt.
+Doudou Gueye,5,0.25,0,0,0.154,0.16699999999999998,0.5,2015-16,SouthCarolinaSt.
+Greg Mortimer,4,0.034,0.079,1,0.018000000000000002,0,0,2015-16,SouthCarolinaSt.
+Edward Stephens,4,0.016,0.026000000000000002,1,0.018000000000000002,0,0,2015-16,SouthCarolinaSt.
+Najee Pritchett,3,0.16699999999999998,0.125,0.5,0.2,0.5,1,2015-16,SouthCarolinaSt.
+Jaylen Reid,1,1,NA,0,0,0,NA,2015-16,SouthCarolinaSt.
+Tyvoris Soloman,1,0.091,0.16699999999999998,1,0,0,NA,2015-16,SouthCarolinaSt.
+Total,98,0.1,0.098,0.6,0.034,0.054000000000000006,0.5710000000000001,2015-16,SouthCarolinaSt.

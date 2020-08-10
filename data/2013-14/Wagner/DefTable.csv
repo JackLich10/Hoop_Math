@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.469,0.484,0.184,0.593,2013-14
-2pt Jumpers,0.209,0.325,0.091,0.358,2013-14
-3pt Shots,0.322,0.3,0.021,0.306,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.469,0.484,0.184,0.593,2013-14,Wagner
+2pt Jumpers,0.209,0.325,0.091,0.358,2013-14,Wagner
+3pt Shots,0.322,0.3,0.021,0.306,2013-14,Wagner

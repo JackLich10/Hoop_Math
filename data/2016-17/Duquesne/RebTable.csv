@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Nakye Sanders,34,0.315,0.305,0.621,0.25,0.5710000000000001,0.8,2016-17
-Darius Lewis,16,0.245,0.161,0.41700000000000004,0.129,0.273,0.75,2016-17
-Isiaha Mike,14,0.1,0.14300000000000002,0.9,0.047,0.091,0.667,2016-17
-Emile Blackman,12,0.067,0.055999999999999994,0.444,0.026000000000000002,0.037000000000000005,0.5,2016-17
-Jordan Robinson,7,0.23800000000000002,0.214,0.6,0.091,0.091,0.5,2016-17
-Eric James,5,0.09699999999999999,0.16699999999999998,0.667,0.182,0.5,0.5,2016-17
-Rene Castro,5,0.037000000000000005,0.036000000000000004,0.5,0.055999999999999994,0,0,2016-17
-Tarin Smith,4,0.018000000000000002,0.019,0.5,0.022000000000000002,0,0,2016-17
-Kale Abrahamson,3,0.1,0.077,0.5,0,0,NA,2016-17
-Spencer Littleson,2,0,0,NA,0,0,NA,2016-17
-Kellon Taylor,1,0.2,0.25,1,0,NA,NA,2016-17
-Total,103,0.106,0.114,0.6,0.049,0.07400000000000001,0.545,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Nakye Sanders,34,0.315,0.305,0.621,0.25,0.5710000000000001,0.8,2016-17,Duquesne
+Darius Lewis,16,0.245,0.161,0.41700000000000004,0.129,0.273,0.75,2016-17,Duquesne
+Isiaha Mike,14,0.1,0.14300000000000002,0.9,0.047,0.091,0.667,2016-17,Duquesne
+Emile Blackman,12,0.067,0.055999999999999994,0.444,0.026000000000000002,0.037000000000000005,0.5,2016-17,Duquesne
+Jordan Robinson,7,0.23800000000000002,0.214,0.6,0.091,0.091,0.5,2016-17,Duquesne
+Eric James,5,0.09699999999999999,0.16699999999999998,0.667,0.182,0.5,0.5,2016-17,Duquesne
+Rene Castro,5,0.037000000000000005,0.036000000000000004,0.5,0.055999999999999994,0,0,2016-17,Duquesne
+Tarin Smith,4,0.018000000000000002,0.019,0.5,0.022000000000000002,0,0,2016-17,Duquesne
+Kale Abrahamson,3,0.1,0.077,0.5,0,0,NA,2016-17,Duquesne
+Spencer Littleson,2,0,0,NA,0,0,NA,2016-17,Duquesne
+Kellon Taylor,1,0.2,0.25,1,0,NA,NA,2016-17,Duquesne
+Total,103,0.106,0.114,0.6,0.049,0.07400000000000001,0.545,2016-17,Duquesne

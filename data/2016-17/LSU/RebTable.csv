@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Duop Reath,30,0.17800000000000002,0.193,0.762,0.057999999999999996,0.063,0.444,2016-17
-Aaron Epps,20,0.204,0.263,0.909,0.155,0.21100000000000002,0.444,2016-17
-Wayde Sims,13,0.151,0.15,0.75,0.076,0.13,0.6,2016-17
-Antonio Blakeney,10,0.043,0.067,1,0.033,0.062,0.833,2016-17
-Brandon Sampson,8,0.042,0.019,0.33299999999999996,0.059000000000000004,0.069,0.5,2016-17
-Craig Victor,7,0.214,0.235,0.667,0.028999999999999998,0,0,2016-17
-Skylar Mays,5,0.033,0.061,1,0.043,0.077,0.5,2016-17
-Brian Bridgewater,5,0.41700000000000004,0.5710000000000001,0.8,0,0,NA,2016-17
-Kieran Hayward,4,0.5,0,0,0.2,NA,0,2016-17
-Elbert Robinson Iii,4,0.235,0.231,0.75,0,0,NA,2016-17
-Brandon Eddlestone,4,0.667,0.6,0.75,0,NA,NA,2016-17
-Jalyn Patterson,2,0.025,0.042,1,0,0,NA,2016-17
-"II,CRAIG_VICTOR",2,0.33299999999999996,NA,0,0.083,0,0,2016-17
-Total,114,0.122,0.141,0.753,0.055,0.071,0.48700000000000004,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Duop Reath,30,0.17800000000000002,0.193,0.762,0.057999999999999996,0.063,0.444,2016-17,LSU
+Aaron Epps,20,0.204,0.263,0.909,0.155,0.21100000000000002,0.444,2016-17,LSU
+Wayde Sims,13,0.151,0.15,0.75,0.076,0.13,0.6,2016-17,LSU
+Antonio Blakeney,10,0.043,0.067,1,0.033,0.062,0.833,2016-17,LSU
+Brandon Sampson,8,0.042,0.019,0.33299999999999996,0.059000000000000004,0.069,0.5,2016-17,LSU
+Craig Victor,7,0.214,0.235,0.667,0.028999999999999998,0,0,2016-17,LSU
+Skylar Mays,5,0.033,0.061,1,0.043,0.077,0.5,2016-17,LSU
+Brian Bridgewater,5,0.41700000000000004,0.5710000000000001,0.8,0,0,NA,2016-17,LSU
+Kieran Hayward,4,0.5,0,0,0.2,NA,0,2016-17,LSU
+Elbert Robinson Iii,4,0.235,0.231,0.75,0,0,NA,2016-17,LSU
+Brandon Eddlestone,4,0.667,0.6,0.75,0,NA,NA,2016-17,LSU
+Jalyn Patterson,2,0.025,0.042,1,0,0,NA,2016-17,LSU
+"II,CRAIG_VICTOR",2,0.33299999999999996,NA,0,0.083,0,0,2016-17,LSU
+Total,114,0.122,0.141,0.753,0.055,0.071,0.48700000000000004,2016-17,LSU

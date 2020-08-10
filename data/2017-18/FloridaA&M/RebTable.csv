@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Desmond Williams,28,0.127,0.14800000000000002,0.722,0.031,0.025,0.3,2017-18
-Isaiah Martin,27,0.29,0.326,0.778,0.243,0.25,0.444,2017-18
-Nick Severado,11,0.217,0.214,0.6,0.016,0,0,2017-18
-Marcus Barham,8,0.07,0.067,0.5,0.009000000000000001,0.026000000000000002,1,2017-18
-Javonni Harrell,5,0.5,0.5,0.5,0.125,0,0,2017-18
-Kamron Reaves,3,0.14300000000000002,0.4,1,0,0,NA,2017-18
-Brendon Myles,3,0,0,NA,0.075,0,0,2017-18
-Nasir Core,3,0.019,0.038,1,0.077,0,0,2017-18
-Justin Ravenal,1,0.045,0.083,1,0,0,NA,2017-18
-Bryce Moragne,1,0,0,NA,0.25,0,0,2017-18
-Rashad Austin,1,0.33299999999999996,0,0,0,NA,NA,2017-18
-Total,91,0.11900000000000001,0.14300000000000002,0.6890000000000001,0.033,0.025,0.28600000000000003,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Desmond Williams,28,0.127,0.14800000000000002,0.722,0.031,0.025,0.3,2017-18,FloridaA&M
+Isaiah Martin,27,0.29,0.326,0.778,0.243,0.25,0.444,2017-18,FloridaA&M
+Nick Severado,11,0.217,0.214,0.6,0.016,0,0,2017-18,FloridaA&M
+Marcus Barham,8,0.07,0.067,0.5,0.009000000000000001,0.026000000000000002,1,2017-18,FloridaA&M
+Javonni Harrell,5,0.5,0.5,0.5,0.125,0,0,2017-18,FloridaA&M
+Kamron Reaves,3,0.14300000000000002,0.4,1,0,0,NA,2017-18,FloridaA&M
+Brendon Myles,3,0,0,NA,0.075,0,0,2017-18,FloridaA&M
+Nasir Core,3,0.019,0.038,1,0.077,0,0,2017-18,FloridaA&M
+Justin Ravenal,1,0.045,0.083,1,0,0,NA,2017-18,FloridaA&M
+Bryce Moragne,1,0,0,NA,0.25,0,0,2017-18,FloridaA&M
+Rashad Austin,1,0.33299999999999996,0,0,0,NA,NA,2017-18,FloridaA&M
+Total,91,0.11900000000000001,0.14300000000000002,0.6890000000000001,0.033,0.025,0.28600000000000003,2017-18,FloridaA&M

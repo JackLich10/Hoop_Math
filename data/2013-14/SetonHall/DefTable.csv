@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.336,0.584,0.10099999999999999,0.649,2013-14
-2pt Jumpers,0.332,0.396,0.043,0.414,2013-14
-3pt Shots,0.332,0.349,0.008,0.35200000000000004,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.336,0.584,0.10099999999999999,0.649,2013-14,SetonHall
+2pt Jumpers,0.332,0.396,0.043,0.414,2013-14,SetonHall
+3pt Shots,0.332,0.349,0.008,0.35200000000000004,2013-14,SetonHall

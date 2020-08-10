@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Josh Warren,16,0.131,0.09300000000000001,0.385,0.1,0.071,0.33299999999999996,2016-17
-Stone Gettings,12,0.11800000000000001,0.111,0.545,0,0,NA,2016-17
-Troy Whiteside,6,0.1,0.128,0.833,0,0,NA,2016-17
-Wil Bathurst,5,0.083,0.105,0.8,0,0,NA,2016-17
-Donovan Wright,4,0.16,0.125,0.25,0,NA,NA,2016-17
-Matt Morgan,2,0.021,0.015,0.5,0,0,NA,2016-17
-Darryl Smith,2,0.043,0.053,1,0.125,NA,0,2016-17
-Jack Gordon,2,0.33299999999999996,0.5,0.5,0,0,NA,2016-17
-Joel Davis,1,0.16699999999999998,0,0,NA,NA,NA,2016-17
-Robert Hatter,1,0.008,0,0,0,0,NA,2016-17
-Total,51,0.075,0.064,0.522,0.013000000000000001,0.008,0.25,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Josh Warren,16,0.131,0.09300000000000001,0.385,0.1,0.071,0.33299999999999996,2016-17,Cornell
+Stone Gettings,12,0.11800000000000001,0.111,0.545,0,0,NA,2016-17,Cornell
+Troy Whiteside,6,0.1,0.128,0.833,0,0,NA,2016-17,Cornell
+Wil Bathurst,5,0.083,0.105,0.8,0,0,NA,2016-17,Cornell
+Donovan Wright,4,0.16,0.125,0.25,0,NA,NA,2016-17,Cornell
+Matt Morgan,2,0.021,0.015,0.5,0,0,NA,2016-17,Cornell
+Darryl Smith,2,0.043,0.053,1,0.125,NA,0,2016-17,Cornell
+Jack Gordon,2,0.33299999999999996,0.5,0.5,0,0,NA,2016-17,Cornell
+Joel Davis,1,0.16699999999999998,0,0,NA,NA,NA,2016-17,Cornell
+Robert Hatter,1,0.008,0,0,0,0,NA,2016-17,Cornell
+Total,51,0.075,0.064,0.522,0.013000000000000001,0.008,0.25,2016-17,Cornell

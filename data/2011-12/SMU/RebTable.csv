@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jalen Jones,11,0.13699999999999998,0.149,0.7,0.015,0,0,2011-12
-Robert Nyakundi,11,0.16,0.133,0.5,0.036000000000000004,0.071,1,2011-12
-Cannen Cunningham,10,0.226,0.14300000000000002,0.429,0.065,0.067,0.33299999999999996,2011-12
-Shawn Williams,8,0.158,0.16,0.667,0.08,0.14300000000000002,0.5,2011-12
-Leslee Smith,5,0.14300000000000002,0.174,0.8,0,0,NA,2011-12
-Aliaksei Patsevich,3,0.07400000000000001,0,0,0.067,0,0,2011-12
-Jeremiah Samarrippas,1,0.022000000000000002,0.053,1,0,0,NA,2011-12
-Ricmonds Vilde,1,0.14300000000000002,0,0,0,0,NA,2011-12
-London Giles,1,0,0,NA,0,0,NA,2011-12
-Rodney Clinkscales,1,0.083,0,0,0,0,NA,2011-12
-Total,52,0.10300000000000001,0.09699999999999999,0.561,0.024,0.031,0.5,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jalen Jones,11,0.13699999999999998,0.149,0.7,0.015,0,0,2011-12,SMU
+Robert Nyakundi,11,0.16,0.133,0.5,0.036000000000000004,0.071,1,2011-12,SMU
+Cannen Cunningham,10,0.226,0.14300000000000002,0.429,0.065,0.067,0.33299999999999996,2011-12,SMU
+Shawn Williams,8,0.158,0.16,0.667,0.08,0.14300000000000002,0.5,2011-12,SMU
+Leslee Smith,5,0.14300000000000002,0.174,0.8,0,0,NA,2011-12,SMU
+Aliaksei Patsevich,3,0.07400000000000001,0,0,0.067,0,0,2011-12,SMU
+Jeremiah Samarrippas,1,0.022000000000000002,0.053,1,0,0,NA,2011-12,SMU
+Ricmonds Vilde,1,0.14300000000000002,0,0,0,0,NA,2011-12,SMU
+London Giles,1,0,0,NA,0,0,NA,2011-12,SMU
+Rodney Clinkscales,1,0.083,0,0,0,0,NA,2011-12,SMU
+Total,52,0.10300000000000001,0.09699999999999999,0.561,0.024,0.031,0.5,2011-12,SMU

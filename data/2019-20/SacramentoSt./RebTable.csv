@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Joshua Patton,25,0.14800000000000002,0.13,0.542,0.012,0,0,2019-20
-Ethan Esposito,18,0.134,0.196,0.733,0.018000000000000002,0.028999999999999998,0.5,2019-20
-Osi Nwachukwu,15,0.162,0.146,0.5,0.044000000000000004,0.08,0.667,2019-20
-Bryce Fowler,10,0.086,0.091,0.5710000000000001,0.009000000000000001,0.024,1,2019-20
-Brandon Davis,7,0.067,0.071,0.6,0.039,0.077,0.5,2019-20
-Chibueze Jacobs,6,0.052000000000000005,0.083,0.667,0.091,0.083,0.33299999999999996,2019-20
-Jordan Cooke-Harper,5,0.33299999999999996,0.28600000000000003,0.5,0.125,0.5,1,2019-20
-Elijah McCullough,2,0.25,0.5,1,0,0,NA,2019-20
-James Bridges,2,0.16699999999999998,0.33299999999999996,1,0,0,NA,2019-20
-Spencer Monteiro,1,0.33299999999999996,0,0,NA,NA,NA,2019-20
-Izayah Mauriohooho-Le'afa,1,0.034,0.067,1,0,0,NA,2019-20
-Total,92,0.12,0.13,0.595,0.023,0.036000000000000004,0.5379999999999999,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Joshua Patton,25,0.14800000000000002,0.13,0.542,0.012,0,0,2019-20,SacramentoSt.
+Ethan Esposito,18,0.134,0.196,0.733,0.018000000000000002,0.028999999999999998,0.5,2019-20,SacramentoSt.
+Osi Nwachukwu,15,0.162,0.146,0.5,0.044000000000000004,0.08,0.667,2019-20,SacramentoSt.
+Bryce Fowler,10,0.086,0.091,0.5710000000000001,0.009000000000000001,0.024,1,2019-20,SacramentoSt.
+Brandon Davis,7,0.067,0.071,0.6,0.039,0.077,0.5,2019-20,SacramentoSt.
+Chibueze Jacobs,6,0.052000000000000005,0.083,0.667,0.091,0.083,0.33299999999999996,2019-20,SacramentoSt.
+Jordan Cooke-Harper,5,0.33299999999999996,0.28600000000000003,0.5,0.125,0.5,1,2019-20,SacramentoSt.
+Elijah McCullough,2,0.25,0.5,1,0,0,NA,2019-20,SacramentoSt.
+James Bridges,2,0.16699999999999998,0.33299999999999996,1,0,0,NA,2019-20,SacramentoSt.
+Spencer Monteiro,1,0.33299999999999996,0,0,NA,NA,NA,2019-20,SacramentoSt.
+Izayah Mauriohooho-Le'afa,1,0.034,0.067,1,0,0,NA,2019-20,SacramentoSt.
+Total,92,0.12,0.13,0.595,0.023,0.036000000000000004,0.5379999999999999,2019-20,SacramentoSt.

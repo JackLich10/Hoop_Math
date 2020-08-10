@@ -1,16 +1,16 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Errick Peck,20,0.17800000000000002,0.14800000000000002,0.5,0.036000000000000004,0.026000000000000002,0.25,2012-13
-Eitan Chemerinski,17,0.185,0.16399999999999998,0.647,0,0,NA,2012-13
-Shonn Miller,13,0.14,0.121,0.667,0.01,0,0,2012-13
-Nolan Cressler,7,0.109,0.16,0.8,0.038,0.05,0.5,2012-13
-Galal Cancer,4,0.048,0.067,0.667,0.015,0,0,2012-13
-Josh Figini,4,0.17600000000000002,0.2,0.667,0.027000000000000003,0,0,2012-13
-Nenad Tomic,3,0.75,0.667,0.667,0,0,NA,2012-13
-Deion Giddens,3,0.667,0.5,0.5,0.33299999999999996,0,0,2012-13
-Johnathan Gray,2,0.043,0.069,1,0,0,NA,2012-13
-Dominick Scelfo,2,0.05,0.083,1,0,0,NA,2012-13
-Devin Cherry,2,0.033,0.032,0.5,0,0,NA,2012-13
-Holt Harmon,1,NA,NA,NA,0.5,NA,0,2012-13
-Dwight Tarwater,1,0.25,0.33299999999999996,1,0,NA,NA,2012-13
-Dave LaMore,1,0,0,NA,0.33299999999999996,1,1,2012-13
-Total,80,0.115,0.121,0.642,0.023,0.018000000000000002,0.25,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Errick Peck,20,0.17800000000000002,0.14800000000000002,0.5,0.036000000000000004,0.026000000000000002,0.25,2012-13,Cornell
+Eitan Chemerinski,17,0.185,0.16399999999999998,0.647,0,0,NA,2012-13,Cornell
+Shonn Miller,13,0.14,0.121,0.667,0.01,0,0,2012-13,Cornell
+Nolan Cressler,7,0.109,0.16,0.8,0.038,0.05,0.5,2012-13,Cornell
+Galal Cancer,4,0.048,0.067,0.667,0.015,0,0,2012-13,Cornell
+Josh Figini,4,0.17600000000000002,0.2,0.667,0.027000000000000003,0,0,2012-13,Cornell
+Nenad Tomic,3,0.75,0.667,0.667,0,0,NA,2012-13,Cornell
+Deion Giddens,3,0.667,0.5,0.5,0.33299999999999996,0,0,2012-13,Cornell
+Johnathan Gray,2,0.043,0.069,1,0,0,NA,2012-13,Cornell
+Dominick Scelfo,2,0.05,0.083,1,0,0,NA,2012-13,Cornell
+Devin Cherry,2,0.033,0.032,0.5,0,0,NA,2012-13,Cornell
+Holt Harmon,1,NA,NA,NA,0.5,NA,0,2012-13,Cornell
+Dwight Tarwater,1,0.25,0.33299999999999996,1,0,NA,NA,2012-13,Cornell
+Dave LaMore,1,0,0,NA,0.33299999999999996,1,1,2012-13,Cornell
+Total,80,0.115,0.121,0.642,0.023,0.018000000000000002,0.25,2012-13,Cornell

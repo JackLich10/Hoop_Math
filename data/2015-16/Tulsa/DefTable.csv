@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.281,0.59,0.092,0.649,2015-16
-2pt Jumpers,0.349,0.337,0.063,0.36,2015-16
-3pt Shots,0.369,0.359,0.003,0.36,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.281,0.59,0.092,0.649,2015-16,Tulsa
+2pt Jumpers,0.349,0.337,0.063,0.36,2015-16,Tulsa
+3pt Shots,0.369,0.359,0.003,0.36,2015-16,Tulsa

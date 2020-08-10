@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Cory Hightower,21,0.113,0.124,0.667,0.043,0,0,2018-19
-Francois Lewis,16,0.096,0.127,0.909,0.08199999999999999,0.053,0.2,2018-19
-Romeo Crouch,8,0.10400000000000001,0.109,0.7140000000000001,0.111,0.33299999999999996,1,2018-19
-Armel Tete,7,0.25,0.231,0.5,0.091,0.16699999999999998,1,2018-19
-Adam Flagler,6,0.025,0.038,1,0.047,0.057,0.5,2018-19
-J.C. Younger,5,0.061,0,0,0.03,0,0,2018-19
-Chris Martin,5,0.055999999999999994,0.053,0.5,0.071,0,0,2018-19
-Davon Bell,4,0.015,0.027000000000000003,1,0.045,0,0,2018-19
-Maleek Catchings,2,0.28600000000000003,0.28600000000000003,1,NA,NA,NA,2018-19
-Kody Shubert,1,0.019,0,0,0,0,NA,2018-19
-Ben Drake,1,0.125,0,0,0,0,NA,2018-19
-Total,76,0.07400000000000001,0.084,0.679,0.05,0.042,0.278,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Cory Hightower,21,0.113,0.124,0.667,0.043,0,0,2018-19,Presbyterian
+Francois Lewis,16,0.096,0.127,0.909,0.08199999999999999,0.053,0.2,2018-19,Presbyterian
+Romeo Crouch,8,0.10400000000000001,0.109,0.7140000000000001,0.111,0.33299999999999996,1,2018-19,Presbyterian
+Armel Tete,7,0.25,0.231,0.5,0.091,0.16699999999999998,1,2018-19,Presbyterian
+Adam Flagler,6,0.025,0.038,1,0.047,0.057,0.5,2018-19,Presbyterian
+J.C. Younger,5,0.061,0,0,0.03,0,0,2018-19,Presbyterian
+Chris Martin,5,0.055999999999999994,0.053,0.5,0.071,0,0,2018-19,Presbyterian
+Davon Bell,4,0.015,0.027000000000000003,1,0.045,0,0,2018-19,Presbyterian
+Maleek Catchings,2,0.28600000000000003,0.28600000000000003,1,NA,NA,NA,2018-19,Presbyterian
+Kody Shubert,1,0.019,0,0,0,0,NA,2018-19,Presbyterian
+Ben Drake,1,0.125,0,0,0,0,NA,2018-19,Presbyterian
+Total,76,0.07400000000000001,0.084,0.679,0.05,0.042,0.278,2018-19,Presbyterian

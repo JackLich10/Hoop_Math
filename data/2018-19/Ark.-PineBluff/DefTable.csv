@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.377,0.624,0.096,0.69,2018-19
-2pt Jumpers,0.294,0.35200000000000004,0.059000000000000004,0.375,2018-19
-3pt Shots,0.33,0.353,0.031,0.364,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.377,0.624,0.096,0.69,2018-19,Ark.-PineBluff
+2pt Jumpers,0.294,0.35200000000000004,0.059000000000000004,0.375,2018-19,Ark.-PineBluff
+3pt Shots,0.33,0.353,0.031,0.364,2018-19,Ark.-PineBluff

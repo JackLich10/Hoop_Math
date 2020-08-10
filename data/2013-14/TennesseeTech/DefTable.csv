@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.45799999999999996,0.5539999999999999,0.152,0.653,2013-14
-2pt Jumpers,0.23,0.374,0.07,0.40299999999999997,2013-14
-3pt Shots,0.312,0.35100000000000003,0.009000000000000001,0.355,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.45799999999999996,0.5539999999999999,0.152,0.653,2013-14,TennesseeTech
+2pt Jumpers,0.23,0.374,0.07,0.40299999999999997,2013-14,TennesseeTech
+3pt Shots,0.312,0.35100000000000003,0.009000000000000001,0.355,2013-14,TennesseeTech

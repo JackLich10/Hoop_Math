@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Chad Posthumus,64,0.37799999999999995,0.365,0.574,0.122,0.172,0.5,2013-14
-Billy Reader,20,0.183,0.21100000000000002,0.8,0.077,0.115,0.6,2013-14
-Greg Dotson,18,0.22699999999999998,0.20800000000000002,0.588,0.053,0,0,2013-14
-Drew Kelly,16,0.157,0.16399999999999998,0.769,0.051,0.055999999999999994,0.33299999999999996,2013-14
-Angelo Warner,13,0.07200000000000001,0.07200000000000001,0.636,0.023,0,0,2013-14
-Jordan Percell,9,0.205,0.25,0.75,0.077,0,0,2013-14
-Brent Arrington,7,0.065,0.08900000000000001,0.833,0.013999999999999999,0.038,1,2013-14
-Deandre Leatherwood,5,0.263,0.308,0.8,0,0,NA,2013-14
-Kareem Storey,4,0,0,NA,0.08800000000000001,0.14300000000000002,0.33299999999999996,2013-14
-Bakari Turner,2,0.08,0.125,1,0,0,NA,2013-14
-Luka Pajkovic,1,0.024,0,0,0,0,NA,2013-14
-Total,159,0.158,0.166,0.659,0.055999999999999994,0.07400000000000001,0.423,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Chad Posthumus,64,0.37799999999999995,0.365,0.574,0.122,0.172,0.5,2013-14,MoreheadSt.
+Billy Reader,20,0.183,0.21100000000000002,0.8,0.077,0.115,0.6,2013-14,MoreheadSt.
+Greg Dotson,18,0.22699999999999998,0.20800000000000002,0.588,0.053,0,0,2013-14,MoreheadSt.
+Drew Kelly,16,0.157,0.16399999999999998,0.769,0.051,0.055999999999999994,0.33299999999999996,2013-14,MoreheadSt.
+Angelo Warner,13,0.07200000000000001,0.07200000000000001,0.636,0.023,0,0,2013-14,MoreheadSt.
+Jordan Percell,9,0.205,0.25,0.75,0.077,0,0,2013-14,MoreheadSt.
+Brent Arrington,7,0.065,0.08900000000000001,0.833,0.013999999999999999,0.038,1,2013-14,MoreheadSt.
+Deandre Leatherwood,5,0.263,0.308,0.8,0,0,NA,2013-14,MoreheadSt.
+Kareem Storey,4,0,0,NA,0.08800000000000001,0.14300000000000002,0.33299999999999996,2013-14,MoreheadSt.
+Bakari Turner,2,0.08,0.125,1,0,0,NA,2013-14,MoreheadSt.
+Luka Pajkovic,1,0.024,0,0,0,0,NA,2013-14,MoreheadSt.
+Total,159,0.158,0.166,0.659,0.055999999999999994,0.07400000000000001,0.423,2013-14,MoreheadSt.

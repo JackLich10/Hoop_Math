@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Evan Wieck,29,0.209,0.18600000000000003,0.667,0.1,0.13,0.6,2018-19
-Luke Loehr,11,0.16399999999999998,0.171,0.667,0.083,0,0,2018-19
-George Kiernan,11,0.11199999999999999,0.105,0.444,0.024,0,0,2018-19
-Danny Ogele,8,0.226,0.235,0.5710000000000001,0.022000000000000002,0.059000000000000004,1,2018-19
-Carter John,6,0.09699999999999999,0.172,0.833,0,0,NA,2018-19
-Greg Summers,6,0.066,0.087,0.5,0.095,0.14300000000000002,0.5,2018-19
-Richard Njoku,4,0.28600000000000003,0,0,0,0,NA,2018-19
-Hasan Abdullah,2,0.022000000000000002,0.02,0.5,0,0,NA,2018-19
-Isaiah Burnett,2,0.067,0,0,0.091,0,0,2018-19
-Cam Davis,2,0,0,NA,0.02,0,0,2018-19
-Josiah Strong,1,0,0,NA,0.038,0.091,1,2018-19
-Ryan Pearson,1,0.14300000000000002,0,0,0,0,NA,2018-19
-Total,83,0.109,0.113,0.5670000000000001,0.031,0.032,0.375,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Evan Wieck,29,0.209,0.18600000000000003,0.667,0.1,0.13,0.6,2018-19,Navy
+Luke Loehr,11,0.16399999999999998,0.171,0.667,0.083,0,0,2018-19,Navy
+George Kiernan,11,0.11199999999999999,0.105,0.444,0.024,0,0,2018-19,Navy
+Danny Ogele,8,0.226,0.235,0.5710000000000001,0.022000000000000002,0.059000000000000004,1,2018-19,Navy
+Carter John,6,0.09699999999999999,0.172,0.833,0,0,NA,2018-19,Navy
+Greg Summers,6,0.066,0.087,0.5,0.095,0.14300000000000002,0.5,2018-19,Navy
+Richard Njoku,4,0.28600000000000003,0,0,0,0,NA,2018-19,Navy
+Hasan Abdullah,2,0.022000000000000002,0.02,0.5,0,0,NA,2018-19,Navy
+Isaiah Burnett,2,0.067,0,0,0.091,0,0,2018-19,Navy
+Cam Davis,2,0,0,NA,0.02,0,0,2018-19,Navy
+Josiah Strong,1,0,0,NA,0.038,0.091,1,2018-19,Navy
+Ryan Pearson,1,0.14300000000000002,0,0,0,0,NA,2018-19,Navy
+Total,83,0.109,0.113,0.5670000000000001,0.031,0.032,0.375,2018-19,Navy

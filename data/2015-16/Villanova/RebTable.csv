@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Daniel Ochefu,17,0.095,0.06,0.43799999999999994,0.013000000000000001,0.027999999999999997,1,2015-16
-Josh Hart,11,0.055999999999999994,0.05,0.667,0.015,0.018000000000000002,0.5,2015-16
-Darryl Reynolds,9,0.14800000000000002,0.14300000000000002,0.667,0,0,NA,2015-16
-Mikal Bridges,6,0.085,0.069,0.667,0,0,NA,2015-16
-Phil Booth,5,0.066,0.036000000000000004,0.25,0,0,NA,2015-16
-Kris Jenkins,2,0,0,NA,0.012,0.023,1,2015-16
-Donte DiVincenzo,2,0.5,0.667,1,NA,NA,NA,2015-16
-Jalen Brunson,2,0.012,0.02,1,0.015,0,0,2015-16
-Ryan Arcidiacono,2,0.03,0.022000000000000002,0.5,0,0,NA,2015-16
-Total,56,0.067,0.055999999999999994,0.5710000000000001,0.009000000000000001,0.013000000000000001,0.6,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Daniel Ochefu,17,0.095,0.06,0.43799999999999994,0.013000000000000001,0.027999999999999997,1,2015-16,Villanova
+Josh Hart,11,0.055999999999999994,0.05,0.667,0.015,0.018000000000000002,0.5,2015-16,Villanova
+Darryl Reynolds,9,0.14800000000000002,0.14300000000000002,0.667,0,0,NA,2015-16,Villanova
+Mikal Bridges,6,0.085,0.069,0.667,0,0,NA,2015-16,Villanova
+Phil Booth,5,0.066,0.036000000000000004,0.25,0,0,NA,2015-16,Villanova
+Kris Jenkins,2,0,0,NA,0.012,0.023,1,2015-16,Villanova
+Donte DiVincenzo,2,0.5,0.667,1,NA,NA,NA,2015-16,Villanova
+Jalen Brunson,2,0.012,0.02,1,0.015,0,0,2015-16,Villanova
+Ryan Arcidiacono,2,0.03,0.022000000000000002,0.5,0,0,NA,2015-16,Villanova
+Total,56,0.067,0.055999999999999994,0.5710000000000001,0.009000000000000001,0.013000000000000001,0.6,2015-16,Villanova

@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kyle Collinsworth,29,0.077,0.09,0.75,0.10800000000000001,0.212,0.647,2014-15
-Corbin Kaufusi,13,0.179,0.24,0.857,0.24,0.273,0.5,2014-15
-Isaac Neilson,11,0.217,0.235,0.8,0.182,0.28600000000000003,0.667,2014-15
-Tyler Haws,9,0.012,0.016,1,0.026000000000000002,0.042,0.75,2014-15
-Luke Worthington,5,0.15,0.273,1,0.077,0.1,0.5,2014-15
-Josh Sharp,5,0.273,0.28600000000000003,0.667,0.33299999999999996,0.667,1,2014-15
-Ryan Andrus,4,0.222,0.28600000000000003,1,0.4,0.5,0.5,2014-15
-Anson Winder,4,0.034,0.03,0.667,0.018000000000000002,0,0,2014-15
-Nate Austin,3,0.33299999999999996,0.25,0.5,0.14300000000000002,0,0,2014-15
-Dalton Nixon,2,0,0,NA,0.14300000000000002,0.2,0.5,2014-15
-Frank Bartley IV,2,0,0,NA,0.11800000000000001,0.182,1,2014-15
-Skyler Halford,1,0,0,NA,0.019,0.059000000000000004,1,2014-15
-Total,88,0.07,0.08199999999999999,0.789,0.064,0.10400000000000001,0.64,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kyle Collinsworth,29,0.077,0.09,0.75,0.10800000000000001,0.212,0.647,2014-15,BYU
+Corbin Kaufusi,13,0.179,0.24,0.857,0.24,0.273,0.5,2014-15,BYU
+Isaac Neilson,11,0.217,0.235,0.8,0.182,0.28600000000000003,0.667,2014-15,BYU
+Tyler Haws,9,0.012,0.016,1,0.026000000000000002,0.042,0.75,2014-15,BYU
+Luke Worthington,5,0.15,0.273,1,0.077,0.1,0.5,2014-15,BYU
+Josh Sharp,5,0.273,0.28600000000000003,0.667,0.33299999999999996,0.667,1,2014-15,BYU
+Ryan Andrus,4,0.222,0.28600000000000003,1,0.4,0.5,0.5,2014-15,BYU
+Anson Winder,4,0.034,0.03,0.667,0.018000000000000002,0,0,2014-15,BYU
+Nate Austin,3,0.33299999999999996,0.25,0.5,0.14300000000000002,0,0,2014-15,BYU
+Dalton Nixon,2,0,0,NA,0.14300000000000002,0.2,0.5,2014-15,BYU
+Frank Bartley IV,2,0,0,NA,0.11800000000000001,0.182,1,2014-15,BYU
+Skyler Halford,1,0,0,NA,0.019,0.059000000000000004,1,2014-15,BYU
+Total,88,0.07,0.08199999999999999,0.789,0.064,0.10400000000000001,0.64,2014-15,BYU

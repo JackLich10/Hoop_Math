@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Brian Bennett,18,0.11199999999999999,0.109,0.583,0.033,0.024,0.33299999999999996,2014-15
-Aleks Abrams,15,0.625,0.33299999999999996,0.067,0,0,NA,2014-15
-Joel Awich,14,0.2,0.231,0.6,0.022000000000000002,0.024,0.33299999999999996,2014-15
-David Nwaba,14,0.10099999999999999,0.052000000000000005,0.3,0.031,0.024,0.25,2014-15
-Maliik Love,8,0.08,0.128,0.857,0.021,0,0,2014-15
-Michael Bolden,5,0.41700000000000004,0.429,0.6,0,0,NA,2014-15
-Reese Morgan,3,0.055999999999999994,0.055999999999999994,0.5,0,0,NA,2014-15
-Ridge Shipley,1,0,0,NA,0.024,0.067,1,2014-15
-Total,78,0.136,0.113,0.44299999999999995,0.025,0.023,0.33299999999999996,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Brian Bennett,18,0.11199999999999999,0.109,0.583,0.033,0.024,0.33299999999999996,2014-15,CalPoly
+Aleks Abrams,15,0.625,0.33299999999999996,0.067,0,0,NA,2014-15,CalPoly
+Joel Awich,14,0.2,0.231,0.6,0.022000000000000002,0.024,0.33299999999999996,2014-15,CalPoly
+David Nwaba,14,0.10099999999999999,0.052000000000000005,0.3,0.031,0.024,0.25,2014-15,CalPoly
+Maliik Love,8,0.08,0.128,0.857,0.021,0,0,2014-15,CalPoly
+Michael Bolden,5,0.41700000000000004,0.429,0.6,0,0,NA,2014-15,CalPoly
+Reese Morgan,3,0.055999999999999994,0.055999999999999994,0.5,0,0,NA,2014-15,CalPoly
+Ridge Shipley,1,0,0,NA,0.024,0.067,1,2014-15,CalPoly
+Total,78,0.136,0.113,0.44299999999999995,0.025,0.023,0.33299999999999996,2014-15,CalPoly

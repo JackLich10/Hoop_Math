@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.34700000000000003,0.63,0.107,0.705,2013-14
-2pt Jumpers,0.281,0.34,0.109,0.382,2013-14
-3pt Shots,0.373,0.33,0.006,0.332,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.34700000000000003,0.63,0.107,0.705,2013-14,TexasTech
+2pt Jumpers,0.281,0.34,0.109,0.382,2013-14,TexasTech
+3pt Shots,0.373,0.33,0.006,0.332,2013-14,TexasTech

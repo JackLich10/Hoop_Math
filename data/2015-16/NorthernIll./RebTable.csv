@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Marin Maric,27,0.129,0.138,0.5770000000000001,0.021,0,0,2015-16
-Jaylen Key,18,0.225,0.22699999999999998,0.556,0,0,NA,2015-16
-Aaric Armstead,18,0.14,0.191,0.643,0.034,0.094,1,2015-16
-Levi Bradley,10,0.16699999999999998,0.195,0.8,0,0,NA,2015-16
-Chuks Iroegbu,9,0.096,0.106,0.778,0,0,NA,2015-16
-Marshawn Wilson,8,0.092,0.122,0.7140000000000001,0.031,0,0,2015-16
-Andrew Zelis,8,0.235,0.17600000000000002,0.375,0,0,NA,2015-16
-MARIC,3,0.273,0.25,0.33299999999999996,0,0,NA,2015-16
-Travon Baker,2,0,0,NA,0,0,NA,2015-16
-Laytwan Porter,2,0.016,0,0,0,0,NA,2015-16
-KEY,1,0,NA,NA,0.14300000000000002,0.5,1,2015-16
-WILSON,1,0.5,1,1,0,NA,NA,2015-16
-Total,107,0.115,0.131,0.608,0.013000000000000001,0.026000000000000002,0.667,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Marin Maric,27,0.129,0.138,0.5770000000000001,0.021,0,0,2015-16,NorthernIll.
+Jaylen Key,18,0.225,0.22699999999999998,0.556,0,0,NA,2015-16,NorthernIll.
+Aaric Armstead,18,0.14,0.191,0.643,0.034,0.094,1,2015-16,NorthernIll.
+Levi Bradley,10,0.16699999999999998,0.195,0.8,0,0,NA,2015-16,NorthernIll.
+Chuks Iroegbu,9,0.096,0.106,0.778,0,0,NA,2015-16,NorthernIll.
+Marshawn Wilson,8,0.092,0.122,0.7140000000000001,0.031,0,0,2015-16,NorthernIll.
+Andrew Zelis,8,0.235,0.17600000000000002,0.375,0,0,NA,2015-16,NorthernIll.
+MARIC,3,0.273,0.25,0.33299999999999996,0,0,NA,2015-16,NorthernIll.
+Travon Baker,2,0,0,NA,0,0,NA,2015-16,NorthernIll.
+Laytwan Porter,2,0.016,0,0,0,0,NA,2015-16,NorthernIll.
+KEY,1,0,NA,NA,0.14300000000000002,0.5,1,2015-16,NorthernIll.
+WILSON,1,0.5,1,1,0,NA,NA,2015-16,NorthernIll.
+Total,107,0.115,0.131,0.608,0.013000000000000001,0.026000000000000002,0.667,2015-16,NorthernIll.

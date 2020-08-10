@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.332,0.551,0.09699999999999999,0.61,2012-13
-2pt Jumpers,0.40399999999999997,0.348,0.055,0.369,2012-13
-3pt Shots,0.265,0.324,0.006,0.326,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.332,0.551,0.09699999999999999,0.61,2012-13,Davidson
+2pt Jumpers,0.40399999999999997,0.348,0.055,0.369,2012-13,Davidson
+3pt Shots,0.265,0.324,0.006,0.326,2012-13,Davidson

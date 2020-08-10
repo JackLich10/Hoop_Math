@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.391,0.578,0.147,0.677,2016-17
-2pt Jumpers,0.284,0.318,0.067,0.341,2016-17
-3pt Shots,0.324,0.324,0.003,0.325,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.391,0.578,0.147,0.677,2016-17,Georgetown
+2pt Jumpers,0.284,0.318,0.067,0.341,2016-17,Georgetown
+3pt Shots,0.324,0.324,0.003,0.325,2016-17,Georgetown

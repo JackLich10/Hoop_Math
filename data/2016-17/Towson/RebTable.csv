@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-ADALA,31,0.205,0.254,0.667,0.023,0.023,0.33299999999999996,2016-17
-Alex Thomas,30,0.42100000000000004,0.436,0.708,0.146,0.111,0.16699999999999998,2016-17
-John Davis,27,0.185,0.19699999999999998,0.706,0.081,0.15,0.9,2016-17
-Dennis Tunstall,15,0.625,0.55,0.733,0,0,NA,2016-17
-Eddie Keith II,13,0.34299999999999997,0.2,0.41700000000000004,0.031,0.1,1,2016-17
-Justin Gorham,13,0.289,0.292,0.636,0.061,0.077,0.5,2016-17
-Deshaun Morman,12,0.079,0.115,0.857,0.042,0.047,0.4,2016-17
-Mike Morsell,9,0.061,0.048,0.5,0.037000000000000005,0.067,0.667,2016-17
-Zane Martin,7,0.069,0.033,0.25,0.036000000000000004,0.059000000000000004,0.5,2016-17
-Brian Starr,4,0.028999999999999998,0.043,1,0.03,0,0,2016-17
-Total,161,0.18,0.19,0.653,0.048,0.067,0.529,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+ADALA,31,0.205,0.254,0.667,0.023,0.023,0.33299999999999996,2016-17,Towson
+Alex Thomas,30,0.42100000000000004,0.436,0.708,0.146,0.111,0.16699999999999998,2016-17,Towson
+John Davis,27,0.185,0.19699999999999998,0.706,0.081,0.15,0.9,2016-17,Towson
+Dennis Tunstall,15,0.625,0.55,0.733,0,0,NA,2016-17,Towson
+Eddie Keith II,13,0.34299999999999997,0.2,0.41700000000000004,0.031,0.1,1,2016-17,Towson
+Justin Gorham,13,0.289,0.292,0.636,0.061,0.077,0.5,2016-17,Towson
+Deshaun Morman,12,0.079,0.115,0.857,0.042,0.047,0.4,2016-17,Towson
+Mike Morsell,9,0.061,0.048,0.5,0.037000000000000005,0.067,0.667,2016-17,Towson
+Zane Martin,7,0.069,0.033,0.25,0.036000000000000004,0.059000000000000004,0.5,2016-17,Towson
+Brian Starr,4,0.028999999999999998,0.043,1,0.03,0,0,2016-17,Towson
+Total,161,0.18,0.19,0.653,0.048,0.067,0.529,2016-17,Towson

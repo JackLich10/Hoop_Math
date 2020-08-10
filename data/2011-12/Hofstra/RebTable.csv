@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Nathaniel Lester,32,0.17800000000000002,0.22899999999999998,0.696,0.049,0.078,0.556,2011-12
-Stephen Nwaukoni,22,0.217,0.263,0.667,0.25,0.25,0.28600000000000003,2011-12
-David Imes,19,0.16699999999999998,0.25,0.625,0.10300000000000001,0.022000000000000002,0.091,2011-12
-Moussa Kone,12,0.157,0.179,0.875,0.21100000000000002,0.25,0.25,2011-12
-Mike Moore,5,0.027999999999999997,0.03,0.667,0.006,0.019,1,2011-12
-Stevie Mejia,2,0.051,0.053,0.5,0,0,NA,2011-12
-Bryant Crowder,2,0.2,0.125,0.5,0,0,NA,2011-12
-Shemiye McLendon,1,0.042,0,0,0,0,NA,2011-12
-Dwan McMillan,1,0.013999999999999999,0,0,0,0,NA,2011-12
-Matt Grogan,1,0.33299999999999996,0.5,1,0,0,NA,2011-12
-Total,97,0.11599999999999999,0.139,0.672,0.045,0.042,0.312,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Nathaniel Lester,32,0.17800000000000002,0.22899999999999998,0.696,0.049,0.078,0.556,2011-12,Hofstra
+Stephen Nwaukoni,22,0.217,0.263,0.667,0.25,0.25,0.28600000000000003,2011-12,Hofstra
+David Imes,19,0.16699999999999998,0.25,0.625,0.10300000000000001,0.022000000000000002,0.091,2011-12,Hofstra
+Moussa Kone,12,0.157,0.179,0.875,0.21100000000000002,0.25,0.25,2011-12,Hofstra
+Mike Moore,5,0.027999999999999997,0.03,0.667,0.006,0.019,1,2011-12,Hofstra
+Stevie Mejia,2,0.051,0.053,0.5,0,0,NA,2011-12,Hofstra
+Bryant Crowder,2,0.2,0.125,0.5,0,0,NA,2011-12,Hofstra
+Shemiye McLendon,1,0.042,0,0,0,0,NA,2011-12,Hofstra
+Dwan McMillan,1,0.013999999999999999,0,0,0,0,NA,2011-12,Hofstra
+Matt Grogan,1,0.33299999999999996,0.5,1,0,0,NA,2011-12,Hofstra
+Total,97,0.11599999999999999,0.139,0.672,0.045,0.042,0.312,2011-12,Hofstra

@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Sylvester Ogbonda,22,0.212,0.204,0.588,0.106,0.11800000000000001,0.4,2019-20
-Ben Vander Plas,21,0.11,0.098,0.5710000000000001,0,0,NA,2019-20
-Lunden McDay,20,0.254,0.22699999999999998,0.556,0.019,0,0,2019-20
-Jason Preston,10,0.034,0.040999999999999995,0.7140000000000001,0.02,0,0,2019-20
-Nolan Foster,6,0.121,0.105,0.5,0.095,0.14300000000000002,0.5,2019-20
-Mason McMurray,4,0.16699999999999998,0.25,1,0.16699999999999998,0,0,2019-20
-Nate Springs,3,0.6,0.5,0.667,0,0,NA,2019-20
-Jordan Dartis,3,0.027999999999999997,0,0,0.022000000000000002,0,0,2019-20
-Ben Roderick,3,0.111,0.111,0.5,0,0,NA,2019-20
-Connor Murrell,3,0.188,0.125,0.33299999999999996,0,0,NA,2019-20
-Total,95,0.111,0.107,0.5770000000000001,0.034,0.023,0.25,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Sylvester Ogbonda,22,0.212,0.204,0.588,0.106,0.11800000000000001,0.4,2019-20,Ohio
+Ben Vander Plas,21,0.11,0.098,0.5710000000000001,0,0,NA,2019-20,Ohio
+Lunden McDay,20,0.254,0.22699999999999998,0.556,0.019,0,0,2019-20,Ohio
+Jason Preston,10,0.034,0.040999999999999995,0.7140000000000001,0.02,0,0,2019-20,Ohio
+Nolan Foster,6,0.121,0.105,0.5,0.095,0.14300000000000002,0.5,2019-20,Ohio
+Mason McMurray,4,0.16699999999999998,0.25,1,0.16699999999999998,0,0,2019-20,Ohio
+Nate Springs,3,0.6,0.5,0.667,0,0,NA,2019-20,Ohio
+Jordan Dartis,3,0.027999999999999997,0,0,0.022000000000000002,0,0,2019-20,Ohio
+Ben Roderick,3,0.111,0.111,0.5,0,0,NA,2019-20,Ohio
+Connor Murrell,3,0.188,0.125,0.33299999999999996,0,0,NA,2019-20,Ohio
+Total,95,0.111,0.107,0.5770000000000001,0.034,0.023,0.25,2019-20,Ohio

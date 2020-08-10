@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Callum Barker,16,0.256,0.24100000000000002,0.7,0.091,0.111,0.5,2015-16
-Donte Thomas,15,0.113,0.14300000000000002,0.833,0.068,0.091,0.5710000000000001,2015-16
-Scottie James,9,0.28600000000000003,0.267,0.667,0.13,0.14300000000000002,0.33299999999999996,2015-16
-Antoine Pittman,7,0.037000000000000005,0.067,1,0.049,0.038,0.25,2015-16
-VAN,7,0.182,0.231,0.75,0.037000000000000005,0.036000000000000004,0.33299999999999996,2015-16
-Ronnie Suggs,4,0.037000000000000005,0.062,1,0.023,0,0,2015-16
-Peter Hanley,3,0.273,0.14300000000000002,0.33299999999999996,0,NA,NA,2015-16
-Davante Cooper,2,0.091,0,0,0.032,0,0,2015-16
-Luuk van Bree,1,0,0,NA,0.2,0.25,1,2015-16
-Ka'Darryl Bell,1,0,0,NA,0.028999999999999998,0.071,1,2015-16
-Total,65,0.09300000000000001,0.113,0.6970000000000001,0.044000000000000004,0.051,0.414,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Callum Barker,16,0.256,0.24100000000000002,0.7,0.091,0.111,0.5,2015-16,Bradley
+Donte Thomas,15,0.113,0.14300000000000002,0.833,0.068,0.091,0.5710000000000001,2015-16,Bradley
+Scottie James,9,0.28600000000000003,0.267,0.667,0.13,0.14300000000000002,0.33299999999999996,2015-16,Bradley
+Antoine Pittman,7,0.037000000000000005,0.067,1,0.049,0.038,0.25,2015-16,Bradley
+VAN,7,0.182,0.231,0.75,0.037000000000000005,0.036000000000000004,0.33299999999999996,2015-16,Bradley
+Ronnie Suggs,4,0.037000000000000005,0.062,1,0.023,0,0,2015-16,Bradley
+Peter Hanley,3,0.273,0.14300000000000002,0.33299999999999996,0,NA,NA,2015-16,Bradley
+Davante Cooper,2,0.091,0,0,0.032,0,0,2015-16,Bradley
+Luuk van Bree,1,0,0,NA,0.2,0.25,1,2015-16,Bradley
+Ka'Darryl Bell,1,0,0,NA,0.028999999999999998,0.071,1,2015-16,Bradley
+Total,65,0.09300000000000001,0.113,0.6970000000000001,0.044000000000000004,0.051,0.414,2015-16,Bradley

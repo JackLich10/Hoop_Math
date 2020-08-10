@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Cody Larson,33,0.133,0.156,0.7040000000000001,0.040999999999999995,0.075,0.6,2014-15
-Jake Bittle,13,0.126,0.085,0.455,0.038,0.04,0.5,2014-15
-Zach Horstman,12,0.222,0.214,0.6,0.091,0.25,1,2014-15
-Ian Theisen,8,0.259,0.25,0.7140000000000001,0.05,0,0,2014-15
-Reed Tellinghuisen,7,0.075,0.091,0.75,0.061,0.091,0.5,2014-15
-Keaton Moffitt,7,0.12,0.192,0.833,0.077,0,0,2014-15
-Connor Devine,5,0.19,0.14300000000000002,0.5,0.111,0,0,2014-15
-Skyler Flatten,3,0.17600000000000002,0.28600000000000003,0.667,0,0,NA,2014-15
-Deondre Parks,3,0.016,0,0,0.015,0,0,2014-15
-Logan Doyle,1,0.25,0.33299999999999996,1,0,NA,NA,2014-15
-Total,92,0.107,0.11699999999999999,0.64,0.033,0.043,0.467,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Cody Larson,33,0.133,0.156,0.7040000000000001,0.040999999999999995,0.075,0.6,2014-15,SouthDakotaSt.
+Jake Bittle,13,0.126,0.085,0.455,0.038,0.04,0.5,2014-15,SouthDakotaSt.
+Zach Horstman,12,0.222,0.214,0.6,0.091,0.25,1,2014-15,SouthDakotaSt.
+Ian Theisen,8,0.259,0.25,0.7140000000000001,0.05,0,0,2014-15,SouthDakotaSt.
+Reed Tellinghuisen,7,0.075,0.091,0.75,0.061,0.091,0.5,2014-15,SouthDakotaSt.
+Keaton Moffitt,7,0.12,0.192,0.833,0.077,0,0,2014-15,SouthDakotaSt.
+Connor Devine,5,0.19,0.14300000000000002,0.5,0.111,0,0,2014-15,SouthDakotaSt.
+Skyler Flatten,3,0.17600000000000002,0.28600000000000003,0.667,0,0,NA,2014-15,SouthDakotaSt.
+Deondre Parks,3,0.016,0,0,0.015,0,0,2014-15,SouthDakotaSt.
+Logan Doyle,1,0.25,0.33299999999999996,1,0,NA,NA,2014-15,SouthDakotaSt.
+Total,92,0.107,0.11699999999999999,0.64,0.033,0.043,0.467,2014-15,SouthDakotaSt.

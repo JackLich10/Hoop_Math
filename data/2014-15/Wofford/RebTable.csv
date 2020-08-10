@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Justin Gordon,22,0.17,0.162,0.706,0.055,0.1,0.6,2014-15
-Lee Skinner,18,0.096,0.1,0.667,0.045,0.040999999999999995,0.33299999999999996,2014-15
-CJ Neumann,11,0.16399999999999998,0.154,0.545,0,0,NA,2014-15
-Karl Cochran,10,0.086,0.08199999999999999,0.5,0.019,0.028999999999999998,0.5,2014-15
-Spencer Collins,9,0.084,0.081,0.625,0.01,0,0,2014-15
-Cameron Jackson,4,0.111,0.125,0.75,0,0,NA,2014-15
-Jaylen Allen,2,0.023,0.043,1,0.031,0,0,2014-15
-John Swinton,2,0.062,0,0,0.077,0.16699999999999998,1,2014-15
-Derrick Brooks,1,0,0,NA,0.042,0,0,2014-15
-Total,79,0.099,0.1,0.629,0.028999999999999998,0.034,0.41200000000000003,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Justin Gordon,22,0.17,0.162,0.706,0.055,0.1,0.6,2014-15,Wofford
+Lee Skinner,18,0.096,0.1,0.667,0.045,0.040999999999999995,0.33299999999999996,2014-15,Wofford
+CJ Neumann,11,0.16399999999999998,0.154,0.545,0,0,NA,2014-15,Wofford
+Karl Cochran,10,0.086,0.08199999999999999,0.5,0.019,0.028999999999999998,0.5,2014-15,Wofford
+Spencer Collins,9,0.084,0.081,0.625,0.01,0,0,2014-15,Wofford
+Cameron Jackson,4,0.111,0.125,0.75,0,0,NA,2014-15,Wofford
+Jaylen Allen,2,0.023,0.043,1,0.031,0,0,2014-15,Wofford
+John Swinton,2,0.062,0,0,0.077,0.16699999999999998,1,2014-15,Wofford
+Derrick Brooks,1,0,0,NA,0.042,0,0,2014-15,Wofford
+Total,79,0.099,0.1,0.629,0.028999999999999998,0.034,0.41200000000000003,2014-15,Wofford

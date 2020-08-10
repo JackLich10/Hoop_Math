@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Desean Murray,31,0.12300000000000001,0.127,0.667,0.02,0.022000000000000002,0.5,2015-16
-Ed Drew,26,0.242,0.314,0.667,0.042,0.053,0.5,2015-16
-John Majors II,15,0.254,0.235,0.5329999999999999,0,0,NA,2015-16
-Austin Venable,7,0.076,0.079,0.6,0.069,0.091,0.5,2015-16
-Reggie Dillard,5,0.076,0.061,0.4,0,0,NA,2015-16
-Markus Terry,4,0.04,0.049,0.667,0.019,0.055999999999999994,1,2015-16
-Stephen Osu,2,0.33299999999999996,0.5,0.5,0,NA,NA,2015-16
-Will Adams,2,0.1,0,0,0.083,0.16699999999999998,1,2015-16
-Darius Moore,2,0.036000000000000004,0.1,1,0,0,NA,2015-16
-Janeil Jenkins,1,0,0,NA,0.25,0,0,2015-16
-"II,JOHN",1,0.25,0.33299999999999996,1,NA,NA,NA,2015-16
-Total,96,0.111,0.12300000000000001,0.619,0.023,0.033,0.545,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Desean Murray,31,0.12300000000000001,0.127,0.667,0.02,0.022000000000000002,0.5,2015-16,Presbyterian
+Ed Drew,26,0.242,0.314,0.667,0.042,0.053,0.5,2015-16,Presbyterian
+John Majors II,15,0.254,0.235,0.5329999999999999,0,0,NA,2015-16,Presbyterian
+Austin Venable,7,0.076,0.079,0.6,0.069,0.091,0.5,2015-16,Presbyterian
+Reggie Dillard,5,0.076,0.061,0.4,0,0,NA,2015-16,Presbyterian
+Markus Terry,4,0.04,0.049,0.667,0.019,0.055999999999999994,1,2015-16,Presbyterian
+Stephen Osu,2,0.33299999999999996,0.5,0.5,0,NA,NA,2015-16,Presbyterian
+Will Adams,2,0.1,0,0,0.083,0.16699999999999998,1,2015-16,Presbyterian
+Darius Moore,2,0.036000000000000004,0.1,1,0,0,NA,2015-16,Presbyterian
+Janeil Jenkins,1,0,0,NA,0.25,0,0,2015-16,Presbyterian
+"II,JOHN",1,0.25,0.33299999999999996,1,NA,NA,NA,2015-16,Presbyterian
+Total,96,0.111,0.12300000000000001,0.619,0.023,0.033,0.545,2015-16,Presbyterian

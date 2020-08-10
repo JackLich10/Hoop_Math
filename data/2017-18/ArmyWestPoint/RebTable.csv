@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Matt Wilson,27,0.141,0.185,0.87,0.04,0,0,2017-18
-Jacob Kessler,10,0.15,0.122,0.556,0,0,NA,2017-18
-Alex King,8,0.071,0.11599999999999999,0.833,0.045,0.077,0.5,2017-18
-John Miller,6,0.312,0.2,0.4,1,1,1,2017-18
-Tommy Funk,4,0.021,0.028999999999999998,0.667,0.021,0.067,1,2017-18
-John Emezie,4,0.08199999999999999,0.15,0.75,0,0,NA,2017-18
-Jordan Fox,4,0.027000000000000003,0.026000000000000002,0.5,0.013999999999999999,0,0,2017-18
-Luke Morrison,2,0.1,0,0,0,0,NA,2017-18
-Babacar Thiombane,2,0.1,0.133,1,0,0,NA,2017-18
-Total,67,0.08199999999999999,0.105,0.7140000000000001,0.023,0.021,0.33299999999999996,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Matt Wilson,27,0.141,0.185,0.87,0.04,0,0,2017-18,ArmyWestPoint
+Jacob Kessler,10,0.15,0.122,0.556,0,0,NA,2017-18,ArmyWestPoint
+Alex King,8,0.071,0.11599999999999999,0.833,0.045,0.077,0.5,2017-18,ArmyWestPoint
+John Miller,6,0.312,0.2,0.4,1,1,1,2017-18,ArmyWestPoint
+Tommy Funk,4,0.021,0.028999999999999998,0.667,0.021,0.067,1,2017-18,ArmyWestPoint
+John Emezie,4,0.08199999999999999,0.15,0.75,0,0,NA,2017-18,ArmyWestPoint
+Jordan Fox,4,0.027000000000000003,0.026000000000000002,0.5,0.013999999999999999,0,0,2017-18,ArmyWestPoint
+Luke Morrison,2,0.1,0,0,0,0,NA,2017-18,ArmyWestPoint
+Babacar Thiombane,2,0.1,0.133,1,0,0,NA,2017-18,ArmyWestPoint
+Total,67,0.08199999999999999,0.105,0.7140000000000001,0.023,0.021,0.33299999999999996,2017-18,ArmyWestPoint

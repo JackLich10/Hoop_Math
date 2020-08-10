@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.33799999999999997,0.544,0.14,0.633,2019-20
-2pt Jumpers,0.261,0.309,0.065,0.331,2019-20
-3pt Shots,0.401,0.336,0.001,0.336,2019-20
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.33799999999999997,0.544,0.14,0.633,2019-20,Oklahoma
+2pt Jumpers,0.261,0.309,0.065,0.331,2019-20,Oklahoma
+3pt Shots,0.401,0.336,0.001,0.336,2019-20,Oklahoma

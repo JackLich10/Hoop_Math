@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Leonard Washington,25,0.154,0.145,0.7390000000000001,0.027999999999999997,0,0,2011-12
-Nance Larry,13,0.222,0.273,0.9,0.057999999999999996,0.077,0.33299999999999996,2011-12
-Francisco Cruz,12,0.136,0.179,0.875,0.027999999999999997,0.048,0.75,2011-12
-Luke Martinez,7,0.14300000000000002,0.179,0.833,0.042,0,0,2011-12
-Adam Waddell,6,0.047,0.053,1,0.016,0.026000000000000002,0.5,2011-12
-Tyrone Marshall,3,0.33299999999999996,0.5,1,0.28600000000000003,NA,0,2011-12
-Rob Watsabaugh,2,0.154,0.111,0.5,0,0,NA,2011-12
-Derrious Gilmore,1,0,0,NA,0,0,NA,2011-12
-JayDee Luster,1,0,0,NA,0.022000000000000002,0,0,2011-12
-Total,70,0.11699999999999999,0.129,0.815,0.028999999999999998,0.028999999999999998,0.33299999999999996,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Leonard Washington,25,0.154,0.145,0.7390000000000001,0.027999999999999997,0,0,2011-12,Wyoming
+Nance Larry,13,0.222,0.273,0.9,0.057999999999999996,0.077,0.33299999999999996,2011-12,Wyoming
+Francisco Cruz,12,0.136,0.179,0.875,0.027999999999999997,0.048,0.75,2011-12,Wyoming
+Luke Martinez,7,0.14300000000000002,0.179,0.833,0.042,0,0,2011-12,Wyoming
+Adam Waddell,6,0.047,0.053,1,0.016,0.026000000000000002,0.5,2011-12,Wyoming
+Tyrone Marshall,3,0.33299999999999996,0.5,1,0.28600000000000003,NA,0,2011-12,Wyoming
+Rob Watsabaugh,2,0.154,0.111,0.5,0,0,NA,2011-12,Wyoming
+Derrious Gilmore,1,0,0,NA,0,0,NA,2011-12,Wyoming
+JayDee Luster,1,0,0,NA,0.022000000000000002,0,0,2011-12,Wyoming
+Total,70,0.11699999999999999,0.129,0.815,0.028999999999999998,0.028999999999999998,0.33299999999999996,2011-12,Wyoming

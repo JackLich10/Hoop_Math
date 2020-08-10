@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tyrece Radford,22,0.128,0.152,0.8420000000000001,0.05,0.037000000000000005,0.33299999999999996,2019-20
-John Ojiako,9,0.226,0.20800000000000002,0.7140000000000001,0.067,0.111,0.5,2019-20
-Landers Nolley II,7,0.051,0.024,0.25,0.012,0.016,0.5,2019-20
-Isaiah Wilkins,7,0.2,0.154,0.4,0.026000000000000002,0.077,1,2019-20
-P.J. Horne,5,0.11900000000000001,0.09699999999999999,0.6,0,0,NA,2019-20
-Branden Johnson,3,0.429,1,0.667,NA,NA,NA,2019-20
-Wabissa Bede,1,0.018000000000000002,0.028999999999999998,1,0,0,NA,2019-20
-Jalen Cone,1,0,0,NA,0,0,NA,2019-20
-Nahiem Alleyne,1,0.023,0.048,1,0,0,NA,2019-20
-Total,56,0.096,0.107,0.6890000000000001,0.016,0.022000000000000002,0.5,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tyrece Radford,22,0.128,0.152,0.8420000000000001,0.05,0.037000000000000005,0.33299999999999996,2019-20,VirginiaTech
+John Ojiako,9,0.226,0.20800000000000002,0.7140000000000001,0.067,0.111,0.5,2019-20,VirginiaTech
+Landers Nolley II,7,0.051,0.024,0.25,0.012,0.016,0.5,2019-20,VirginiaTech
+Isaiah Wilkins,7,0.2,0.154,0.4,0.026000000000000002,0.077,1,2019-20,VirginiaTech
+P.J. Horne,5,0.11900000000000001,0.09699999999999999,0.6,0,0,NA,2019-20,VirginiaTech
+Branden Johnson,3,0.429,1,0.667,NA,NA,NA,2019-20,VirginiaTech
+Wabissa Bede,1,0.018000000000000002,0.028999999999999998,1,0,0,NA,2019-20,VirginiaTech
+Jalen Cone,1,0,0,NA,0,0,NA,2019-20,VirginiaTech
+Nahiem Alleyne,1,0.023,0.048,1,0,0,NA,2019-20,VirginiaTech
+Total,56,0.096,0.107,0.6890000000000001,0.016,0.022000000000000002,0.5,2019-20,VirginiaTech

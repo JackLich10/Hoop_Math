@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Chad Andrews-Fulton,26,0.258,0.321,0.72,0.018000000000000002,0,0,2018-19
-Justin Steers,21,0.217,0.255,0.8,0.2,0.182,0.33299999999999996,2018-19
-Cedric Council,14,0.13,0.179,0.778,0.08900000000000001,0.11800000000000001,0.4,2018-19
-Brendan Medley-Bacon,8,0.24100000000000002,0.188,0.429,0.077,0,0,2018-19
-Lamar Morgan,6,0.11599999999999999,0.129,0.8,0.04,0,0,2018-19
-Giir Ring,3,0.33299999999999996,0.25,0.5,1,NA,0,2018-19
-Dejuan Clayton,3,0.013000000000000001,0.022000000000000002,1,0.015,0,0,2018-19
-Taqwain Drummond,3,0.042,0,0,0.059000000000000004,0.16699999999999998,1,2018-19
-"BRENDAN,MEDLEY-BACON",1,0.25,0.33299999999999996,1,0,0,NA,2018-19
-Kent Auslander,1,0,0,NA,0,0,NA,2018-19
-Nigel Marshall,1,0,0,NA,0.022000000000000002,0.053,1,2018-19
-Ibn Williams,1,0.036000000000000004,0.1,1,0,0,NA,2018-19
-Total,88,0.113,0.142,0.721,0.049,0.055999999999999994,0.368,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Chad Andrews-Fulton,26,0.258,0.321,0.72,0.018000000000000002,0,0,2018-19,CoppinSt.
+Justin Steers,21,0.217,0.255,0.8,0.2,0.182,0.33299999999999996,2018-19,CoppinSt.
+Cedric Council,14,0.13,0.179,0.778,0.08900000000000001,0.11800000000000001,0.4,2018-19,CoppinSt.
+Brendan Medley-Bacon,8,0.24100000000000002,0.188,0.429,0.077,0,0,2018-19,CoppinSt.
+Lamar Morgan,6,0.11599999999999999,0.129,0.8,0.04,0,0,2018-19,CoppinSt.
+Giir Ring,3,0.33299999999999996,0.25,0.5,1,NA,0,2018-19,CoppinSt.
+Dejuan Clayton,3,0.013000000000000001,0.022000000000000002,1,0.015,0,0,2018-19,CoppinSt.
+Taqwain Drummond,3,0.042,0,0,0.059000000000000004,0.16699999999999998,1,2018-19,CoppinSt.
+"BRENDAN,MEDLEY-BACON",1,0.25,0.33299999999999996,1,0,0,NA,2018-19,CoppinSt.
+Kent Auslander,1,0,0,NA,0,0,NA,2018-19,CoppinSt.
+Nigel Marshall,1,0,0,NA,0.022000000000000002,0.053,1,2018-19,CoppinSt.
+Ibn Williams,1,0.036000000000000004,0.1,1,0,0,NA,2018-19,CoppinSt.
+Total,88,0.113,0.142,0.721,0.049,0.055999999999999994,0.368,2018-19,CoppinSt.

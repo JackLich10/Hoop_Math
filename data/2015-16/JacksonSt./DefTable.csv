@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.369,0.499,0.135,0.5770000000000001,2015-16
-2pt Jumpers,0.276,0.35700000000000004,0.06,0.38,2015-16
-3pt Shots,0.355,0.306,0.003,0.307,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.369,0.499,0.135,0.5770000000000001,2015-16,JacksonSt.
+2pt Jumpers,0.276,0.35700000000000004,0.06,0.38,2015-16,JacksonSt.
+3pt Shots,0.355,0.306,0.003,0.307,2015-16,JacksonSt.

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.366,0.575,0.105,0.643,2018-19
-2pt Jumpers,0.22899999999999998,0.385,0.065,0.41100000000000003,2018-19
-3pt Shots,0.405,0.337,0.015,0.342,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.366,0.575,0.105,0.643,2018-19,Colgate
+2pt Jumpers,0.22899999999999998,0.385,0.065,0.41100000000000003,2018-19,Colgate
+3pt Shots,0.405,0.337,0.015,0.342,2018-19,Colgate

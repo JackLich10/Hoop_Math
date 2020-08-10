@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kenny Jones,26,0.11599999999999999,0.131,0.8420000000000001,0.063,0.068,0.429,2016-17
-Chris Porter-Bunton,13,0.16399999999999998,0.19399999999999998,0.6,0.071,0.062,0.5,2016-17
-Jared Savage,13,0.27899999999999997,0.192,0.41700000000000004,0.02,0,0,2016-17
-John Murry,7,0.057999999999999996,0.062,0.667,0.008,0.017,1,2016-17
-Dre'Kalo Clayton,5,0.091,0.083,0.5,0.081,0.055999999999999994,0.33299999999999996,2016-17
-Josh Robinson,2,0.019,0,0,0,0,NA,2016-17
-Jartavious Dobbs,2,0.4,0.5,0.5,0,0,NA,2016-17
-Assane Diop,2,0.091,0.111,1,0,0,NA,2016-17
-Zach Glotta,2,0,0,NA,0.083,0.2,1,2016-17
-Steve Harris,1,0,0,NA,0.25,0,0,2016-17
-Tre' Ivory,1,0.062,0,0,0,0,NA,2016-17
-Total,74,0.10099999999999999,0.10099999999999999,0.625,0.031,0.03,0.43799999999999994,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kenny Jones,26,0.11599999999999999,0.131,0.8420000000000001,0.063,0.068,0.429,2016-17,AustinPeay
+Chris Porter-Bunton,13,0.16399999999999998,0.19399999999999998,0.6,0.071,0.062,0.5,2016-17,AustinPeay
+Jared Savage,13,0.27899999999999997,0.192,0.41700000000000004,0.02,0,0,2016-17,AustinPeay
+John Murry,7,0.057999999999999996,0.062,0.667,0.008,0.017,1,2016-17,AustinPeay
+Dre'Kalo Clayton,5,0.091,0.083,0.5,0.081,0.055999999999999994,0.33299999999999996,2016-17,AustinPeay
+Josh Robinson,2,0.019,0,0,0,0,NA,2016-17,AustinPeay
+Jartavious Dobbs,2,0.4,0.5,0.5,0,0,NA,2016-17,AustinPeay
+Assane Diop,2,0.091,0.111,1,0,0,NA,2016-17,AustinPeay
+Zach Glotta,2,0,0,NA,0.083,0.2,1,2016-17,AustinPeay
+Steve Harris,1,0,0,NA,0.25,0,0,2016-17,AustinPeay
+Tre' Ivory,1,0.062,0,0,0,0,NA,2016-17,AustinPeay
+Total,74,0.10099999999999999,0.10099999999999999,0.625,0.031,0.03,0.43799999999999994,2016-17,AustinPeay

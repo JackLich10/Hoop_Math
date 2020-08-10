@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Daniel Gafford,37,0.17300000000000001,0.159,0.8079999999999999,0.091,0.125,0.364,2017-18
-Adrio Bailey,15,0.218,0.209,0.75,0.07,0.1,0.33299999999999996,2017-18
-Darious Hall,13,0.155,0.195,0.889,0.079,0,0,2017-18
-Trey Thompson,13,0.245,0.273,0.75,0.02,0,0,2017-18
-Jaylen Barford,7,0.033,0.048,1,0.02,0.038,0.667,2017-18
-Arlando Cook,7,0.375,0.462,1,0.03,0.111,1,2017-18
-Dustin Thomas,6,0.14800000000000002,0.136,0.75,0.031,0,0,2017-18
-Anton Beard,6,0.054000000000000006,0.047,0.5,0.01,0,0,2017-18
-Daryl Macon,5,0.021,0.017,0.5,0.022000000000000002,0.033,0.5,2017-18
-C.J. Jones,2,0.048,0.077,1,0.019,0,0,2017-18
-Gabe Osabuohien,1,0.083,0.14300000000000002,1,0,0,NA,2017-18
-Total,112,0.11800000000000001,0.132,0.802,0.037000000000000005,0.037000000000000005,0.321,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Daniel Gafford,37,0.17300000000000001,0.159,0.8079999999999999,0.091,0.125,0.364,2017-18,Arkansas
+Adrio Bailey,15,0.218,0.209,0.75,0.07,0.1,0.33299999999999996,2017-18,Arkansas
+Darious Hall,13,0.155,0.195,0.889,0.079,0,0,2017-18,Arkansas
+Trey Thompson,13,0.245,0.273,0.75,0.02,0,0,2017-18,Arkansas
+Jaylen Barford,7,0.033,0.048,1,0.02,0.038,0.667,2017-18,Arkansas
+Arlando Cook,7,0.375,0.462,1,0.03,0.111,1,2017-18,Arkansas
+Dustin Thomas,6,0.14800000000000002,0.136,0.75,0.031,0,0,2017-18,Arkansas
+Anton Beard,6,0.054000000000000006,0.047,0.5,0.01,0,0,2017-18,Arkansas
+Daryl Macon,5,0.021,0.017,0.5,0.022000000000000002,0.033,0.5,2017-18,Arkansas
+C.J. Jones,2,0.048,0.077,1,0.019,0,0,2017-18,Arkansas
+Gabe Osabuohien,1,0.083,0.14300000000000002,1,0,0,NA,2017-18,Arkansas
+Total,112,0.11800000000000001,0.132,0.802,0.037000000000000005,0.037000000000000005,0.321,2017-18,Arkansas

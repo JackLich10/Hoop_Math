@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jehyve Floyd,17,0.076,0.086,0.8240000000000001,0,0,NA,2018-19
-Austin Butler,13,0.075,0.06,0.455,0.037000000000000005,0.091,0.5,2018-19
-Jacob Grandison,13,0.094,0.092,0.583,0.013000000000000001,0,0,2018-19
-Patrick Benzan,4,0.035,0.022000000000000002,0.33299999999999996,0.02,0,0,2018-19
-Caleb Green,3,0.026000000000000002,0.032,0.667,0,0,NA,2018-19
-Matt Faw,3,0.057,0.087,1,0.027999999999999997,0,0,2018-19
-Kyle Copeland,3,0.17600000000000002,0.25,1,0,NA,NA,2018-19
-Connor Niego,2,0.25,0.2,0.5,0,0,NA,2018-19
-Marlon Hargis,1,0.33299999999999996,1,1,0,0,NA,2018-19
-Total,59,0.07,0.075,0.667,0.013000000000000001,0.008,0.2,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jehyve Floyd,17,0.076,0.086,0.8240000000000001,0,0,NA,2018-19,HolyCross
+Austin Butler,13,0.075,0.06,0.455,0.037000000000000005,0.091,0.5,2018-19,HolyCross
+Jacob Grandison,13,0.094,0.092,0.583,0.013000000000000001,0,0,2018-19,HolyCross
+Patrick Benzan,4,0.035,0.022000000000000002,0.33299999999999996,0.02,0,0,2018-19,HolyCross
+Caleb Green,3,0.026000000000000002,0.032,0.667,0,0,NA,2018-19,HolyCross
+Matt Faw,3,0.057,0.087,1,0.027999999999999997,0,0,2018-19,HolyCross
+Kyle Copeland,3,0.17600000000000002,0.25,1,0,NA,NA,2018-19,HolyCross
+Connor Niego,2,0.25,0.2,0.5,0,0,NA,2018-19,HolyCross
+Marlon Hargis,1,0.33299999999999996,1,1,0,0,NA,2018-19,HolyCross
+Total,59,0.07,0.075,0.667,0.013000000000000001,0.008,0.2,2018-19,HolyCross

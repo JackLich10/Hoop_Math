@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Andrew Smith,28,0.158,0.17,0.667,0.055999999999999994,0,0,2014-15
-David Andoh,20,0.17,0.188,0.562,0.022000000000000002,0.013999999999999999,0.25,2014-15
-James Johnson,9,0.083,0.083,0.556,0,0,NA,2014-15
-Theo Johnson,7,0.048,0.05,0.6,0.03,0.05,0.5,2014-15
-Evan Maxwell,5,0.14800000000000002,0.11800000000000001,0.5,0.111,0,0,2014-15
-Jordan Dembley,2,0.059000000000000004,0.111,1,0.14300000000000002,0,0,2014-15
-Joe Retic,2,0,0,NA,0.024,0.071,1,2014-15
-Ryan Kemrite,2,0.059000000000000004,0,0,0.14300000000000002,1,1,2014-15
-A.C. Reid,1,0,0,NA,0.062,0,0,2014-15
-Tomasz Gielo,1,0.067,0,0,0,0,NA,2014-15
-Peter Moller,1,0,0,NA,0.023,0.055999999999999994,1,2014-15
-Ethan Layer,1,0,0,NA,NA,NA,NA,2014-15
-Total,79,0.096,0.10300000000000001,0.59,0.033,0.027999999999999997,0.312,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Andrew Smith,28,0.158,0.17,0.667,0.055999999999999994,0,0,2014-15,Liberty
+David Andoh,20,0.17,0.188,0.562,0.022000000000000002,0.013999999999999999,0.25,2014-15,Liberty
+James Johnson,9,0.083,0.083,0.556,0,0,NA,2014-15,Liberty
+Theo Johnson,7,0.048,0.05,0.6,0.03,0.05,0.5,2014-15,Liberty
+Evan Maxwell,5,0.14800000000000002,0.11800000000000001,0.5,0.111,0,0,2014-15,Liberty
+Jordan Dembley,2,0.059000000000000004,0.111,1,0.14300000000000002,0,0,2014-15,Liberty
+Joe Retic,2,0,0,NA,0.024,0.071,1,2014-15,Liberty
+Ryan Kemrite,2,0.059000000000000004,0,0,0.14300000000000002,1,1,2014-15,Liberty
+A.C. Reid,1,0,0,NA,0.062,0,0,2014-15,Liberty
+Tomasz Gielo,1,0.067,0,0,0,0,NA,2014-15,Liberty
+Peter Moller,1,0,0,NA,0.023,0.055999999999999994,1,2014-15,Liberty
+Ethan Layer,1,0,0,NA,NA,NA,NA,2014-15,Liberty
+Total,79,0.096,0.10300000000000001,0.59,0.033,0.027999999999999997,0.312,2014-15,Liberty

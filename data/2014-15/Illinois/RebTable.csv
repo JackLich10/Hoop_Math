@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Nnanna Egwu,28,0.41100000000000003,0.371,0.565,0.046,0.05,0.4,2014-15
-Malcolm Hill,23,0.204,0.19,0.727,0.063,0.09699999999999999,0.583,2014-15
-Leron Black,16,0.25,0.29,0.9,0.061,0.083,0.5,2014-15
-Rayvonte Rice,12,0.057,0.054000000000000006,0.6,0.068,0.033,0.16699999999999998,2014-15
-Maverick Morgan,12,0.321,0.308,0.444,0.079,0.11800000000000001,0.667,2014-15
-Austin Colbert,11,0.41200000000000003,0.364,0.5710000000000001,0.33299999999999996,0,0,2014-15
-Kendrick Nunn,2,0,0,NA,0.017,0,0,2014-15
-Ahmad Starks,2,0,0,NA,0,0,NA,2014-15
-Total,106,0.159,0.16,0.631,0.046,0.052000000000000005,0.395,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Nnanna Egwu,28,0.41100000000000003,0.371,0.565,0.046,0.05,0.4,2014-15,Illinois
+Malcolm Hill,23,0.204,0.19,0.727,0.063,0.09699999999999999,0.583,2014-15,Illinois
+Leron Black,16,0.25,0.29,0.9,0.061,0.083,0.5,2014-15,Illinois
+Rayvonte Rice,12,0.057,0.054000000000000006,0.6,0.068,0.033,0.16699999999999998,2014-15,Illinois
+Maverick Morgan,12,0.321,0.308,0.444,0.079,0.11800000000000001,0.667,2014-15,Illinois
+Austin Colbert,11,0.41200000000000003,0.364,0.5710000000000001,0.33299999999999996,0,0,2014-15,Illinois
+Kendrick Nunn,2,0,0,NA,0.017,0,0,2014-15,Illinois
+Ahmad Starks,2,0,0,NA,0,0,NA,2014-15,Illinois
+Total,106,0.159,0.16,0.631,0.046,0.052000000000000005,0.395,2014-15,Illinois

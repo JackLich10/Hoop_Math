@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tahj Small,14,0.31,0.28600000000000003,0.462,0,0,NA,2019-20
-Nick Stampley,12,0.128,0.154,0.8,0.043,0,0,2019-20
-KJ Simon,11,0.147,0.237,0.9,0.032,0,0,2019-20
-Zay Williams,10,0.107,0.1,0.625,0.038,0.053,0.5,2019-20
-Davion Thomas,8,0.16699999999999998,0.174,0.5710000000000001,0.025,0,0,2019-20
-Tyrek  Williams,8,0.276,0.385,0.625,0,0,NA,2019-20
-Ty Gordon,6,0.037000000000000005,0.045,0.6,0.03,0.14300000000000002,1,2019-20
-Jakevan Leftridge,6,0.135,0.136,0.6,0.16699999999999998,0,0,2019-20
-Darian Adams,5,0.06,0.111,0.667,0.015,0.042,1,2019-20
-Atakan Sahinkaya,3,0.11800000000000001,0,0,0.33299999999999996,0,0,2019-20
-Khalyl Waters,3,0.067,0.038,0.33299999999999996,0,0,NA,2019-20
-Charles Norman,3,0.083,0.071,0.5,0,0,NA,2019-20
-Desmond Williams,1,0,0,NA,0.027999999999999997,0.111,1,2019-20
-Total,90,0.109,0.124,0.618,0.027999999999999997,0.036000000000000004,0.4,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tahj Small,14,0.31,0.28600000000000003,0.462,0,0,NA,2019-20,Troy
+Nick Stampley,12,0.128,0.154,0.8,0.043,0,0,2019-20,Troy
+KJ Simon,11,0.147,0.237,0.9,0.032,0,0,2019-20,Troy
+Zay Williams,10,0.107,0.1,0.625,0.038,0.053,0.5,2019-20,Troy
+Davion Thomas,8,0.16699999999999998,0.174,0.5710000000000001,0.025,0,0,2019-20,Troy
+Tyrek  Williams,8,0.276,0.385,0.625,0,0,NA,2019-20,Troy
+Ty Gordon,6,0.037000000000000005,0.045,0.6,0.03,0.14300000000000002,1,2019-20,Troy
+Jakevan Leftridge,6,0.135,0.136,0.6,0.16699999999999998,0,0,2019-20,Troy
+Darian Adams,5,0.06,0.111,0.667,0.015,0.042,1,2019-20,Troy
+Atakan Sahinkaya,3,0.11800000000000001,0,0,0.33299999999999996,0,0,2019-20,Troy
+Khalyl Waters,3,0.067,0.038,0.33299999999999996,0,0,NA,2019-20,Troy
+Charles Norman,3,0.083,0.071,0.5,0,0,NA,2019-20,Troy
+Desmond Williams,1,0,0,NA,0.027999999999999997,0.111,1,2019-20,Troy
+Total,90,0.109,0.124,0.618,0.027999999999999997,0.036000000000000004,0.4,2019-20,Troy

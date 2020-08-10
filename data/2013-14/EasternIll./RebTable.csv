@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Sherman Blanford,47,0.182,0.18600000000000003,0.618,0.11900000000000001,0.071,0.231,2013-14
-Keenen Anderson,20,0.475,0.485,0.8420000000000001,0.2,NA,0,2013-14
-Chris Olivier,16,0.128,0.153,0.818,0.048,0.054000000000000006,0.4,2013-14
-Luke Piotrowski,9,0.161,0.182,0.667,0,0,NA,2013-14
-Josh Piper,9,0.261,0.2,0.5,0.07,0,0,2013-14
-Reggie Smith,3,0.012,0,0,0.03,0.087,1,2013-14
-Mat Piotrowski,3,0.222,0.25,0.5,0.067,0,0,2013-14
-Alex Austin,2,0.033,0,0,0.043,0,0,2013-14
-Jake Verhagen,2,0,0,NA,0.667,0,0,2013-14
-Dennis Green,1,0.024,0,0,0,0,NA,2013-14
-Dylan Chatman,1,0.023,0.048,1,0,0,NA,2013-14
-Zach Dickerson,1,0.111,0,0,0,0,NA,2013-14
-Total,114,0.13699999999999998,0.15,0.6629999999999999,0.057,0.040999999999999995,0.25,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Sherman Blanford,47,0.182,0.18600000000000003,0.618,0.11900000000000001,0.071,0.231,2013-14,EasternIll.
+Keenen Anderson,20,0.475,0.485,0.8420000000000001,0.2,NA,0,2013-14,EasternIll.
+Chris Olivier,16,0.128,0.153,0.818,0.048,0.054000000000000006,0.4,2013-14,EasternIll.
+Luke Piotrowski,9,0.161,0.182,0.667,0,0,NA,2013-14,EasternIll.
+Josh Piper,9,0.261,0.2,0.5,0.07,0,0,2013-14,EasternIll.
+Reggie Smith,3,0.012,0,0,0.03,0.087,1,2013-14,EasternIll.
+Mat Piotrowski,3,0.222,0.25,0.5,0.067,0,0,2013-14,EasternIll.
+Alex Austin,2,0.033,0,0,0.043,0,0,2013-14,EasternIll.
+Jake Verhagen,2,0,0,NA,0.667,0,0,2013-14,EasternIll.
+Dennis Green,1,0.024,0,0,0,0,NA,2013-14,EasternIll.
+Dylan Chatman,1,0.023,0.048,1,0,0,NA,2013-14,EasternIll.
+Zach Dickerson,1,0.111,0,0,0,0,NA,2013-14,EasternIll.
+Total,114,0.13699999999999998,0.15,0.6629999999999999,0.057,0.040999999999999995,0.25,2013-14,EasternIll.

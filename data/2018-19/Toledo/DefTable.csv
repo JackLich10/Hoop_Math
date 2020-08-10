@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.371,0.53,0.133,0.611,2018-19
-2pt Jumpers,0.28,0.37,0.07,0.39799999999999996,2018-19
-3pt Shots,0.349,0.317,0.006,0.319,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.371,0.53,0.133,0.611,2018-19,Toledo
+2pt Jumpers,0.28,0.37,0.07,0.39799999999999996,2018-19,Toledo
+3pt Shots,0.349,0.317,0.006,0.319,2018-19,Toledo

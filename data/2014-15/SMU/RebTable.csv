@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Markus Kennedy,26,0.193,0.177,0.609,0.04,0.034,0.33299999999999996,2014-15
-Yanick Moreira,26,0.17,0.149,0.583,0.017,0.02,0.5,2014-15
-Ben Moore,25,0.212,0.161,0.409,0.036000000000000004,0.038,0.33299999999999996,2014-15
-Sterling Brown,22,0.34,0.4,0.8240000000000001,0.185,0.33299999999999996,0.6,2014-15
-Cannen Cunningham,13,0.16899999999999998,0.188,0.75,0.013000000000000001,0.027000000000000003,1,2014-15
-Keith Frazier,5,0.077,0.053,0.5,0.073,0.053,0.33299999999999996,2014-15
-Ryan Manuel,4,0.03,0.033,0.667,0.024,0,0,2014-15
-Justin Martin,2,0.067,0.077,1,0.083,0,0,2014-15
-Jonathan Wilfong,1,0.33299999999999996,0.33299999999999996,1,0,NA,NA,2014-15
-Ben Emelogu,1,0,0,NA,0.028999999999999998,0.125,1,2014-15
-Nic Moore,1,0.026000000000000002,0,0,0,0,NA,2014-15
-Total,126,0.155,0.15,0.613,0.03,0.035,0.45,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Markus Kennedy,26,0.193,0.177,0.609,0.04,0.034,0.33299999999999996,2014-15,SMU
+Yanick Moreira,26,0.17,0.149,0.583,0.017,0.02,0.5,2014-15,SMU
+Ben Moore,25,0.212,0.161,0.409,0.036000000000000004,0.038,0.33299999999999996,2014-15,SMU
+Sterling Brown,22,0.34,0.4,0.8240000000000001,0.185,0.33299999999999996,0.6,2014-15,SMU
+Cannen Cunningham,13,0.16899999999999998,0.188,0.75,0.013000000000000001,0.027000000000000003,1,2014-15,SMU
+Keith Frazier,5,0.077,0.053,0.5,0.073,0.053,0.33299999999999996,2014-15,SMU
+Ryan Manuel,4,0.03,0.033,0.667,0.024,0,0,2014-15,SMU
+Justin Martin,2,0.067,0.077,1,0.083,0,0,2014-15,SMU
+Jonathan Wilfong,1,0.33299999999999996,0.33299999999999996,1,0,NA,NA,2014-15,SMU
+Ben Emelogu,1,0,0,NA,0.028999999999999998,0.125,1,2014-15,SMU
+Nic Moore,1,0.026000000000000002,0,0,0,0,NA,2014-15,SMU
+Total,126,0.155,0.15,0.613,0.03,0.035,0.45,2014-15,SMU

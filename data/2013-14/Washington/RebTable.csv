@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Perris Blackwell,34,0.162,0.17300000000000001,0.68,0.11800000000000001,0.115,0.33299999999999996,2013-14
-Mike Anderson,12,0.2,0.231,0.667,0.083,0.231,1,2013-14
-Andrew Andrews,12,0.053,0.042,0.4,0.057999999999999996,0.067,0.429,2013-14
-C.J. Wilcox,8,0.051,0.054000000000000006,0.75,0.032,0.078,1,2013-14
-Shawn Kemp,7,0.08199999999999999,0.08199999999999999,0.8,0.040999999999999995,0.083,0.5,2013-14
-Desmond Simmons,6,0.2,0.222,0.667,0,0,NA,2013-14
-Nigel Williams-Goss,5,0.022000000000000002,0.019,0.5,0.016,0.012,0.33299999999999996,2013-14
-Darin Johnson,3,0.04,0.034,0.5,0.019,0.071,1,2013-14
-Gilles Dierickx,2,0.33299999999999996,NA,0,0.2,0,0,2013-14
-Total,89,0.09699999999999999,0.1,0.644,0.042,0.059000000000000004,0.5329999999999999,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Perris Blackwell,34,0.162,0.17300000000000001,0.68,0.11800000000000001,0.115,0.33299999999999996,2013-14,Washington
+Mike Anderson,12,0.2,0.231,0.667,0.083,0.231,1,2013-14,Washington
+Andrew Andrews,12,0.053,0.042,0.4,0.057999999999999996,0.067,0.429,2013-14,Washington
+C.J. Wilcox,8,0.051,0.054000000000000006,0.75,0.032,0.078,1,2013-14,Washington
+Shawn Kemp,7,0.08199999999999999,0.08199999999999999,0.8,0.040999999999999995,0.083,0.5,2013-14,Washington
+Desmond Simmons,6,0.2,0.222,0.667,0,0,NA,2013-14,Washington
+Nigel Williams-Goss,5,0.022000000000000002,0.019,0.5,0.016,0.012,0.33299999999999996,2013-14,Washington
+Darin Johnson,3,0.04,0.034,0.5,0.019,0.071,1,2013-14,Washington
+Gilles Dierickx,2,0.33299999999999996,NA,0,0.2,0,0,2013-14,Washington
+Total,89,0.09699999999999999,0.1,0.644,0.042,0.059000000000000004,0.5329999999999999,2013-14,Washington

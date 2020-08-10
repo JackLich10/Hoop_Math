@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.268,0.667,0.05,0.7020000000000001,2014-15
-2pt Jumpers,0.382,0.382,0.055999999999999994,0.405,2014-15
-3pt Shots,0.35,0.369,0.002,0.369,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.268,0.667,0.05,0.7020000000000001,2014-15,YoungstownSt.
+2pt Jumpers,0.382,0.382,0.055999999999999994,0.405,2014-15,YoungstownSt.
+3pt Shots,0.35,0.369,0.002,0.369,2014-15,YoungstownSt.

@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Dorian Finney-Smith,28,0.237,0.28600000000000003,0.7829999999999999,0.07,0.1,0.4,2014-15
-Chris Walker,13,0.135,0.14300000000000002,0.7,0.083,0.14300000000000002,0.667,2014-15
-Devin Robinson,12,0.175,0.158,0.6,0.038,0.111,1,2014-15
-Jon Horford,8,0.10300000000000001,0.09300000000000001,0.667,0.043,0.05,0.5,2014-15
-Jacob Kurtz,6,0.07200000000000001,0.062,0.6,0.1,1,1,2014-15
-Kasey Hill,4,0.009000000000000001,0.019,1,0.034,0,0,2014-15
-Michael Frazier,4,0.044000000000000004,0.036000000000000004,0.5,0.028999999999999998,0,0,2014-15
-Alex Murphy,3,0.064,0.091,1,0,0,NA,2014-15
-Total,78,0.095,0.10800000000000001,0.7170000000000001,0.040999999999999995,0.063,0.47100000000000003,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Dorian Finney-Smith,28,0.237,0.28600000000000003,0.7829999999999999,0.07,0.1,0.4,2014-15,Florida
+Chris Walker,13,0.135,0.14300000000000002,0.7,0.083,0.14300000000000002,0.667,2014-15,Florida
+Devin Robinson,12,0.175,0.158,0.6,0.038,0.111,1,2014-15,Florida
+Jon Horford,8,0.10300000000000001,0.09300000000000001,0.667,0.043,0.05,0.5,2014-15,Florida
+Jacob Kurtz,6,0.07200000000000001,0.062,0.6,0.1,1,1,2014-15,Florida
+Kasey Hill,4,0.009000000000000001,0.019,1,0.034,0,0,2014-15,Florida
+Michael Frazier,4,0.044000000000000004,0.036000000000000004,0.5,0.028999999999999998,0,0,2014-15,Florida
+Alex Murphy,3,0.064,0.091,1,0,0,NA,2014-15,Florida
+Total,78,0.095,0.10800000000000001,0.7170000000000001,0.040999999999999995,0.063,0.47100000000000003,2014-15,Florida

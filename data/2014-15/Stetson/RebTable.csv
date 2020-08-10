@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kentwan Smith,24,0.14400000000000002,0.17,0.81,0.05,0.087,0.667,2014-15
-Brian Pegg,10,0.09300000000000001,0.122,0.857,0.036000000000000004,0.042,0.33299999999999996,2014-15
-Kyle Sikora,10,0.191,0.09699999999999999,0.33299999999999996,0.059000000000000004,0,0,2014-15
-Wyatt Sikora,7,0.163,0.185,0.7140000000000001,0,0,NA,2014-15
-Angel Rivera,3,0.067,0.10300000000000001,1,0,0,NA,2014-15
-Divine Myles,3,0.027000000000000003,0.036000000000000004,0.667,0,0,NA,2014-15
-B.J. Glasford,1,0.045,0.111,1,0,0,NA,2014-15
-Cameron Harvey,1,0.2,0.5,1,0,0,NA,2014-15
-Jonathan Joseph,1,0.05,0.083,1,0,0,NA,2014-15
-Total,60,0.092,0.11199999999999999,0.736,0.016,0.022000000000000002,0.429,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kentwan Smith,24,0.14400000000000002,0.17,0.81,0.05,0.087,0.667,2014-15,Stetson
+Brian Pegg,10,0.09300000000000001,0.122,0.857,0.036000000000000004,0.042,0.33299999999999996,2014-15,Stetson
+Kyle Sikora,10,0.191,0.09699999999999999,0.33299999999999996,0.059000000000000004,0,0,2014-15,Stetson
+Wyatt Sikora,7,0.163,0.185,0.7140000000000001,0,0,NA,2014-15,Stetson
+Angel Rivera,3,0.067,0.10300000000000001,1,0,0,NA,2014-15,Stetson
+Divine Myles,3,0.027000000000000003,0.036000000000000004,0.667,0,0,NA,2014-15,Stetson
+B.J. Glasford,1,0.045,0.111,1,0,0,NA,2014-15,Stetson
+Cameron Harvey,1,0.2,0.5,1,0,0,NA,2014-15,Stetson
+Jonathan Joseph,1,0.05,0.083,1,0,0,NA,2014-15,Stetson
+Total,60,0.092,0.11199999999999999,0.736,0.016,0.022000000000000002,0.429,2014-15,Stetson

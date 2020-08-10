@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.33799999999999997,0.616,0.10099999999999999,0.685,2014-15
-2pt Jumpers,0.355,0.324,0.113,0.366,2014-15
-3pt Shots,0.307,0.33,0.019,0.337,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.33799999999999997,0.616,0.10099999999999999,0.685,2014-15,UNCW
+2pt Jumpers,0.355,0.324,0.113,0.366,2014-15,UNCW
+3pt Shots,0.307,0.33,0.019,0.337,2014-15,UNCW

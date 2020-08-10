@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Aaron Tate,35,0.312,0.303,0.588,0.026000000000000002,0,0,2016-17
-Billy Giles,17,0.259,0.263,0.7140000000000001,0.08800000000000001,0,0,2016-17
-Isaiah Still,14,0.08,0.078,0.429,0,0,NA,2016-17
-Braden Burke,14,0.157,0.156,0.5379999999999999,0.016,0,0,2016-17
-Dachon Burke,13,0.102,0.127,0.667,0.016,0,0,2016-17
-Matty McConnell,8,0.10800000000000001,0.28600000000000003,1,0.091,0.125,0.5,2016-17
-Roberto Mantovani,6,0.28600000000000003,0.25,0.33299999999999996,0,0,NA,2016-17
-Kavon Stewart,3,0.021,0.033,0.667,0,0,NA,2016-17
-Conrad Stephens,1,0.33299999999999996,NA,0,0,0,NA,2016-17
-Total,111,0.127,0.149,0.584,0.022000000000000002,0.013999999999999999,0.2,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Aaron Tate,35,0.312,0.303,0.588,0.026000000000000002,0,0,2016-17,RobertMorris
+Billy Giles,17,0.259,0.263,0.7140000000000001,0.08800000000000001,0,0,2016-17,RobertMorris
+Isaiah Still,14,0.08,0.078,0.429,0,0,NA,2016-17,RobertMorris
+Braden Burke,14,0.157,0.156,0.5379999999999999,0.016,0,0,2016-17,RobertMorris
+Dachon Burke,13,0.102,0.127,0.667,0.016,0,0,2016-17,RobertMorris
+Matty McConnell,8,0.10800000000000001,0.28600000000000003,1,0.091,0.125,0.5,2016-17,RobertMorris
+Roberto Mantovani,6,0.28600000000000003,0.25,0.33299999999999996,0,0,NA,2016-17,RobertMorris
+Kavon Stewart,3,0.021,0.033,0.667,0,0,NA,2016-17,RobertMorris
+Conrad Stephens,1,0.33299999999999996,NA,0,0,0,NA,2016-17,RobertMorris
+Total,111,0.127,0.149,0.584,0.022000000000000002,0.013999999999999999,0.2,2016-17,RobertMorris

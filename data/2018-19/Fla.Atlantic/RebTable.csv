@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Simeon Lepichev,20,0.203,0.25,0.75,0.083,0.071,0.25,2018-19
-Karlis Silins,15,0.179,0.163,0.583,0.079,0.05,0.33299999999999996,2018-19
-Xavian Stapleton,15,0.22,0.17600000000000002,0.545,0.055,0.036000000000000004,0.33299999999999996,2018-19
-Aleksandar Zecevic,13,0.261,0.31,0.75,0.015,0,0,2018-19
-Jailyn Ingram,10,0.21600000000000003,0.24100000000000002,0.875,0.037000000000000005,0.037000000000000005,0.5,2018-19
-Madiaw  Niang,6,0.185,0.2,0.6,0.03,0,0,2018-19
-Jaylen Sebree,5,0.122,0.16699999999999998,0.8,0,0,NA,2018-19
-Cedric Jackson,3,0.375,0.5,1,0,0,NA,2018-19
-Kevaughn Ellis,3,0.214,0.28600000000000003,0.667,0,0,NA,2018-19
-Michael Forrest,2,0.017,0.038,1,0.016,0,0,2018-19
-Gabe Merete,1,0.5,1,1,NA,NA,NA,2018-19
-Total,93,0.146,0.179,0.7140000000000001,0.027000000000000003,0.019,0.267,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Simeon Lepichev,20,0.203,0.25,0.75,0.083,0.071,0.25,2018-19,Fla.Atlantic
+Karlis Silins,15,0.179,0.163,0.583,0.079,0.05,0.33299999999999996,2018-19,Fla.Atlantic
+Xavian Stapleton,15,0.22,0.17600000000000002,0.545,0.055,0.036000000000000004,0.33299999999999996,2018-19,Fla.Atlantic
+Aleksandar Zecevic,13,0.261,0.31,0.75,0.015,0,0,2018-19,Fla.Atlantic
+Jailyn Ingram,10,0.21600000000000003,0.24100000000000002,0.875,0.037000000000000005,0.037000000000000005,0.5,2018-19,Fla.Atlantic
+Madiaw  Niang,6,0.185,0.2,0.6,0.03,0,0,2018-19,Fla.Atlantic
+Jaylen Sebree,5,0.122,0.16699999999999998,0.8,0,0,NA,2018-19,Fla.Atlantic
+Cedric Jackson,3,0.375,0.5,1,0,0,NA,2018-19,Fla.Atlantic
+Kevaughn Ellis,3,0.214,0.28600000000000003,0.667,0,0,NA,2018-19,Fla.Atlantic
+Michael Forrest,2,0.017,0.038,1,0.016,0,0,2018-19,Fla.Atlantic
+Gabe Merete,1,0.5,1,1,NA,NA,NA,2018-19,Fla.Atlantic
+Total,93,0.146,0.179,0.7140000000000001,0.027000000000000003,0.019,0.267,2018-19,Fla.Atlantic

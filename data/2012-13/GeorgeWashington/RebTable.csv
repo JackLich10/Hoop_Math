@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Isaiah Armwood,33,0.191,0.207,0.773,0.08,0.04,0.182,2012-13
-Kevin Larsen,21,0.19399999999999998,0.183,0.65,0.011000000000000001,0.036000000000000004,1,2012-13
-Dwayne Smith,16,0.11199999999999999,0.08,0.444,0.10400000000000001,0,0,2012-13
-Patricio Garino,15,0.086,0.062,0.444,0.078,0.125,0.4,2012-13
-Lasan Kromah,13,0.079,0.06,0.5,0.045,0.091,0.667,2012-13
-Joe McDonald,10,0.122,0.086,0.33299999999999996,0.011000000000000001,0,0,2012-13
-John Kopriva,6,0.231,0.385,0.833,0,0,NA,2012-13
-Kethan Savage,4,0.077,0.087,0.667,0.038,0,0,2012-13
-Paris Maragkos,3,0.222,0,0,0.1,0,0,2012-13
-Bryan Bynes,2,0,0,NA,0.043,0.1,0.5,2012-13
-Nemanja Mikic,2,0.25,0.33299999999999996,0.5,0,0,NA,2012-13
-Jonathan Davis,1,0.5,0.5,1,0,NA,NA,2012-13
-Total,126,0.129,0.12300000000000001,0.591,0.05,0.04,0.25,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Isaiah Armwood,33,0.191,0.207,0.773,0.08,0.04,0.182,2012-13,GeorgeWashington
+Kevin Larsen,21,0.19399999999999998,0.183,0.65,0.011000000000000001,0.036000000000000004,1,2012-13,GeorgeWashington
+Dwayne Smith,16,0.11199999999999999,0.08,0.444,0.10400000000000001,0,0,2012-13,GeorgeWashington
+Patricio Garino,15,0.086,0.062,0.444,0.078,0.125,0.4,2012-13,GeorgeWashington
+Lasan Kromah,13,0.079,0.06,0.5,0.045,0.091,0.667,2012-13,GeorgeWashington
+Joe McDonald,10,0.122,0.086,0.33299999999999996,0.011000000000000001,0,0,2012-13,GeorgeWashington
+John Kopriva,6,0.231,0.385,0.833,0,0,NA,2012-13,GeorgeWashington
+Kethan Savage,4,0.077,0.087,0.667,0.038,0,0,2012-13,GeorgeWashington
+Paris Maragkos,3,0.222,0,0,0.1,0,0,2012-13,GeorgeWashington
+Bryan Bynes,2,0,0,NA,0.043,0.1,0.5,2012-13,GeorgeWashington
+Nemanja Mikic,2,0.25,0.33299999999999996,0.5,0,0,NA,2012-13,GeorgeWashington
+Jonathan Davis,1,0.5,0.5,1,0,NA,NA,2012-13,GeorgeWashington
+Total,126,0.129,0.12300000000000001,0.591,0.05,0.04,0.25,2012-13,GeorgeWashington

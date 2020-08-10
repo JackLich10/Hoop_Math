@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Nicholas Kratholm,17,0.17600000000000002,0.16699999999999998,0.5379999999999999,0.098,0,0,2019-20
-Greg Kuakumensah,14,0.124,0.145,0.769,0.01,0,0,2019-20
-Raheem  Solomon,13,0.136,0.083,0.33299999999999996,0.015,0,0,2019-20
-Marcus Hammond,7,0.028999999999999998,0.027999999999999997,0.5,0.022000000000000002,0.036000000000000004,0.667,2019-20
-James Towns,3,0.021,0.024,0.667,0,0,NA,2019-20
-Justin Roberts,2,0.071,0.067,0.5,0,0,NA,2019-20
-Damani Thomas,1,0.14300000000000002,0.2,1,0,NA,NA,2019-20
-Nick  MacDonald,1,0.077,0,0,0,0,NA,2019-20
-Noah  Waterman ,1,0.059000000000000004,0,0,0,0,NA,2019-20
-Total,59,0.081,0.076,0.542,0.017,0.011000000000000001,0.222,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Nicholas Kratholm,17,0.17600000000000002,0.16699999999999998,0.5379999999999999,0.098,0,0,2019-20,Niagara
+Greg Kuakumensah,14,0.124,0.145,0.769,0.01,0,0,2019-20,Niagara
+Raheem  Solomon,13,0.136,0.083,0.33299999999999996,0.015,0,0,2019-20,Niagara
+Marcus Hammond,7,0.028999999999999998,0.027999999999999997,0.5,0.022000000000000002,0.036000000000000004,0.667,2019-20,Niagara
+James Towns,3,0.021,0.024,0.667,0,0,NA,2019-20,Niagara
+Justin Roberts,2,0.071,0.067,0.5,0,0,NA,2019-20,Niagara
+Damani Thomas,1,0.14300000000000002,0.2,1,0,NA,NA,2019-20,Niagara
+Nick  MacDonald,1,0.077,0,0,0,0,NA,2019-20,Niagara
+Noah  Waterman ,1,0.059000000000000004,0,0,0,0,NA,2019-20,Niagara
+Total,59,0.081,0.076,0.542,0.017,0.011000000000000001,0.222,2019-20,Niagara

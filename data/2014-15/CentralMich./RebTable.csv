@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Darohn Scott,9,0.17800000000000002,0.1,0.375,0.14300000000000002,NA,0,2014-15
-Luke Meyer,8,0.113,0.091,0.625,0,0,NA,2014-15
-Braylon Rayson,8,0.068,0.073,0.6,0.019,0.048,1,2014-15
-Blake Hibbitts,6,0.312,0.33299999999999996,0.6,0.14300000000000002,0,0,2014-15
-John Simons,6,0.139,0.038,0.2,0.14300000000000002,0.25,1,2014-15
-Austin Stewart,5,0.067,0.059000000000000004,0.5,0.083,0,0,2014-15
-Chris Fowler,4,0.017,0.027999999999999997,1,0.008,0,0,2014-15
-Milos Cabarkapa,3,0.16699999999999998,0.273,1,0,0,NA,2014-15
-Rayshawn Simmons,2,0.019,0.037000000000000005,1,0,0,NA,2014-15
-Austin Keel,1,0.03,0.042,1,0,0,NA,2014-15
-Total,52,0.068,0.065,0.591,0.02,0.016,0.33299999999999996,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Darohn Scott,9,0.17800000000000002,0.1,0.375,0.14300000000000002,NA,0,2014-15,CentralMich.
+Luke Meyer,8,0.113,0.091,0.625,0,0,NA,2014-15,CentralMich.
+Braylon Rayson,8,0.068,0.073,0.6,0.019,0.048,1,2014-15,CentralMich.
+Blake Hibbitts,6,0.312,0.33299999999999996,0.6,0.14300000000000002,0,0,2014-15,CentralMich.
+John Simons,6,0.139,0.038,0.2,0.14300000000000002,0.25,1,2014-15,CentralMich.
+Austin Stewart,5,0.067,0.059000000000000004,0.5,0.083,0,0,2014-15,CentralMich.
+Chris Fowler,4,0.017,0.027999999999999997,1,0.008,0,0,2014-15,CentralMich.
+Milos Cabarkapa,3,0.16699999999999998,0.273,1,0,0,NA,2014-15,CentralMich.
+Rayshawn Simmons,2,0.019,0.037000000000000005,1,0,0,NA,2014-15,CentralMich.
+Austin Keel,1,0.03,0.042,1,0,0,NA,2014-15,CentralMich.
+Total,52,0.068,0.065,0.591,0.02,0.016,0.33299999999999996,2014-15,CentralMich.

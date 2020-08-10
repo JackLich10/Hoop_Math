@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Chris Cooper,65,0.32899999999999996,0.247,0.418,0.065,0.040999999999999995,0.2,2011-12
-Nick Wright,27,0.207,0.19,0.48,0.027000000000000003,0,0,2011-12
-Kent Bazemore,26,0.174,0.17300000000000001,0.619,0.023,0,0,2011-12
-Donte Hill,15,0.162,0.235,0.727,0.133,0.111,0.25,2011-12
-Richard Ross,12,0.22,0.19399999999999998,0.636,0.026000000000000002,0,0,2011-12
-Jason Pimentel,6,0.14300000000000002,0.095,0.4,0.05,0,0,2011-12
-Trian Iliadis,5,0.065,0.024,0.25,0,0,NA,2011-12
-Dimitri Batten,5,0.055999999999999994,0.055999999999999994,0.5,0.019,0.048,1,2011-12
-DE,4,0.03,0.027999999999999997,0.5,0.021,0,0,2011-12
-Breon Key,2,0.11800000000000001,0.083,0.5,0,0,NA,2011-12
-Anton Larsen,1,0.25,0,0,0,0,NA,2011-12
-Total,168,0.18,0.156,0.496,0.037000000000000005,0.021,0.16699999999999998,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Chris Cooper,65,0.32899999999999996,0.247,0.418,0.065,0.040999999999999995,0.2,2011-12,OldDominion
+Nick Wright,27,0.207,0.19,0.48,0.027000000000000003,0,0,2011-12,OldDominion
+Kent Bazemore,26,0.174,0.17300000000000001,0.619,0.023,0,0,2011-12,OldDominion
+Donte Hill,15,0.162,0.235,0.727,0.133,0.111,0.25,2011-12,OldDominion
+Richard Ross,12,0.22,0.19399999999999998,0.636,0.026000000000000002,0,0,2011-12,OldDominion
+Jason Pimentel,6,0.14300000000000002,0.095,0.4,0.05,0,0,2011-12,OldDominion
+Trian Iliadis,5,0.065,0.024,0.25,0,0,NA,2011-12,OldDominion
+Dimitri Batten,5,0.055999999999999994,0.055999999999999994,0.5,0.019,0.048,1,2011-12,OldDominion
+DE,4,0.03,0.027999999999999997,0.5,0.021,0,0,2011-12,OldDominion
+Breon Key,2,0.11800000000000001,0.083,0.5,0,0,NA,2011-12,OldDominion
+Anton Larsen,1,0.25,0,0,0,0,NA,2011-12,OldDominion
+Total,168,0.18,0.156,0.496,0.037000000000000005,0.021,0.16699999999999998,2011-12,OldDominion

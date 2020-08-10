@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Alan Williams,48,0.267,0.32299999999999995,0.7140000000000001,0.083,0.071,0.35,2014-15
-John Green,18,0.13699999999999998,0.133,0.615,0.033,0.031,0.4,2014-15
-Sam Beeler,15,0.273,0.33299999999999996,0.778,0.231,0.375,0.5,2014-15
-Mitch Brewe,13,0.20800000000000002,0.261,0.6,0.09699999999999999,0,0,2014-15
-Michael Bryson,10,0.10300000000000001,0.11699999999999999,0.778,0.012,0,0,2014-15
-Gabe Vincent,3,0,0,NA,0.052000000000000005,0,0,2014-15
-Alex Hart,2,0.667,0.5,0.5,0,0,NA,2014-15
-Dajuan Smith,2,0.023,0,0,0.03,0.125,1,2014-15
-Eric Childress,2,0.031,0,0,0.04,0.25,1,2014-15
-Total,113,0.141,0.157,0.6709999999999999,0.055999999999999994,0.052000000000000005,0.35,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Alan Williams,48,0.267,0.32299999999999995,0.7140000000000001,0.083,0.071,0.35,2014-15,UCSantaBarbara
+John Green,18,0.13699999999999998,0.133,0.615,0.033,0.031,0.4,2014-15,UCSantaBarbara
+Sam Beeler,15,0.273,0.33299999999999996,0.778,0.231,0.375,0.5,2014-15,UCSantaBarbara
+Mitch Brewe,13,0.20800000000000002,0.261,0.6,0.09699999999999999,0,0,2014-15,UCSantaBarbara
+Michael Bryson,10,0.10300000000000001,0.11699999999999999,0.778,0.012,0,0,2014-15,UCSantaBarbara
+Gabe Vincent,3,0,0,NA,0.052000000000000005,0,0,2014-15,UCSantaBarbara
+Alex Hart,2,0.667,0.5,0.5,0,0,NA,2014-15,UCSantaBarbara
+Dajuan Smith,2,0.023,0,0,0.03,0.125,1,2014-15,UCSantaBarbara
+Eric Childress,2,0.031,0,0,0.04,0.25,1,2014-15,UCSantaBarbara
+Total,113,0.141,0.157,0.6709999999999999,0.055999999999999994,0.052000000000000005,0.35,2014-15,UCSantaBarbara

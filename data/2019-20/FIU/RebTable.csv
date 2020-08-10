@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Osasumwen Osaghae,38,0.17300000000000001,0.184,0.852,0.136,0.18899999999999997,0.636,2019-20
-Devon Andrews,16,0.063,0.094,0.833,0.045,0.067,0.33299999999999996,2019-20
-Dimon Carrigan,15,0.129,0.079,0.33299999999999996,0.5,1,0.667,2019-20
-Isaiah Banks,12,0.16899999999999998,0.22,0.917,0,0,NA,2019-20
-Trejon Jacob,5,0.055,0.086,1,0,0,NA,2019-20
-Blake  Furcron,4,0.13,0.154,0.667,0.125,NA,0,2019-20
-James Ametepe,3,0.5,0.75,1,0,NA,NA,2019-20
-Eric Lovett,3,0.043,0.045,0.5,0.059000000000000004,0,0,2019-20
-ANTONIO,3,0.027000000000000003,0,0,0,0,NA,2019-20
-Tevin Brewer,1,0,0,NA,0,0,NA,2019-20
-Total,100,0.09,0.114,0.773,0.07,0.11699999999999999,0.545,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Osasumwen Osaghae,38,0.17300000000000001,0.184,0.852,0.136,0.18899999999999997,0.636,2019-20,FIU
+Devon Andrews,16,0.063,0.094,0.833,0.045,0.067,0.33299999999999996,2019-20,FIU
+Dimon Carrigan,15,0.129,0.079,0.33299999999999996,0.5,1,0.667,2019-20,FIU
+Isaiah Banks,12,0.16899999999999998,0.22,0.917,0,0,NA,2019-20,FIU
+Trejon Jacob,5,0.055,0.086,1,0,0,NA,2019-20,FIU
+Blake  Furcron,4,0.13,0.154,0.667,0.125,NA,0,2019-20,FIU
+James Ametepe,3,0.5,0.75,1,0,NA,NA,2019-20,FIU
+Eric Lovett,3,0.043,0.045,0.5,0.059000000000000004,0,0,2019-20,FIU
+ANTONIO,3,0.027000000000000003,0,0,0,0,NA,2019-20,FIU
+Tevin Brewer,1,0,0,NA,0,0,NA,2019-20,FIU
+Total,100,0.09,0.114,0.773,0.07,0.11699999999999999,0.545,2019-20,FIU

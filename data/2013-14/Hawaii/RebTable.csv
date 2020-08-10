@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Christian Standhardinger,41,0.083,0.125,1,0.142,0.196,0.618,2013-14
-Isaac Fotu,34,0.051,0,0,0.142,0.182,0.69,2013-14
-Brandon Spearman,30,0.14300000000000002,0.175,1,0.261,0.316,0.522,2013-14
-Davis Rozitis,17,0.05,0.062,1,0.381,0.32,0.5,2013-14
-Aaron Valdes,14,0.19399999999999998,0.182,0.667,0.22899999999999998,0.133,0.25,2013-14
-Mike Thomas,5,0.4,0.5,1,0.25,0,0,2013-14
-Stefan Jovanovic,4,0,0,NA,0.364,0.2,0.25,2013-14
-Garrett Nevels,4,0.022000000000000002,0.03,1,0.021,0.016,0.33299999999999996,2013-14
-Quincy Smith,2,0,0,NA,0.034,0,0,2013-14
-Keith Shamburger,2,0.053,0,0,0.015,0,0,2013-14
-Michael Harper,1,NA,NA,NA,0.5,0,0,2013-14
-Total,154,0.075,0.081,0.733,0.13699999999999998,0.156,0.524,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Christian Standhardinger,41,0.083,0.125,1,0.142,0.196,0.618,2013-14,Hawaii
+Isaac Fotu,34,0.051,0,0,0.142,0.182,0.69,2013-14,Hawaii
+Brandon Spearman,30,0.14300000000000002,0.175,1,0.261,0.316,0.522,2013-14,Hawaii
+Davis Rozitis,17,0.05,0.062,1,0.381,0.32,0.5,2013-14,Hawaii
+Aaron Valdes,14,0.19399999999999998,0.182,0.667,0.22899999999999998,0.133,0.25,2013-14,Hawaii
+Mike Thomas,5,0.4,0.5,1,0.25,0,0,2013-14,Hawaii
+Stefan Jovanovic,4,0,0,NA,0.364,0.2,0.25,2013-14,Hawaii
+Garrett Nevels,4,0.022000000000000002,0.03,1,0.021,0.016,0.33299999999999996,2013-14,Hawaii
+Quincy Smith,2,0,0,NA,0.034,0,0,2013-14,Hawaii
+Keith Shamburger,2,0.053,0,0,0.015,0,0,2013-14,Hawaii
+Michael Harper,1,NA,NA,NA,0.5,0,0,2013-14,Hawaii
+Total,154,0.075,0.081,0.733,0.13699999999999998,0.156,0.524,2013-14,Hawaii

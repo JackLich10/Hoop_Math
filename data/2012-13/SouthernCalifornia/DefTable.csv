@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.33399999999999996,0.562,0.158,0.667,2012-13
-2pt Jumpers,0.35200000000000004,0.337,0.102,0.375,2012-13
-3pt Shots,0.315,0.345,0.004,0.34600000000000003,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.33399999999999996,0.562,0.158,0.667,2012-13,SouthernCalifornia
+2pt Jumpers,0.35200000000000004,0.337,0.102,0.375,2012-13,SouthernCalifornia
+3pt Shots,0.315,0.345,0.004,0.34600000000000003,2012-13,SouthernCalifornia

@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Philip Whittington,45,0.23,0.24100000000000002,0.711,0.07,0.091,0.5710000000000001,2018-19
-Akiean Frederick,18,0.179,0.15,0.6,0.107,0.111,0.33299999999999996,2018-19
-Antonio Williams,12,0.064,0.061,0.6,0.011000000000000001,0.042,1,2018-19
-Jaylin Walker,12,0.07,0.083,0.5,0,0,NA,2018-19
-C.J. Williamson,9,0.086,0.10300000000000001,0.6,0.105,0,0,2018-19
-Mitch Peterson,6,0.125,0.095,0.4,0,0,NA,2018-19
-BJ Duling,5,0.125,0.16,0.8,0,0,NA,2018-19
-Anthony  Roberts,5,0.065,0.081,0.75,0.027000000000000003,0.067,1,2018-19
-Jalen Avery,3,0.019,0,0,0,0,NA,2018-19
-Deandre Gholston,3,0.273,0.429,1,0,NA,NA,2018-19
-Kain Harris,2,0.25,0.25,0.5,0,0,NA,2018-19
-Sam Norton,1,NA,NA,NA,NA,NA,NA,2018-19
-Total,121,0.12300000000000001,0.134,0.649,0.033,0.043,0.43799999999999994,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Philip Whittington,45,0.23,0.24100000000000002,0.711,0.07,0.091,0.5710000000000001,2018-19,KentSt.
+Akiean Frederick,18,0.179,0.15,0.6,0.107,0.111,0.33299999999999996,2018-19,KentSt.
+Antonio Williams,12,0.064,0.061,0.6,0.011000000000000001,0.042,1,2018-19,KentSt.
+Jaylin Walker,12,0.07,0.083,0.5,0,0,NA,2018-19,KentSt.
+C.J. Williamson,9,0.086,0.10300000000000001,0.6,0.105,0,0,2018-19,KentSt.
+Mitch Peterson,6,0.125,0.095,0.4,0,0,NA,2018-19,KentSt.
+BJ Duling,5,0.125,0.16,0.8,0,0,NA,2018-19,KentSt.
+Anthony  Roberts,5,0.065,0.081,0.75,0.027000000000000003,0.067,1,2018-19,KentSt.
+Jalen Avery,3,0.019,0,0,0,0,NA,2018-19,KentSt.
+Deandre Gholston,3,0.273,0.429,1,0,NA,NA,2018-19,KentSt.
+Kain Harris,2,0.25,0.25,0.5,0,0,NA,2018-19,KentSt.
+Sam Norton,1,NA,NA,NA,NA,NA,NA,2018-19,KentSt.
+Total,121,0.12300000000000001,0.134,0.649,0.033,0.043,0.43799999999999994,2018-19,KentSt.

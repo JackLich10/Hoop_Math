@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Isaac Johnson,26,0.162,0.221,0.789,0.135,0.14300000000000002,0.429,2019-20
-Hunter Seacat,18,0.187,0.2,0.765,0.017,0,0,2019-20
-Kendall Lewis,18,0.16699999999999998,0.129,0.5,0,0,NA,2019-20
-Lewis James,15,0.28800000000000003,0.16699999999999998,0.33299999999999996,0,0,NA,2019-20
-Adrian Delph,13,0.133,0.159,0.7,0.021,0,0,2019-20
-Donovan Gregory,7,0.28,0.28600000000000003,0.5710000000000001,0,0,NA,2019-20
-Michael Bibby,2,0.33299999999999996,0,0,0,0,NA,2019-20
-O'Showen Williams,2,0.01,0,0,0,0,NA,2019-20
-Justin Forrest,1,0,0,NA,0,0,NA,2019-20
-Total,102,0.124,0.124,0.602,0.023,0.022000000000000002,0.33299999999999996,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Isaac Johnson,26,0.162,0.221,0.789,0.135,0.14300000000000002,0.429,2019-20,AppalachianSt.
+Hunter Seacat,18,0.187,0.2,0.765,0.017,0,0,2019-20,AppalachianSt.
+Kendall Lewis,18,0.16699999999999998,0.129,0.5,0,0,NA,2019-20,AppalachianSt.
+Lewis James,15,0.28800000000000003,0.16699999999999998,0.33299999999999996,0,0,NA,2019-20,AppalachianSt.
+Adrian Delph,13,0.133,0.159,0.7,0.021,0,0,2019-20,AppalachianSt.
+Donovan Gregory,7,0.28,0.28600000000000003,0.5710000000000001,0,0,NA,2019-20,AppalachianSt.
+Michael Bibby,2,0.33299999999999996,0,0,0,0,NA,2019-20,AppalachianSt.
+O'Showen Williams,2,0.01,0,0,0,0,NA,2019-20,AppalachianSt.
+Justin Forrest,1,0,0,NA,0,0,NA,2019-20,AppalachianSt.
+Total,102,0.124,0.124,0.602,0.023,0.022000000000000002,0.33299999999999996,2019-20,AppalachianSt.

@@ -87,5 +87,5 @@ if (last_update > date) {
   update_team_tables(years = 2021, new_games = T)
 }
 
-
+update_team_tables(years = 2012:2020, new_games = T)
 

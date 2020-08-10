@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jamir Coleman,14,0.16899999999999998,0.14300000000000002,0.41700000000000004,0.022000000000000002,0,0,2019-20
-Xavier Wilson,13,0.149,0.231,0.818,0.033,0,0,2019-20
-Greg Outlaw,11,0.062,0.10800000000000001,1,0.026000000000000002,0.055999999999999994,0.5,2019-20
-Stephane Ayangma,9,0.12300000000000001,0.11800000000000001,0.444,0,0,NA,2019-20
-Jamir Reed,5,0.078,0,0,0,0,NA,2019-20
-Myles Baker,5,0.040999999999999995,0.062,0.667,0.05,0.16699999999999998,0.5,2019-20
-Karrington Wallace,5,0.11900000000000001,0.091,0.4,0,0,NA,2019-20
-Ola Olamuyiwa,2,0.083,0,0,0.14300000000000002,0,0,2019-20
-Zach Newkirk,2,0.038,0.1,1,0.022000000000000002,0.062,1,2019-20
-Ian Krishnan,1,0.028999999999999998,0.059000000000000004,1,0,0,NA,2019-20
-Donyell Marshall,1,0.16699999999999998,0,0,0,NA,NA,2019-20
-Tyler Rowe,1,0,0,NA,0.019,0,0,2019-20
-Trey Tennyson,1,0,0,NA,0.048,0.2,1,2019-20
-Total,70,0.087,0.102,0.579,0.022000000000000002,0.022000000000000002,0.33299999999999996,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jamir Coleman,14,0.16899999999999998,0.14300000000000002,0.41700000000000004,0.022000000000000002,0,0,2019-20,CentralConn.St.
+Xavier Wilson,13,0.149,0.231,0.818,0.033,0,0,2019-20,CentralConn.St.
+Greg Outlaw,11,0.062,0.10800000000000001,1,0.026000000000000002,0.055999999999999994,0.5,2019-20,CentralConn.St.
+Stephane Ayangma,9,0.12300000000000001,0.11800000000000001,0.444,0,0,NA,2019-20,CentralConn.St.
+Jamir Reed,5,0.078,0,0,0,0,NA,2019-20,CentralConn.St.
+Myles Baker,5,0.040999999999999995,0.062,0.667,0.05,0.16699999999999998,0.5,2019-20,CentralConn.St.
+Karrington Wallace,5,0.11900000000000001,0.091,0.4,0,0,NA,2019-20,CentralConn.St.
+Ola Olamuyiwa,2,0.083,0,0,0.14300000000000002,0,0,2019-20,CentralConn.St.
+Zach Newkirk,2,0.038,0.1,1,0.022000000000000002,0.062,1,2019-20,CentralConn.St.
+Ian Krishnan,1,0.028999999999999998,0.059000000000000004,1,0,0,NA,2019-20,CentralConn.St.
+Donyell Marshall,1,0.16699999999999998,0,0,0,NA,NA,2019-20,CentralConn.St.
+Tyler Rowe,1,0,0,NA,0.019,0,0,2019-20,CentralConn.St.
+Trey Tennyson,1,0,0,NA,0.048,0.2,1,2019-20,CentralConn.St.
+Total,70,0.087,0.102,0.579,0.022000000000000002,0.022000000000000002,0.33299999999999996,2019-20,CentralConn.St.

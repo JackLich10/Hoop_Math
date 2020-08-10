@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Elijah Pepper,13,0.152,0.109,0.41700000000000004,0.012,0,0,2019-20
-Kennedy Koehler,8,0.107,0.14,0.75,0,0,NA,2019-20
-Caleb Fuller,5,0.055,0.06,0.75,0,0,NA,2019-20
-Matt Neufeld,5,0.066,0.06,0.6,0,0,NA,2019-20
-Damion Squire,5,0.065,0.111,0.667,0.077,0.2,0.5,2019-20
-Ezra Manjon,3,0.008,0.013999999999999999,1,0.006,0.016,1,2019-20
-Joe Mooney,3,0.042,0.061,1,0,0,NA,2019-20
-Rogers Printup,2,0.14300000000000002,0.16699999999999998,0.5,0,0,NA,2019-20
-Stefan Gonzalez,2,0.048,0.062,1,0,0,NA,2019-20
-Total,46,0.066,0.07,0.632,0.006999999999999999,0.009000000000000001,0.5,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Elijah Pepper,13,0.152,0.109,0.41700000000000004,0.012,0,0,2019-20,UCDavis
+Kennedy Koehler,8,0.107,0.14,0.75,0,0,NA,2019-20,UCDavis
+Caleb Fuller,5,0.055,0.06,0.75,0,0,NA,2019-20,UCDavis
+Matt Neufeld,5,0.066,0.06,0.6,0,0,NA,2019-20,UCDavis
+Damion Squire,5,0.065,0.111,0.667,0.077,0.2,0.5,2019-20,UCDavis
+Ezra Manjon,3,0.008,0.013999999999999999,1,0.006,0.016,1,2019-20,UCDavis
+Joe Mooney,3,0.042,0.061,1,0,0,NA,2019-20,UCDavis
+Rogers Printup,2,0.14300000000000002,0.16699999999999998,0.5,0,0,NA,2019-20,UCDavis
+Stefan Gonzalez,2,0.048,0.062,1,0,0,NA,2019-20,UCDavis
+Total,46,0.066,0.07,0.632,0.006999999999999999,0.009000000000000001,0.5,2019-20,UCDavis

@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Marcus Thornton,38,0.282,0.266,0.586,0.087,0.115,0.33299999999999996,2013-14
-Donte Williams,35,0.478,0.469,0.7190000000000001,0.06,0.071,0.33299999999999996,2013-14
-Cameron Forte,17,0.292,0.316,0.857,0.077,0.071,0.33299999999999996,2013-14
-Nemanja Djurisic,14,0.18600000000000003,0.122,0.462,0.02,0,0,2013-14
-Brandon Morris,12,0.106,0.11900000000000001,0.778,0.044000000000000004,0.048,0.33299999999999996,2013-14
-Kenny Gaines,10,0.115,0.135,0.778,0.012,0.033,1,2013-14
-Charles Mann,7,0.024,0,0,0.038,0.1,0.75,2013-14
-Juwan Parker,7,0.174,0.067,0.25,0.046,0.067,0.33299999999999996,2013-14
-Tim Dixon,6,0.857,1,0.667,0,0,NA,2013-14
-Kenny Paul Geno,4,0.8,0.8,1,0,0,NA,2013-14
-John Cannon,3,0.125,0.2,1,0.14300000000000002,0,0,2013-14
-Houston Kessler,1,1,NA,0,0,NA,NA,2013-14
-Total,154,0.19899999999999998,0.19899999999999998,0.6559999999999999,0.046,0.059000000000000004,0.379,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Marcus Thornton,38,0.282,0.266,0.586,0.087,0.115,0.33299999999999996,2013-14,Georgia
+Donte Williams,35,0.478,0.469,0.7190000000000001,0.06,0.071,0.33299999999999996,2013-14,Georgia
+Cameron Forte,17,0.292,0.316,0.857,0.077,0.071,0.33299999999999996,2013-14,Georgia
+Nemanja Djurisic,14,0.18600000000000003,0.122,0.462,0.02,0,0,2013-14,Georgia
+Brandon Morris,12,0.106,0.11900000000000001,0.778,0.044000000000000004,0.048,0.33299999999999996,2013-14,Georgia
+Kenny Gaines,10,0.115,0.135,0.778,0.012,0.033,1,2013-14,Georgia
+Charles Mann,7,0.024,0,0,0.038,0.1,0.75,2013-14,Georgia
+Juwan Parker,7,0.174,0.067,0.25,0.046,0.067,0.33299999999999996,2013-14,Georgia
+Tim Dixon,6,0.857,1,0.667,0,0,NA,2013-14,Georgia
+Kenny Paul Geno,4,0.8,0.8,1,0,0,NA,2013-14,Georgia
+John Cannon,3,0.125,0.2,1,0.14300000000000002,0,0,2013-14,Georgia
+Houston Kessler,1,1,NA,0,0,NA,NA,2013-14,Georgia
+Total,154,0.19899999999999998,0.19899999999999998,0.6559999999999999,0.046,0.059000000000000004,0.379,2013-14,Georgia

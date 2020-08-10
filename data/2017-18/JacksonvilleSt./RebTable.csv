@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jason Burnell,36,0.297,0.27899999999999997,0.727,0.033,0.065,0.667,2017-18
-Marlon Hunter,31,0.179,0.183,0.765,0.086,0.16399999999999998,0.7859999999999999,2017-18
-Christian Cunningham,25,0.192,0.226,0.84,0,0,NA,2017-18
-Norbertas Giga,25,0.2,0.14,0.35,0.044000000000000004,0.042,0.4,2017-18
-Cam Martin,5,0.122,0.087,0.4,0,0,NA,2017-18
-Malcolm Drumwright,5,0.031,0.031,0.5,0.022000000000000002,0.018000000000000002,0.33299999999999996,2017-18
-Jamall Gregory,4,0.037000000000000005,0.055,1,0,0,NA,2017-18
-Jacara Cross,4,0.079,0,0,0.071,0,0,2017-18
-Tyrik Edwards,2,0.053,0.053,0.5,0,NA,NA,2017-18
-Ashton Spears,2,0.07400000000000001,0.062,0.5,0,0,NA,2017-18
-Total,139,0.151,0.154,0.652,0.037000000000000005,0.059000000000000004,0.615,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jason Burnell,36,0.297,0.27899999999999997,0.727,0.033,0.065,0.667,2017-18,JacksonvilleSt.
+Marlon Hunter,31,0.179,0.183,0.765,0.086,0.16399999999999998,0.7859999999999999,2017-18,JacksonvilleSt.
+Christian Cunningham,25,0.192,0.226,0.84,0,0,NA,2017-18,JacksonvilleSt.
+Norbertas Giga,25,0.2,0.14,0.35,0.044000000000000004,0.042,0.4,2017-18,JacksonvilleSt.
+Cam Martin,5,0.122,0.087,0.4,0,0,NA,2017-18,JacksonvilleSt.
+Malcolm Drumwright,5,0.031,0.031,0.5,0.022000000000000002,0.018000000000000002,0.33299999999999996,2017-18,JacksonvilleSt.
+Jamall Gregory,4,0.037000000000000005,0.055,1,0,0,NA,2017-18,JacksonvilleSt.
+Jacara Cross,4,0.079,0,0,0.071,0,0,2017-18,JacksonvilleSt.
+Tyrik Edwards,2,0.053,0.053,0.5,0,NA,NA,2017-18,JacksonvilleSt.
+Ashton Spears,2,0.07400000000000001,0.062,0.5,0,0,NA,2017-18,JacksonvilleSt.
+Total,139,0.151,0.154,0.652,0.037000000000000005,0.059000000000000004,0.615,2017-18,JacksonvilleSt.

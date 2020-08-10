@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.287,0.636,0.086,0.6970000000000001,2012-13
-2pt Jumpers,0.309,0.39299999999999996,0.059000000000000004,0.418,2012-13
-3pt Shots,0.40399999999999997,0.389,0.002,0.39,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.287,0.636,0.086,0.6970000000000001,2012-13,EasternIll.
+2pt Jumpers,0.309,0.39299999999999996,0.059000000000000004,0.418,2012-13,EasternIll.
+3pt Shots,0.40399999999999997,0.389,0.002,0.39,2012-13,EasternIll.

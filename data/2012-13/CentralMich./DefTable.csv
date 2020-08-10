@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.373,0.6579999999999999,0.065,0.7040000000000001,2012-13
-2pt Jumpers,0.271,0.366,0.046,0.384,2012-13
-3pt Shots,0.35700000000000004,0.376,0.005,0.37799999999999995,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.373,0.6579999999999999,0.065,0.7040000000000001,2012-13,CentralMich.
+2pt Jumpers,0.271,0.366,0.046,0.384,2012-13,CentralMich.
+3pt Shots,0.35700000000000004,0.376,0.005,0.37799999999999995,2012-13,CentralMich.

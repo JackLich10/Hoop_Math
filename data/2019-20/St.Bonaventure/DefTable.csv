@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.341,0.609,0.12300000000000001,0.6940000000000001,2019-20
-2pt Jumpers,0.205,0.295,0.057,0.313,2019-20
-3pt Shots,0.45399999999999996,0.32899999999999996,0.009000000000000001,0.332,2019-20
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.341,0.609,0.12300000000000001,0.6940000000000001,2019-20,St.Bonaventure
+2pt Jumpers,0.205,0.295,0.057,0.313,2019-20,St.Bonaventure
+3pt Shots,0.45399999999999996,0.32899999999999996,0.009000000000000001,0.332,2019-20,St.Bonaventure

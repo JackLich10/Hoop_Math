@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Deshawn Freeman,47,0.23800000000000002,0.242,0.55,0.053,0.105,0.5710000000000001,2017-18
-Eugene Omoruyi,31,0.203,0.21899999999999997,0.64,0.078,0.16699999999999998,0.667,2017-18
-Mike Williams,18,0.27399999999999997,0.25,0.529,0.02,0,0,2017-18
-Issa Thiam,13,0.263,0.28,0.7,0.064,0.105,0.667,2017-18
-Mamadou Doucoure,13,0.231,0.3,0.667,0.061,0,0,2017-18
-Shaquille Doorson,12,0.423,0.529,0.818,0.16699999999999998,0,0,2017-18
-Candido Sa,9,0.259,0.188,0.429,0.071,0.125,0.5,2017-18
-Matt Bullock,5,0.429,0.667,0.667,0.1,0.16699999999999998,1,2017-18
-Corey Sanders,5,0.023,0.011000000000000001,0.25,0,0,NA,2017-18
-Geo Baker,2,0.02,0.034,1,0.006999999999999999,0,0,2017-18
-Souf Mensah,1,0,0,NA,0.071,0,0,2017-18
-Aaren Smith,1,NA,NA,NA,1,NA,0,2017-18
-Luke Nathan,1,0.33299999999999996,0,0,0,NA,NA,2017-18
-Total,158,0.17600000000000002,0.185,0.594,0.034,0.044000000000000004,0.429,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Deshawn Freeman,47,0.23800000000000002,0.242,0.55,0.053,0.105,0.5710000000000001,2017-18,Rutgers
+Eugene Omoruyi,31,0.203,0.21899999999999997,0.64,0.078,0.16699999999999998,0.667,2017-18,Rutgers
+Mike Williams,18,0.27399999999999997,0.25,0.529,0.02,0,0,2017-18,Rutgers
+Issa Thiam,13,0.263,0.28,0.7,0.064,0.105,0.667,2017-18,Rutgers
+Mamadou Doucoure,13,0.231,0.3,0.667,0.061,0,0,2017-18,Rutgers
+Shaquille Doorson,12,0.423,0.529,0.818,0.16699999999999998,0,0,2017-18,Rutgers
+Candido Sa,9,0.259,0.188,0.429,0.071,0.125,0.5,2017-18,Rutgers
+Matt Bullock,5,0.429,0.667,0.667,0.1,0.16699999999999998,1,2017-18,Rutgers
+Corey Sanders,5,0.023,0.011000000000000001,0.25,0,0,NA,2017-18,Rutgers
+Geo Baker,2,0.02,0.034,1,0.006999999999999999,0,0,2017-18,Rutgers
+Souf Mensah,1,0,0,NA,0.071,0,0,2017-18,Rutgers
+Aaren Smith,1,NA,NA,NA,1,NA,0,2017-18,Rutgers
+Luke Nathan,1,0.33299999999999996,0,0,0,NA,NA,2017-18,Rutgers
+Total,158,0.17600000000000002,0.185,0.594,0.034,0.044000000000000004,0.429,2017-18,Rutgers

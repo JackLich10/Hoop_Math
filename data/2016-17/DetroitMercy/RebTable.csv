@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jaleel Hogan,38,0.152,0.156,0.7040000000000001,0.09300000000000001,0.151,0.727,2016-17
-Gerald Blackshear,15,0.18100000000000002,0.191,0.6920000000000001,0.043,0.038,0.5,2016-17
-Chris Jenkins,14,0.19399999999999998,0.294,0.833,0.019,0.024,0.5,2016-17
-Jarod Williams,10,0.081,0.128,0.833,0.125,0.214,0.75,2016-17
-Cole Long,9,0.24,0.154,0.33299999999999996,0.10300000000000001,0.33299999999999996,0.667,2016-17
-Corey Allen,7,0.042,0.086,1,0.044000000000000004,0.057,0.5,2016-17
-Aaron Foster-Smith,5,0.429,0.5,0.667,0.28600000000000003,1,0.5,2016-17
-Malik Eichler,4,0.308,0.429,0.75,0,0,NA,2016-17
-Josh McFolley,2,0.022000000000000002,0,0,0,0,NA,2016-17
-Patrick Robinson,2,0.222,0.33299999999999996,1,0,0,NA,2016-17
-Deshawndre Black,2,0.042,0,0,0.021,0,0,2016-17
-Total,108,0.124,0.149,0.696,0.052000000000000005,0.086,0.621,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jaleel Hogan,38,0.152,0.156,0.7040000000000001,0.09300000000000001,0.151,0.727,2016-17,DetroitMercy
+Gerald Blackshear,15,0.18100000000000002,0.191,0.6920000000000001,0.043,0.038,0.5,2016-17,DetroitMercy
+Chris Jenkins,14,0.19399999999999998,0.294,0.833,0.019,0.024,0.5,2016-17,DetroitMercy
+Jarod Williams,10,0.081,0.128,0.833,0.125,0.214,0.75,2016-17,DetroitMercy
+Cole Long,9,0.24,0.154,0.33299999999999996,0.10300000000000001,0.33299999999999996,0.667,2016-17,DetroitMercy
+Corey Allen,7,0.042,0.086,1,0.044000000000000004,0.057,0.5,2016-17,DetroitMercy
+Aaron Foster-Smith,5,0.429,0.5,0.667,0.28600000000000003,1,0.5,2016-17,DetroitMercy
+Malik Eichler,4,0.308,0.429,0.75,0,0,NA,2016-17,DetroitMercy
+Josh McFolley,2,0.022000000000000002,0,0,0,0,NA,2016-17,DetroitMercy
+Patrick Robinson,2,0.222,0.33299999999999996,1,0,0,NA,2016-17,DetroitMercy
+Deshawndre Black,2,0.042,0,0,0.021,0,0,2016-17,DetroitMercy
+Total,108,0.124,0.149,0.696,0.052000000000000005,0.086,0.621,2016-17,DetroitMercy

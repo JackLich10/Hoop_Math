@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Justin Sears,36,0.21899999999999997,0.24100000000000002,0.7140000000000001,0.091,0.125,0.375,2012-13
-Matt Townsend,13,0.185,0.265,0.75,0.013000000000000001,0.023,1,2012-13
-Armani Cotton,13,0.21600000000000003,0.306,1,0.054000000000000006,0.111,0.5,2012-13
-Brandon Sherrod,11,0.175,0.235,0.8,0.032,0,0,2012-13
-Greg Kelley,6,0.2,0.278,0.833,0,0,NA,2012-13
-Jeremiah Kreisberg,3,0.055999999999999994,0.033,0.33299999999999996,0,0,NA,2012-13
-Javier Duren,3,0.049,0,0,0.012,0,0,2012-13
-Nick Victor,3,0.14300000000000002,0.182,0.667,0,0,NA,2012-13
-Will Childs-Klein,2,0.14300000000000002,0.16699999999999998,1,0.2,0,0,2012-13
-Jesse Pritchard,1,0.125,0,0,0,0,NA,2012-13
-Michael Grace,1,0,0,NA,0.016,0,0,2012-13
-Total,92,0.14,0.17600000000000002,0.74,0.027000000000000003,0.026000000000000002,0.33299999999999996,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Justin Sears,36,0.21899999999999997,0.24100000000000002,0.7140000000000001,0.091,0.125,0.375,2012-13,Yale
+Matt Townsend,13,0.185,0.265,0.75,0.013000000000000001,0.023,1,2012-13,Yale
+Armani Cotton,13,0.21600000000000003,0.306,1,0.054000000000000006,0.111,0.5,2012-13,Yale
+Brandon Sherrod,11,0.175,0.235,0.8,0.032,0,0,2012-13,Yale
+Greg Kelley,6,0.2,0.278,0.833,0,0,NA,2012-13,Yale
+Jeremiah Kreisberg,3,0.055999999999999994,0.033,0.33299999999999996,0,0,NA,2012-13,Yale
+Javier Duren,3,0.049,0,0,0.012,0,0,2012-13,Yale
+Nick Victor,3,0.14300000000000002,0.182,0.667,0,0,NA,2012-13,Yale
+Will Childs-Klein,2,0.14300000000000002,0.16699999999999998,1,0.2,0,0,2012-13,Yale
+Jesse Pritchard,1,0.125,0,0,0,0,NA,2012-13,Yale
+Michael Grace,1,0,0,NA,0.016,0,0,2012-13,Yale
+Total,92,0.14,0.17600000000000002,0.74,0.027000000000000003,0.026000000000000002,0.33299999999999996,2012-13,Yale

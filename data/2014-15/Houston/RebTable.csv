@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Devonta Pollard,32,0.26,0.28800000000000003,0.68,0.036000000000000004,0.027000000000000003,0.28600000000000003,2014-15
-Danrad Knowles,27,0.268,0.204,0.455,0.071,0.136,0.6,2014-15
-Leron Barnes,17,0.35700000000000004,0.26899999999999996,0.467,0.027000000000000003,0,0,2014-15
-Eric Weary,10,0.192,0.214,0.6,0.192,0.231,0.6,2014-15
-JC Washington,9,0.17800000000000002,0.2,0.625,0.037000000000000005,0,0,2014-15
-Mikhail McLean,7,0.3,0.33299999999999996,0.667,0.077,0,0,2014-15
-Jherrod Stiggers,4,0.026000000000000002,0,0,0.031,0.045,0.5,2014-15
-Wes VanBeck,2,0.5,0,0,0,0,NA,2014-15
-L.J. Rose,2,0.03,0,0,0.017,0,0,2014-15
-Cavon Baker,2,0.057,0.059000000000000004,0.5,0,0,NA,2014-15
-Egi Gjikondi,2,0.5,0,0,0,0,NA,2014-15
-Total,114,0.209,0.192,0.528,0.043,0.045,0.375,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Devonta Pollard,32,0.26,0.28800000000000003,0.68,0.036000000000000004,0.027000000000000003,0.28600000000000003,2014-15,Houston
+Danrad Knowles,27,0.268,0.204,0.455,0.071,0.136,0.6,2014-15,Houston
+Leron Barnes,17,0.35700000000000004,0.26899999999999996,0.467,0.027000000000000003,0,0,2014-15,Houston
+Eric Weary,10,0.192,0.214,0.6,0.192,0.231,0.6,2014-15,Houston
+JC Washington,9,0.17800000000000002,0.2,0.625,0.037000000000000005,0,0,2014-15,Houston
+Mikhail McLean,7,0.3,0.33299999999999996,0.667,0.077,0,0,2014-15,Houston
+Jherrod Stiggers,4,0.026000000000000002,0,0,0.031,0.045,0.5,2014-15,Houston
+Wes VanBeck,2,0.5,0,0,0,0,NA,2014-15,Houston
+L.J. Rose,2,0.03,0,0,0.017,0,0,2014-15,Houston
+Cavon Baker,2,0.057,0.059000000000000004,0.5,0,0,NA,2014-15,Houston
+Egi Gjikondi,2,0.5,0,0,0,0,NA,2014-15,Houston
+Total,114,0.209,0.192,0.528,0.043,0.045,0.375,2014-15,Houston

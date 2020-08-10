@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Bo Zeigler,24,0.159,0.14800000000000002,0.619,0.077,0.053,0.33299999999999996,2017-18
-Arnaldo Toro,21,0.147,0.14,0.5710000000000001,0.08,0.111,0.429,2017-18
-Yuta Watanabe,21,0.121,0.085,0.41700000000000004,0.037000000000000005,0.09,1,2017-18
-Patrick Steeves,19,0.188,0.18899999999999997,0.667,0.022000000000000002,0.024,0.5,2017-18
-Nolan Terry,8,0.10300000000000001,0.087,0.5,0,0,NA,2017-18
-Justin Williams,4,0.21100000000000002,0.14300000000000002,0.5,0,NA,NA,2017-18
-Justin Mazzulla,4,0.14300000000000002,0.235,1,0,0,NA,2017-18
-Jair Bolden,2,0,0,NA,0.006,0,0,2017-18
-Maceo Jack,2,0.055999999999999994,0.1,1,0,0,NA,2017-18
-Total,105,0.13699999999999998,0.133,0.595,0.03,0.044000000000000004,0.591,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Bo Zeigler,24,0.159,0.14800000000000002,0.619,0.077,0.053,0.33299999999999996,2017-18,GeorgeWashington
+Arnaldo Toro,21,0.147,0.14,0.5710000000000001,0.08,0.111,0.429,2017-18,GeorgeWashington
+Yuta Watanabe,21,0.121,0.085,0.41700000000000004,0.037000000000000005,0.09,1,2017-18,GeorgeWashington
+Patrick Steeves,19,0.188,0.18899999999999997,0.667,0.022000000000000002,0.024,0.5,2017-18,GeorgeWashington
+Nolan Terry,8,0.10300000000000001,0.087,0.5,0,0,NA,2017-18,GeorgeWashington
+Justin Williams,4,0.21100000000000002,0.14300000000000002,0.5,0,NA,NA,2017-18,GeorgeWashington
+Justin Mazzulla,4,0.14300000000000002,0.235,1,0,0,NA,2017-18,GeorgeWashington
+Jair Bolden,2,0,0,NA,0.006,0,0,2017-18,GeorgeWashington
+Maceo Jack,2,0.055999999999999994,0.1,1,0,0,NA,2017-18,GeorgeWashington
+Total,105,0.13699999999999998,0.133,0.595,0.03,0.044000000000000004,0.591,2017-18,GeorgeWashington

@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Scott Eatherton,43,0.155,0.151,0.595,0.098,0.158,0.5,2013-14
-Zach Stahl,20,0.128,0.11,0.444,0.053,0,0,2013-14
-Reggie Spencer,18,0.138,0.188,0.765,0.012,0,0,2013-14
-Derrico Peck,7,0.146,0.2,0.833,0.14300000000000002,0,0,2013-14
-T.J. Williams,4,0.057999999999999996,0.031,0.25,0,0,NA,2013-14
-Kwesi Abakah,2,0.14300000000000002,0.2,1,0.25,0.5,1,2013-14
-David Walker,2,0.01,0,0,0.013000000000000001,0.036000000000000004,1,2013-14
-Marco Banegas-Flores,2,0,0,NA,0.067,1,1,2013-14
-Demetrius Pollard,1,0,0,NA,0.027999999999999997,0,0,2013-14
-Total,99,0.10300000000000001,0.11,0.595,0.036000000000000004,0.049,0.429,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Scott Eatherton,43,0.155,0.151,0.595,0.098,0.158,0.5,2013-14,Northeastern
+Zach Stahl,20,0.128,0.11,0.444,0.053,0,0,2013-14,Northeastern
+Reggie Spencer,18,0.138,0.188,0.765,0.012,0,0,2013-14,Northeastern
+Derrico Peck,7,0.146,0.2,0.833,0.14300000000000002,0,0,2013-14,Northeastern
+T.J. Williams,4,0.057999999999999996,0.031,0.25,0,0,NA,2013-14,Northeastern
+Kwesi Abakah,2,0.14300000000000002,0.2,1,0.25,0.5,1,2013-14,Northeastern
+David Walker,2,0.01,0,0,0.013000000000000001,0.036000000000000004,1,2013-14,Northeastern
+Marco Banegas-Flores,2,0,0,NA,0.067,1,1,2013-14,Northeastern
+Demetrius Pollard,1,0,0,NA,0.027999999999999997,0,0,2013-14,Northeastern
+Total,99,0.10300000000000001,0.11,0.595,0.036000000000000004,0.049,0.429,2013-14,Northeastern

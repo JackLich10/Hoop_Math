@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Walter Foster,28,0.439,0.444,0.48,0.034,0.031,0.33299999999999996,2015-16
-Timajh Parker-Rivera,28,0.228,0.239,0.696,0.14300000000000002,0.16699999999999998,0.4,2015-16
-John Davis,28,0.191,0.172,0.524,0.071,0.075,0.429,2015-16
-ADALA,22,0.165,0.205,0.75,0.013000000000000001,0.018000000000000002,0.5,2015-16
-Mike Morsell,16,0.109,0.061,0.3,0.034,0.037000000000000005,0.4,2015-16
-Alex Thomas,10,0.353,0.33299999999999996,0.667,0.308,0.25,0.25,2015-16
-Eddie Keith II,6,0.113,0.107,0.5,0,0,NA,2015-16
-Bryon Hawkins,3,0.015,0,0,0.013000000000000001,0,0,2015-16
-Jordan McNeil,2,0.105,0.154,1,0,0,NA,2015-16
-Total,143,0.179,0.17600000000000002,0.579,0.04,0.04,0.37,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Walter Foster,28,0.439,0.444,0.48,0.034,0.031,0.33299999999999996,2015-16,Towson
+Timajh Parker-Rivera,28,0.228,0.239,0.696,0.14300000000000002,0.16699999999999998,0.4,2015-16,Towson
+John Davis,28,0.191,0.172,0.524,0.071,0.075,0.429,2015-16,Towson
+ADALA,22,0.165,0.205,0.75,0.013000000000000001,0.018000000000000002,0.5,2015-16,Towson
+Mike Morsell,16,0.109,0.061,0.3,0.034,0.037000000000000005,0.4,2015-16,Towson
+Alex Thomas,10,0.353,0.33299999999999996,0.667,0.308,0.25,0.25,2015-16,Towson
+Eddie Keith II,6,0.113,0.107,0.5,0,0,NA,2015-16,Towson
+Bryon Hawkins,3,0.015,0,0,0.013000000000000001,0,0,2015-16,Towson
+Jordan McNeil,2,0.105,0.154,1,0,0,NA,2015-16,Towson
+Total,143,0.179,0.17600000000000002,0.579,0.04,0.04,0.37,2015-16,Towson

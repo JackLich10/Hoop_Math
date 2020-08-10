@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Nick Perkins,31,0.131,0.11699999999999999,0.552,0.018000000000000002,0.026000000000000002,0.5,2017-18
-CJ Massinburg,26,0.141,0.187,0.81,0.08,0.062,0.25,2017-18
-Ikenna Smart,11,0.244,0.281,0.818,0,0,NA,2017-18
-Jeremy Harris,10,0.065,0.11199999999999999,1,0.013999999999999999,0,0,2017-18
-Montell McRae,9,0.182,0.2,0.75,0.5,NA,0,2017-18
-Jayvon Graves,6,0.076,0.10800000000000001,0.667,0,0,NA,2017-18
-Dontay Caruthers,4,0.052000000000000005,0.06,0.75,0,0,NA,2017-18
-Brock Bertram,3,0.25,0.28600000000000003,0.667,0,0,NA,2017-18
-Gabe Agorioge,1,1,NA,0,NA,NA,NA,2017-18
-Wes Clark,1,0.012,0,0,0,0,NA,2017-18
-James Reese,1,0.067,0.111,1,0,0,NA,2017-18
-Davonta Jordan,1,0.006999999999999999,0.013000000000000001,1,0,0,NA,2017-18
-Total,104,0.095,0.11199999999999999,0.716,0.021,0.013999999999999999,0.25,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Nick Perkins,31,0.131,0.11699999999999999,0.552,0.018000000000000002,0.026000000000000002,0.5,2017-18,Buffalo
+CJ Massinburg,26,0.141,0.187,0.81,0.08,0.062,0.25,2017-18,Buffalo
+Ikenna Smart,11,0.244,0.281,0.818,0,0,NA,2017-18,Buffalo
+Jeremy Harris,10,0.065,0.11199999999999999,1,0.013999999999999999,0,0,2017-18,Buffalo
+Montell McRae,9,0.182,0.2,0.75,0.5,NA,0,2017-18,Buffalo
+Jayvon Graves,6,0.076,0.10800000000000001,0.667,0,0,NA,2017-18,Buffalo
+Dontay Caruthers,4,0.052000000000000005,0.06,0.75,0,0,NA,2017-18,Buffalo
+Brock Bertram,3,0.25,0.28600000000000003,0.667,0,0,NA,2017-18,Buffalo
+Gabe Agorioge,1,1,NA,0,NA,NA,NA,2017-18,Buffalo
+Wes Clark,1,0.012,0,0,0,0,NA,2017-18,Buffalo
+James Reese,1,0.067,0.111,1,0,0,NA,2017-18,Buffalo
+Davonta Jordan,1,0.006999999999999999,0.013000000000000001,1,0,0,NA,2017-18,Buffalo
+Total,104,0.095,0.11199999999999999,0.716,0.021,0.013999999999999999,0.25,2017-18,Buffalo

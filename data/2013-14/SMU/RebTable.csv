@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Markus Kennedy,27,0.126,0.111,0.615,0.008,0,0,2013-14
-Ben Moore,27,0.262,0.237,0.636,0.094,0.08,0.4,2013-14
-Sterling Brown,17,0.275,0.364,0.857,0.1,0.1,0.33299999999999996,2013-14
-Cannen Cunningham,15,0.20600000000000002,0.213,0.769,0.034,0.07400000000000001,1,2013-14
-Shawn Williams,13,0.151,0.16899999999999998,0.769,0,0,NA,2013-14
-Yanick Moreira,8,0.13,0.18899999999999997,1,0.02,0,0,2013-14
-Ryan Manuel,6,0.1,0.091,0.5,0,0,NA,2013-14
-Keith Frazier,4,0.125,0.188,1,0.024,0,0,2013-14
-Crandall Head,2,0.059000000000000004,0,0,0.2,NA,0,2013-14
-Nick Russell,1,0.013999999999999999,0.022000000000000002,1,0,0,NA,2013-14
-Jonathan Wilfong,1,0,0,NA,0.33299999999999996,0.5,1,2013-14
-Nic Moore,1,0,0,NA,0.008,0.018000000000000002,1,2013-14
-Total,122,0.136,0.14800000000000002,0.7170000000000001,0.023,0.027999999999999997,0.43799999999999994,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Markus Kennedy,27,0.126,0.111,0.615,0.008,0,0,2013-14,SMU
+Ben Moore,27,0.262,0.237,0.636,0.094,0.08,0.4,2013-14,SMU
+Sterling Brown,17,0.275,0.364,0.857,0.1,0.1,0.33299999999999996,2013-14,SMU
+Cannen Cunningham,15,0.20600000000000002,0.213,0.769,0.034,0.07400000000000001,1,2013-14,SMU
+Shawn Williams,13,0.151,0.16899999999999998,0.769,0,0,NA,2013-14,SMU
+Yanick Moreira,8,0.13,0.18899999999999997,1,0.02,0,0,2013-14,SMU
+Ryan Manuel,6,0.1,0.091,0.5,0,0,NA,2013-14,SMU
+Keith Frazier,4,0.125,0.188,1,0.024,0,0,2013-14,SMU
+Crandall Head,2,0.059000000000000004,0,0,0.2,NA,0,2013-14,SMU
+Nick Russell,1,0.013999999999999999,0.022000000000000002,1,0,0,NA,2013-14,SMU
+Jonathan Wilfong,1,0,0,NA,0.33299999999999996,0.5,1,2013-14,SMU
+Nic Moore,1,0,0,NA,0.008,0.018000000000000002,1,2013-14,SMU
+Total,122,0.136,0.14800000000000002,0.7170000000000001,0.023,0.027999999999999997,0.43799999999999994,2013-14,SMU

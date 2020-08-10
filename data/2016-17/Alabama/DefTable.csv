@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.315,0.581,0.127,0.6659999999999999,2016-17
-2pt Jumpers,0.345,0.313,0.09699999999999999,0.34700000000000003,2016-17
-3pt Shots,0.34,0.33299999999999996,0.008,0.335,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.315,0.581,0.127,0.6659999999999999,2016-17,Alabama
+2pt Jumpers,0.345,0.313,0.09699999999999999,0.34700000000000003,2016-17,Alabama
+3pt Shots,0.34,0.33299999999999996,0.008,0.335,2016-17,Alabama

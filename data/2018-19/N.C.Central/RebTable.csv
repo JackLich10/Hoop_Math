@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Raasean Davis,52,0.183,0.17300000000000001,0.721,0.095,0.08800000000000001,0.33299999999999996,2018-19
-Zacarry Douglas,14,0.111,0.09300000000000001,0.5,0.062,0,0,2018-19
-McKnight Larry,13,0.115,0.114,0.615,0,0,NA,2018-19
-Jibri Blount,12,0.109,0.131,0.8,0.061,0,0,2018-19
-Rashann London,4,0.026000000000000002,0,0,0.10300000000000001,0.111,0.33299999999999996,2018-19
-Julian Walters,3,0.059000000000000004,0,0,0.077,0,0,2018-19
-Jordan Perkins,2,0.023,0,0,0.022000000000000002,0,0,2018-19
-Miller Randy,2,0.022000000000000002,0,0,0,0,NA,2018-19
-Gardner Reggie,2,0.067,0,0,0,0,NA,2018-19
-John Guerra,1,0.091,0,0,0,0,NA,2018-19
-Nicolas Fennell,1,0.053,0.067,1,NA,NA,NA,2018-19
-Total,106,0.106,0.10300000000000001,0.616,0.048,0.028999999999999998,0.2,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Raasean Davis,52,0.183,0.17300000000000001,0.721,0.095,0.08800000000000001,0.33299999999999996,2018-19,N.C.Central
+Zacarry Douglas,14,0.111,0.09300000000000001,0.5,0.062,0,0,2018-19,N.C.Central
+McKnight Larry,13,0.115,0.114,0.615,0,0,NA,2018-19,N.C.Central
+Jibri Blount,12,0.109,0.131,0.8,0.061,0,0,2018-19,N.C.Central
+Rashann London,4,0.026000000000000002,0,0,0.10300000000000001,0.111,0.33299999999999996,2018-19,N.C.Central
+Julian Walters,3,0.059000000000000004,0,0,0.077,0,0,2018-19,N.C.Central
+Jordan Perkins,2,0.023,0,0,0.022000000000000002,0,0,2018-19,N.C.Central
+Miller Randy,2,0.022000000000000002,0,0,0,0,NA,2018-19,N.C.Central
+Gardner Reggie,2,0.067,0,0,0,0,NA,2018-19,N.C.Central
+John Guerra,1,0.091,0,0,0,0,NA,2018-19,N.C.Central
+Nicolas Fennell,1,0.053,0.067,1,NA,NA,NA,2018-19,N.C.Central
+Total,106,0.106,0.10300000000000001,0.616,0.048,0.028999999999999998,0.2,2018-19,N.C.Central

@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Alex Hicks,30,0.213,0.21600000000000003,0.7040000000000001,0.034,0.08800000000000001,1,2018-19
-Jordon Varnado,23,0.157,0.165,0.7,0.028999999999999998,0.034,0.5,2018-19
-Javan Johnson,9,0.08900000000000001,0.14300000000000002,0.857,0.02,0.059000000000000004,1,2018-19
-Zay Williams,8,0.161,0.2,0.8,0.14300000000000002,0,0,2018-19
-Darian Adams,6,0.043,0.055999999999999994,0.667,0.051,0,0,2018-19
-Devante Foster,6,0.455,0.33299999999999996,0.6,0.077,0.16699999999999998,1,2018-19
-Davion Thomas,4,0.364,0.28600000000000003,0.5,0,0,NA,2018-19
-B.J. Miller,3,0.023,0.026000000000000002,0.667,0,0,NA,2018-19
-Malik Burnett,2,0.062,0.125,1,0.053,0,0,2018-19
-Atakan Sahinkaya,1,0.125,0.33299999999999996,1,NA,NA,NA,2018-19
-Charles Norman,1,0.14300000000000002,0.25,1,0,0,NA,2018-19
-KJ Simon,1,0.023,0.032,1,0,0,NA,2018-19
-Total,94,0.115,0.134,0.718,0.038,0.05,0.462,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Alex Hicks,30,0.213,0.21600000000000003,0.7040000000000001,0.034,0.08800000000000001,1,2018-19,Troy
+Jordon Varnado,23,0.157,0.165,0.7,0.028999999999999998,0.034,0.5,2018-19,Troy
+Javan Johnson,9,0.08900000000000001,0.14300000000000002,0.857,0.02,0.059000000000000004,1,2018-19,Troy
+Zay Williams,8,0.161,0.2,0.8,0.14300000000000002,0,0,2018-19,Troy
+Darian Adams,6,0.043,0.055999999999999994,0.667,0.051,0,0,2018-19,Troy
+Devante Foster,6,0.455,0.33299999999999996,0.6,0.077,0.16699999999999998,1,2018-19,Troy
+Davion Thomas,4,0.364,0.28600000000000003,0.5,0,0,NA,2018-19,Troy
+B.J. Miller,3,0.023,0.026000000000000002,0.667,0,0,NA,2018-19,Troy
+Malik Burnett,2,0.062,0.125,1,0.053,0,0,2018-19,Troy
+Atakan Sahinkaya,1,0.125,0.33299999999999996,1,NA,NA,NA,2018-19,Troy
+Charles Norman,1,0.14300000000000002,0.25,1,0,0,NA,2018-19,Troy
+KJ Simon,1,0.023,0.032,1,0,0,NA,2018-19,Troy
+Total,94,0.115,0.134,0.718,0.038,0.05,0.462,2018-19,Troy

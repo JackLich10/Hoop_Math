@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.375,0.5670000000000001,0.134,0.654,2018-19
-2pt Jumpers,0.239,0.363,0.064,0.38799999999999996,2018-19
-3pt Shots,0.386,0.34299999999999997,0.01,0.34700000000000003,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.375,0.5670000000000001,0.134,0.654,2018-19,Howard
+2pt Jumpers,0.239,0.363,0.064,0.38799999999999996,2018-19,Howard
+3pt Shots,0.386,0.34299999999999997,0.01,0.34700000000000003,2018-19,Howard

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.401,0.562,0.087,0.615,2015-16
-2pt Jumpers,0.22699999999999998,0.419,0.033,0.433,2015-16
-3pt Shots,0.37200000000000005,0.373,0.006999999999999999,0.376,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.401,0.562,0.087,0.615,2015-16,Colgate
+2pt Jumpers,0.22699999999999998,0.419,0.033,0.433,2015-16,Colgate
+3pt Shots,0.37200000000000005,0.373,0.006999999999999999,0.376,2015-16,Colgate

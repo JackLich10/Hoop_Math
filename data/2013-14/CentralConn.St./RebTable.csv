@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Brandon Peel,25,0.316,0.365,0.792,0.012,0,0,2013-14
-Faronte Drakeford,20,0.113,0.086,0.43799999999999994,0.021,0.024,0.5,2013-14
-Juwan Newmen,18,0.316,0.33299999999999996,0.5,0,0,NA,2013-14
-Matt Hunter,9,0.151,0.207,0.75,0,0,NA,2013-14
-Terrell Allen,7,0.146,0.05,0.16699999999999998,0.027000000000000003,0,0,2013-14
-Malcolm McMillan,4,0.037000000000000005,0.032,0.5,0,0,NA,2013-14
-De'Angelo Speech,4,0.094,0.067,0.33299999999999996,0.055999999999999994,0,0,2013-14
-Khalen Cumberlander,2,0.02,0.019,0.5,0,0,NA,2013-14
-Matt Mobley,1,0.018000000000000002,0.034,1,0,0,NA,2013-14
-Andrew Hurd,1,NA,NA,NA,0.5,0,0,2013-14
-Kyle Vinales,1,0.011000000000000001,0,0,0,0,NA,2013-14
-Total,92,0.109,0.115,0.5660000000000001,0.015,0.01,0.25,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Brandon Peel,25,0.316,0.365,0.792,0.012,0,0,2013-14,CentralConn.St.
+Faronte Drakeford,20,0.113,0.086,0.43799999999999994,0.021,0.024,0.5,2013-14,CentralConn.St.
+Juwan Newmen,18,0.316,0.33299999999999996,0.5,0,0,NA,2013-14,CentralConn.St.
+Matt Hunter,9,0.151,0.207,0.75,0,0,NA,2013-14,CentralConn.St.
+Terrell Allen,7,0.146,0.05,0.16699999999999998,0.027000000000000003,0,0,2013-14,CentralConn.St.
+Malcolm McMillan,4,0.037000000000000005,0.032,0.5,0,0,NA,2013-14,CentralConn.St.
+De'Angelo Speech,4,0.094,0.067,0.33299999999999996,0.055999999999999994,0,0,2013-14,CentralConn.St.
+Khalen Cumberlander,2,0.02,0.019,0.5,0,0,NA,2013-14,CentralConn.St.
+Matt Mobley,1,0.018000000000000002,0.034,1,0,0,NA,2013-14,CentralConn.St.
+Andrew Hurd,1,NA,NA,NA,0.5,0,0,2013-14,CentralConn.St.
+Kyle Vinales,1,0.011000000000000001,0,0,0,0,NA,2013-14,CentralConn.St.
+Total,92,0.109,0.115,0.5660000000000001,0.015,0.01,0.25,2013-14,CentralConn.St.

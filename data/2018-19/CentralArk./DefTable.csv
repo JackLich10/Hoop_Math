@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.361,0.61,0.092,0.6709999999999999,2018-19
-2pt Jumpers,0.235,0.33,0.09,0.363,2018-19
-3pt Shots,0.40299999999999997,0.34700000000000003,0.011000000000000001,0.35100000000000003,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.361,0.61,0.092,0.6709999999999999,2018-19,CentralArk.
+2pt Jumpers,0.235,0.33,0.09,0.363,2018-19,CentralArk.
+3pt Shots,0.40299999999999997,0.34700000000000003,0.011000000000000001,0.35100000000000003,2018-19,CentralArk.

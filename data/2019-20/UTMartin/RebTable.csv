@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Quintin Dove,62,0.29,0.29,0.7140000000000001,0.049,0.036000000000000004,0.33299999999999996,2019-20
-Derek Hawthorne,15,0.096,0.14300000000000002,0.909,0.04,0.027999999999999997,0.25,2019-20
-Miles Thomas,10,0.09699999999999999,0.109,0.7140000000000001,0.042,0.059000000000000004,0.5,2019-20
-Jordan Pierce,7,0.389,0.429,0.429,0,0,NA,2019-20
-Jalen Riley,4,0.33299999999999996,0.4,0.667,0.5,NA,0,2019-20
-Hannes Polla,4,0.16,0.2,0.75,0,0,NA,2019-20
-Steve Wooten,4,0.364,0.375,0.75,0,0,NA,2019-20
-Isaac Aguiar,4,0.308,0.4,0.5,0,NA,NA,2019-20
-Parker Stewart,4,0.037000000000000005,0.02,0.33299999999999996,0.011000000000000001,0,0,2019-20
-Eric Rustin,3,0.33299999999999996,0.2,0.5,0.059000000000000004,0,0,2019-20
-Craig Randall II,2,0.062,0.11800000000000001,1,0,0,NA,2019-20
-Ja'Darius Harris,1,0.045,0,0,0,0,NA,2019-20
-Eman Sertovic,1,0,0,NA,0,0,NA,2019-20
-Total,121,0.17300000000000001,0.18899999999999997,0.6920000000000001,0.032,0.022000000000000002,0.267,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Quintin Dove,62,0.29,0.29,0.7140000000000001,0.049,0.036000000000000004,0.33299999999999996,2019-20,UTMartin
+Derek Hawthorne,15,0.096,0.14300000000000002,0.909,0.04,0.027999999999999997,0.25,2019-20,UTMartin
+Miles Thomas,10,0.09699999999999999,0.109,0.7140000000000001,0.042,0.059000000000000004,0.5,2019-20,UTMartin
+Jordan Pierce,7,0.389,0.429,0.429,0,0,NA,2019-20,UTMartin
+Jalen Riley,4,0.33299999999999996,0.4,0.667,0.5,NA,0,2019-20,UTMartin
+Hannes Polla,4,0.16,0.2,0.75,0,0,NA,2019-20,UTMartin
+Steve Wooten,4,0.364,0.375,0.75,0,0,NA,2019-20,UTMartin
+Isaac Aguiar,4,0.308,0.4,0.5,0,NA,NA,2019-20,UTMartin
+Parker Stewart,4,0.037000000000000005,0.02,0.33299999999999996,0.011000000000000001,0,0,2019-20,UTMartin
+Eric Rustin,3,0.33299999999999996,0.2,0.5,0.059000000000000004,0,0,2019-20,UTMartin
+Craig Randall II,2,0.062,0.11800000000000001,1,0,0,NA,2019-20,UTMartin
+Ja'Darius Harris,1,0.045,0,0,0,0,NA,2019-20,UTMartin
+Eman Sertovic,1,0,0,NA,0,0,NA,2019-20,UTMartin
+Total,121,0.17300000000000001,0.18899999999999997,0.6920000000000001,0.032,0.022000000000000002,0.267,2019-20,UTMartin

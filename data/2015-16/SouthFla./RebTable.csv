@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jaleel Cousins,49,0.25,0.233,0.457,0.12,0.2,0.33299999999999996,2015-16
-Ruben Guerrero,29,0.278,0.368,0.84,0.14300000000000002,0.14300000000000002,0.5,2015-16
-Chris Perry,27,0.16899999999999998,0.21600000000000003,0.696,0.045,0.065,0.5,2015-16
-Angel Nunez,16,0.125,0.09699999999999999,0.467,0.012,0,0,2015-16
-Bo Zeigler,14,0.192,0.20800000000000002,0.7140000000000001,0,0,NA,2015-16
-Luis Santos,7,0.5,1,0.429,0,NA,NA,2015-16
-Nehemias Morillo,5,0.055999999999999994,0,0,0.018000000000000002,0.023,0.5,2015-16
-Jahmal McMurray,4,0.028999999999999998,0.034,0.5,0.005,0,0,2015-16
-Jake Bodway,3,0.28600000000000003,0,0,0.059000000000000004,0,0,2015-16
-Roddy Peters,2,0.048,0.045,0.5,0,0,NA,2015-16
-Total,156,0.17600000000000002,0.191,0.5760000000000001,0.027000000000000003,0.027000000000000003,0.375,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jaleel Cousins,49,0.25,0.233,0.457,0.12,0.2,0.33299999999999996,2015-16,SouthFla.
+Ruben Guerrero,29,0.278,0.368,0.84,0.14300000000000002,0.14300000000000002,0.5,2015-16,SouthFla.
+Chris Perry,27,0.16899999999999998,0.21600000000000003,0.696,0.045,0.065,0.5,2015-16,SouthFla.
+Angel Nunez,16,0.125,0.09699999999999999,0.467,0.012,0,0,2015-16,SouthFla.
+Bo Zeigler,14,0.192,0.20800000000000002,0.7140000000000001,0,0,NA,2015-16,SouthFla.
+Luis Santos,7,0.5,1,0.429,0,NA,NA,2015-16,SouthFla.
+Nehemias Morillo,5,0.055999999999999994,0,0,0.018000000000000002,0.023,0.5,2015-16,SouthFla.
+Jahmal McMurray,4,0.028999999999999998,0.034,0.5,0.005,0,0,2015-16,SouthFla.
+Jake Bodway,3,0.28600000000000003,0,0,0.059000000000000004,0,0,2015-16,SouthFla.
+Roddy Peters,2,0.048,0.045,0.5,0,0,NA,2015-16,SouthFla.
+Total,156,0.17600000000000002,0.191,0.5760000000000001,0.027000000000000003,0.027000000000000003,0.375,2015-16,SouthFla.

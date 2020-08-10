@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jordan Bachynski,23,0.129,0.15,0.7140000000000001,0.025,0.061,1,2013-14
-Shaquielle McKissic,9,0.084,0.106,0.778,0,0,NA,2013-14
-Jahii Carson,6,0.019,0.009000000000000001,0.25,0.011000000000000001,0.015,0.5,2013-14
-Jermaine Marshall,5,0.040999999999999995,0.067,1,0.024,0.057,1,2013-14
-Egor Koulechov,4,0.107,0.105,0.667,0.053,0,0,2013-14
-Chance Murray,3,0.059000000000000004,0.111,1,0.222,NA,0,2013-14
-Eric Jacobsen,3,0.083,0.1,0.667,0,0,NA,2013-14
-Jonathan Gilling,2,0.1,0.222,1,0,0,NA,2013-14
-Richie Edwards,1,0.1,0.14300000000000002,1,0,0,NA,2013-14
-Sai Tummala,1,0.25,0.25,1,0,0,NA,2013-14
-Bo Barnes,1,0.053,0.091,1,0,0,NA,2013-14
-Total,58,0.07,0.08900000000000001,0.735,0.019,0.03,0.556,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jordan Bachynski,23,0.129,0.15,0.7140000000000001,0.025,0.061,1,2013-14,ArizonaSt.
+Shaquielle McKissic,9,0.084,0.106,0.778,0,0,NA,2013-14,ArizonaSt.
+Jahii Carson,6,0.019,0.009000000000000001,0.25,0.011000000000000001,0.015,0.5,2013-14,ArizonaSt.
+Jermaine Marshall,5,0.040999999999999995,0.067,1,0.024,0.057,1,2013-14,ArizonaSt.
+Egor Koulechov,4,0.107,0.105,0.667,0.053,0,0,2013-14,ArizonaSt.
+Chance Murray,3,0.059000000000000004,0.111,1,0.222,NA,0,2013-14,ArizonaSt.
+Eric Jacobsen,3,0.083,0.1,0.667,0,0,NA,2013-14,ArizonaSt.
+Jonathan Gilling,2,0.1,0.222,1,0,0,NA,2013-14,ArizonaSt.
+Richie Edwards,1,0.1,0.14300000000000002,1,0,0,NA,2013-14,ArizonaSt.
+Sai Tummala,1,0.25,0.25,1,0,0,NA,2013-14,ArizonaSt.
+Bo Barnes,1,0.053,0.091,1,0,0,NA,2013-14,ArizonaSt.
+Total,58,0.07,0.08900000000000001,0.735,0.019,0.03,0.556,2013-14,ArizonaSt.

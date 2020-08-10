@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.32,0.564,0.09699999999999999,0.625,2014-15
-2pt Jumpers,0.32,0.41,0.09,0.451,2014-15
-3pt Shots,0.36,0.359,0.003,0.36,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.32,0.564,0.09699999999999999,0.625,2014-15,SoutheasternLa.
+2pt Jumpers,0.32,0.41,0.09,0.451,2014-15,SoutheasternLa.
+3pt Shots,0.36,0.359,0.003,0.36,2014-15,SoutheasternLa.

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.327,0.619,0.084,0.6759999999999999,2013-14
-2pt Jumpers,0.376,0.377,0.077,0.408,2013-14
-3pt Shots,0.297,0.36,0.008,0.363,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.327,0.619,0.084,0.6759999999999999,2013-14,TexasSouthern
+2pt Jumpers,0.376,0.377,0.077,0.408,2013-14,TexasSouthern
+3pt Shots,0.297,0.36,0.008,0.363,2013-14,TexasSouthern

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.435,0.642,0.053,0.6779999999999999,2013-14
-2pt Jumpers,0.307,0.40399999999999997,0.028999999999999998,0.41600000000000004,2013-14
-3pt Shots,0.258,0.36700000000000005,0.002,0.368,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.435,0.642,0.053,0.6779999999999999,2013-14,MississippiVal.
+2pt Jumpers,0.307,0.40399999999999997,0.028999999999999998,0.41600000000000004,2013-14,MississippiVal.
+3pt Shots,0.258,0.36700000000000005,0.002,0.368,2013-14,MississippiVal.

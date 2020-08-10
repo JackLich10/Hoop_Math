@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tommy Spagnolo,16,0.12,0.154,0.75,0,0,NA,2014-15
-Dustin Clarke,11,0.32299999999999995,0.294,0.5,0.025,0,0,2014-15
-Michael Obacha,8,0.2,0.15,0.375,0,0,NA,2014-15
-Griffin Kinney,8,0.121,0.138,0.5710000000000001,0.027999999999999997,0.111,1,2014-15
-Milos Kostic,7,0.5,0.5710000000000001,0.667,0,0,NA,2014-15
-Jacob Lawson,5,0.086,0.062,0.4,0,0,NA,2014-15
-Frank Eaves,4,0.03,0,0,0.012,0,0,2014-15
-Mike Kobani,4,0.14800000000000002,0.071,0.25,0,NA,NA,2014-15
-Landon Goesling,3,0.083,0.182,1,0,0,NA,2014-15
-Jake Babic,3,0.091,0.062,0.33299999999999996,0,0,NA,2014-15
-Chris Burgess,1,0,0,NA,0.018000000000000002,0,0,2014-15
-Rantavious GIlbert,1,0.091,0.2,1,0,0,NA,2014-15
-Total,71,0.111,0.11199999999999999,0.5379999999999999,0.009000000000000001,0.006999999999999999,0.25,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tommy Spagnolo,16,0.12,0.154,0.75,0,0,NA,2014-15,AppalachianSt.
+Dustin Clarke,11,0.32299999999999995,0.294,0.5,0.025,0,0,2014-15,AppalachianSt.
+Michael Obacha,8,0.2,0.15,0.375,0,0,NA,2014-15,AppalachianSt.
+Griffin Kinney,8,0.121,0.138,0.5710000000000001,0.027999999999999997,0.111,1,2014-15,AppalachianSt.
+Milos Kostic,7,0.5,0.5710000000000001,0.667,0,0,NA,2014-15,AppalachianSt.
+Jacob Lawson,5,0.086,0.062,0.4,0,0,NA,2014-15,AppalachianSt.
+Frank Eaves,4,0.03,0,0,0.012,0,0,2014-15,AppalachianSt.
+Mike Kobani,4,0.14800000000000002,0.071,0.25,0,NA,NA,2014-15,AppalachianSt.
+Landon Goesling,3,0.083,0.182,1,0,0,NA,2014-15,AppalachianSt.
+Jake Babic,3,0.091,0.062,0.33299999999999996,0,0,NA,2014-15,AppalachianSt.
+Chris Burgess,1,0,0,NA,0.018000000000000002,0,0,2014-15,AppalachianSt.
+Rantavious GIlbert,1,0.091,0.2,1,0,0,NA,2014-15,AppalachianSt.
+Total,71,0.111,0.11199999999999999,0.5379999999999999,0.009000000000000001,0.006999999999999999,0.25,2014-15,AppalachianSt.

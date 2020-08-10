@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Spencer Franklin,11,0.145,0.14,0.545,0,0,NA,2018-19
-Pernell Adgei,9,0.31,0.35700000000000004,0.556,0,0,NA,2018-19
-Jashaun Smith,8,0.073,0.078,0.7140000000000001,0.023,0,0,2018-19
-Damarion Geter,5,0.07200000000000001,0.073,0.6,0,0,NA,2018-19
-Jordan Cintron,5,0.071,0.071,0.6,0,0,NA,2018-19
-Jaylon Wilson,4,0.07,0.121,1,0,0,NA,2018-19
-Lorenzo Phillips,4,0.027999999999999997,0.024,0.5,0.028999999999999998,0,0,2018-19
-Gus Okafor,3,0.15,0.28600000000000003,0.667,0,0,NA,2018-19
-Sean Flood,1,0,0,NA,0,0,NA,2018-19
-Isaiah Walton,1,0.016,0.028999999999999998,1,0,0,NA,2018-19
-Total,51,0.078,0.08800000000000001,0.638,0.011000000000000001,0,0,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Spencer Franklin,11,0.145,0.14,0.545,0,0,NA,2018-19,Longwood
+Pernell Adgei,9,0.31,0.35700000000000004,0.556,0,0,NA,2018-19,Longwood
+Jashaun Smith,8,0.073,0.078,0.7140000000000001,0.023,0,0,2018-19,Longwood
+Damarion Geter,5,0.07200000000000001,0.073,0.6,0,0,NA,2018-19,Longwood
+Jordan Cintron,5,0.071,0.071,0.6,0,0,NA,2018-19,Longwood
+Jaylon Wilson,4,0.07,0.121,1,0,0,NA,2018-19,Longwood
+Lorenzo Phillips,4,0.027999999999999997,0.024,0.5,0.028999999999999998,0,0,2018-19,Longwood
+Gus Okafor,3,0.15,0.28600000000000003,0.667,0,0,NA,2018-19,Longwood
+Sean Flood,1,0,0,NA,0,0,NA,2018-19,Longwood
+Isaiah Walton,1,0.016,0.028999999999999998,1,0,0,NA,2018-19,Longwood
+Total,51,0.078,0.08800000000000001,0.638,0.011000000000000001,0,0,2018-19,Longwood

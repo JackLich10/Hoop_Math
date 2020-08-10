@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Anthony Townes,39,0.207,0.205,0.6,0.087,0.091,0.444,2016-17
-Jack Williams,18,0.382,0.35700000000000004,0.385,0.054000000000000006,0.031,0.2,2016-17
-Ray Bowles,16,0.087,0.158,0.9,0.044000000000000004,0.053,0.33299999999999996,2016-17
-Jacob Lampkin,14,0.18600000000000003,0.16699999999999998,0.545,0.051,0.083,0.667,2016-17
-Tonko Vuko,8,0.154,0.125,0.5,0.154,0.14300000000000002,0.5,2016-17
-Sami Eleraky,5,0.23800000000000002,0.273,0.6,0,0,NA,2016-17
-D.J. Ursery,4,0,0,NA,0.04,0,0,2016-17
-Maleke Haynes,3,0.111,0,0,0.16699999999999998,0.2,0.5,2016-17
-T.J. Wallace,3,0.011000000000000001,0,0,0.006,0.019,1,2016-17
-Max Tinsley,3,0.222,0,0,0.1,0.33299999999999996,1,2016-17
-K.J. Smith,1,0,0,NA,0.037000000000000005,0.083,1,2016-17
-Total,114,0.128,0.134,0.557,0.045,0.052000000000000005,0.41200000000000003,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Anthony Townes,39,0.207,0.205,0.6,0.087,0.091,0.444,2016-17,Pacific
+Jack Williams,18,0.382,0.35700000000000004,0.385,0.054000000000000006,0.031,0.2,2016-17,Pacific
+Ray Bowles,16,0.087,0.158,0.9,0.044000000000000004,0.053,0.33299999999999996,2016-17,Pacific
+Jacob Lampkin,14,0.18600000000000003,0.16699999999999998,0.545,0.051,0.083,0.667,2016-17,Pacific
+Tonko Vuko,8,0.154,0.125,0.5,0.154,0.14300000000000002,0.5,2016-17,Pacific
+Sami Eleraky,5,0.23800000000000002,0.273,0.6,0,0,NA,2016-17,Pacific
+D.J. Ursery,4,0,0,NA,0.04,0,0,2016-17,Pacific
+Maleke Haynes,3,0.111,0,0,0.16699999999999998,0.2,0.5,2016-17,Pacific
+T.J. Wallace,3,0.011000000000000001,0,0,0.006,0.019,1,2016-17,Pacific
+Max Tinsley,3,0.222,0,0,0.1,0.33299999999999996,1,2016-17,Pacific
+K.J. Smith,1,0,0,NA,0.037000000000000005,0.083,1,2016-17,Pacific
+Total,114,0.128,0.134,0.557,0.045,0.052000000000000005,0.41200000000000003,2016-17,Pacific

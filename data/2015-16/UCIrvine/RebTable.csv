@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Mike Best,24,0.077,0.085,0.7,0.078,0.087,0.429,2015-16
-Mamadou Ndiaye,24,0.095,0.094,0.8,0.10300000000000001,0.10800000000000001,0.444,2015-16
-Jonathan Galloway,22,0.318,0.312,0.7140000000000001,0.276,0.444,0.5,2015-16
-Alex Young,8,0.036000000000000004,0.062,1,0.03,0.02,0.25,2015-16
-Ioannis Dimakopoulos,6,0.071,0.091,0.75,0.023,0.054000000000000006,1,2015-16
-Dominique Dunning,5,0.057,0.062,0.5,0.094,0,0,2015-16
-Brandon Smith,5,0.111,0.2,1,0.25,0.33299999999999996,0.33299999999999996,2015-16
-Luke Nelson,3,0,0,NA,0.02,0.023,0.5,2015-16
-Shawn Ray,2,0,NA,NA,0.4,0,0,2015-16
-Jaron Martin,1,0.017,0,0,0,0,NA,2015-16
-Aaron Wright,1,0,0,NA,0.05,0.16699999999999998,1,2015-16
-Total,101,0.073,0.087,0.745,0.064,0.069,0.41700000000000004,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Mike Best,24,0.077,0.085,0.7,0.078,0.087,0.429,2015-16,UCIrvine
+Mamadou Ndiaye,24,0.095,0.094,0.8,0.10300000000000001,0.10800000000000001,0.444,2015-16,UCIrvine
+Jonathan Galloway,22,0.318,0.312,0.7140000000000001,0.276,0.444,0.5,2015-16,UCIrvine
+Alex Young,8,0.036000000000000004,0.062,1,0.03,0.02,0.25,2015-16,UCIrvine
+Ioannis Dimakopoulos,6,0.071,0.091,0.75,0.023,0.054000000000000006,1,2015-16,UCIrvine
+Dominique Dunning,5,0.057,0.062,0.5,0.094,0,0,2015-16,UCIrvine
+Brandon Smith,5,0.111,0.2,1,0.25,0.33299999999999996,0.33299999999999996,2015-16,UCIrvine
+Luke Nelson,3,0,0,NA,0.02,0.023,0.5,2015-16,UCIrvine
+Shawn Ray,2,0,NA,NA,0.4,0,0,2015-16,UCIrvine
+Jaron Martin,1,0.017,0,0,0,0,NA,2015-16,UCIrvine
+Aaron Wright,1,0,0,NA,0.05,0.16699999999999998,1,2015-16,UCIrvine
+Total,101,0.073,0.087,0.745,0.064,0.069,0.41700000000000004,2015-16,UCIrvine

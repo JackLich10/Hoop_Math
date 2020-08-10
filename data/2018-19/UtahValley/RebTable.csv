@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Richard Harward,20,0.222,0.273,0.9,0,0,NA,2018-19
-Baylee Steele,19,0.16399999999999998,0.158,0.667,0.022000000000000002,0.043,1,2018-19
-Connor MacDougall,8,0.10300000000000001,0.067,0.5,0.057,0.05,0.5,2018-19
-Jake Toolson,8,0.04,0.034,0.6,0.033,0.077,1,2018-19
-Isaiah White,7,0.045,0.019,0.2,0.059000000000000004,0,0,2018-19
-Wyatt Lowell,4,0.1,0.2,1,0.11800000000000001,0,0,2018-19
-Conner Toolson,4,0.027999999999999997,0.048,1,0.018000000000000002,0.043,1,2018-19
-Benjamin Nakwaasah,1,0,0,NA,0,0,NA,2018-19
-TJ Washington,1,0,0,NA,0,0,NA,2018-19
-Total,80,0.07,0.08,0.695,0.04,0.037000000000000005,0.35700000000000004,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Richard Harward,20,0.222,0.273,0.9,0,0,NA,2018-19,UtahValley
+Baylee Steele,19,0.16399999999999998,0.158,0.667,0.022000000000000002,0.043,1,2018-19,UtahValley
+Connor MacDougall,8,0.10300000000000001,0.067,0.5,0.057,0.05,0.5,2018-19,UtahValley
+Jake Toolson,8,0.04,0.034,0.6,0.033,0.077,1,2018-19,UtahValley
+Isaiah White,7,0.045,0.019,0.2,0.059000000000000004,0,0,2018-19,UtahValley
+Wyatt Lowell,4,0.1,0.2,1,0.11800000000000001,0,0,2018-19,UtahValley
+Conner Toolson,4,0.027999999999999997,0.048,1,0.018000000000000002,0.043,1,2018-19,UtahValley
+Benjamin Nakwaasah,1,0,0,NA,0,0,NA,2018-19,UtahValley
+TJ Washington,1,0,0,NA,0,0,NA,2018-19,UtahValley
+Total,80,0.07,0.08,0.695,0.04,0.037000000000000005,0.35700000000000004,2018-19,UtahValley

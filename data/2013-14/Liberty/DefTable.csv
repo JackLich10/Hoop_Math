@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.35100000000000003,0.557,0.11900000000000001,0.632,2013-14
-2pt Jumpers,0.263,0.395,0.062,0.42100000000000004,2013-14
-3pt Shots,0.386,0.345,0.006999999999999999,0.348,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.35100000000000003,0.557,0.11900000000000001,0.632,2013-14,Liberty
+2pt Jumpers,0.263,0.395,0.062,0.42100000000000004,2013-14,Liberty
+3pt Shots,0.386,0.345,0.006999999999999999,0.348,2013-14,Liberty

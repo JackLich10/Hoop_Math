@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.38,0.569,0.085,0.622,2014-15
-2pt Jumpers,0.264,0.373,0.04,0.38799999999999996,2014-15
-3pt Shots,0.35600000000000004,0.315,0.006999999999999999,0.317,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.38,0.569,0.085,0.622,2014-15,Bryant
+2pt Jumpers,0.264,0.373,0.04,0.38799999999999996,2014-15,Bryant
+3pt Shots,0.35600000000000004,0.315,0.006999999999999999,0.317,2014-15,Bryant

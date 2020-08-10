@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Elijah Ford,20,0.15,0.21600000000000003,0.8,0,0,NA,2019-20
-Alex Morales,15,0.07,0.071,0.545,0.034,0.036000000000000004,0.33299999999999996,2019-20
-Patrick Szpir,12,0.162,0.14300000000000002,0.545,0.043,0.125,1,2019-20
-Darion Jordan-Thomas,12,0.293,0.192,0.41700000000000004,0,0,NA,2019-20
-Will Martinez,7,0.08,0.071,0.429,0,0,NA,2019-20
-Curtis Cobb,7,0.073,0.055999999999999994,0.33299999999999996,0.031,0.036000000000000004,0.5,2019-20
-Tyrone Nesby IV,6,0.172,0.158,0.6,0.033,0.077,1,2019-20
-Ja'Mier Fletcher,2,0.11800000000000001,0,0,0,0,NA,2019-20
-Nigel Jackson,1,0.14300000000000002,0.25,1,0,0,NA,2019-20
-Deandre Wilkins,1,0.33299999999999996,0.33299999999999996,1,0,NA,NA,2019-20
-Atiba Taylor,1,0,0,NA,NA,NA,NA,2019-20
-Total,84,0.11900000000000001,0.124,0.575,0.02,0.031,0.556,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Elijah Ford,20,0.15,0.21600000000000003,0.8,0,0,NA,2019-20,Wagner
+Alex Morales,15,0.07,0.071,0.545,0.034,0.036000000000000004,0.33299999999999996,2019-20,Wagner
+Patrick Szpir,12,0.162,0.14300000000000002,0.545,0.043,0.125,1,2019-20,Wagner
+Darion Jordan-Thomas,12,0.293,0.192,0.41700000000000004,0,0,NA,2019-20,Wagner
+Will Martinez,7,0.08,0.071,0.429,0,0,NA,2019-20,Wagner
+Curtis Cobb,7,0.073,0.055999999999999994,0.33299999999999996,0.031,0.036000000000000004,0.5,2019-20,Wagner
+Tyrone Nesby IV,6,0.172,0.158,0.6,0.033,0.077,1,2019-20,Wagner
+Ja'Mier Fletcher,2,0.11800000000000001,0,0,0,0,NA,2019-20,Wagner
+Nigel Jackson,1,0.14300000000000002,0.25,1,0,0,NA,2019-20,Wagner
+Deandre Wilkins,1,0.33299999999999996,0.33299999999999996,1,0,NA,NA,2019-20,Wagner
+Atiba Taylor,1,0,0,NA,NA,NA,NA,2019-20,Wagner
+Total,84,0.11900000000000001,0.124,0.575,0.02,0.031,0.556,2019-20,Wagner

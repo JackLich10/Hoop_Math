@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.342,0.618,0.08,0.672,2017-18
-2pt Jumpers,0.28,0.401,0.048,0.42100000000000004,2017-18
-3pt Shots,0.37799999999999995,0.337,0.001,0.33799999999999997,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.342,0.618,0.08,0.672,2017-18,Drake
+2pt Jumpers,0.28,0.401,0.048,0.42100000000000004,2017-18,Drake
+3pt Shots,0.37799999999999995,0.337,0.001,0.33799999999999997,2017-18,Drake

@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Carlos Dotson,35,0.14800000000000002,0.158,0.6759999999999999,0.019,0.042,1,2018-19
-Marc Gosselin,11,0.19,0.21600000000000003,0.727,0,0,NA,2018-19
-Marcus Thomas,11,0.07200000000000001,0.08199999999999999,0.625,0.04,0.14300000000000002,1,2018-19
-Onno Steger,7,0.08199999999999999,0.111,0.7140000000000001,0,0,NA,2018-19
-Adam Sledd,5,0.135,0.15,0.6,0,0,NA,2018-19
-D.J. Myers,3,0.06,0,0,0,0,NA,2018-19
-Maurice Smith,2,0.4,0.667,1,0,NA,NA,2018-19
-Yalim Olcay,1,0.25,0,0,0,0,NA,2018-19
-Total,75,0.1,0.114,0.648,0.008,0.022000000000000002,1,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Carlos Dotson,35,0.14800000000000002,0.158,0.6759999999999999,0.019,0.042,1,2018-19,WesternCaro.
+Marc Gosselin,11,0.19,0.21600000000000003,0.727,0,0,NA,2018-19,WesternCaro.
+Marcus Thomas,11,0.07200000000000001,0.08199999999999999,0.625,0.04,0.14300000000000002,1,2018-19,WesternCaro.
+Onno Steger,7,0.08199999999999999,0.111,0.7140000000000001,0,0,NA,2018-19,WesternCaro.
+Adam Sledd,5,0.135,0.15,0.6,0,0,NA,2018-19,WesternCaro.
+D.J. Myers,3,0.06,0,0,0,0,NA,2018-19,WesternCaro.
+Maurice Smith,2,0.4,0.667,1,0,NA,NA,2018-19,WesternCaro.
+Yalim Olcay,1,0.25,0,0,0,0,NA,2018-19,WesternCaro.
+Total,75,0.1,0.114,0.648,0.008,0.022000000000000002,1,2018-19,WesternCaro.

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.38299999999999995,0.597,0.091,0.657,2018-19
-2pt Jumpers,0.24,0.348,0.053,0.36700000000000005,2018-19
-3pt Shots,0.377,0.336,0.01,0.34,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.38299999999999995,0.597,0.091,0.657,2018-19,LamarUniversity
+2pt Jumpers,0.24,0.348,0.053,0.36700000000000005,2018-19,LamarUniversity
+3pt Shots,0.377,0.336,0.01,0.34,2018-19,LamarUniversity

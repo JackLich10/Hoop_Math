@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Godwin Okonji,36,0.257,0.264,0.483,0.099,0.136,0.429,2014-15
-Marin Mornar,17,0.154,0.172,0.7859999999999999,0.038,0.094,1,2014-15
-Patson Siame,16,0.275,0.3,0.818,0.051,0.03,0.2,2014-15
-Evan Payne,11,0.085,0.081,0.556,0.006999999999999999,0.016,1,2014-15
-Ayodeji Egbeyemi,10,0.125,0.133,0.5,0.018000000000000002,0,0,2014-15
-David Humphries,10,0.121,0.172,0.7140000000000001,0.08800000000000001,0.111,0.33299999999999996,2014-15
-Petr Herman,3,0.214,0.6,1,0,0,NA,2014-15
-Matt Hayes,3,0,0,NA,0.031,0,0,2014-15
-Chase Flint,1,0,0,NA,0.053,0.2,1,2014-15
-Devin Wyatt,1,0.2,0,0,0,NA,NA,2014-15
-Total,108,0.151,0.16899999999999998,0.622,0.037000000000000005,0.046,0.435,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Godwin Okonji,36,0.257,0.264,0.483,0.099,0.136,0.429,2014-15,LMU(CA)
+Marin Mornar,17,0.154,0.172,0.7859999999999999,0.038,0.094,1,2014-15,LMU(CA)
+Patson Siame,16,0.275,0.3,0.818,0.051,0.03,0.2,2014-15,LMU(CA)
+Evan Payne,11,0.085,0.081,0.556,0.006999999999999999,0.016,1,2014-15,LMU(CA)
+Ayodeji Egbeyemi,10,0.125,0.133,0.5,0.018000000000000002,0,0,2014-15,LMU(CA)
+David Humphries,10,0.121,0.172,0.7140000000000001,0.08800000000000001,0.111,0.33299999999999996,2014-15,LMU(CA)
+Petr Herman,3,0.214,0.6,1,0,0,NA,2014-15,LMU(CA)
+Matt Hayes,3,0,0,NA,0.031,0,0,2014-15,LMU(CA)
+Chase Flint,1,0,0,NA,0.053,0.2,1,2014-15,LMU(CA)
+Devin Wyatt,1,0.2,0,0,0,NA,NA,2014-15,LMU(CA)
+Total,108,0.151,0.16899999999999998,0.622,0.037000000000000005,0.046,0.435,2014-15,LMU(CA)

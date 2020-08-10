@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Gene Teague,35,0.174,0.168,0.6,0,0,NA,2012-13
-Fuquan Edwin,19,0.09300000000000001,0.09,0.5329999999999999,0.034,0.053,0.5,2012-13
-Brandon Mobley,10,0.154,0.129,0.5,0.062,0.071,0.5,2012-13
-Kevin Johnson,10,0.278,0.263,0.5,0,NA,NA,2012-13
-Aaron Geramipoor,7,0.41200000000000003,0.5710000000000001,0.5710000000000001,0,NA,NA,2012-13
-Brian Oliver,7,0.174,0.125,0.5,0.035,0.16699999999999998,1,2012-13
-Kyle Smyth,4,0.25,0.33299999999999996,0.667,0,0,NA,2012-13
-Aaron Cosby,4,0.026000000000000002,0.054000000000000006,1,0.042,0.05,0.5,2012-13
-Patrik Auda,2,0.105,0,0,0,0,NA,2012-13
-Total,98,0.132,0.128,0.5579999999999999,0.028999999999999998,0.055999999999999994,0.6,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Gene Teague,35,0.174,0.168,0.6,0,0,NA,2012-13,SetonHall
+Fuquan Edwin,19,0.09300000000000001,0.09,0.5329999999999999,0.034,0.053,0.5,2012-13,SetonHall
+Brandon Mobley,10,0.154,0.129,0.5,0.062,0.071,0.5,2012-13,SetonHall
+Kevin Johnson,10,0.278,0.263,0.5,0,NA,NA,2012-13,SetonHall
+Aaron Geramipoor,7,0.41200000000000003,0.5710000000000001,0.5710000000000001,0,NA,NA,2012-13,SetonHall
+Brian Oliver,7,0.174,0.125,0.5,0.035,0.16699999999999998,1,2012-13,SetonHall
+Kyle Smyth,4,0.25,0.33299999999999996,0.667,0,0,NA,2012-13,SetonHall
+Aaron Cosby,4,0.026000000000000002,0.054000000000000006,1,0.042,0.05,0.5,2012-13,SetonHall
+Patrik Auda,2,0.105,0,0,0,0,NA,2012-13,SetonHall
+Total,98,0.132,0.128,0.5579999999999999,0.028999999999999998,0.055999999999999994,0.6,2012-13,SetonHall

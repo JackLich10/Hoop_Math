@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.34700000000000003,0.58,0.11699999999999999,0.657,2019-20
-2pt Jumpers,0.24600000000000002,0.387,0.055,0.409,2019-20
-3pt Shots,0.40700000000000003,0.33799999999999997,0.008,0.341,2019-20
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.34700000000000003,0.58,0.11699999999999999,0.657,2019-20,Portland
+2pt Jumpers,0.24600000000000002,0.387,0.055,0.409,2019-20,Portland
+3pt Shots,0.40700000000000003,0.33799999999999997,0.008,0.341,2019-20,Portland

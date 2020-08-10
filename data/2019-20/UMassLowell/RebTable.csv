@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Christian Lutete,24,0.124,0.151,0.826,0.015,0,0,2019-20
-Connor Withers,15,0.11699999999999999,0.09,0.5,0.051,0.071,0.667,2019-20
-Obadiah Noel,13,0.07,0.09300000000000001,0.833,0.009000000000000001,0.026000000000000002,1,2019-20
-Ron Mitchell,8,0.071,0.062,0.429,0.027999999999999997,0,0,2019-20
-Josh Gantz,8,0.086,0.083,0.625,0,0,NA,2019-20
-Allin Blunt,6,0.071,0.042,0.33299999999999996,0.067,0,0,2019-20
-Darius Henderson,4,0.25,0.28600000000000003,1,0.14300000000000002,0.25,0.5,2019-20
-Luka Maziashvili,3,0.25,NA,0,0.25,0,0,2019-20
-Joey Glynn,3,0.214,0.25,0.667,0,0,NA,2019-20
-Jordyn Owens,1,0.015,0,0,0,0,NA,2019-20
-Total,85,0.092,0.10099999999999999,0.6579999999999999,0.028999999999999998,0.027999999999999997,0.364,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Christian Lutete,24,0.124,0.151,0.826,0.015,0,0,2019-20,UMassLowell
+Connor Withers,15,0.11699999999999999,0.09,0.5,0.051,0.071,0.667,2019-20,UMassLowell
+Obadiah Noel,13,0.07,0.09300000000000001,0.833,0.009000000000000001,0.026000000000000002,1,2019-20,UMassLowell
+Ron Mitchell,8,0.071,0.062,0.429,0.027999999999999997,0,0,2019-20,UMassLowell
+Josh Gantz,8,0.086,0.083,0.625,0,0,NA,2019-20,UMassLowell
+Allin Blunt,6,0.071,0.042,0.33299999999999996,0.067,0,0,2019-20,UMassLowell
+Darius Henderson,4,0.25,0.28600000000000003,1,0.14300000000000002,0.25,0.5,2019-20,UMassLowell
+Luka Maziashvili,3,0.25,NA,0,0.25,0,0,2019-20,UMassLowell
+Joey Glynn,3,0.214,0.25,0.667,0,0,NA,2019-20,UMassLowell
+Jordyn Owens,1,0.015,0,0,0,0,NA,2019-20,UMassLowell
+Total,85,0.092,0.10099999999999999,0.6579999999999999,0.028999999999999998,0.027999999999999997,0.364,2019-20,UMassLowell

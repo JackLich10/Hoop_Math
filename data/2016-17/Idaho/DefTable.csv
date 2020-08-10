@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.33399999999999996,0.547,0.09,0.601,2016-17
-2pt Jumpers,0.231,0.35,0.036000000000000004,0.363,2016-17
-3pt Shots,0.436,0.35,0.015,0.35600000000000004,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.33399999999999996,0.547,0.09,0.601,2016-17,Idaho
+2pt Jumpers,0.231,0.35,0.036000000000000004,0.363,2016-17,Idaho
+3pt Shots,0.436,0.35,0.015,0.35600000000000004,2016-17,Idaho

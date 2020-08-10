@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.42100000000000004,0.614,0.075,0.664,2012-13
-2pt Jumpers,0.22699999999999998,0.384,0.034,0.39799999999999996,2012-13
-3pt Shots,0.35200000000000004,0.307,0.005,0.309,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.42100000000000004,0.614,0.075,0.664,2012-13,UMBC
+2pt Jumpers,0.22699999999999998,0.384,0.034,0.39799999999999996,2012-13,UMBC
+3pt Shots,0.35200000000000004,0.307,0.005,0.309,2012-13,UMBC

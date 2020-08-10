@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Terry Allen,13,0.07400000000000001,0.08900000000000001,0.9,0.023,0,0,2014-15
-T.J. Cline,8,0.062,0.079,1,0.028999999999999998,0.040999999999999995,0.667,2014-15
-Alonzo Nelson-Ododa,6,0.096,0.111,0.8,0.027000000000000003,0,0,2014-15
-Trey Davis,5,0.066,0.10300000000000001,1,0.024,0,0,2014-15
-Shawndre' Jones,3,0.026000000000000002,0,0,0.024,0.03,0.5,2014-15
-Deion Taylor,3,0.111,0.125,0.667,0,0,NA,2014-15
-Kendall Anthony,2,0.017,0.027000000000000003,1,0,0,NA,2014-15
-Josh Jones,2,0.16699999999999998,0.2,1,0,0,NA,2014-15
-Kadeem Smithen,1,0.33299999999999996,0,0,0,0,NA,2014-15
-Total,43,0.062,0.077,0.848,0.016,0.013000000000000001,0.3,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Terry Allen,13,0.07400000000000001,0.08900000000000001,0.9,0.023,0,0,2014-15,Richmond
+T.J. Cline,8,0.062,0.079,1,0.028999999999999998,0.040999999999999995,0.667,2014-15,Richmond
+Alonzo Nelson-Ododa,6,0.096,0.111,0.8,0.027000000000000003,0,0,2014-15,Richmond
+Trey Davis,5,0.066,0.10300000000000001,1,0.024,0,0,2014-15,Richmond
+Shawndre' Jones,3,0.026000000000000002,0,0,0.024,0.03,0.5,2014-15,Richmond
+Deion Taylor,3,0.111,0.125,0.667,0,0,NA,2014-15,Richmond
+Kendall Anthony,2,0.017,0.027000000000000003,1,0,0,NA,2014-15,Richmond
+Josh Jones,2,0.16699999999999998,0.2,1,0,0,NA,2014-15,Richmond
+Kadeem Smithen,1,0.33299999999999996,0,0,0,0,NA,2014-15,Richmond
+Total,43,0.062,0.077,0.848,0.016,0.013000000000000001,0.3,2014-15,Richmond

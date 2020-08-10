@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.396,0.644,0.087,0.706,2017-18
-2pt Jumpers,0.258,0.405,0.05,0.426,2017-18
-3pt Shots,0.34700000000000003,0.382,0.009000000000000001,0.385,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.396,0.644,0.087,0.706,2017-18,ArkansasSt.
+2pt Jumpers,0.258,0.405,0.05,0.426,2017-18,ArkansasSt.
+3pt Shots,0.34700000000000003,0.382,0.009000000000000001,0.385,2017-18,ArkansasSt.

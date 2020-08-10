@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Malik Thomas,17,0.21100000000000002,0.195,0.5329999999999999,0.033,0,0,2012-13
-Dom Morris,13,0.076,0.079,0.667,0.015,0.034,1,2012-13
-Nathan Dieudonne,6,0.073,0.065,0.5,0.091,0,0,2012-13
-James Kennedy,4,0.308,0.25,0.5,0,0,NA,2012-13
-John Papale,4,0.115,0.125,0.667,0.02,0,0,2012-13
-Zach Chionuma,2,0.2,0,0,0.067,0.25,1,2012-13
-Travis Robinson,2,0.059000000000000004,0.095,1,0,0,NA,2012-13
-D.J. Irving,2,0.022000000000000002,0.05,1,0,0,NA,2012-13
-Justin Alston,2,0.095,0.083,0.5,0,0,NA,2012-13
-Watson Maurice,1,0.008,0,0,0,0,NA,2012-13
-Total,53,0.077,0.077,0.5870000000000001,0.017,0.013999999999999999,0.28600000000000003,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Malik Thomas,17,0.21100000000000002,0.195,0.5329999999999999,0.033,0,0,2012-13,BostonU.
+Dom Morris,13,0.076,0.079,0.667,0.015,0.034,1,2012-13,BostonU.
+Nathan Dieudonne,6,0.073,0.065,0.5,0.091,0,0,2012-13,BostonU.
+James Kennedy,4,0.308,0.25,0.5,0,0,NA,2012-13,BostonU.
+John Papale,4,0.115,0.125,0.667,0.02,0,0,2012-13,BostonU.
+Zach Chionuma,2,0.2,0,0,0.067,0.25,1,2012-13,BostonU.
+Travis Robinson,2,0.059000000000000004,0.095,1,0,0,NA,2012-13,BostonU.
+D.J. Irving,2,0.022000000000000002,0.05,1,0,0,NA,2012-13,BostonU.
+Justin Alston,2,0.095,0.083,0.5,0,0,NA,2012-13,BostonU.
+Watson Maurice,1,0.008,0,0,0,0,NA,2012-13,BostonU.
+Total,53,0.077,0.077,0.5870000000000001,0.017,0.013999999999999999,0.28600000000000003,2012-13,BostonU.

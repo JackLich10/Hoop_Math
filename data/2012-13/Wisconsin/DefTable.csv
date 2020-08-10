@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.331,0.541,0.131,0.622,2012-13
-2pt Jumpers,0.42100000000000004,0.34,0.08,0.37,2012-13
-3pt Shots,0.249,0.289,0.013000000000000001,0.293,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.331,0.541,0.131,0.622,2012-13,Wisconsin
+2pt Jumpers,0.42100000000000004,0.34,0.08,0.37,2012-13,Wisconsin
+3pt Shots,0.249,0.289,0.013000000000000001,0.293,2012-13,Wisconsin

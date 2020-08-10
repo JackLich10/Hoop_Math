@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Landen Lucas,21,0.19399999999999998,0.217,0.833,0.14300000000000002,0,0,2015-16
-Perry Ellis,19,0.08,0.113,0.875,0.016,0.035,1,2015-16
-Bragg Carlton,16,0.192,0.16699999999999998,0.6,0.109,0.125,0.5,2015-16
-Jamari Traylor,12,0.289,0.24100000000000002,0.636,0.026000000000000002,0,0,2015-16
-Selden Wayne,11,0.055999999999999994,0.065,0.833,0.049,0.053,0.4,2015-16
-Hunter Mickelson,8,0.24100000000000002,0.21100000000000002,0.5710000000000001,0.037000000000000005,0,0,2015-16
-Cheick Diallo,5,0.13,0.17600000000000002,1,0.057,0.125,1,2015-16
-Frank Mason,3,0.006,0.013000000000000001,1,0,0,NA,2015-16
-Sviatoslav Mykhailiuk,2,0.03,0,0,0.042,0.111,1,2015-16
-Devonte' Graham,1,0,0,NA,0,0,NA,2015-16
-Brannen Greene,1,0.077,0,0,0,0,NA,2015-16
-Lagerald Vick,1,0.2,0.2,1,0,0,NA,2015-16
-Total,100,0.092,0.10800000000000001,0.747,0.033,0.040999999999999995,0.5,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Landen Lucas,21,0.19399999999999998,0.217,0.833,0.14300000000000002,0,0,2015-16,Kansas
+Perry Ellis,19,0.08,0.113,0.875,0.016,0.035,1,2015-16,Kansas
+Bragg Carlton,16,0.192,0.16699999999999998,0.6,0.109,0.125,0.5,2015-16,Kansas
+Jamari Traylor,12,0.289,0.24100000000000002,0.636,0.026000000000000002,0,0,2015-16,Kansas
+Selden Wayne,11,0.055999999999999994,0.065,0.833,0.049,0.053,0.4,2015-16,Kansas
+Hunter Mickelson,8,0.24100000000000002,0.21100000000000002,0.5710000000000001,0.037000000000000005,0,0,2015-16,Kansas
+Cheick Diallo,5,0.13,0.17600000000000002,1,0.057,0.125,1,2015-16,Kansas
+Frank Mason,3,0.006,0.013000000000000001,1,0,0,NA,2015-16,Kansas
+Sviatoslav Mykhailiuk,2,0.03,0,0,0.042,0.111,1,2015-16,Kansas
+Devonte' Graham,1,0,0,NA,0,0,NA,2015-16,Kansas
+Brannen Greene,1,0.077,0,0,0,0,NA,2015-16,Kansas
+Lagerald Vick,1,0.2,0.2,1,0,0,NA,2015-16,Kansas
+Total,100,0.092,0.10800000000000001,0.747,0.033,0.040999999999999995,0.5,2015-16,Kansas

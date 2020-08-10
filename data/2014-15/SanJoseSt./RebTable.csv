@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jaleel Williams,14,0.153,0.14300000000000002,0.556,0.08800000000000001,0.083,0.4,2014-15
-Brandon Mitchell,12,0.196,0.28600000000000003,0.6,0.069,0.16699999999999998,0.5,2014-15
-Ivo Basor,10,0.233,0.304,0.7,0,0,NA,2014-15
-Ryan Singer,5,0.312,0.14300000000000002,0.2,0,NA,NA,2014-15
-Frank Rogers,4,0.10300000000000001,0.055999999999999994,0.33299999999999996,0.033,0,0,2014-15
-Darryl Gaynor II,4,0.055,0.09699999999999999,0.75,0,0,NA,2014-15
-Isaac Thornton,3,0.034,0,0,0.026000000000000002,0.1,1,2014-15
-Leon Bahner,3,0,0,NA,0.5,1,0.33299999999999996,2014-15
-Rashad Muhammad,2,0,0,NA,0.019,0.026000000000000002,0.5,2014-15
-Matt Pollard,1,0,0,NA,0.125,0,0,2014-15
-Jalen James,1,0.05,0,0,0,0,NA,2014-15
-Jordan Baker,1,0,0,NA,0.018000000000000002,0,0,2014-15
-Total,60,0.10400000000000001,0.10800000000000001,0.523,0.034,0.040999999999999995,0.375,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jaleel Williams,14,0.153,0.14300000000000002,0.556,0.08800000000000001,0.083,0.4,2014-15,SanJoseSt.
+Brandon Mitchell,12,0.196,0.28600000000000003,0.6,0.069,0.16699999999999998,0.5,2014-15,SanJoseSt.
+Ivo Basor,10,0.233,0.304,0.7,0,0,NA,2014-15,SanJoseSt.
+Ryan Singer,5,0.312,0.14300000000000002,0.2,0,NA,NA,2014-15,SanJoseSt.
+Frank Rogers,4,0.10300000000000001,0.055999999999999994,0.33299999999999996,0.033,0,0,2014-15,SanJoseSt.
+Darryl Gaynor II,4,0.055,0.09699999999999999,0.75,0,0,NA,2014-15,SanJoseSt.
+Isaac Thornton,3,0.034,0,0,0.026000000000000002,0.1,1,2014-15,SanJoseSt.
+Leon Bahner,3,0,0,NA,0.5,1,0.33299999999999996,2014-15,SanJoseSt.
+Rashad Muhammad,2,0,0,NA,0.019,0.026000000000000002,0.5,2014-15,SanJoseSt.
+Matt Pollard,1,0,0,NA,0.125,0,0,2014-15,SanJoseSt.
+Jalen James,1,0.05,0,0,0,0,NA,2014-15,SanJoseSt.
+Jordan Baker,1,0,0,NA,0.018000000000000002,0,0,2014-15,SanJoseSt.
+Total,60,0.10400000000000001,0.10800000000000001,0.523,0.034,0.040999999999999995,0.375,2014-15,SanJoseSt.

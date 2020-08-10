@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.297,0.623,0.087,0.6829999999999999,2017-18
-2pt Jumpers,0.27399999999999997,0.327,0.10300000000000001,0.365,2017-18
-3pt Shots,0.429,0.33799999999999997,0,0.33799999999999997,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.297,0.623,0.087,0.6829999999999999,2017-18,Evansville
+2pt Jumpers,0.27399999999999997,0.327,0.10300000000000001,0.365,2017-18,Evansville
+3pt Shots,0.429,0.33799999999999997,0,0.33799999999999997,2017-18,Evansville

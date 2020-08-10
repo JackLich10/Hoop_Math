@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Noah Dickerson,37,0.22,0.212,0.677,0.051,0.065,0.5,2016-17
-Carlos Johnson,25,0.244,0.204,0.455,0.057,0,0,2016-17
-Sam Timmins,19,0.405,0.48100000000000004,0.765,0.047,0.062,0.5,2016-17
-Malik Dime,14,0.25,0.278,0.7140000000000001,0,0,NA,2016-17
-Markelle Fultz,10,0.071,0.028999999999999998,0.25,0.01,0.011000000000000001,0.5,2016-17
-Matthew Atewe,9,0.33299999999999996,0.364,0.667,0.231,0.2,0.33299999999999996,2016-17
-David Crisp,8,0.048,0.038,0.5,0.040999999999999995,0,0,2016-17
-Dominic Green,7,0.22699999999999998,0.222,0.4,0.017,0.05,1,2016-17
-Matisse Thybulle,5,0.075,0.133,1,0.013000000000000001,0.028999999999999998,1,2016-17
-Greg Bowman,2,0,0,NA,0.28600000000000003,0.33299999999999996,0.5,2016-17
-Bitumba Baruti,2,0.2,0,0,0.33299999999999996,0.5,1,2016-17
-Dan Kingma,1,0.33299999999999996,1,1,0,NA,NA,2016-17
-Total,139,0.179,0.177,0.611,0.035,0.039,0.41700000000000004,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Noah Dickerson,37,0.22,0.212,0.677,0.051,0.065,0.5,2016-17,Washington
+Carlos Johnson,25,0.244,0.204,0.455,0.057,0,0,2016-17,Washington
+Sam Timmins,19,0.405,0.48100000000000004,0.765,0.047,0.062,0.5,2016-17,Washington
+Malik Dime,14,0.25,0.278,0.7140000000000001,0,0,NA,2016-17,Washington
+Markelle Fultz,10,0.071,0.028999999999999998,0.25,0.01,0.011000000000000001,0.5,2016-17,Washington
+Matthew Atewe,9,0.33299999999999996,0.364,0.667,0.231,0.2,0.33299999999999996,2016-17,Washington
+David Crisp,8,0.048,0.038,0.5,0.040999999999999995,0,0,2016-17,Washington
+Dominic Green,7,0.22699999999999998,0.222,0.4,0.017,0.05,1,2016-17,Washington
+Matisse Thybulle,5,0.075,0.133,1,0.013000000000000001,0.028999999999999998,1,2016-17,Washington
+Greg Bowman,2,0,0,NA,0.28600000000000003,0.33299999999999996,0.5,2016-17,Washington
+Bitumba Baruti,2,0.2,0,0,0.33299999999999996,0.5,1,2016-17,Washington
+Dan Kingma,1,0.33299999999999996,1,1,0,NA,NA,2016-17,Washington
+Total,139,0.179,0.177,0.611,0.035,0.039,0.41700000000000004,2016-17,Washington

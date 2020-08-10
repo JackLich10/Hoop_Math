@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Josh Hawkinson,22,0.142,0.149,0.733,0.042,0.07400000000000001,0.857,2015-16
-Conor Clifford,15,0.159,0.183,0.7859999999999999,0.02,0.034,1,2015-16
-Junior Longrus,10,0.258,0.182,0.5,0.125,0.5,1,2015-16
-Valentine Izundu,5,0.085,0.062,0.5,0.111,0,0,2015-16
-Ike Iroegbu,3,0.021,0.025,0.667,0,0,NA,2015-16
-Que Johnson,3,0.057999999999999996,0.069,0.667,0,0,NA,2015-16
-Charles Callison,3,0.048,0,0,0,0,NA,2015-16
-Robert Franks,2,0.083,0.16699999999999998,1,0.091,0,0,2015-16
-Derrien King,2,0.059000000000000004,0,0,0.027000000000000003,0,0,2015-16
-Renard Suggs,2,0.044000000000000004,0.038,0.5,0,0,NA,2015-16
-Brett Boese,1,0.125,0,0,0,0,NA,2015-16
-Total,68,0.087,0.08900000000000001,0.618,0.02,0.033,0.667,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Josh Hawkinson,22,0.142,0.149,0.733,0.042,0.07400000000000001,0.857,2015-16,WashingtonSt.
+Conor Clifford,15,0.159,0.183,0.7859999999999999,0.02,0.034,1,2015-16,WashingtonSt.
+Junior Longrus,10,0.258,0.182,0.5,0.125,0.5,1,2015-16,WashingtonSt.
+Valentine Izundu,5,0.085,0.062,0.5,0.111,0,0,2015-16,WashingtonSt.
+Ike Iroegbu,3,0.021,0.025,0.667,0,0,NA,2015-16,WashingtonSt.
+Que Johnson,3,0.057999999999999996,0.069,0.667,0,0,NA,2015-16,WashingtonSt.
+Charles Callison,3,0.048,0,0,0,0,NA,2015-16,WashingtonSt.
+Robert Franks,2,0.083,0.16699999999999998,1,0.091,0,0,2015-16,WashingtonSt.
+Derrien King,2,0.059000000000000004,0,0,0.027000000000000003,0,0,2015-16,WashingtonSt.
+Renard Suggs,2,0.044000000000000004,0.038,0.5,0,0,NA,2015-16,WashingtonSt.
+Brett Boese,1,0.125,0,0,0,0,NA,2015-16,WashingtonSt.
+Total,68,0.087,0.08900000000000001,0.618,0.02,0.033,0.667,2015-16,WashingtonSt.

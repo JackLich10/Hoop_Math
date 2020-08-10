@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-J.T. Adenrele,26,0.11900000000000001,0.107,0.579,0.063,0.06,0.429,2012-13
-Ryan Howley,19,0.16699999999999998,0.16699999999999998,0.667,0.10800000000000001,0.16699999999999998,0.5,2012-13
-Corey Hawkins,8,0.048,0.078,1,0.019,0.027999999999999997,0.667,2012-13
-Josh Ritchart,5,0.065,0.059000000000000004,0.667,0.051,0,0,2012-13
-Spencer Clayton,4,0.375,0.667,0.667,0.33299999999999996,0,0,2012-13
-Ryan Sypkens,4,0.15,0.222,0.667,0.016,0,0,2012-13
-Clint Bozner,2,0.077,0.133,1,0,0,NA,2012-13
-Darius Graham,1,0,0,NA,0.091,0,0,2012-13
-Tyler Les,1,0,0,NA,0,0,NA,2012-13
-Total,70,0.09300000000000001,0.10400000000000001,0.68,0.039,0.036000000000000004,0.368,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+J.T. Adenrele,26,0.11900000000000001,0.107,0.579,0.063,0.06,0.429,2012-13,UCDavis
+Ryan Howley,19,0.16699999999999998,0.16699999999999998,0.667,0.10800000000000001,0.16699999999999998,0.5,2012-13,UCDavis
+Corey Hawkins,8,0.048,0.078,1,0.019,0.027999999999999997,0.667,2012-13,UCDavis
+Josh Ritchart,5,0.065,0.059000000000000004,0.667,0.051,0,0,2012-13,UCDavis
+Spencer Clayton,4,0.375,0.667,0.667,0.33299999999999996,0,0,2012-13,UCDavis
+Ryan Sypkens,4,0.15,0.222,0.667,0.016,0,0,2012-13,UCDavis
+Clint Bozner,2,0.077,0.133,1,0,0,NA,2012-13,UCDavis
+Darius Graham,1,0,0,NA,0.091,0,0,2012-13,UCDavis
+Tyler Les,1,0,0,NA,0,0,NA,2012-13,UCDavis
+Total,70,0.09300000000000001,0.10400000000000001,0.68,0.039,0.036000000000000004,0.368,2012-13,UCDavis

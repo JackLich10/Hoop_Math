@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Garrick Sherman,42,0.13699999999999998,0.115,0.485,0.08900000000000001,0.08800000000000001,0.33299999999999996,2013-14
-Zach Auguste,28,0.17,0.136,0.42100000000000004,0.161,0.185,0.556,2013-14
-Tom Knight,13,0.24100000000000002,0.265,0.6920000000000001,0,0,NA,2013-14
-Pat Connaughton,12,0.127,0.125,0.6,0.032,0.032,0.5,2013-14
-Eric Atkins,7,0.019,0.019,0.5,0.039,0.044000000000000004,0.5,2013-14
-Demetrius Jackson,4,0.085,0.174,1,0,0,NA,2013-14
-Austin Burgett,4,0.188,0.182,0.667,0.067,0.1,1,2013-14
-Steve Vasturia,4,0.188,0.182,0.667,0.053,0,0,2013-14
-V.J. Beachem,3,0.16699999999999998,0.25,0.5,0.055999999999999994,0.125,1,2013-14
-Patrick Crowley,1,0.5,1,1,NA,NA,NA,2013-14
-Total,118,0.122,0.12,0.556,0.057,0.067,0.48100000000000004,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Garrick Sherman,42,0.13699999999999998,0.115,0.485,0.08900000000000001,0.08800000000000001,0.33299999999999996,2013-14,NotreDame
+Zach Auguste,28,0.17,0.136,0.42100000000000004,0.161,0.185,0.556,2013-14,NotreDame
+Tom Knight,13,0.24100000000000002,0.265,0.6920000000000001,0,0,NA,2013-14,NotreDame
+Pat Connaughton,12,0.127,0.125,0.6,0.032,0.032,0.5,2013-14,NotreDame
+Eric Atkins,7,0.019,0.019,0.5,0.039,0.044000000000000004,0.5,2013-14,NotreDame
+Demetrius Jackson,4,0.085,0.174,1,0,0,NA,2013-14,NotreDame
+Austin Burgett,4,0.188,0.182,0.667,0.067,0.1,1,2013-14,NotreDame
+Steve Vasturia,4,0.188,0.182,0.667,0.053,0,0,2013-14,NotreDame
+V.J. Beachem,3,0.16699999999999998,0.25,0.5,0.055999999999999994,0.125,1,2013-14,NotreDame
+Patrick Crowley,1,0.5,1,1,NA,NA,NA,2013-14,NotreDame
+Total,118,0.122,0.12,0.556,0.057,0.067,0.48100000000000004,2013-14,NotreDame

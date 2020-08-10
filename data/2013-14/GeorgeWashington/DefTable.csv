@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.344,0.598,0.11699999999999999,0.677,2013-14
-2pt Jumpers,0.295,0.332,0.102,0.369,2013-14
-3pt Shots,0.36200000000000004,0.312,0.003,0.313,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.344,0.598,0.11699999999999999,0.677,2013-14,GeorgeWashington
+2pt Jumpers,0.295,0.332,0.102,0.369,2013-14,GeorgeWashington
+3pt Shots,0.36200000000000004,0.312,0.003,0.313,2013-14,GeorgeWashington

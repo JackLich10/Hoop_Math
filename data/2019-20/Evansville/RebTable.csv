@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-K.J. Riley,11,0.062,0.045,0.444,0.024,0.048,0.5,2019-20
-DeAndre Williams,10,0.10400000000000001,0.094,0.75,0.040999999999999995,0.083,1,2019-20
-Jawaun Newton,10,0.213,0.19399999999999998,0.6,0,0,NA,2019-20
-Sam Cunliffe,8,0.064,0.06,0.5,0.021,0,0,2019-20
-Evan Kuhlman,5,0.057,0.048,0.5,0.09699999999999999,0.077,0.33299999999999996,2019-20
-Artur Labinowicz,5,0.037000000000000005,0.024,0.33299999999999996,0.055999999999999994,0.1,0.5,2019-20
-John Hall,5,0.055,0.083,1,0.053,0.1,0.5,2019-20
-Marcus Henderson,1,0.14300000000000002,0.33299999999999996,1,0,0,NA,2019-20
-Noah Frederking,1,0.043,0,0,0,0,NA,2019-20
-Shamar Givance,1,0.027000000000000003,0.062,1,0,0,NA,2019-20
-Total,57,0.073,0.07200000000000001,0.591,0.031,0.042,0.462,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+K.J. Riley,11,0.062,0.045,0.444,0.024,0.048,0.5,2019-20,Evansville
+DeAndre Williams,10,0.10400000000000001,0.094,0.75,0.040999999999999995,0.083,1,2019-20,Evansville
+Jawaun Newton,10,0.213,0.19399999999999998,0.6,0,0,NA,2019-20,Evansville
+Sam Cunliffe,8,0.064,0.06,0.5,0.021,0,0,2019-20,Evansville
+Evan Kuhlman,5,0.057,0.048,0.5,0.09699999999999999,0.077,0.33299999999999996,2019-20,Evansville
+Artur Labinowicz,5,0.037000000000000005,0.024,0.33299999999999996,0.055999999999999994,0.1,0.5,2019-20,Evansville
+John Hall,5,0.055,0.083,1,0.053,0.1,0.5,2019-20,Evansville
+Marcus Henderson,1,0.14300000000000002,0.33299999999999996,1,0,0,NA,2019-20,Evansville
+Noah Frederking,1,0.043,0,0,0,0,NA,2019-20,Evansville
+Shamar Givance,1,0.027000000000000003,0.062,1,0,0,NA,2019-20,Evansville
+Total,57,0.073,0.07200000000000001,0.591,0.031,0.042,0.462,2019-20,Evansville

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.439,0.596,0.10800000000000001,0.669,2016-17
-2pt Jumpers,0.23600000000000002,0.335,0.039,0.349,2016-17
-3pt Shots,0.325,0.38,0.002,0.381,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.439,0.596,0.10800000000000001,0.669,2016-17,Quinnipiac
+2pt Jumpers,0.23600000000000002,0.335,0.039,0.349,2016-17,Quinnipiac
+3pt Shots,0.325,0.38,0.002,0.381,2016-17,Quinnipiac

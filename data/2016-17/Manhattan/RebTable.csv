@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Zane Waterman,21,0.14400000000000002,0.14,0.619,0,0,NA,2016-17
-Samson Usilo,12,0.182,0.192,0.41700000000000004,0,0,NA,2016-17
-Zavier Peart,12,0.306,0.28600000000000003,0.545,0.031,0.067,1,2016-17
-Calvin Crawford,9,0.081,0.09300000000000001,0.8,0.035,0.03,0.33299999999999996,2016-17
-Ahmed Ismail,8,0.127,0.16699999999999998,0.625,0,0,NA,2016-17
-Aaron Walker,6,0.045,0.045,0.5,0,0,NA,2016-17
-Ak Ojo,4,0.214,0.25,0.667,0.25,1,1,2016-17
-Na'Quan Council,3,0.068,0.062,0.33299999999999996,0,0,NA,2016-17
-Thomas Capuano,2,0.111,0,0,0,0,NA,2016-17
-Zavier Turner,1,0,0,NA,0,0,NA,2016-17
-Total,78,0.098,0.106,0.5489999999999999,0.011000000000000001,0.017,0.6,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Zane Waterman,21,0.14400000000000002,0.14,0.619,0,0,NA,2016-17,Manhattan
+Samson Usilo,12,0.182,0.192,0.41700000000000004,0,0,NA,2016-17,Manhattan
+Zavier Peart,12,0.306,0.28600000000000003,0.545,0.031,0.067,1,2016-17,Manhattan
+Calvin Crawford,9,0.081,0.09300000000000001,0.8,0.035,0.03,0.33299999999999996,2016-17,Manhattan
+Ahmed Ismail,8,0.127,0.16699999999999998,0.625,0,0,NA,2016-17,Manhattan
+Aaron Walker,6,0.045,0.045,0.5,0,0,NA,2016-17,Manhattan
+Ak Ojo,4,0.214,0.25,0.667,0.25,1,1,2016-17,Manhattan
+Na'Quan Council,3,0.068,0.062,0.33299999999999996,0,0,NA,2016-17,Manhattan
+Thomas Capuano,2,0.111,0,0,0,0,NA,2016-17,Manhattan
+Zavier Turner,1,0,0,NA,0,0,NA,2016-17,Manhattan
+Total,78,0.098,0.106,0.5489999999999999,0.011000000000000001,0.017,0.6,2016-17,Manhattan

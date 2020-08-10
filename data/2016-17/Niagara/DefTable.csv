@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.42700000000000005,0.532,0.14400000000000002,0.622,2016-17
-2pt Jumpers,0.222,0.382,0.043,0.4,2016-17
-3pt Shots,0.35100000000000003,0.366,0.004,0.36700000000000005,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.42700000000000005,0.532,0.14400000000000002,0.622,2016-17,Niagara
+2pt Jumpers,0.222,0.382,0.043,0.4,2016-17,Niagara
+3pt Shots,0.35100000000000003,0.366,0.004,0.36700000000000005,2016-17,Niagara

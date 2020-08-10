@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.33899999999999997,0.5820000000000001,0.069,0.625,2018-19
-2pt Jumpers,0.213,0.35600000000000004,0.063,0.38,2018-19
-3pt Shots,0.44799999999999995,0.358,0.006,0.36,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.33899999999999997,0.5820000000000001,0.069,0.625,2018-19,NorthernIll.
+2pt Jumpers,0.213,0.35600000000000004,0.063,0.38,2018-19,NorthernIll.
+3pt Shots,0.44799999999999995,0.358,0.006,0.36,2018-19,NorthernIll.

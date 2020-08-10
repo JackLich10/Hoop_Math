@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Josh Reaves,23,0.175,0.18100000000000002,0.682,0.024,0,0,2017-18
-Mike Watkins,16,0.10099999999999999,0.08900000000000001,0.7140000000000001,0.027000000000000003,0.028999999999999998,0.5,2017-18
-Lamar Stevens,14,0.073,0.069,0.583,0.008,0,0,2017-18
-John Harrar,14,0.433,0.389,0.5379999999999999,0.33299999999999996,NA,0,2017-18
-Julian Moore,11,0.191,0.179,0.556,0.16699999999999998,0.25,0.5,2017-18
-Nazeer Bostick,11,0.149,0.162,0.545,0,0,NA,2017-18
-Tony Carr,10,0.025,0.036000000000000004,0.667,0.018000000000000002,0.01,0.2,2017-18
-Jamari Wheeler,6,0.098,0.095,0.5,0.05,0.16699999999999998,1,2017-18
-Satchel Pierce,3,0.071,0.14300000000000002,1,0.105,0.25,0.5,2017-18
-Trent Buttrick,2,0.4,1,0.5,NA,NA,NA,2017-18
-Deivis Zemgulis,2,1,1,1,0.33299999999999996,0,0,2017-18
-Total,112,0.11699999999999999,0.11800000000000001,0.62,0.023,0.018000000000000002,0.294,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Josh Reaves,23,0.175,0.18100000000000002,0.682,0.024,0,0,2017-18,PennSt.
+Mike Watkins,16,0.10099999999999999,0.08900000000000001,0.7140000000000001,0.027000000000000003,0.028999999999999998,0.5,2017-18,PennSt.
+Lamar Stevens,14,0.073,0.069,0.583,0.008,0,0,2017-18,PennSt.
+John Harrar,14,0.433,0.389,0.5379999999999999,0.33299999999999996,NA,0,2017-18,PennSt.
+Julian Moore,11,0.191,0.179,0.556,0.16699999999999998,0.25,0.5,2017-18,PennSt.
+Nazeer Bostick,11,0.149,0.162,0.545,0,0,NA,2017-18,PennSt.
+Tony Carr,10,0.025,0.036000000000000004,0.667,0.018000000000000002,0.01,0.2,2017-18,PennSt.
+Jamari Wheeler,6,0.098,0.095,0.5,0.05,0.16699999999999998,1,2017-18,PennSt.
+Satchel Pierce,3,0.071,0.14300000000000002,1,0.105,0.25,0.5,2017-18,PennSt.
+Trent Buttrick,2,0.4,1,0.5,NA,NA,NA,2017-18,PennSt.
+Deivis Zemgulis,2,1,1,1,0.33299999999999996,0,0,2017-18,PennSt.
+Total,112,0.11699999999999999,0.11800000000000001,0.62,0.023,0.018000000000000002,0.294,2017-18,PennSt.

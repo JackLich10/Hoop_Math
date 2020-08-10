@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Michael Oguine,17,0.121,0.12300000000000001,0.6,0.065,0,0,2016-17
-Fabijan Krslovic,14,0.096,0.113,0.727,0.05,0.038,0.33299999999999996,2016-17
-Sayeed Pridgett,13,0.084,0.049,0.375,0.06,0.10800000000000001,0.8,2016-17
-Ahmaad Rorie,9,0.059000000000000004,0.062,0.667,0.018000000000000002,0.031,0.667,2016-17
-Jared Samuelson,8,0.105,0.115,0.75,0,0,NA,2016-17
-Jack Lopez,5,0.14300000000000002,0.154,0.4,0,0,NA,2016-17
-Brandon Gfeller,2,0.059000000000000004,0,0,0.125,0,0,2016-17
-Mario Dunn,1,0.083,0.14300000000000002,1,0,0,NA,2016-17
-Walter Wright,1,0,0,NA,0,0,NA,2016-17
-Bobby Moorehead,1,0,0,NA,0,0,NA,2016-17
-Total,71,0.08199999999999999,0.08199999999999999,0.6,0.026000000000000002,0.034,0.5,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Michael Oguine,17,0.121,0.12300000000000001,0.6,0.065,0,0,2016-17,Montana
+Fabijan Krslovic,14,0.096,0.113,0.727,0.05,0.038,0.33299999999999996,2016-17,Montana
+Sayeed Pridgett,13,0.084,0.049,0.375,0.06,0.10800000000000001,0.8,2016-17,Montana
+Ahmaad Rorie,9,0.059000000000000004,0.062,0.667,0.018000000000000002,0.031,0.667,2016-17,Montana
+Jared Samuelson,8,0.105,0.115,0.75,0,0,NA,2016-17,Montana
+Jack Lopez,5,0.14300000000000002,0.154,0.4,0,0,NA,2016-17,Montana
+Brandon Gfeller,2,0.059000000000000004,0,0,0.125,0,0,2016-17,Montana
+Mario Dunn,1,0.083,0.14300000000000002,1,0,0,NA,2016-17,Montana
+Walter Wright,1,0,0,NA,0,0,NA,2016-17,Montana
+Bobby Moorehead,1,0,0,NA,0,0,NA,2016-17,Montana
+Total,71,0.08199999999999999,0.08199999999999999,0.6,0.026000000000000002,0.034,0.5,2016-17,Montana

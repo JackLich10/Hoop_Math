@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.29,0.7390000000000001,0.046,0.775,2015-16
-2pt Jumpers,0.36700000000000005,0.332,0.102,0.37,2015-16
-3pt Shots,0.34299999999999997,0.36,0.003,0.361,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.29,0.7390000000000001,0.046,0.775,2015-16,NorthTexas
+2pt Jumpers,0.36700000000000005,0.332,0.102,0.37,2015-16,NorthTexas
+3pt Shots,0.34299999999999997,0.36,0.003,0.361,2015-16,NorthTexas

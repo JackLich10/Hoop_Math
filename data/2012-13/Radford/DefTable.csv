@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.41700000000000004,0.569,0.121,0.647,2012-13
-2pt Jumpers,0.31,0.332,0.042,0.34700000000000003,2012-13
-3pt Shots,0.273,0.363,0.01,0.36700000000000005,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.41700000000000004,0.569,0.121,0.647,2012-13,Radford
+2pt Jumpers,0.31,0.332,0.042,0.34700000000000003,2012-13,Radford
+3pt Shots,0.273,0.363,0.01,0.36700000000000005,2012-13,Radford

@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Nick Rakocevic,48,0.177,0.156,0.585,0.062,0.055999999999999994,0.28600000000000003,2018-19
-Bennie Boatwright,16,0.16699999999999998,0.205,0.818,0.013999999999999999,0.016,0.5,2018-19
-Shaqquan Aaron,11,0.091,0.109,0.7140000000000001,0.03,0.04,0.5,2018-19
-Jonah Mathews,7,0.091,0.09300000000000001,0.667,0.011000000000000001,0,0,2018-19
-Porter Kevin,7,0.171,0.16699999999999998,0.667,0.028999999999999998,0,0,2018-19
-Derryck Thornton,4,0.022000000000000002,0.045,1,0.02,0,0,2018-19
-Victor Uyaelunmo,4,0.214,0.125,0.33299999999999996,0.33299999999999996,NA,0,2018-19
-Jordan Usher,2,0.067,0.1,1,0,0,NA,2018-19
-Elijah Weaver,2,0,0,NA,0.071,0.091,0.5,2018-19
-",KEVIN",2,0.16699999999999998,0.111,0.5,0,0,NA,2018-19
-McKay Anderson,1,0.5,0,0,NA,NA,NA,2018-19
-Total,104,0.12,0.12300000000000001,0.642,0.028999999999999998,0.021,0.278,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Nick Rakocevic,48,0.177,0.156,0.585,0.062,0.055999999999999994,0.28600000000000003,2018-19,SouthernCalifornia
+Bennie Boatwright,16,0.16699999999999998,0.205,0.818,0.013999999999999999,0.016,0.5,2018-19,SouthernCalifornia
+Shaqquan Aaron,11,0.091,0.109,0.7140000000000001,0.03,0.04,0.5,2018-19,SouthernCalifornia
+Jonah Mathews,7,0.091,0.09300000000000001,0.667,0.011000000000000001,0,0,2018-19,SouthernCalifornia
+Porter Kevin,7,0.171,0.16699999999999998,0.667,0.028999999999999998,0,0,2018-19,SouthernCalifornia
+Derryck Thornton,4,0.022000000000000002,0.045,1,0.02,0,0,2018-19,SouthernCalifornia
+Victor Uyaelunmo,4,0.214,0.125,0.33299999999999996,0.33299999999999996,NA,0,2018-19,SouthernCalifornia
+Jordan Usher,2,0.067,0.1,1,0,0,NA,2018-19,SouthernCalifornia
+Elijah Weaver,2,0,0,NA,0.071,0.091,0.5,2018-19,SouthernCalifornia
+",KEVIN",2,0.16699999999999998,0.111,0.5,0,0,NA,2018-19,SouthernCalifornia
+McKay Anderson,1,0.5,0,0,NA,NA,NA,2018-19,SouthernCalifornia
+Total,104,0.12,0.12300000000000001,0.642,0.028999999999999998,0.021,0.278,2018-19,SouthernCalifornia

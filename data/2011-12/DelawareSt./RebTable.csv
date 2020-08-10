@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Marques Oliver,25,0.16,0.183,0.76,0,0,NA,2011-12
-Tahj Tate,11,0.069,0.079,0.857,0.027999999999999997,0.049,0.5,2011-12
-Casey Walker,9,0.141,0.18600000000000003,0.889,0,0,NA,2011-12
-Kendall Gray,9,0.14300000000000002,0.19399999999999998,0.875,0.036000000000000004,0.14300000000000002,1,2011-12
-Tyshawn Bell,7,0.24100000000000002,0.3,0.857,0,0,NA,2011-12
-Jordan Lawson,4,0.214,0.4,0.667,0.16699999999999998,0,0,2011-12
-James Marcellus,2,0.091,0.16699999999999998,1,0,0,NA,2011-12
-Jay Threatt,2,0,0,NA,0.02,0,0,2011-12
-Amere May,1,0,0,NA,0.013999999999999999,0.048,1,2011-12
-Abdulwali Kasim,1,0,0,NA,0.14300000000000002,NA,0,2011-12
-Total,71,0.115,0.145,0.82,0.018000000000000002,0.024,0.4,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Marques Oliver,25,0.16,0.183,0.76,0,0,NA,2011-12,DelawareSt.
+Tahj Tate,11,0.069,0.079,0.857,0.027999999999999997,0.049,0.5,2011-12,DelawareSt.
+Casey Walker,9,0.141,0.18600000000000003,0.889,0,0,NA,2011-12,DelawareSt.
+Kendall Gray,9,0.14300000000000002,0.19399999999999998,0.875,0.036000000000000004,0.14300000000000002,1,2011-12,DelawareSt.
+Tyshawn Bell,7,0.24100000000000002,0.3,0.857,0,0,NA,2011-12,DelawareSt.
+Jordan Lawson,4,0.214,0.4,0.667,0.16699999999999998,0,0,2011-12,DelawareSt.
+James Marcellus,2,0.091,0.16699999999999998,1,0,0,NA,2011-12,DelawareSt.
+Jay Threatt,2,0,0,NA,0.02,0,0,2011-12,DelawareSt.
+Amere May,1,0,0,NA,0.013999999999999999,0.048,1,2011-12,DelawareSt.
+Abdulwali Kasim,1,0,0,NA,0.14300000000000002,NA,0,2011-12,DelawareSt.
+Total,71,0.115,0.145,0.82,0.018000000000000002,0.024,0.4,2011-12,DelawareSt.

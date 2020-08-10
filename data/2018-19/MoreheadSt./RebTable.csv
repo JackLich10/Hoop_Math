@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Lamontray Harris,32,0.22399999999999998,0.235,0.7140000000000001,0.032,0.034,0.5,2018-19
-Malek Green,13,0.11800000000000001,0.127,0.727,0.027000000000000003,0.03,0.5,2018-19
-James Baker,13,0.154,0.055999999999999994,0.2,0.057999999999999996,0.136,1,2018-19
-Jordan Walker,12,0.062,0.111,0.875,0.045,0.061,0.5,2018-19
-Djimon Henson,6,0.07400000000000001,0.125,0.5,0.077,0.053,0.25,2018-19
-Malik Riddle,5,0.174,0.222,1,0.062,0,0,2018-19
-De'von Cooper,5,0.027999999999999997,0.027000000000000003,0.5,0.062,0,0,2018-19
-A.J. Hicks,5,0.025,0.017,0.33299999999999996,0,0,NA,2018-19
-Ja'cori Wilson,2,0.133,0.111,0.5,0,0,NA,2018-19
-Sasha Sukhanov,2,0.28600000000000003,0.25,0.5,0,0,NA,2018-19
-Total,95,0.106,0.11900000000000001,0.639,0.038,0.043,0.429,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Lamontray Harris,32,0.22399999999999998,0.235,0.7140000000000001,0.032,0.034,0.5,2018-19,MoreheadSt.
+Malek Green,13,0.11800000000000001,0.127,0.727,0.027000000000000003,0.03,0.5,2018-19,MoreheadSt.
+James Baker,13,0.154,0.055999999999999994,0.2,0.057999999999999996,0.136,1,2018-19,MoreheadSt.
+Jordan Walker,12,0.062,0.111,0.875,0.045,0.061,0.5,2018-19,MoreheadSt.
+Djimon Henson,6,0.07400000000000001,0.125,0.5,0.077,0.053,0.25,2018-19,MoreheadSt.
+Malik Riddle,5,0.174,0.222,1,0.062,0,0,2018-19,MoreheadSt.
+De'von Cooper,5,0.027999999999999997,0.027000000000000003,0.5,0.062,0,0,2018-19,MoreheadSt.
+A.J. Hicks,5,0.025,0.017,0.33299999999999996,0,0,NA,2018-19,MoreheadSt.
+Ja'cori Wilson,2,0.133,0.111,0.5,0,0,NA,2018-19,MoreheadSt.
+Sasha Sukhanov,2,0.28600000000000003,0.25,0.5,0,0,NA,2018-19,MoreheadSt.
+Total,95,0.106,0.11900000000000001,0.639,0.038,0.043,0.429,2018-19,MoreheadSt.

@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kevin Thomas,36,0.252,0.253,0.6940000000000001,0,0,NA,2014-15
-John Walton III,20,0.134,0.153,0.611,0.028999999999999998,0.067,0.5,2014-15
-Aaron Ariri,12,0.414,0.364,0.33299999999999996,0,0,NA,2014-15
-Wesley Person,7,0.071,0.038,0.25,0.028999999999999998,0.03,0.5,2014-15
-Musa Abdul-Aleem,7,0.075,0.077,0.5710000000000001,0,0,NA,2014-15
-Chris Bilbo,7,0.09699999999999999,0.15,0.857,0,0,NA,2014-15
-Christian Harrison,3,0.375,0.5,0.667,0,0,NA,2014-15
-Oskar Reinfelds,1,0.059000000000000004,0,0,NA,NA,NA,2014-15
-Total,93,0.139,0.151,0.602,0.011000000000000001,0.015,0.5,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kevin Thomas,36,0.252,0.253,0.6940000000000001,0,0,NA,2014-15,Troy
+John Walton III,20,0.134,0.153,0.611,0.028999999999999998,0.067,0.5,2014-15,Troy
+Aaron Ariri,12,0.414,0.364,0.33299999999999996,0,0,NA,2014-15,Troy
+Wesley Person,7,0.071,0.038,0.25,0.028999999999999998,0.03,0.5,2014-15,Troy
+Musa Abdul-Aleem,7,0.075,0.077,0.5710000000000001,0,0,NA,2014-15,Troy
+Chris Bilbo,7,0.09699999999999999,0.15,0.857,0,0,NA,2014-15,Troy
+Christian Harrison,3,0.375,0.5,0.667,0,0,NA,2014-15,Troy
+Oskar Reinfelds,1,0.059000000000000004,0,0,NA,NA,NA,2014-15,Troy
+Total,93,0.139,0.151,0.602,0.011000000000000001,0.015,0.5,2014-15,Troy

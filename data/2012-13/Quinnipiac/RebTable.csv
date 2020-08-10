@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Ike Azotam,49,0.185,0.187,0.568,0.057,0.034,0.2,2012-13
-Ousmane Drame,36,0.21,0.172,0.485,0.051,0.095,0.667,2012-13
-Jamee Jackson,26,0.16399999999999998,0.21100000000000002,0.667,0.054000000000000006,0.1,0.5,2012-13
-Zaid Hearst,11,0.154,0.205,0.8,0.009000000000000001,0.025,1,2012-13
-Evan Conti,11,0.11,0.14300000000000002,0.625,0.034,0.053,0.5,2012-13
-Shaq Shannon,5,0.06,0.136,1,0.071,0,0,2012-13
-James Ford,5,0.455,0.5,0.6,0,NA,NA,2012-13
-Marquis Barnett,3,1,1,0.5,1,1,1,2012-13
-Justin Harris,3,0.214,0.125,0.33299999999999996,0,0,NA,2012-13
-Garvey Young,2,0.05,0,0,0,0,NA,2012-13
-Kendrick Ray,2,0.032,0.071,1,0.022000000000000002,0.055999999999999994,1,2012-13
-T'Ziah Wood-Smith,1,1,1,1,0,NA,NA,2012-13
-Dave Johnson,1,0,0,NA,0.01,0,0,2012-13
-Total,155,0.155,0.17300000000000001,0.588,0.032,0.042,0.444,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Ike Azotam,49,0.185,0.187,0.568,0.057,0.034,0.2,2012-13,Quinnipiac
+Ousmane Drame,36,0.21,0.172,0.485,0.051,0.095,0.667,2012-13,Quinnipiac
+Jamee Jackson,26,0.16399999999999998,0.21100000000000002,0.667,0.054000000000000006,0.1,0.5,2012-13,Quinnipiac
+Zaid Hearst,11,0.154,0.205,0.8,0.009000000000000001,0.025,1,2012-13,Quinnipiac
+Evan Conti,11,0.11,0.14300000000000002,0.625,0.034,0.053,0.5,2012-13,Quinnipiac
+Shaq Shannon,5,0.06,0.136,1,0.071,0,0,2012-13,Quinnipiac
+James Ford,5,0.455,0.5,0.6,0,NA,NA,2012-13,Quinnipiac
+Marquis Barnett,3,1,1,0.5,1,1,1,2012-13,Quinnipiac
+Justin Harris,3,0.214,0.125,0.33299999999999996,0,0,NA,2012-13,Quinnipiac
+Garvey Young,2,0.05,0,0,0,0,NA,2012-13,Quinnipiac
+Kendrick Ray,2,0.032,0.071,1,0.022000000000000002,0.055999999999999994,1,2012-13,Quinnipiac
+T'Ziah Wood-Smith,1,1,1,1,0,NA,NA,2012-13,Quinnipiac
+Dave Johnson,1,0,0,NA,0.01,0,0,2012-13,Quinnipiac
+Total,155,0.155,0.17300000000000001,0.588,0.032,0.042,0.444,2012-13,Quinnipiac

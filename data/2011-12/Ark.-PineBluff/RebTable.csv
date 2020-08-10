@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Daniel Broughton,25,0.151,0.14300000000000002,0.5379999999999999,0.061,0.091,0.583,2011-12
-Mitchell Anderson,21,0.114,0.121,0.7,0.07,0.067,0.364,2011-12
-Savalace Townsend,14,0.071,0.096,0.8,0.023,0.038,0.5,2011-12
-Lavoris Weathers,10,0.2,0.182,0.5,0.154,0,0,2011-12
-Rontrell Bailey,9,0.19,0.231,0.75,0.182,0.111,0.25,2011-12
-Jamar Harris,8,0.24,0.278,0.833,0.1,0,0,2011-12
-Lazabian Jackson,8,0.07400000000000001,0.1,0.75,0.055999999999999994,0,0,2011-12
-Austin Allen,7,0.125,0,0,0.16,0.16699999999999998,0.25,2011-12
-Clay Johnson,3,0.077,0.077,0.667,0,0,NA,2011-12
-Derrius Nelson,1,0.33299999999999996,0.5,1,NA,NA,NA,2011-12
-Edward Buford,1,1,1,1,0,0,NA,2011-12
-Kyle Jones,1,1,1,1,0,NA,NA,2011-12
-"BAILEY,M",1,NA,NA,NA,0.5,1,1,2011-12
-Total,109,0.12,0.13,0.6559999999999999,0.062,0.068,0.37200000000000005,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Daniel Broughton,25,0.151,0.14300000000000002,0.5379999999999999,0.061,0.091,0.583,2011-12,Ark.-PineBluff
+Mitchell Anderson,21,0.114,0.121,0.7,0.07,0.067,0.364,2011-12,Ark.-PineBluff
+Savalace Townsend,14,0.071,0.096,0.8,0.023,0.038,0.5,2011-12,Ark.-PineBluff
+Lavoris Weathers,10,0.2,0.182,0.5,0.154,0,0,2011-12,Ark.-PineBluff
+Rontrell Bailey,9,0.19,0.231,0.75,0.182,0.111,0.25,2011-12,Ark.-PineBluff
+Jamar Harris,8,0.24,0.278,0.833,0.1,0,0,2011-12,Ark.-PineBluff
+Lazabian Jackson,8,0.07400000000000001,0.1,0.75,0.055999999999999994,0,0,2011-12,Ark.-PineBluff
+Austin Allen,7,0.125,0,0,0.16,0.16699999999999998,0.25,2011-12,Ark.-PineBluff
+Clay Johnson,3,0.077,0.077,0.667,0,0,NA,2011-12,Ark.-PineBluff
+Derrius Nelson,1,0.33299999999999996,0.5,1,NA,NA,NA,2011-12,Ark.-PineBluff
+Edward Buford,1,1,1,1,0,0,NA,2011-12,Ark.-PineBluff
+Kyle Jones,1,1,1,1,0,NA,NA,2011-12,Ark.-PineBluff
+"BAILEY,M",1,NA,NA,NA,0.5,1,1,2011-12,Ark.-PineBluff
+Total,109,0.12,0.13,0.6559999999999999,0.062,0.068,0.37200000000000005,2011-12,Ark.-PineBluff

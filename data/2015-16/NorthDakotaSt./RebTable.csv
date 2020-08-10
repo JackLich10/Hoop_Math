@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Dexter Werner,29,0.17600000000000002,0.242,0.833,0.10400000000000001,0.14300000000000002,0.545,2015-16
-Chris Kading,16,0.33299999999999996,0.32299999999999995,0.833,0.25,0.5,0.5,2015-16
-Dylan Miller,12,0.156,0.174,0.8,0.159,0.222,0.5710000000000001,2015-16
-Malik Clements,9,0.02,0,0,0.184,0.182,0.28600000000000003,2015-16
-Kory Brown,9,0.06,0.065,0.667,0.045,0.036000000000000004,0.33299999999999996,2015-16
-Carlin Dupree,5,0.047,0.019,0.25,0.015,0,0,2015-16
-A.J. Jacobson,4,0.021,0.034,1,0.013999999999999999,0.037000000000000005,1,2015-16
-Spencer Eliason,2,0.14300000000000002,0.25,1,0.5,1,1,2015-16
-Brian Ishola,2,0.5,0.5,1,0.125,0,0,2015-16
-Khy Kabellis,2,0.018000000000000002,0.036000000000000004,1,0.017,0,0,2015-16
-Paul Miller,2,0.013000000000000001,0,0,0.011000000000000001,0.034,1,2015-16
-Total,92,0.081,0.1,0.75,0.067,0.084,0.474,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Dexter Werner,29,0.17600000000000002,0.242,0.833,0.10400000000000001,0.14300000000000002,0.545,2015-16,NorthDakotaSt.
+Chris Kading,16,0.33299999999999996,0.32299999999999995,0.833,0.25,0.5,0.5,2015-16,NorthDakotaSt.
+Dylan Miller,12,0.156,0.174,0.8,0.159,0.222,0.5710000000000001,2015-16,NorthDakotaSt.
+Malik Clements,9,0.02,0,0,0.184,0.182,0.28600000000000003,2015-16,NorthDakotaSt.
+Kory Brown,9,0.06,0.065,0.667,0.045,0.036000000000000004,0.33299999999999996,2015-16,NorthDakotaSt.
+Carlin Dupree,5,0.047,0.019,0.25,0.015,0,0,2015-16,NorthDakotaSt.
+A.J. Jacobson,4,0.021,0.034,1,0.013999999999999999,0.037000000000000005,1,2015-16,NorthDakotaSt.
+Spencer Eliason,2,0.14300000000000002,0.25,1,0.5,1,1,2015-16,NorthDakotaSt.
+Brian Ishola,2,0.5,0.5,1,0.125,0,0,2015-16,NorthDakotaSt.
+Khy Kabellis,2,0.018000000000000002,0.036000000000000004,1,0.017,0,0,2015-16,NorthDakotaSt.
+Paul Miller,2,0.013000000000000001,0,0,0.011000000000000001,0.034,1,2015-16,NorthDakotaSt.
+Total,92,0.081,0.1,0.75,0.067,0.084,0.474,2015-16,NorthDakotaSt.

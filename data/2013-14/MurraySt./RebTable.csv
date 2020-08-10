@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jarvis Williams,56,0.214,0.184,0.604,0.133,0.115,0.375,2013-14
-Jonathan Fairell,40,0.306,0.293,0.649,0.136,0.2,0.667,2013-14
-Tyler Rambo,12,0.13,0.044000000000000004,0.2,0.077,0.16699999999999998,0.5,2013-14
-Jeffery Moss,9,0.067,0.11800000000000001,1,0.021,0.026000000000000002,0.5,2013-14
-Dexter Fields,4,0.055999999999999994,0.071,0.667,0,0,NA,2013-14
-Cameron Payne,3,0.008,0.016,1,0.006999999999999999,0,0,2013-14
-T.J. Sapp,3,0.013999999999999999,0.026000000000000002,1,0.027999999999999997,0,0,2013-14
-Terron Gillmore,3,0.222,0,0,0.25,1,1,2013-14
-Zay Henderson,1,0.16699999999999998,0.25,1,0,NA,NA,2013-14
-C.J. Ford,1,0.055999999999999994,0,0,0,0,NA,2013-14
-Total,132,0.138,0.135,0.6,0.042,0.05,0.444,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jarvis Williams,56,0.214,0.184,0.604,0.133,0.115,0.375,2013-14,MurraySt.
+Jonathan Fairell,40,0.306,0.293,0.649,0.136,0.2,0.667,2013-14,MurraySt.
+Tyler Rambo,12,0.13,0.044000000000000004,0.2,0.077,0.16699999999999998,0.5,2013-14,MurraySt.
+Jeffery Moss,9,0.067,0.11800000000000001,1,0.021,0.026000000000000002,0.5,2013-14,MurraySt.
+Dexter Fields,4,0.055999999999999994,0.071,0.667,0,0,NA,2013-14,MurraySt.
+Cameron Payne,3,0.008,0.016,1,0.006999999999999999,0,0,2013-14,MurraySt.
+T.J. Sapp,3,0.013999999999999999,0.026000000000000002,1,0.027999999999999997,0,0,2013-14,MurraySt.
+Terron Gillmore,3,0.222,0,0,0.25,1,1,2013-14,MurraySt.
+Zay Henderson,1,0.16699999999999998,0.25,1,0,NA,NA,2013-14,MurraySt.
+C.J. Ford,1,0.055999999999999994,0,0,0,0,NA,2013-14,MurraySt.
+Total,132,0.138,0.135,0.6,0.042,0.05,0.444,2013-14,MurraySt.

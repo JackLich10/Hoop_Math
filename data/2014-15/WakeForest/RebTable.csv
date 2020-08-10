@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Devin Thomas,29,0.141,0.127,0.519,0.023,0,0,2014-15
-Konstantinos Mitoglou,20,0.308,0.33299999999999996,0.65,0,0,NA,2014-15
-Aaron Rountree,12,0.33299999999999996,0.2,0.33299999999999996,0,0,NA,2014-15
-Darius Leonard,12,0.37,0.353,0.6,0.035,0.04,0.5,2014-15
-Codi Miller-McIntyre,11,0.055999999999999994,0.037000000000000005,0.4,0.008,0,0,2014-15
-Greg McClinton,11,0.212,0.292,0.636,0,0,NA,2014-15
-Cornelius Hudson,9,0.18600000000000003,0.174,0.5,0.059000000000000004,0.25,1,2014-15
-Andre Washington,3,0.16699999999999998,0.111,0.33299999999999996,0,0,NA,2014-15
-Doug Niedrich,2,0,NA,NA,0.4,NA,0,2014-15
-Mitchell Wilbekin,2,0.077,0.14300000000000002,1,0.026000000000000002,0,0,2014-15
-Madison Jones,1,0.013000000000000001,0.027999999999999997,1,0,0,NA,2014-15
-Total,112,0.14400000000000002,0.138,0.534,0.019,0.013000000000000001,0.222,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Devin Thomas,29,0.141,0.127,0.519,0.023,0,0,2014-15,WakeForest
+Konstantinos Mitoglou,20,0.308,0.33299999999999996,0.65,0,0,NA,2014-15,WakeForest
+Aaron Rountree,12,0.33299999999999996,0.2,0.33299999999999996,0,0,NA,2014-15,WakeForest
+Darius Leonard,12,0.37,0.353,0.6,0.035,0.04,0.5,2014-15,WakeForest
+Codi Miller-McIntyre,11,0.055999999999999994,0.037000000000000005,0.4,0.008,0,0,2014-15,WakeForest
+Greg McClinton,11,0.212,0.292,0.636,0,0,NA,2014-15,WakeForest
+Cornelius Hudson,9,0.18600000000000003,0.174,0.5,0.059000000000000004,0.25,1,2014-15,WakeForest
+Andre Washington,3,0.16699999999999998,0.111,0.33299999999999996,0,0,NA,2014-15,WakeForest
+Doug Niedrich,2,0,NA,NA,0.4,NA,0,2014-15,WakeForest
+Mitchell Wilbekin,2,0.077,0.14300000000000002,1,0.026000000000000002,0,0,2014-15,WakeForest
+Madison Jones,1,0.013000000000000001,0.027999999999999997,1,0,0,NA,2014-15,WakeForest
+Total,112,0.14400000000000002,0.138,0.534,0.019,0.013000000000000001,0.222,2014-15,WakeForest

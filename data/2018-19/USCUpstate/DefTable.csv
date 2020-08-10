@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.43200000000000005,0.612,0.081,0.6659999999999999,2018-19
-2pt Jumpers,0.213,0.364,0.053,0.385,2018-19
-3pt Shots,0.355,0.33899999999999997,0.006,0.341,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.43200000000000005,0.612,0.081,0.6659999999999999,2018-19,USCUpstate
+2pt Jumpers,0.213,0.364,0.053,0.385,2018-19,USCUpstate
+3pt Shots,0.355,0.33899999999999997,0.006,0.341,2018-19,USCUpstate

@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Chandler Thomas,22,0.2,0.29100000000000004,0.8,0.031,0.045,0.5,2013-14
-A'Torri Shine,15,0.096,0.11900000000000001,0.667,0.036000000000000004,0,0,2013-14
-Windale Glinton,10,0.19399999999999998,0.235,0.667,0.08199999999999999,0.14300000000000002,0.75,2013-14
-Steven Danridge,8,0.10099999999999999,0.09300000000000001,0.5710000000000001,0.042,0.14300000000000002,1,2013-14
-Remond Brown,6,0.094,0.091,0.6,0.026000000000000002,0,0,2013-14
-Antwan Scott,5,0.034,0.02,0.33299999999999996,0.013000000000000001,0.037000000000000005,1,2013-14
-Chase Comier,3,0.062,0,0,0.037000000000000005,0,0,2013-14
-Richard Freeman,2,0.077,0,0,0,0,NA,2013-14
-Terry Rose,1,0,0,NA,0,0,NA,2013-14
-Tyron Bain,1,0.067,0.2,1,0,0,NA,2013-14
-Total,73,0.105,0.12300000000000001,0.638,0.027999999999999997,0.036000000000000004,0.462,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Chandler Thomas,22,0.2,0.29100000000000004,0.8,0.031,0.045,0.5,2013-14,Grambling
+A'Torri Shine,15,0.096,0.11900000000000001,0.667,0.036000000000000004,0,0,2013-14,Grambling
+Windale Glinton,10,0.19399999999999998,0.235,0.667,0.08199999999999999,0.14300000000000002,0.75,2013-14,Grambling
+Steven Danridge,8,0.10099999999999999,0.09300000000000001,0.5710000000000001,0.042,0.14300000000000002,1,2013-14,Grambling
+Remond Brown,6,0.094,0.091,0.6,0.026000000000000002,0,0,2013-14,Grambling
+Antwan Scott,5,0.034,0.02,0.33299999999999996,0.013000000000000001,0.037000000000000005,1,2013-14,Grambling
+Chase Comier,3,0.062,0,0,0.037000000000000005,0,0,2013-14,Grambling
+Richard Freeman,2,0.077,0,0,0,0,NA,2013-14,Grambling
+Terry Rose,1,0,0,NA,0,0,NA,2013-14,Grambling
+Tyron Bain,1,0.067,0.2,1,0,0,NA,2013-14,Grambling
+Total,73,0.105,0.12300000000000001,0.638,0.027999999999999997,0.036000000000000004,0.462,2013-14,Grambling

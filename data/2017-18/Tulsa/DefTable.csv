@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.243,0.636,0.057,0.674,2017-18
-2pt Jumpers,0.322,0.36,0.061,0.384,2017-18
-3pt Shots,0.435,0.34299999999999997,0.006,0.34600000000000003,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.243,0.636,0.057,0.674,2017-18,Tulsa
+2pt Jumpers,0.322,0.36,0.061,0.384,2017-18,Tulsa
+3pt Shots,0.435,0.34299999999999997,0.006,0.34600000000000003,2017-18,Tulsa

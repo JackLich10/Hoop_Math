@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tyrique Jones,34,0.17800000000000002,0.157,0.594,0.034,0,0,2018-19
-Zach Hankins,34,0.19,0.151,0.6,0.057999999999999996,0.051,0.5,2018-19
-Paul Scruggs,15,0.1,0.115,0.6920000000000001,0.015,0.043,1,2018-19
-Naji Marshall,12,0.061,0.08900000000000001,0.833,0.040999999999999995,0.052000000000000005,0.5,2018-19
-Kyle Castlin,9,0.257,0.409,1,0,0,NA,2018-19
-Ryan Welage,6,0.25,0.3,0.75,0.08,0.083,0.5,2018-19
-Quentin Goodin,2,0.022000000000000002,0,0,0,0,NA,2018-19
-Elias Harden,1,0.16699999999999998,0,0,0,0,NA,2018-19
-Dontarius James,1,1,NA,0,0,NA,NA,2018-19
-Total,114,0.135,0.13699999999999998,0.643,0.031,0.035,0.467,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tyrique Jones,34,0.17800000000000002,0.157,0.594,0.034,0,0,2018-19,Xavier
+Zach Hankins,34,0.19,0.151,0.6,0.057999999999999996,0.051,0.5,2018-19,Xavier
+Paul Scruggs,15,0.1,0.115,0.6920000000000001,0.015,0.043,1,2018-19,Xavier
+Naji Marshall,12,0.061,0.08900000000000001,0.833,0.040999999999999995,0.052000000000000005,0.5,2018-19,Xavier
+Kyle Castlin,9,0.257,0.409,1,0,0,NA,2018-19,Xavier
+Ryan Welage,6,0.25,0.3,0.75,0.08,0.083,0.5,2018-19,Xavier
+Quentin Goodin,2,0.022000000000000002,0,0,0,0,NA,2018-19,Xavier
+Elias Harden,1,0.16699999999999998,0,0,0,0,NA,2018-19,Xavier
+Dontarius James,1,1,NA,0,0,NA,NA,2018-19,Xavier
+Total,114,0.135,0.13699999999999998,0.643,0.031,0.035,0.467,2018-19,Xavier

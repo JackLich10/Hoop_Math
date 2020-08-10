@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.35200000000000004,0.56,0.15,0.6579999999999999,2013-14
-2pt Jumpers,0.237,0.355,0.11,0.4,2013-14
-3pt Shots,0.41100000000000003,0.341,0.017,0.34600000000000003,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.35200000000000004,0.56,0.15,0.6579999999999999,2013-14,GeorgiaSt.
+2pt Jumpers,0.237,0.355,0.11,0.4,2013-14,GeorgiaSt.
+3pt Shots,0.41100000000000003,0.341,0.017,0.34600000000000003,2013-14,GeorgiaSt.

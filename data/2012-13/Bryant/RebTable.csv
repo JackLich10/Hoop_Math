@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Alex Francis,30,0.105,0.10400000000000001,0.667,0,0,NA,2012-13
-Vlad Kondratyev,16,0.19699999999999998,0.14300000000000002,0.5329999999999999,0.02,0,0,2012-13
-Dyami Starks,7,0.05,0.065,0.667,0,0,NA,2012-13
-Corey Maynard,5,0.06,0.077,0.8,0,0,NA,2012-13
-Joe O'Shea,4,0.053,0.062,0.75,0,0,NA,2012-13
-Andrew Scocca,2,0.33299999999999996,0.5,1,0,0,NA,2012-13
-Claybrin McMath,2,0.2,0.28600000000000003,1,0,0,NA,2012-13
-Curtis Oakley,1,0.16699999999999998,0.25,1,0,0,NA,2012-13
-Erick Smith,1,0.5,1,1,0,NA,NA,2012-13
-Total,68,0.087,0.094,0.682,0.003,0,0,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Alex Francis,30,0.105,0.10400000000000001,0.667,0,0,NA,2012-13,Bryant
+Vlad Kondratyev,16,0.19699999999999998,0.14300000000000002,0.5329999999999999,0.02,0,0,2012-13,Bryant
+Dyami Starks,7,0.05,0.065,0.667,0,0,NA,2012-13,Bryant
+Corey Maynard,5,0.06,0.077,0.8,0,0,NA,2012-13,Bryant
+Joe O'Shea,4,0.053,0.062,0.75,0,0,NA,2012-13,Bryant
+Andrew Scocca,2,0.33299999999999996,0.5,1,0,0,NA,2012-13,Bryant
+Claybrin McMath,2,0.2,0.28600000000000003,1,0,0,NA,2012-13,Bryant
+Curtis Oakley,1,0.16699999999999998,0.25,1,0,0,NA,2012-13,Bryant
+Erick Smith,1,0.5,1,1,0,NA,NA,2012-13,Bryant
+Total,68,0.087,0.094,0.682,0.003,0,0,2012-13,Bryant

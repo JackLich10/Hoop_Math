@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Davonte Fitzgerald,20,0.17300000000000001,0.106,0.385,0.057,0.062,0.429,2018-19
-Mitchell Seraille,16,0.21,0.182,0.615,0.214,0,0,2018-19
-Kevon Harris,14,0.086,0.09300000000000001,0.7140000000000001,0,0,NA,2018-19
-Nathan Bain,12,0.128,0.136,0.6,0.08,0.1,0.5,2018-19
-Karl Nicholas,9,0.122,0.139,0.556,0,0,NA,2018-19
-Jovan Grujic,5,0.231,0.111,0.33299999999999996,0.11800000000000001,0,0,2018-19
-John Comeaux,5,0.075,0.055999999999999994,0.33299999999999996,0.071,0,0,2018-19
-Shannon Bogues,3,0.008,0.015,1,0.019,0,0,2018-19
-Jock Hughes,1,0.14300000000000002,0.25,1,0,0,NA,2018-19
-Samuli Nieminen,1,0.077,0,0,0,NA,NA,2018-19
-Oddyst Walker,1,0.083,0,0,0,0,NA,2018-19
-Total,87,0.102,0.098,0.551,0.042,0.028999999999999998,0.235,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Davonte Fitzgerald,20,0.17300000000000001,0.106,0.385,0.057,0.062,0.429,2018-19,SFA
+Mitchell Seraille,16,0.21,0.182,0.615,0.214,0,0,2018-19,SFA
+Kevon Harris,14,0.086,0.09300000000000001,0.7140000000000001,0,0,NA,2018-19,SFA
+Nathan Bain,12,0.128,0.136,0.6,0.08,0.1,0.5,2018-19,SFA
+Karl Nicholas,9,0.122,0.139,0.556,0,0,NA,2018-19,SFA
+Jovan Grujic,5,0.231,0.111,0.33299999999999996,0.11800000000000001,0,0,2018-19,SFA
+John Comeaux,5,0.075,0.055999999999999994,0.33299999999999996,0.071,0,0,2018-19,SFA
+Shannon Bogues,3,0.008,0.015,1,0.019,0,0,2018-19,SFA
+Jock Hughes,1,0.14300000000000002,0.25,1,0,0,NA,2018-19,SFA
+Samuli Nieminen,1,0.077,0,0,0,NA,NA,2018-19,SFA
+Oddyst Walker,1,0.083,0,0,0,0,NA,2018-19,SFA
+Total,87,0.102,0.098,0.551,0.042,0.028999999999999998,0.235,2018-19,SFA

@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Stephon Jelks,23,0.222,0.258,0.8,0.091,0.2,0.667,2017-18
-Desmond Ringer,17,0.10400000000000001,0.102,0.625,0.025,0,0,2017-18
-Demtre Rivers,8,0.085,0.079,0.7140000000000001,0.023,0,0,2017-18
-Ethan Stair,6,0.162,0.14800000000000002,0.667,0,0,NA,2017-18
-Jaylen Stowe,6,0.092,0.11800000000000001,0.667,0,0,NA,2017-18
-Ryan Johnson,3,0.188,0.1,0.33299999999999996,0,0,NA,2017-18
-Cory Kilby,3,0.083,0.154,1,0.067,0.111,1,2017-18
-Ria'N Holland,2,0.015,0.024,1,0.023,0,0,2017-18
-Mason Green,2,0.33299999999999996,0.25,0.5,0,0,NA,2017-18
-Mac Brydon,2,0.5,0.667,1,NA,NA,NA,2017-18
-Jordan Strawberry,2,0.022000000000000002,0.025,0.5,0,0,NA,2017-18
-Marcus Cohen,1,0,0,NA,0.026000000000000002,0,0,2017-18
-Ross Cummings,1,0,0,NA,0.055999999999999994,0,0,2017-18
-Total,76,0.08900000000000001,0.102,0.701,0.026000000000000002,0.023,0.33299999999999996,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Stephon Jelks,23,0.222,0.258,0.8,0.091,0.2,0.667,2017-18,Mercer
+Desmond Ringer,17,0.10400000000000001,0.102,0.625,0.025,0,0,2017-18,Mercer
+Demtre Rivers,8,0.085,0.079,0.7140000000000001,0.023,0,0,2017-18,Mercer
+Ethan Stair,6,0.162,0.14800000000000002,0.667,0,0,NA,2017-18,Mercer
+Jaylen Stowe,6,0.092,0.11800000000000001,0.667,0,0,NA,2017-18,Mercer
+Ryan Johnson,3,0.188,0.1,0.33299999999999996,0,0,NA,2017-18,Mercer
+Cory Kilby,3,0.083,0.154,1,0.067,0.111,1,2017-18,Mercer
+Ria'N Holland,2,0.015,0.024,1,0.023,0,0,2017-18,Mercer
+Mason Green,2,0.33299999999999996,0.25,0.5,0,0,NA,2017-18,Mercer
+Mac Brydon,2,0.5,0.667,1,NA,NA,NA,2017-18,Mercer
+Jordan Strawberry,2,0.022000000000000002,0.025,0.5,0,0,NA,2017-18,Mercer
+Marcus Cohen,1,0,0,NA,0.026000000000000002,0,0,2017-18,Mercer
+Ross Cummings,1,0,0,NA,0.055999999999999994,0,0,2017-18,Mercer
+Total,76,0.08900000000000001,0.102,0.701,0.026000000000000002,0.023,0.33299999999999996,2017-18,Mercer

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.226,0.635,0.07400000000000001,0.685,2019-20
-2pt Jumpers,0.365,0.368,0.085,0.402,2019-20
-3pt Shots,0.409,0.335,0.009000000000000001,0.33799999999999997,2019-20
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.226,0.635,0.07400000000000001,0.685,2019-20,UAB
+2pt Jumpers,0.365,0.368,0.085,0.402,2019-20,UAB
+3pt Shots,0.409,0.335,0.009000000000000001,0.33799999999999997,2019-20,UAB

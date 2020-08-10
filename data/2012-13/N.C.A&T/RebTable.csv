@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Bruce Beckford,22,0.131,0.12300000000000001,0.643,0.078,0.023,0.125,2012-13
-Dametrius Upchurch,19,0.207,0.306,0.833,0.028999999999999998,0.083,1,2012-13
-Lamont Middleton,16,0.098,0.145,0.846,0.018000000000000002,0.036000000000000004,0.5,2012-13
-Adrian Powell,16,0.083,0.040999999999999995,0.273,0.048,0.037000000000000005,0.2,2012-13
-Austin Witter,12,0.12,0.107,0.6,0.049,0,0,2012-13
-Jean Louisme,12,0.158,0.147,0.556,0.061,0.062,0.33299999999999996,2012-13
-Waylan Siverand,3,0.4,1,1,0.5,0,0,2012-13
-Dominique Behohn-Tolly,2,0.4,0,0,0,0,NA,2012-13
-R.J. Buck,2,0.08,0,0,0,0,NA,2012-13
-Jeremy Underwood,1,0,0,NA,0.032,0,0,2012-13
-Corvon Butler,1,0.16699999999999998,0.33299999999999996,1,0,NA,NA,2012-13
-Total,106,0.11599999999999999,0.128,0.634,0.045,0.032,0.217,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Bruce Beckford,22,0.131,0.12300000000000001,0.643,0.078,0.023,0.125,2012-13,N.C.A&T
+Dametrius Upchurch,19,0.207,0.306,0.833,0.028999999999999998,0.083,1,2012-13,N.C.A&T
+Lamont Middleton,16,0.098,0.145,0.846,0.018000000000000002,0.036000000000000004,0.5,2012-13,N.C.A&T
+Adrian Powell,16,0.083,0.040999999999999995,0.273,0.048,0.037000000000000005,0.2,2012-13,N.C.A&T
+Austin Witter,12,0.12,0.107,0.6,0.049,0,0,2012-13,N.C.A&T
+Jean Louisme,12,0.158,0.147,0.556,0.061,0.062,0.33299999999999996,2012-13,N.C.A&T
+Waylan Siverand,3,0.4,1,1,0.5,0,0,2012-13,N.C.A&T
+Dominique Behohn-Tolly,2,0.4,0,0,0,0,NA,2012-13,N.C.A&T
+R.J. Buck,2,0.08,0,0,0,0,NA,2012-13,N.C.A&T
+Jeremy Underwood,1,0,0,NA,0.032,0,0,2012-13,N.C.A&T
+Corvon Butler,1,0.16699999999999998,0.33299999999999996,1,0,NA,NA,2012-13,N.C.A&T
+Total,106,0.11599999999999999,0.128,0.634,0.045,0.032,0.217,2012-13,N.C.A&T

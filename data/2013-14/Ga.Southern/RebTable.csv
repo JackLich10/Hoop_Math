@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kyle Doyle,29,0.267,0.317,0.7040000000000001,0.065,0,0,2013-14
-Angel Matias,20,0.13699999999999998,0.172,0.8,0,0,NA,2013-14
-Marvin Baynham,18,0.2,0.222,0.706,0.038,0.062,1,2013-14
-Tre Bussey,11,0.043,0.052000000000000005,0.7140000000000001,0.025,0,0,2013-14
-Sam Mike,5,0.41700000000000004,0.5,0.6,0,0,NA,2013-14
-Jelani Hewitt,3,0.019,0.023,0.667,0,0,NA,2013-14
-Grayson Clark,1,0,0,NA,1,NA,0,2013-14
-Curtis Diamond,1,0.02,0,0,0,0,NA,2013-14
-Scott Kelly,1,0.5,1,1,NA,NA,NA,2013-14
-Brian Holmes,1,0.017,0.034,1,0,0,NA,2013-14
-Total,90,0.10400000000000001,0.129,0.72,0.017,0.006999999999999999,0.14300000000000002,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kyle Doyle,29,0.267,0.317,0.7040000000000001,0.065,0,0,2013-14,Ga.Southern
+Angel Matias,20,0.13699999999999998,0.172,0.8,0,0,NA,2013-14,Ga.Southern
+Marvin Baynham,18,0.2,0.222,0.706,0.038,0.062,1,2013-14,Ga.Southern
+Tre Bussey,11,0.043,0.052000000000000005,0.7140000000000001,0.025,0,0,2013-14,Ga.Southern
+Sam Mike,5,0.41700000000000004,0.5,0.6,0,0,NA,2013-14,Ga.Southern
+Jelani Hewitt,3,0.019,0.023,0.667,0,0,NA,2013-14,Ga.Southern
+Grayson Clark,1,0,0,NA,1,NA,0,2013-14,Ga.Southern
+Curtis Diamond,1,0.02,0,0,0,0,NA,2013-14,Ga.Southern
+Scott Kelly,1,0.5,1,1,NA,NA,NA,2013-14,Ga.Southern
+Brian Holmes,1,0.017,0.034,1,0,0,NA,2013-14,Ga.Southern
+Total,90,0.10400000000000001,0.129,0.72,0.017,0.006999999999999999,0.14300000000000002,2013-14,Ga.Southern

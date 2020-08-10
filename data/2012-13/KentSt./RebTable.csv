@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Chris Evans,29,0.157,0.14300000000000002,0.6,0.018000000000000002,0,0,2012-13
-Melvin Tabb,26,0.39299999999999996,0.424,0.583,0.049,0,0,2012-13
-Darren Goodson,20,0.138,0.125,0.5,0.077,0.08900000000000001,0.5,2012-13
-Bryson Pope,19,0.20199999999999999,0.158,0.353,0.067,0,0,2012-13
-Mark Henniger,18,0.188,0.191,0.6,0.094,0.125,0.33299999999999996,2012-13
-Randal Holt,7,0.04,0,0,0.016,0.023,0.5,2012-13
-Chris Ortiz,6,0.4,0.5710000000000001,0.667,0,0,NA,2012-13
-Kris Brewer,4,0.048,0.09699999999999999,1,0.015,0,0,2012-13
-Khaliq Spicer,1,0.059000000000000004,0.091,1,NA,NA,NA,2012-13
-"MORRIS,JR",1,0.16699999999999998,0.2,1,0,NA,NA,2012-13
-Kellon Thomas,1,0,0,NA,0.036000000000000004,0.125,1,2012-13
-Total,132,0.158,0.158,0.551,0.037000000000000005,0.033,0.33299999999999996,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Chris Evans,29,0.157,0.14300000000000002,0.6,0.018000000000000002,0,0,2012-13,KentSt.
+Melvin Tabb,26,0.39299999999999996,0.424,0.583,0.049,0,0,2012-13,KentSt.
+Darren Goodson,20,0.138,0.125,0.5,0.077,0.08900000000000001,0.5,2012-13,KentSt.
+Bryson Pope,19,0.20199999999999999,0.158,0.353,0.067,0,0,2012-13,KentSt.
+Mark Henniger,18,0.188,0.191,0.6,0.094,0.125,0.33299999999999996,2012-13,KentSt.
+Randal Holt,7,0.04,0,0,0.016,0.023,0.5,2012-13,KentSt.
+Chris Ortiz,6,0.4,0.5710000000000001,0.667,0,0,NA,2012-13,KentSt.
+Kris Brewer,4,0.048,0.09699999999999999,1,0.015,0,0,2012-13,KentSt.
+Khaliq Spicer,1,0.059000000000000004,0.091,1,NA,NA,NA,2012-13,KentSt.
+"MORRIS,JR",1,0.16699999999999998,0.2,1,0,NA,NA,2012-13,KentSt.
+Kellon Thomas,1,0,0,NA,0.036000000000000004,0.125,1,2012-13,KentSt.
+Total,132,0.158,0.158,0.551,0.037000000000000005,0.033,0.33299999999999996,2012-13,KentSt.

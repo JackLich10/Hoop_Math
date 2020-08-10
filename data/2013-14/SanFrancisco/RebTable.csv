@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kruize Pinkins,39,0.175,0.2,0.6970000000000001,0.078,0.037000000000000005,0.16699999999999998,2013-14
-Matt Glover,19,0.15,0.2,0.647,0.034,0,0,2013-14
-Mark Tollefsen,12,0.099,0.087,0.667,0.068,0.15,1,2013-14
-Cole Dickerson,12,0.055999999999999994,0.059000000000000004,0.75,0.035,0.039,0.5,2013-14
-Tim Derksen,7,0.057999999999999996,0.033,0.4,0.054000000000000006,0,0,2013-14
-Matt Christiansen,2,0.2,0.33299999999999996,0.5,0,0,NA,2013-14
-"CHRIS,ADAMS",1,0,0,NA,0.071,0,0,2013-14
-Gavin Hoffmann,1,0.2,0.2,1,0,NA,NA,2013-14
-Total,93,0.10400000000000001,0.111,0.667,0.038,0.032,0.33299999999999996,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kruize Pinkins,39,0.175,0.2,0.6970000000000001,0.078,0.037000000000000005,0.16699999999999998,2013-14,SanFrancisco
+Matt Glover,19,0.15,0.2,0.647,0.034,0,0,2013-14,SanFrancisco
+Mark Tollefsen,12,0.099,0.087,0.667,0.068,0.15,1,2013-14,SanFrancisco
+Cole Dickerson,12,0.055999999999999994,0.059000000000000004,0.75,0.035,0.039,0.5,2013-14,SanFrancisco
+Tim Derksen,7,0.057999999999999996,0.033,0.4,0.054000000000000006,0,0,2013-14,SanFrancisco
+Matt Christiansen,2,0.2,0.33299999999999996,0.5,0,0,NA,2013-14,SanFrancisco
+"CHRIS,ADAMS",1,0,0,NA,0.071,0,0,2013-14,SanFrancisco
+Gavin Hoffmann,1,0.2,0.2,1,0,NA,NA,2013-14,SanFrancisco
+Total,93,0.10400000000000001,0.111,0.667,0.038,0.032,0.33299999999999996,2013-14,SanFrancisco

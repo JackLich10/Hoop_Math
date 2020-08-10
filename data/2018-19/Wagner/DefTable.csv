@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.389,0.5379999999999999,0.126,0.615,2018-19
-2pt Jumpers,0.196,0.389,0.073,0.419,2018-19
-3pt Shots,0.414,0.348,0.013000000000000001,0.35200000000000004,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.389,0.5379999999999999,0.126,0.615,2018-19,Wagner
+2pt Jumpers,0.196,0.389,0.073,0.419,2018-19,Wagner
+3pt Shots,0.414,0.348,0.013000000000000001,0.35200000000000004,2018-19,Wagner

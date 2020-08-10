@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Axel Mpoyo,18,0.213,0.214,0.75,0.042,0.05,0.5,2018-19
-Devante Jackson,18,0.133,0.175,0.7140000000000001,0.055,0.048,0.25,2018-19
-Dallas Polk-Hillard,11,0.086,0.11800000000000001,0.75,0.027000000000000003,0.042,0.667,2018-19
-Prince Moss,6,0.07,0.086,0.75,0.065,0,0,2018-19
-Anthony Gaston,5,0.059000000000000004,0.055999999999999994,0.5,0.022000000000000002,0,0,2018-19
-Zavier Peart,5,0.075,0.10800000000000001,0.8,0,0,NA,2018-19
-Travon Bunch,3,0.055999999999999994,0.055999999999999994,0.667,0,0,NA,2018-19
-Ivy Smith.Jr,3,0.011000000000000001,0.022000000000000002,1,0.008,0.022000000000000002,1,2018-19
-Shaq Athie,3,0.15,0.3,1,0,0,NA,2018-19
-Lasani Johnson,2,0.053,0,0,0.024,0,0,2018-19
-Nigel Riberio,1,0,0,NA,0.021,0.059000000000000004,1,2018-19
-Bobby Jackson,1,0.5,0.5,1,NA,NA,NA,2018-19
-Total,76,0.08800000000000001,0.113,0.741,0.025,0.027999999999999997,0.4,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Axel Mpoyo,18,0.213,0.214,0.75,0.042,0.05,0.5,2018-19,Grambling
+Devante Jackson,18,0.133,0.175,0.7140000000000001,0.055,0.048,0.25,2018-19,Grambling
+Dallas Polk-Hillard,11,0.086,0.11800000000000001,0.75,0.027000000000000003,0.042,0.667,2018-19,Grambling
+Prince Moss,6,0.07,0.086,0.75,0.065,0,0,2018-19,Grambling
+Anthony Gaston,5,0.059000000000000004,0.055999999999999994,0.5,0.022000000000000002,0,0,2018-19,Grambling
+Zavier Peart,5,0.075,0.10800000000000001,0.8,0,0,NA,2018-19,Grambling
+Travon Bunch,3,0.055999999999999994,0.055999999999999994,0.667,0,0,NA,2018-19,Grambling
+Ivy Smith.Jr,3,0.011000000000000001,0.022000000000000002,1,0.008,0.022000000000000002,1,2018-19,Grambling
+Shaq Athie,3,0.15,0.3,1,0,0,NA,2018-19,Grambling
+Lasani Johnson,2,0.053,0,0,0.024,0,0,2018-19,Grambling
+Nigel Riberio,1,0,0,NA,0.021,0.059000000000000004,1,2018-19,Grambling
+Bobby Jackson,1,0.5,0.5,1,NA,NA,NA,2018-19,Grambling
+Total,76,0.08800000000000001,0.113,0.741,0.025,0.027999999999999997,0.4,2018-19,Grambling

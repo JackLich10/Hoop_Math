@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.28,0.616,0.08,0.67,2013-14
-2pt Jumpers,0.364,0.371,0.091,0.408,2013-14
-3pt Shots,0.35600000000000004,0.315,0.012,0.319,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.28,0.616,0.08,0.67,2013-14,Nebraska
+2pt Jumpers,0.364,0.371,0.091,0.408,2013-14,Nebraska
+3pt Shots,0.35600000000000004,0.315,0.012,0.319,2013-14,Nebraska

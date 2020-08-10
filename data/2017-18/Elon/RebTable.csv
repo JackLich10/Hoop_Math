@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Brian Dawkins,15,0.121,0.11699999999999999,0.6,0,0,NA,2017-18
-Dmitri Thompson,9,0.06,0.102,1,0.049,0,0,2017-18
-Tyler Seibring,7,0.07,0.091,1,0.016,0,0,2017-18
-Karolis Kundrotas,5,0.114,0.13,0.75,0.077,0,0,2017-18
-Simon Wright,4,0.11800000000000001,0.14300000000000002,0.5,0.11800000000000001,0.2,0.5,2017-18
-SANTA,3,0,0,NA,0.043,0,0,2017-18
-Sheldon Eberhardt,2,0.043,0.061,1,0,0,NA,2017-18
-Dainan Swoope,1,0.016,0,0,0,0,NA,2017-18
-Duje Radja,1,0,0,NA,0.5,0,0,2017-18
-Total,47,0.062,0.07400000000000001,0.727,0.026000000000000002,0.006,0.091,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Brian Dawkins,15,0.121,0.11699999999999999,0.6,0,0,NA,2017-18,Elon
+Dmitri Thompson,9,0.06,0.102,1,0.049,0,0,2017-18,Elon
+Tyler Seibring,7,0.07,0.091,1,0.016,0,0,2017-18,Elon
+Karolis Kundrotas,5,0.114,0.13,0.75,0.077,0,0,2017-18,Elon
+Simon Wright,4,0.11800000000000001,0.14300000000000002,0.5,0.11800000000000001,0.2,0.5,2017-18,Elon
+SANTA,3,0,0,NA,0.043,0,0,2017-18,Elon
+Sheldon Eberhardt,2,0.043,0.061,1,0,0,NA,2017-18,Elon
+Dainan Swoope,1,0.016,0,0,0,0,NA,2017-18,Elon
+Duje Radja,1,0,0,NA,0.5,0,0,2017-18,Elon
+Total,47,0.062,0.07400000000000001,0.727,0.026000000000000002,0.006,0.091,2017-18,Elon

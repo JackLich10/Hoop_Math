@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Sam Dekker,29,0.14400000000000002,0.14800000000000002,0.769,0.040999999999999995,0.071,0.667,2014-15
-Nigel Hayes,25,0.18100000000000002,0.16,0.5710000000000001,0.034,0.039,0.5,2014-15
-Frank Kaminsky,17,0.065,0.05,0.5379999999999999,0.021,0.035,0.75,2014-15
-Duje Dukan,8,0.182,0.231,0.75,0,0,NA,2014-15
-Zak Showalter,6,0.11800000000000001,0.048,0.25,0.4,NA,0,2014-15
-Vitto Brown,6,0.2,0.2,0.5,0.051,0.062,0.5,2014-15
-Bronson Koenig,4,0.053,0.055999999999999994,0.5,0,0,NA,2014-15
-Josh Gasser,4,0.105,0.08,0.5,0,0,NA,2014-15
-Aaron Moesch,1,0.2,0,0,0,NA,NA,2014-15
-Traevon Jackson,1,0,0,NA,0.022000000000000002,0,0,2014-15
-Total,101,0.113,0.105,0.614,0.027000000000000003,0.033,0.5,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Sam Dekker,29,0.14400000000000002,0.14800000000000002,0.769,0.040999999999999995,0.071,0.667,2014-15,Wisconsin
+Nigel Hayes,25,0.18100000000000002,0.16,0.5710000000000001,0.034,0.039,0.5,2014-15,Wisconsin
+Frank Kaminsky,17,0.065,0.05,0.5379999999999999,0.021,0.035,0.75,2014-15,Wisconsin
+Duje Dukan,8,0.182,0.231,0.75,0,0,NA,2014-15,Wisconsin
+Zak Showalter,6,0.11800000000000001,0.048,0.25,0.4,NA,0,2014-15,Wisconsin
+Vitto Brown,6,0.2,0.2,0.5,0.051,0.062,0.5,2014-15,Wisconsin
+Bronson Koenig,4,0.053,0.055999999999999994,0.5,0,0,NA,2014-15,Wisconsin
+Josh Gasser,4,0.105,0.08,0.5,0,0,NA,2014-15,Wisconsin
+Aaron Moesch,1,0.2,0,0,0,NA,NA,2014-15,Wisconsin
+Traevon Jackson,1,0,0,NA,0.022000000000000002,0,0,2014-15,Wisconsin
+Total,101,0.113,0.105,0.614,0.027000000000000003,0.033,0.5,2014-15,Wisconsin

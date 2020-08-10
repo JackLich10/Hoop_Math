@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Johnathan Williams III,25,0.16699999999999998,0.226,0.778,0.053,0.048,0.28600000000000003,2014-15
-D'Angelo Allen,18,0.28600000000000003,0.348,0.667,0.17600000000000002,0.16699999999999998,0.16699999999999998,2014-15
-Keanau Post,17,0.21600000000000003,0.20600000000000002,0.636,0.231,0.182,0.33299999999999996,2014-15
-Ryan Rosburg,10,0.109,0.158,0.857,0.15,0.25,0.33299999999999996,2014-15
-Jakeenan Gant,9,0.171,0.17600000000000002,0.857,0.061,0,0,2014-15
-Montaque Gill-Caesar,8,0.071,0.043,0.33299999999999996,0.053,0.031,0.2,2014-15
-POST,2,0.28600000000000003,0.667,1,0,0,NA,2014-15
-Keith Shamburger,2,0.045,0,0,0,0,NA,2014-15
-ALLEN,1,0.5,0.5,1,NA,NA,NA,2014-15
-Tramaine Isabell,1,0,0,NA,0.032,0,0,2014-15
-Namon Wright,1,0.027999999999999997,0.048,1,0,0,NA,2014-15
-Deuce Bello,1,0,0,NA,0.125,0,0,2014-15
-Total,95,0.12300000000000001,0.157,0.73,0.053,0.036000000000000004,0.226,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Johnathan Williams III,25,0.16699999999999998,0.226,0.778,0.053,0.048,0.28600000000000003,2014-15,Missouri
+D'Angelo Allen,18,0.28600000000000003,0.348,0.667,0.17600000000000002,0.16699999999999998,0.16699999999999998,2014-15,Missouri
+Keanau Post,17,0.21600000000000003,0.20600000000000002,0.636,0.231,0.182,0.33299999999999996,2014-15,Missouri
+Ryan Rosburg,10,0.109,0.158,0.857,0.15,0.25,0.33299999999999996,2014-15,Missouri
+Jakeenan Gant,9,0.171,0.17600000000000002,0.857,0.061,0,0,2014-15,Missouri
+Montaque Gill-Caesar,8,0.071,0.043,0.33299999999999996,0.053,0.031,0.2,2014-15,Missouri
+POST,2,0.28600000000000003,0.667,1,0,0,NA,2014-15,Missouri
+Keith Shamburger,2,0.045,0,0,0,0,NA,2014-15,Missouri
+ALLEN,1,0.5,0.5,1,NA,NA,NA,2014-15,Missouri
+Tramaine Isabell,1,0,0,NA,0.032,0,0,2014-15,Missouri
+Namon Wright,1,0.027999999999999997,0.048,1,0,0,NA,2014-15,Missouri
+Deuce Bello,1,0,0,NA,0.125,0,0,2014-15,Missouri
+Total,95,0.12300000000000001,0.157,0.73,0.053,0.036000000000000004,0.226,2014-15,Missouri

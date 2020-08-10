@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Murphy Burnatowski,10,0.07,0.08900000000000001,0.8,0.042,0.024,0.2,2013-14
-Clayton Graham,9,0.29,0.26899999999999996,0.778,0,0,NA,2013-14
-Ethan Jacobs,8,0.1,0.11800000000000001,0.75,0,0,NA,2013-14
-Luke Roh,5,0.046,0.042,0.6,0,0,NA,2013-14
-Damon Sherman-Newsome,5,0.057,0.075,0.75,0,0,NA,2013-14
-Matt McMullen,4,0.065,0.053,0.33299999999999996,0.04,0,0,2013-14
-Austin Tillotson,2,0.017,0.024,1,0,0,NA,2013-14
-Jack Fenton,1,0.091,0.14300000000000002,1,0,NA,NA,2013-14
-Nathan Harries,1,0.1,0,0,0,0,NA,2013-14
-Total,45,0.066,0.073,0.711,0.015,0.006,0.16699999999999998,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Murphy Burnatowski,10,0.07,0.08900000000000001,0.8,0.042,0.024,0.2,2013-14,Colgate
+Clayton Graham,9,0.29,0.26899999999999996,0.778,0,0,NA,2013-14,Colgate
+Ethan Jacobs,8,0.1,0.11800000000000001,0.75,0,0,NA,2013-14,Colgate
+Luke Roh,5,0.046,0.042,0.6,0,0,NA,2013-14,Colgate
+Damon Sherman-Newsome,5,0.057,0.075,0.75,0,0,NA,2013-14,Colgate
+Matt McMullen,4,0.065,0.053,0.33299999999999996,0.04,0,0,2013-14,Colgate
+Austin Tillotson,2,0.017,0.024,1,0,0,NA,2013-14,Colgate
+Jack Fenton,1,0.091,0.14300000000000002,1,0,NA,NA,2013-14,Colgate
+Nathan Harries,1,0.1,0,0,0,0,NA,2013-14,Colgate
+Total,45,0.066,0.073,0.711,0.015,0.006,0.16699999999999998,2013-14,Colgate

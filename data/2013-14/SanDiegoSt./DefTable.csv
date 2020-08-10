@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.312,0.615,0.121,0.7,2013-14
-2pt Jumpers,0.37,0.275,0.142,0.321,2013-14
-3pt Shots,0.317,0.28800000000000003,0.018000000000000002,0.293,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.312,0.615,0.121,0.7,2013-14,SanDiegoSt.
+2pt Jumpers,0.37,0.275,0.142,0.321,2013-14,SanDiegoSt.
+3pt Shots,0.317,0.28800000000000003,0.018000000000000002,0.293,2013-14,SanDiegoSt.

@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Terry Winn,21,0.085,0.06,0.455,0.09300000000000001,0.105,0.4,2015-16
-Lee Moore,12,0.037000000000000005,0.027000000000000003,0.4,0.09,0.062,0.28600000000000003,2015-16
-Hooper Vint,9,0.063,0.062,0.667,0.031,0.040999999999999995,0.667,2015-16
-Dominic Artis,8,0.053,0.07400000000000001,0.8,0.024,0.047,0.667,2015-16
-Paul Thomas,5,0.2,0.214,0.75,0.053,0,0,2015-16
-Earvin Morris,5,0.042,0.062,1,0,0,NA,2015-16
-Tevin Caldwell,2,0.037000000000000005,0.055999999999999994,1,0.055999999999999994,0.091,1,2015-16
-Brodricks Jones,2,0.33299999999999996,0.25,0.5,0,0,NA,2015-16
-Ivan Venegas,1,0.33299999999999996,0,0,0,NA,NA,2015-16
-Christian Romine,1,0.33299999999999996,0.33299999999999996,1,0,0,NA,2015-16
-Total,66,0.057999999999999996,0.057999999999999996,0.625,0.040999999999999995,0.045,0.44,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Terry Winn,21,0.085,0.06,0.455,0.09300000000000001,0.105,0.4,2015-16,UTEP
+Lee Moore,12,0.037000000000000005,0.027000000000000003,0.4,0.09,0.062,0.28600000000000003,2015-16,UTEP
+Hooper Vint,9,0.063,0.062,0.667,0.031,0.040999999999999995,0.667,2015-16,UTEP
+Dominic Artis,8,0.053,0.07400000000000001,0.8,0.024,0.047,0.667,2015-16,UTEP
+Paul Thomas,5,0.2,0.214,0.75,0.053,0,0,2015-16,UTEP
+Earvin Morris,5,0.042,0.062,1,0,0,NA,2015-16,UTEP
+Tevin Caldwell,2,0.037000000000000005,0.055999999999999994,1,0.055999999999999994,0.091,1,2015-16,UTEP
+Brodricks Jones,2,0.33299999999999996,0.25,0.5,0,0,NA,2015-16,UTEP
+Ivan Venegas,1,0.33299999999999996,0,0,0,NA,NA,2015-16,UTEP
+Christian Romine,1,0.33299999999999996,0.33299999999999996,1,0,0,NA,2015-16,UTEP
+Total,66,0.057999999999999996,0.057999999999999996,0.625,0.040999999999999995,0.045,0.44,2015-16,UTEP

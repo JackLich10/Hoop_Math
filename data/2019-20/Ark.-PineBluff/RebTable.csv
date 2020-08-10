@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Markedric  Bell,14,0.098,0.10800000000000001,0.7,0.027000000000000003,0.023,0.25,2019-20
-Dequan  Morris,13,0.158,0.158,0.75,0.012,0,0,2019-20
-Marquell  Carter,9,0.175,0.16,0.5710000000000001,0.025,0.08,1,2019-20
-Terrance Banyard,8,0.077,0.13,1,0.034,0,0,2019-20
-Artavious McDyess,5,0.138,0.21100000000000002,1,0.048,0,0,2019-20
-Kshun  Stokes	,4,0.375,0.4,0.667,0.1,0,0,2019-20
-Alvin  Stredic Jr,4,0.4,0.5,0.75,0,0,NA,2019-20
-Shaun  Doss	,2,0.1,0.33299999999999996,1,0.077,0.14300000000000002,1,2019-20
-STOKES,2,0.4,1,0.5,0,NA,NA,2019-20
-Khalid Campbell,2,0.33299999999999996,0.33299999999999996,1,0.5,NA,0,2019-20
-Marcus Wallace,1,0.042,0.091,1,0,0,NA,2019-20
-Chris  Smith,1,0.14300000000000002,0,0,0,NA,NA,2019-20
-Cameron Posey,1,0.077,0.111,1,0,0,NA,2019-20
-Total,66,0.113,0.135,0.755,0.022000000000000002,0.022000000000000002,0.308,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Markedric  Bell,14,0.098,0.10800000000000001,0.7,0.027000000000000003,0.023,0.25,2019-20,Ark.-PineBluff
+Dequan  Morris,13,0.158,0.158,0.75,0.012,0,0,2019-20,Ark.-PineBluff
+Marquell  Carter,9,0.175,0.16,0.5710000000000001,0.025,0.08,1,2019-20,Ark.-PineBluff
+Terrance Banyard,8,0.077,0.13,1,0.034,0,0,2019-20,Ark.-PineBluff
+Artavious McDyess,5,0.138,0.21100000000000002,1,0.048,0,0,2019-20,Ark.-PineBluff
+Kshun  Stokes	,4,0.375,0.4,0.667,0.1,0,0,2019-20,Ark.-PineBluff
+Alvin  Stredic Jr,4,0.4,0.5,0.75,0,0,NA,2019-20,Ark.-PineBluff
+Shaun  Doss	,2,0.1,0.33299999999999996,1,0.077,0.14300000000000002,1,2019-20,Ark.-PineBluff
+STOKES,2,0.4,1,0.5,0,NA,NA,2019-20,Ark.-PineBluff
+Khalid Campbell,2,0.33299999999999996,0.33299999999999996,1,0.5,NA,0,2019-20,Ark.-PineBluff
+Marcus Wallace,1,0.042,0.091,1,0,0,NA,2019-20,Ark.-PineBluff
+Chris  Smith,1,0.14300000000000002,0,0,0,NA,NA,2019-20,Ark.-PineBluff
+Cameron Posey,1,0.077,0.111,1,0,0,NA,2019-20,Ark.-PineBluff
+Total,66,0.113,0.135,0.755,0.022000000000000002,0.022000000000000002,0.308,2019-20,Ark.-PineBluff

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.355,0.588,0.15,0.6920000000000001,2015-16
-2pt Jumpers,0.294,0.34600000000000003,0.155,0.409,2015-16
-3pt Shots,0.35100000000000003,0.375,0.008,0.37799999999999995,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.355,0.588,0.15,0.6920000000000001,2015-16,St.John's(NY)
+2pt Jumpers,0.294,0.34600000000000003,0.155,0.409,2015-16,St.John's(NY)
+3pt Shots,0.35100000000000003,0.375,0.008,0.37799999999999995,2015-16,St.John's(NY)

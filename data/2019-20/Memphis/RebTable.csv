@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Precious Achiuwa,49,0.195,0.18899999999999997,0.622,0.040999999999999995,0,0,2019-20
-Damion Baugh,10,0.136,0.135,0.556,0.034,0.14300000000000002,1,2019-20
-Lance Thomas,8,0.235,0.21100000000000002,0.5,0,0,NA,2019-20
-Malcolm Dandridge,8,0.163,0.212,1,0.25,0,0,2019-20
-Lester Quinones,7,0.096,0.125,0.8,0.07400000000000001,0,0,2019-20
-Jayden Hardaway,5,0.3,0.28600000000000003,0.667,0.111,0.25,1,2019-20
-D.J. Jeffries,4,0.055,0.057,0.75,0,0,NA,2019-20
-Isaiah Maurice,4,0.07400000000000001,0.11800000000000001,1,0.08,0.091,0.5,2019-20
-Boogie Ellis,2,0.017,0.034,1,0.016,0,0,2019-20
-James Wiseman,2,0.105,0.11800000000000001,1,0,0,NA,2019-20
-Tyler Harris,2,0.025,0.062,1,0,0,NA,2019-20
-Alex Lomax,2,0.015,0.027999999999999997,1,0.016,0,0,2019-20
-Ryan Boyce,1,0.5,1,1,NA,NA,NA,2019-20
-Total,104,0.12300000000000001,0.13699999999999998,0.685,0.031,0.024,0.231,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Precious Achiuwa,49,0.195,0.18899999999999997,0.622,0.040999999999999995,0,0,2019-20,Memphis
+Damion Baugh,10,0.136,0.135,0.556,0.034,0.14300000000000002,1,2019-20,Memphis
+Lance Thomas,8,0.235,0.21100000000000002,0.5,0,0,NA,2019-20,Memphis
+Malcolm Dandridge,8,0.163,0.212,1,0.25,0,0,2019-20,Memphis
+Lester Quinones,7,0.096,0.125,0.8,0.07400000000000001,0,0,2019-20,Memphis
+Jayden Hardaway,5,0.3,0.28600000000000003,0.667,0.111,0.25,1,2019-20,Memphis
+D.J. Jeffries,4,0.055,0.057,0.75,0,0,NA,2019-20,Memphis
+Isaiah Maurice,4,0.07400000000000001,0.11800000000000001,1,0.08,0.091,0.5,2019-20,Memphis
+Boogie Ellis,2,0.017,0.034,1,0.016,0,0,2019-20,Memphis
+James Wiseman,2,0.105,0.11800000000000001,1,0,0,NA,2019-20,Memphis
+Tyler Harris,2,0.025,0.062,1,0,0,NA,2019-20,Memphis
+Alex Lomax,2,0.015,0.027999999999999997,1,0.016,0,0,2019-20,Memphis
+Ryan Boyce,1,0.5,1,1,NA,NA,NA,2019-20,Memphis
+Total,104,0.12300000000000001,0.13699999999999998,0.685,0.031,0.024,0.231,2019-20,Memphis

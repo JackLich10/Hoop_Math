@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kris Acox,37,0.145,0.156,0.7879999999999999,0.044000000000000004,0,0,2016-17
-Daniel Fowler,11,0.071,0.09300000000000001,0.7140000000000001,0.053,0.065,0.5,2016-17
-Matt Rafferty,11,0.262,0.25,0.636,0,0,NA,2016-17
-Jalen Williams,6,0.17600000000000002,0.16699999999999998,0.5,0,0,NA,2016-17
-Tre Clark,5,0.23800000000000002,0.25,0.4,0,0,NA,2016-17
-John Davis III,3,0.019,0,0,0.013999999999999999,0.037000000000000005,1,2016-17
-Andrew Brown,3,0.05,0.111,1,0.14300000000000002,0,0,2016-17
-Geoff Beans,2,0.182,0,0,0,0,NA,2016-17
-Jordan Lyons,1,0.038,0.062,1,0,0,NA,2016-17
-Devin Sibley,1,0.008,0.011000000000000001,1,0,0,NA,2016-17
-Total,80,0.099,0.105,0.6759999999999999,0.026000000000000002,0.019,0.273,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kris Acox,37,0.145,0.156,0.7879999999999999,0.044000000000000004,0,0,2016-17,Furman
+Daniel Fowler,11,0.071,0.09300000000000001,0.7140000000000001,0.053,0.065,0.5,2016-17,Furman
+Matt Rafferty,11,0.262,0.25,0.636,0,0,NA,2016-17,Furman
+Jalen Williams,6,0.17600000000000002,0.16699999999999998,0.5,0,0,NA,2016-17,Furman
+Tre Clark,5,0.23800000000000002,0.25,0.4,0,0,NA,2016-17,Furman
+John Davis III,3,0.019,0,0,0.013999999999999999,0.037000000000000005,1,2016-17,Furman
+Andrew Brown,3,0.05,0.111,1,0.14300000000000002,0,0,2016-17,Furman
+Geoff Beans,2,0.182,0,0,0,0,NA,2016-17,Furman
+Jordan Lyons,1,0.038,0.062,1,0,0,NA,2016-17,Furman
+Devin Sibley,1,0.008,0.011000000000000001,1,0,0,NA,2016-17,Furman
+Total,80,0.099,0.105,0.6759999999999999,0.026000000000000002,0.019,0.273,2016-17,Furman

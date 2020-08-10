@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Mitch Bruneel,24,0.168,0.145,0.579,0.083,0.038,0.2,2013-14
-Ben Aird,24,0.133,0.096,0.42100000000000004,0.04,0.07,0.6,2013-14
-Zach Nelson,18,0.12300000000000001,0.135,0.706,0.018000000000000002,0,0,2013-14
-Hayes Garrity,5,0.051,0.077,0.667,0.011000000000000001,0,0,2013-14
-Brenden Evans,4,0.10800000000000001,0.136,0.75,0,0,NA,2013-14
-Chad Ross,3,0.1,0,0,0.077,0,0,2013-14
-Keawe Enos,2,0,0,NA,0,0,NA,2013-14
-Eli Robison,1,0,0,NA,1,NA,0,2013-14
-Taylor Brown,1,0,0,NA,NA,NA,NA,2013-14
-Total,82,0.107,0.107,0.5710000000000001,0.031,0.021,0.267,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Mitch Bruneel,24,0.168,0.145,0.579,0.083,0.038,0.2,2013-14,UtahValley
+Ben Aird,24,0.133,0.096,0.42100000000000004,0.04,0.07,0.6,2013-14,UtahValley
+Zach Nelson,18,0.12300000000000001,0.135,0.706,0.018000000000000002,0,0,2013-14,UtahValley
+Hayes Garrity,5,0.051,0.077,0.667,0.011000000000000001,0,0,2013-14,UtahValley
+Brenden Evans,4,0.10800000000000001,0.136,0.75,0,0,NA,2013-14,UtahValley
+Chad Ross,3,0.1,0,0,0.077,0,0,2013-14,UtahValley
+Keawe Enos,2,0,0,NA,0,0,NA,2013-14,UtahValley
+Eli Robison,1,0,0,NA,1,NA,0,2013-14,UtahValley
+Taylor Brown,1,0,0,NA,NA,NA,NA,2013-14,UtahValley
+Total,82,0.107,0.107,0.5710000000000001,0.031,0.021,0.267,2013-14,UtahValley

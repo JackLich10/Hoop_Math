@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jalen Johnson,38,0.223,0.23800000000000002,0.645,0.057999999999999996,0.024,0.16699999999999998,2019-20
-Dou Gueye,34,0.222,0.21600000000000003,0.55,0.131,0.185,0.385,2019-20
-Tirus Smith,27,0.276,0.305,0.75,0.079,0.16699999999999998,0.33299999999999996,2019-20
-Mylik Wilson,11,0.045,0.042,0.6,0.065,0.07400000000000001,0.4,2019-20
-Kobe Julien,6,0.111,0.158,0.75,0.1,0,0,2019-20
-Chris Spenkuch,5,0.25,0.3,0.75,0.2,0,0,2019-20
-Kristian Lafayette,5,0.214,0.429,1,0.154,0.25,0.5,2019-20
-Mason Aucoin,2,0.33299999999999996,0,0,0.2,0.25,1,2019-20
-Cedric Russell,2,0.011000000000000001,0.019,1,0.012,0,0,2019-20
-P.J. Hardy,1,0,0,NA,0,0,NA,2019-20
-Trajan Wesley,1,0.027000000000000003,0.055999999999999994,1,0,0,NA,2019-20
-Total,132,0.142,0.159,0.67,0.068,0.064,0.324,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jalen Johnson,38,0.223,0.23800000000000002,0.645,0.057999999999999996,0.024,0.16699999999999998,2019-20,Louisiana
+Dou Gueye,34,0.222,0.21600000000000003,0.55,0.131,0.185,0.385,2019-20,Louisiana
+Tirus Smith,27,0.276,0.305,0.75,0.079,0.16699999999999998,0.33299999999999996,2019-20,Louisiana
+Mylik Wilson,11,0.045,0.042,0.6,0.065,0.07400000000000001,0.4,2019-20,Louisiana
+Kobe Julien,6,0.111,0.158,0.75,0.1,0,0,2019-20,Louisiana
+Chris Spenkuch,5,0.25,0.3,0.75,0.2,0,0,2019-20,Louisiana
+Kristian Lafayette,5,0.214,0.429,1,0.154,0.25,0.5,2019-20,Louisiana
+Mason Aucoin,2,0.33299999999999996,0,0,0.2,0.25,1,2019-20,Louisiana
+Cedric Russell,2,0.011000000000000001,0.019,1,0.012,0,0,2019-20,Louisiana
+P.J. Hardy,1,0,0,NA,0,0,NA,2019-20,Louisiana
+Trajan Wesley,1,0.027000000000000003,0.055999999999999994,1,0,0,NA,2019-20,Louisiana
+Total,132,0.142,0.159,0.67,0.068,0.064,0.324,2019-20,Louisiana

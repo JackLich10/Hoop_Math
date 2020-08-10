@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Michael Jacobson,39,0.38799999999999996,0.37,0.526,0.179,0.195,0.4,2016-17
-Morrow Ed,34,0.248,0.242,0.64,0.134,0.15,0.33299999999999996,2016-17
-Jordy Tshimanga,18,0.17800000000000002,0.179,0.625,0.122,0.069,0.2,2016-17
-Isaiah Roby,14,0.10800000000000001,0.13,0.75,0.27,0.5,0.5,2016-17
-Tai Webster,9,0.006,0,0,0.053,0.10800000000000001,0.5710000000000001,2016-17
-Evan Taylor,7,0.068,0.04,0.33299999999999996,0.047,0.091,0.75,2016-17
-Jack McVeigh,6,0,0,NA,0.15,0.33299999999999996,0.833,2016-17
-Jeriah Horne,4,0,0,NA,0.105,0.17600000000000002,0.75,2016-17
-Anton Gill,3,0,0,NA,0.14300000000000002,0.2,0.33299999999999996,2016-17
-Watson Glynn,2,0.015,0.024,1,0.006999999999999999,0.02,1,2016-17
-",GLYNN",1,0,0,NA,0.16699999999999998,0,0,2016-17
-",ED",1,0.2,0.33299999999999996,1,0,0,NA,2016-17
-Total,138,0.109,0.106,0.597,0.096,0.132,0.467,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Michael Jacobson,39,0.38799999999999996,0.37,0.526,0.179,0.195,0.4,2016-17,Nebraska
+Morrow Ed,34,0.248,0.242,0.64,0.134,0.15,0.33299999999999996,2016-17,Nebraska
+Jordy Tshimanga,18,0.17800000000000002,0.179,0.625,0.122,0.069,0.2,2016-17,Nebraska
+Isaiah Roby,14,0.10800000000000001,0.13,0.75,0.27,0.5,0.5,2016-17,Nebraska
+Tai Webster,9,0.006,0,0,0.053,0.10800000000000001,0.5710000000000001,2016-17,Nebraska
+Evan Taylor,7,0.068,0.04,0.33299999999999996,0.047,0.091,0.75,2016-17,Nebraska
+Jack McVeigh,6,0,0,NA,0.15,0.33299999999999996,0.833,2016-17,Nebraska
+Jeriah Horne,4,0,0,NA,0.105,0.17600000000000002,0.75,2016-17,Nebraska
+Anton Gill,3,0,0,NA,0.14300000000000002,0.2,0.33299999999999996,2016-17,Nebraska
+Watson Glynn,2,0.015,0.024,1,0.006999999999999999,0.02,1,2016-17,Nebraska
+",GLYNN",1,0,0,NA,0.16699999999999998,0,0,2016-17,Nebraska
+",ED",1,0.2,0.33299999999999996,1,0,0,NA,2016-17,Nebraska
+Total,138,0.109,0.106,0.597,0.096,0.132,0.467,2016-17,Nebraska

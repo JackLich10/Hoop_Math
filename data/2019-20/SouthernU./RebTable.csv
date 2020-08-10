@@ -1,18 +1,18 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Damiree Burns,25,0.203,0.233,0.708,0.013000000000000001,0,0,2019-20
-Darius Williams,21,0.14,0.154,0.706,0.10300000000000001,0.091,0.25,2019-20
-Lamarcus Lee,14,0.22399999999999998,0.205,0.615,0.013999999999999999,0.034,1,2019-20
-Amel Kuljuhovic,13,0.1,0.11900000000000001,0.889,0.055,0,0,2019-20
-Ahsante Shivers,6,0.10400000000000001,0.05,0.2,0.012,0,0,2019-20
-Delor Johnson,4,0.222,0.2,0.5,0.1,0,0,2019-20
-Skyler Baggs,4,0.055999999999999994,0.067,0.75,0,0,NA,2019-20
-Jayden Saddler,3,0.048,0,0,0.022000000000000002,0,0,2019-20
-Isaiah  Rollins,3,0.11800000000000001,0,0,0.055999999999999994,0,0,2019-20
-"PLAYER,NO",2,1,NA,0,0,0,NA,2019-20
-James Edwards,2,0.33299999999999996,0.5,1,0,0,NA,2019-20
-Samuel  Mack,2,0.14300000000000002,0.2,1,0,0,NA,2019-20
-Montese Blake,2,0.04,0.077,1,0.02,0,0,2019-20
-Brendon Brook,1,0,0,NA,0.025,0,0,2019-20
-Osa Wilson,1,0.083,0.2,1,0,0,NA,2019-20
-Micah Bradford,1,0,0,NA,0.021,0,0,2019-20
-Total,104,0.11699999999999999,0.124,0.647,0.028999999999999998,0.01,0.11800000000000001,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Damiree Burns,25,0.203,0.233,0.708,0.013000000000000001,0,0,2019-20,SouthernU.
+Darius Williams,21,0.14,0.154,0.706,0.10300000000000001,0.091,0.25,2019-20,SouthernU.
+Lamarcus Lee,14,0.22399999999999998,0.205,0.615,0.013999999999999999,0.034,1,2019-20,SouthernU.
+Amel Kuljuhovic,13,0.1,0.11900000000000001,0.889,0.055,0,0,2019-20,SouthernU.
+Ahsante Shivers,6,0.10400000000000001,0.05,0.2,0.012,0,0,2019-20,SouthernU.
+Delor Johnson,4,0.222,0.2,0.5,0.1,0,0,2019-20,SouthernU.
+Skyler Baggs,4,0.055999999999999994,0.067,0.75,0,0,NA,2019-20,SouthernU.
+Jayden Saddler,3,0.048,0,0,0.022000000000000002,0,0,2019-20,SouthernU.
+Isaiah  Rollins,3,0.11800000000000001,0,0,0.055999999999999994,0,0,2019-20,SouthernU.
+"PLAYER,NO",2,1,NA,0,0,0,NA,2019-20,SouthernU.
+James Edwards,2,0.33299999999999996,0.5,1,0,0,NA,2019-20,SouthernU.
+Samuel  Mack,2,0.14300000000000002,0.2,1,0,0,NA,2019-20,SouthernU.
+Montese Blake,2,0.04,0.077,1,0.02,0,0,2019-20,SouthernU.
+Brendon Brook,1,0,0,NA,0.025,0,0,2019-20,SouthernU.
+Osa Wilson,1,0.083,0.2,1,0,0,NA,2019-20,SouthernU.
+Micah Bradford,1,0,0,NA,0.021,0,0,2019-20,SouthernU.
+Total,104,0.11699999999999999,0.124,0.647,0.028999999999999998,0.01,0.11800000000000001,2019-20,SouthernU.

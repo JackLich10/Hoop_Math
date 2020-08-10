@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Hank Hollingsworth,15,0.255,0.289,0.7859999999999999,0.1,0,0,2017-18
-Luke Meikle,8,0.079,0.067,0.33299999999999996,0.043,0.065,0.6,2017-18
-Josh Martin,7,0.109,0.038,0.16699999999999998,0.013999999999999999,0.043,1,2017-18
-Aleks Abrams,7,0.188,0.125,0.33299999999999996,0.067,0,0,2017-18
-Mark Crowe,6,0.21100000000000002,0.125,0.25,0.077,0,0,2017-18
-Karlis Garoza,5,0.1,0.1,0.5,0.158,0.16699999999999998,0.33299999999999996,2017-18
-Marcellus Garrick,4,0.057,0.111,1,0.05,0,0,2017-18
-Victor Joseph,4,0.022000000000000002,0.021,0.5,0.021,0.028999999999999998,0.5,2017-18
-Jakub Niziol,3,0,0,NA,0.115,0.2,0.667,2017-18
-Donovan Fields,2,0,0,NA,0.006999999999999999,0,0,2017-18
-Trevor John,1,1,NA,0,0,0,NA,2017-18
-Total,62,0.08,0.081,0.5,0.035,0.039,0.4,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Hank Hollingsworth,15,0.255,0.289,0.7859999999999999,0.1,0,0,2017-18,CalPoly
+Luke Meikle,8,0.079,0.067,0.33299999999999996,0.043,0.065,0.6,2017-18,CalPoly
+Josh Martin,7,0.109,0.038,0.16699999999999998,0.013999999999999999,0.043,1,2017-18,CalPoly
+Aleks Abrams,7,0.188,0.125,0.33299999999999996,0.067,0,0,2017-18,CalPoly
+Mark Crowe,6,0.21100000000000002,0.125,0.25,0.077,0,0,2017-18,CalPoly
+Karlis Garoza,5,0.1,0.1,0.5,0.158,0.16699999999999998,0.33299999999999996,2017-18,CalPoly
+Marcellus Garrick,4,0.057,0.111,1,0.05,0,0,2017-18,CalPoly
+Victor Joseph,4,0.022000000000000002,0.021,0.5,0.021,0.028999999999999998,0.5,2017-18,CalPoly
+Jakub Niziol,3,0,0,NA,0.115,0.2,0.667,2017-18,CalPoly
+Donovan Fields,2,0,0,NA,0.006999999999999999,0,0,2017-18,CalPoly
+Trevor John,1,1,NA,0,0,0,NA,2017-18,CalPoly
+Total,62,0.08,0.081,0.5,0.035,0.039,0.4,2017-18,CalPoly

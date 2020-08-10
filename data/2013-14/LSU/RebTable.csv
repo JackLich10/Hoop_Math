@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jordan Mickey,37,0.184,0.146,0.609,0.073,0.053,0.28600000000000003,2013-14
-Johnny O'Bryant III,37,0.163,0.18,0.762,0.06,0.037000000000000005,0.25,2013-14
-Jarell Martin,30,0.204,0.20800000000000002,0.789,0.133,0.091,0.182,2013-14
-Malik Morgan,14,0.39299999999999996,0.5379999999999999,0.636,0.125,0.2,0.667,2013-14
-Shavon Coleman,12,0.11,0.128,0.667,0.062,0.133,0.667,2013-14
-Tim Quarterman,8,0.174,0.182,0.5,0.114,0.14300000000000002,0.25,2013-14
-John Odo,6,0.5,0.5710000000000001,0.8,0.125,0.25,1,2013-14
-Anthony Hickey,5,0.133,0.11800000000000001,0.5,0.016,0.048,1,2013-14
-Andre Stringer,5,0.08900000000000001,0.036000000000000004,0.25,0.016,0.048,1,2013-14
-Darcy Malone,2,0,0,NA,0.28600000000000003,0,0,2013-14
-Shane Hammink,2,0.25,0.33299999999999996,1,0,0,NA,2013-14
-"III,JOHNNY",1,0,0,NA,0.125,0.2,1,2013-14
-Brandon Eddlestone,1,0,NA,NA,0.16699999999999998,0.5,1,2013-14
-Total,160,0.175,0.17600000000000002,0.6759999999999999,0.07200000000000001,0.068,0.345,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jordan Mickey,37,0.184,0.146,0.609,0.073,0.053,0.28600000000000003,2013-14,LSU
+Johnny O'Bryant III,37,0.163,0.18,0.762,0.06,0.037000000000000005,0.25,2013-14,LSU
+Jarell Martin,30,0.204,0.20800000000000002,0.789,0.133,0.091,0.182,2013-14,LSU
+Malik Morgan,14,0.39299999999999996,0.5379999999999999,0.636,0.125,0.2,0.667,2013-14,LSU
+Shavon Coleman,12,0.11,0.128,0.667,0.062,0.133,0.667,2013-14,LSU
+Tim Quarterman,8,0.174,0.182,0.5,0.114,0.14300000000000002,0.25,2013-14,LSU
+John Odo,6,0.5,0.5710000000000001,0.8,0.125,0.25,1,2013-14,LSU
+Anthony Hickey,5,0.133,0.11800000000000001,0.5,0.016,0.048,1,2013-14,LSU
+Andre Stringer,5,0.08900000000000001,0.036000000000000004,0.25,0.016,0.048,1,2013-14,LSU
+Darcy Malone,2,0,0,NA,0.28600000000000003,0,0,2013-14,LSU
+Shane Hammink,2,0.25,0.33299999999999996,1,0,0,NA,2013-14,LSU
+"III,JOHNNY",1,0,0,NA,0.125,0.2,1,2013-14,LSU
+Brandon Eddlestone,1,0,NA,NA,0.16699999999999998,0.5,1,2013-14,LSU
+Total,160,0.175,0.17600000000000002,0.6759999999999999,0.07200000000000001,0.068,0.345,2013-14,LSU

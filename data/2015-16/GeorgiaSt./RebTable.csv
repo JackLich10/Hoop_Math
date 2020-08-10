@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Markus Crider,14,0.14,0.15,0.643,0,0,NA,2015-16
-T.J. Shipes,14,0.161,0.161,0.643,0,0,NA,2015-16
-Jordan Session,8,0.28600000000000003,0.231,0.5,0.037000000000000005,0,0,2015-16
-Jeremy Hollowell,7,0.066,0.057999999999999996,0.5,0.006999999999999999,0.016,1,2015-16
-Jeff Thomas,6,0.23800000000000002,0.231,0.6,0.022000000000000002,0,0,2015-16
-Kevin Ware,6,0.044000000000000004,0.047,0.5,0.008,0,0,2015-16
-Malik Benlevi,4,0.154,0.154,0.5,0,0,NA,2015-16
-Isaiah Dennis,2,0.033,0.026000000000000002,0.5,0,0,NA,2015-16
-Austin Donaldson,1,0.067,0.111,1,0,0,NA,2015-16
-Isaiah Williams,1,0.018000000000000002,0,0,0,0,NA,2015-16
-Total,63,0.1,0.10099999999999999,0.579,0.008,0.004,0.2,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Markus Crider,14,0.14,0.15,0.643,0,0,NA,2015-16,GeorgiaSt.
+T.J. Shipes,14,0.161,0.161,0.643,0,0,NA,2015-16,GeorgiaSt.
+Jordan Session,8,0.28600000000000003,0.231,0.5,0.037000000000000005,0,0,2015-16,GeorgiaSt.
+Jeremy Hollowell,7,0.066,0.057999999999999996,0.5,0.006999999999999999,0.016,1,2015-16,GeorgiaSt.
+Jeff Thomas,6,0.23800000000000002,0.231,0.6,0.022000000000000002,0,0,2015-16,GeorgiaSt.
+Kevin Ware,6,0.044000000000000004,0.047,0.5,0.008,0,0,2015-16,GeorgiaSt.
+Malik Benlevi,4,0.154,0.154,0.5,0,0,NA,2015-16,GeorgiaSt.
+Isaiah Dennis,2,0.033,0.026000000000000002,0.5,0,0,NA,2015-16,GeorgiaSt.
+Austin Donaldson,1,0.067,0.111,1,0,0,NA,2015-16,GeorgiaSt.
+Isaiah Williams,1,0.018000000000000002,0,0,0,0,NA,2015-16,GeorgiaSt.
+Total,63,0.1,0.10099999999999999,0.579,0.008,0.004,0.2,2015-16,GeorgiaSt.

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.34299999999999997,0.5479999999999999,0.14800000000000002,0.643,2018-19
-2pt Jumpers,0.308,0.322,0.045,0.337,2018-19
-3pt Shots,0.35,0.315,0.01,0.319,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.34299999999999997,0.5479999999999999,0.14800000000000002,0.643,2018-19,Wisconsin
+2pt Jumpers,0.308,0.322,0.045,0.337,2018-19,Wisconsin
+3pt Shots,0.35,0.315,0.01,0.319,2018-19,Wisconsin

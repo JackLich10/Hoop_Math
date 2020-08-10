@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.373,0.591,0.111,0.665,2013-14
-2pt Jumpers,0.34299999999999997,0.319,0.11,0.359,2013-14
-3pt Shots,0.284,0.36200000000000004,0.006,0.364,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.373,0.591,0.111,0.665,2013-14,OralRoberts
+2pt Jumpers,0.34299999999999997,0.319,0.11,0.359,2013-14,OralRoberts
+3pt Shots,0.284,0.36200000000000004,0.006,0.364,2013-14,OralRoberts

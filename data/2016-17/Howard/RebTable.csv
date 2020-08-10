@@ -1,16 +1,16 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Solomon Mangham,25,0.37200000000000005,0.316,0.375,0.067,0.048,0.25,2016-17
-Marcel Boyd,23,0.281,0.3,0.562,0.09300000000000001,0.16699999999999998,0.5710000000000001,2016-17
-Charles Williams,15,0.079,0.07400000000000001,0.5710000000000001,0.040999999999999995,0.034,0.28600000000000003,2016-17
-James Miller,11,0.078,0.077,0.6,0.012,0.038,1,2016-17
-Damon Collins,9,0.086,0.163,1,0.01,0,0,2016-17
-Tyler Stone,8,0.125,0.09699999999999999,0.429,0.028999999999999998,0.1,1,2016-17
-Kofi Andoh,7,0.16,0.182,0.5,0.067,0.16699999999999998,1,2016-17
-Jalen Jones,5,0.312,0.364,0.8,0,0,NA,2016-17
-Cameron Lewis,4,0.2,0.214,0.75,0,0,NA,2016-17
-Michael Obindu,4,0.5710000000000001,0.667,0.5,0,0,NA,2016-17
-Chuck Smith,1,0.25,0.5,1,0,0,NA,2016-17
-James Daniel,1,0,0,NA,0,0,NA,2016-17
-Dalique Mingo,1,0.042,0.077,1,0,0,NA,2016-17
-Ausar Madison,1,0.1,0.5,1,0,NA,NA,2016-17
-Total,115,0.145,0.156,0.595,0.040999999999999995,0.055999999999999994,0.46399999999999997,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Solomon Mangham,25,0.37200000000000005,0.316,0.375,0.067,0.048,0.25,2016-17,Howard
+Marcel Boyd,23,0.281,0.3,0.562,0.09300000000000001,0.16699999999999998,0.5710000000000001,2016-17,Howard
+Charles Williams,15,0.079,0.07400000000000001,0.5710000000000001,0.040999999999999995,0.034,0.28600000000000003,2016-17,Howard
+James Miller,11,0.078,0.077,0.6,0.012,0.038,1,2016-17,Howard
+Damon Collins,9,0.086,0.163,1,0.01,0,0,2016-17,Howard
+Tyler Stone,8,0.125,0.09699999999999999,0.429,0.028999999999999998,0.1,1,2016-17,Howard
+Kofi Andoh,7,0.16,0.182,0.5,0.067,0.16699999999999998,1,2016-17,Howard
+Jalen Jones,5,0.312,0.364,0.8,0,0,NA,2016-17,Howard
+Cameron Lewis,4,0.2,0.214,0.75,0,0,NA,2016-17,Howard
+Michael Obindu,4,0.5710000000000001,0.667,0.5,0,0,NA,2016-17,Howard
+Chuck Smith,1,0.25,0.5,1,0,0,NA,2016-17,Howard
+James Daniel,1,0,0,NA,0,0,NA,2016-17,Howard
+Dalique Mingo,1,0.042,0.077,1,0,0,NA,2016-17,Howard
+Ausar Madison,1,0.1,0.5,1,0,NA,NA,2016-17,Howard
+Total,115,0.145,0.156,0.595,0.040999999999999995,0.055999999999999994,0.46399999999999997,2016-17,Howard

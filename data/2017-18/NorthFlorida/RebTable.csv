@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Noah Horchler,27,0.16399999999999998,0.207,0.857,0.068,0.044000000000000004,0.33299999999999996,2017-18
-Wajid Aminu,22,0.159,0.19399999999999998,0.667,0.016,0,0,2017-18
-Trip Day,19,0.087,0.071,0.6,0.1,0.136,0.667,2017-18
-Garrett Sams,4,0.038,0.026000000000000002,0.33299999999999996,0.02,0,0,2017-18
-Osborn Blount,2,0.034,0.038,0.5,0,0,NA,2017-18
-Emmanuel Lambright,2,0.16699999999999998,0.2,1,0.14300000000000002,0,0,2017-18
-Brian Coffey II,1,0,0,NA,0.125,0,0,2017-18
-Ivan Gandia-Rosa,1,0.01,0.019,1,0,0,NA,2017-18
-Ryan Burkhardt,1,0,NA,NA,0.5,NA,0,2017-18
-Total,79,0.087,0.10400000000000001,0.7120000000000001,0.046,0.045,0.4,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Noah Horchler,27,0.16399999999999998,0.207,0.857,0.068,0.044000000000000004,0.33299999999999996,2017-18,NorthFlorida
+Wajid Aminu,22,0.159,0.19399999999999998,0.667,0.016,0,0,2017-18,NorthFlorida
+Trip Day,19,0.087,0.071,0.6,0.1,0.136,0.667,2017-18,NorthFlorida
+Garrett Sams,4,0.038,0.026000000000000002,0.33299999999999996,0.02,0,0,2017-18,NorthFlorida
+Osborn Blount,2,0.034,0.038,0.5,0,0,NA,2017-18,NorthFlorida
+Emmanuel Lambright,2,0.16699999999999998,0.2,1,0.14300000000000002,0,0,2017-18,NorthFlorida
+Brian Coffey II,1,0,0,NA,0.125,0,0,2017-18,NorthFlorida
+Ivan Gandia-Rosa,1,0.01,0.019,1,0,0,NA,2017-18,NorthFlorida
+Ryan Burkhardt,1,0,NA,NA,0.5,NA,0,2017-18,NorthFlorida
+Total,79,0.087,0.10400000000000001,0.7120000000000001,0.046,0.045,0.4,2017-18,NorthFlorida

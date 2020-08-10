@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.298,0.513,0.134,0.593,2014-15
-2pt Jumpers,0.414,0.345,0.11699999999999999,0.391,2014-15
-3pt Shots,0.289,0.33899999999999997,0.004,0.341,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.298,0.513,0.134,0.593,2014-15,UCIrvine
+2pt Jumpers,0.414,0.345,0.11699999999999999,0.391,2014-15,UCIrvine
+3pt Shots,0.289,0.33899999999999997,0.004,0.341,2014-15,UCIrvine

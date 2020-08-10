@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Temidayo Yussuf,31,0.134,0.14,0.615,0.133,0.12300000000000001,0.444,2016-17
-Roschon Prince,27,0.081,0.078,0.556,0.161,0.325,0.722,2016-17
-Gabe Levin,15,0.179,0.217,0.833,0.053,0.062,0.33299999999999996,2016-17
-Mason Riggins,15,0.282,0.26899999999999996,0.636,0.14800000000000002,0.2,0.5,2016-17
-Evan Payne,9,0.016,0.03,1,0.052000000000000005,0.053,0.429,2016-17
-Javonntie Jackson,5,0.21100000000000002,0.267,1,0.042,0,0,2016-17
-Larond Williams,5,0.556,0.667,0.4,0,0,NA,2016-17
-Noah Blackwell,3,0.062,0.1,1,0.033,0,0,2016-17
-Barry Ogalue,3,0.044000000000000004,0.061,1,0.03,0.071,1,2016-17
-Jordan Griffin,2,0,0,NA,0.08,0,0,2016-17
-Quentin Shropshire,2,0.125,0,0,0.25,0.5,1,2016-17
-Loren Jackson,1,0.025,0.045,1,0,0,NA,2016-17
-Justin Bibbins,1,0,0,NA,0.006,0,0,2016-17
-Total,119,0.10300000000000001,0.11800000000000001,0.6829999999999999,0.069,0.08800000000000001,0.5,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Temidayo Yussuf,31,0.134,0.14,0.615,0.133,0.12300000000000001,0.444,2016-17,LongBeachSt.
+Roschon Prince,27,0.081,0.078,0.556,0.161,0.325,0.722,2016-17,LongBeachSt.
+Gabe Levin,15,0.179,0.217,0.833,0.053,0.062,0.33299999999999996,2016-17,LongBeachSt.
+Mason Riggins,15,0.282,0.26899999999999996,0.636,0.14800000000000002,0.2,0.5,2016-17,LongBeachSt.
+Evan Payne,9,0.016,0.03,1,0.052000000000000005,0.053,0.429,2016-17,LongBeachSt.
+Javonntie Jackson,5,0.21100000000000002,0.267,1,0.042,0,0,2016-17,LongBeachSt.
+Larond Williams,5,0.556,0.667,0.4,0,0,NA,2016-17,LongBeachSt.
+Noah Blackwell,3,0.062,0.1,1,0.033,0,0,2016-17,LongBeachSt.
+Barry Ogalue,3,0.044000000000000004,0.061,1,0.03,0.071,1,2016-17,LongBeachSt.
+Jordan Griffin,2,0,0,NA,0.08,0,0,2016-17,LongBeachSt.
+Quentin Shropshire,2,0.125,0,0,0.25,0.5,1,2016-17,LongBeachSt.
+Loren Jackson,1,0.025,0.045,1,0,0,NA,2016-17,LongBeachSt.
+Justin Bibbins,1,0,0,NA,0.006,0,0,2016-17,LongBeachSt.
+Total,119,0.10300000000000001,0.11800000000000001,0.6829999999999999,0.069,0.08800000000000001,0.5,2016-17,LongBeachSt.

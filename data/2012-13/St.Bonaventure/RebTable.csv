@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Marquise Simmons,19,0.183,0.16899999999999998,0.667,0.085,0.2,0.5,2012-13
-Demitrius Conger,13,0.087,0.106,0.778,0.06,0.083,0.5,2012-13
-Youssou Ndoye,11,0.092,0.078,0.5710000000000001,0.057999999999999996,0,0,2012-13
-Chris Johnson,10,0.071,0.083,0.667,0.038,0.027999999999999997,0.25,2012-13
-Matthew Wright,5,0.087,0.067,0.5,0.03,0,0,2012-13
-Jordan Gathers,4,0.081,0.05,0.33299999999999996,0.062,0,0,2012-13
-Dion Wright,4,0.188,0.222,0.667,0.091,0.2,1,2012-13
-Charlon Kloof,1,0,0,NA,0.062,0,0,2012-13
-Michael Davenport,1,0.062,0.125,1,0,0,NA,2012-13
-Total,68,0.085,0.09,0.6459999999999999,0.045,0.039,0.3,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Marquise Simmons,19,0.183,0.16899999999999998,0.667,0.085,0.2,0.5,2012-13,St.Bonaventure
+Demitrius Conger,13,0.087,0.106,0.778,0.06,0.083,0.5,2012-13,St.Bonaventure
+Youssou Ndoye,11,0.092,0.078,0.5710000000000001,0.057999999999999996,0,0,2012-13,St.Bonaventure
+Chris Johnson,10,0.071,0.083,0.667,0.038,0.027999999999999997,0.25,2012-13,St.Bonaventure
+Matthew Wright,5,0.087,0.067,0.5,0.03,0,0,2012-13,St.Bonaventure
+Jordan Gathers,4,0.081,0.05,0.33299999999999996,0.062,0,0,2012-13,St.Bonaventure
+Dion Wright,4,0.188,0.222,0.667,0.091,0.2,1,2012-13,St.Bonaventure
+Charlon Kloof,1,0,0,NA,0.062,0,0,2012-13,St.Bonaventure
+Michael Davenport,1,0.062,0.125,1,0,0,NA,2012-13,St.Bonaventure
+Total,68,0.085,0.09,0.6459999999999999,0.045,0.039,0.3,2012-13,St.Bonaventure

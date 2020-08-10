@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tevin Falzon,34,0.284,0.327,0.485,0.026000000000000002,0.071,1,2015-16
-Jordan Allen,32,0.198,0.20800000000000002,0.6559999999999999,0,0,NA,2015-16
-Eyimofe Edukugho,14,0.2,0.195,0.5710000000000001,0,0,NA,2015-16
-Quincy McKnight,12,0.077,0.10800000000000001,0.75,0,0,NA,2015-16
-Matej Buovac,10,0.273,0.133,0.222,0.1,0,0,2015-16
-Jermaine Ukaegbu,8,0.348,0.429,0.75,0,NA,NA,2015-16
-Cane Broome,7,0.022000000000000002,0.031,0.8,0.011000000000000001,0,0,2015-16
-Sean Hoehn,4,0.07,0.12,1,0.083,0.33299999999999996,1,2015-16
-Chris Robinson,4,0.067,0,0,0.077,0.25,1,2015-16
-Cole Walton,1,0.1,0.25,1,0,NA,NA,2015-16
-Filip Nowicki,1,0.067,0.1,1,0,0,NA,2015-16
-Total,127,0.134,0.14400000000000002,0.5870000000000001,0.013999999999999999,0.024,0.6,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tevin Falzon,34,0.284,0.327,0.485,0.026000000000000002,0.071,1,2015-16,SacredHeart
+Jordan Allen,32,0.198,0.20800000000000002,0.6559999999999999,0,0,NA,2015-16,SacredHeart
+Eyimofe Edukugho,14,0.2,0.195,0.5710000000000001,0,0,NA,2015-16,SacredHeart
+Quincy McKnight,12,0.077,0.10800000000000001,0.75,0,0,NA,2015-16,SacredHeart
+Matej Buovac,10,0.273,0.133,0.222,0.1,0,0,2015-16,SacredHeart
+Jermaine Ukaegbu,8,0.348,0.429,0.75,0,NA,NA,2015-16,SacredHeart
+Cane Broome,7,0.022000000000000002,0.031,0.8,0.011000000000000001,0,0,2015-16,SacredHeart
+Sean Hoehn,4,0.07,0.12,1,0.083,0.33299999999999996,1,2015-16,SacredHeart
+Chris Robinson,4,0.067,0,0,0.077,0.25,1,2015-16,SacredHeart
+Cole Walton,1,0.1,0.25,1,0,NA,NA,2015-16,SacredHeart
+Filip Nowicki,1,0.067,0.1,1,0,0,NA,2015-16,SacredHeart
+Total,127,0.134,0.14400000000000002,0.5870000000000001,0.013999999999999999,0.024,0.6,2015-16,SacredHeart

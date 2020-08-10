@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.33,0.621,0.07,0.6679999999999999,2014-15
-2pt Jumpers,0.311,0.41,0.04,0.42700000000000005,2014-15
-3pt Shots,0.36,0.313,0.002,0.313,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.33,0.621,0.07,0.6679999999999999,2014-15,EastCarolina
+2pt Jumpers,0.311,0.41,0.04,0.42700000000000005,2014-15,EastCarolina
+3pt Shots,0.36,0.313,0.002,0.313,2014-15,EastCarolina

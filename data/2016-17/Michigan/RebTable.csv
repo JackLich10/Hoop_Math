@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-D.J. Wilson,27,0.157,0.174,0.9229999999999999,0.11599999999999999,0.16699999999999998,0.6920000000000001,2016-17
-Moritz Wagner,17,0.027000000000000003,0.024,0.667,0.158,0.256,0.833,2016-17
-Mark Donnal,12,0.2,0.14800000000000002,0.5710000000000001,0.179,0.35700000000000004,1,2016-17
-Muhammad-Ali Abdur-Rahkman,7,0.027999999999999997,0.036000000000000004,1,0.052000000000000005,0.045,0.25,2016-17
-Zak Irvin,4,0.038,0.045,1,0.005,0,0,2016-17
-Duncan Robinson,4,0,0,NA,0.053,0.067,0.5,2016-17
-Walton Derrick,2,0.018000000000000002,0.028999999999999998,1,0.01,0,0,2016-17
-Jon Teske,1,0,NA,NA,0.2,0,0,2016-17
-Total,74,0.06,0.064,0.828,0.059000000000000004,0.09699999999999999,0.667,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+D.J. Wilson,27,0.157,0.174,0.9229999999999999,0.11599999999999999,0.16699999999999998,0.6920000000000001,2016-17,Michigan
+Moritz Wagner,17,0.027000000000000003,0.024,0.667,0.158,0.256,0.833,2016-17,Michigan
+Mark Donnal,12,0.2,0.14800000000000002,0.5710000000000001,0.179,0.35700000000000004,1,2016-17,Michigan
+Muhammad-Ali Abdur-Rahkman,7,0.027999999999999997,0.036000000000000004,1,0.052000000000000005,0.045,0.25,2016-17,Michigan
+Zak Irvin,4,0.038,0.045,1,0.005,0,0,2016-17,Michigan
+Duncan Robinson,4,0,0,NA,0.053,0.067,0.5,2016-17,Michigan
+Walton Derrick,2,0.018000000000000002,0.028999999999999998,1,0.01,0,0,2016-17,Michigan
+Jon Teske,1,0,NA,NA,0.2,0,0,2016-17,Michigan
+Total,74,0.06,0.064,0.828,0.059000000000000004,0.09699999999999999,0.667,2016-17,Michigan

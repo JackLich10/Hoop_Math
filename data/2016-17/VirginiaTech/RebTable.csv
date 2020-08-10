@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Zach LeDay,38,0.141,0.127,0.6,0.092,0.1,0.375,2016-17
-Khadim Sy,17,0.20800000000000002,0.222,0.667,0.083,0.222,1,2016-17
-Chris Clarke,17,0.11699999999999999,0.098,0.5710000000000001,0.094,0.083,0.33299999999999996,2016-17
-Ahmed Hill,5,0.027999999999999997,0,0,0.064,0.067,0.33299999999999996,2016-17
-Justin Bibbs,3,0.075,0.08,0.667,0,0,NA,2016-17
-Ty Outlaw,3,0.16699999999999998,0.1,0.33299999999999996,0,0,NA,2016-17
-Justin Robinson,3,0.033,0.02,0.33299999999999996,0,0,NA,2016-17
-Johnny Hamilton,1,0.25,0.25,1,NA,NA,NA,2016-17
-Seth Allen,1,0.009000000000000001,0.013999999999999999,1,0,0,NA,2016-17
-Total,88,0.09699999999999999,0.087,0.583,0.045,0.061,0.43799999999999994,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Zach LeDay,38,0.141,0.127,0.6,0.092,0.1,0.375,2016-17,VirginiaTech
+Khadim Sy,17,0.20800000000000002,0.222,0.667,0.083,0.222,1,2016-17,VirginiaTech
+Chris Clarke,17,0.11699999999999999,0.098,0.5710000000000001,0.094,0.083,0.33299999999999996,2016-17,VirginiaTech
+Ahmed Hill,5,0.027999999999999997,0,0,0.064,0.067,0.33299999999999996,2016-17,VirginiaTech
+Justin Bibbs,3,0.075,0.08,0.667,0,0,NA,2016-17,VirginiaTech
+Ty Outlaw,3,0.16699999999999998,0.1,0.33299999999999996,0,0,NA,2016-17,VirginiaTech
+Justin Robinson,3,0.033,0.02,0.33299999999999996,0,0,NA,2016-17,VirginiaTech
+Johnny Hamilton,1,0.25,0.25,1,NA,NA,NA,2016-17,VirginiaTech
+Seth Allen,1,0.009000000000000001,0.013999999999999999,1,0,0,NA,2016-17,VirginiaTech
+Total,88,0.09699999999999999,0.087,0.583,0.045,0.061,0.43799999999999994,2016-17,VirginiaTech

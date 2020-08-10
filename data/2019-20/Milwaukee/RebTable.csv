@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Amir Allen,17,0.405,0.33299999999999996,0.4,0.154,0.16699999999999998,0.5,2019-20
-DeAndre Abram,15,0.16399999999999998,0.21899999999999997,0.778,0.039,0.059000000000000004,0.5,2019-20
-C.J. Wilbourn,14,0.25,0.182,0.462,0.032,0,0,2019-20
-Josh Thomas,12,0.081,0.071,0.6,0.011000000000000001,0,0,2019-20
-Wil Sessoms,9,0.171,0.24,0.857,0.061,0.067,0.5,2019-20
-Brown Courtney,6,0.294,0.444,0.8,0.042,0,0,2019-20
-Darius Roy,5,0.02,0.02,0.5,0.008,0.024,1,2019-20
-Harrison Henderson,4,0.098,0.083,0.5,0,0,NA,2019-20
-Te'Jon Lucas,3,0.009000000000000001,0.016,1,0.009000000000000001,0.024,1,2019-20
-Arturro Bingham,3,0.28600000000000003,0,0,0.16699999999999998,0.33299999999999996,1,2019-20
-Lincoln Wieseman,1,0.5,NA,0,NA,NA,NA,2019-20
-Total,89,0.11699999999999999,0.11199999999999999,0.565,0.025,0.035,0.5,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Amir Allen,17,0.405,0.33299999999999996,0.4,0.154,0.16699999999999998,0.5,2019-20,Milwaukee
+DeAndre Abram,15,0.16399999999999998,0.21899999999999997,0.778,0.039,0.059000000000000004,0.5,2019-20,Milwaukee
+C.J. Wilbourn,14,0.25,0.182,0.462,0.032,0,0,2019-20,Milwaukee
+Josh Thomas,12,0.081,0.071,0.6,0.011000000000000001,0,0,2019-20,Milwaukee
+Wil Sessoms,9,0.171,0.24,0.857,0.061,0.067,0.5,2019-20,Milwaukee
+Brown Courtney,6,0.294,0.444,0.8,0.042,0,0,2019-20,Milwaukee
+Darius Roy,5,0.02,0.02,0.5,0.008,0.024,1,2019-20,Milwaukee
+Harrison Henderson,4,0.098,0.083,0.5,0,0,NA,2019-20,Milwaukee
+Te'Jon Lucas,3,0.009000000000000001,0.016,1,0.009000000000000001,0.024,1,2019-20,Milwaukee
+Arturro Bingham,3,0.28600000000000003,0,0,0.16699999999999998,0.33299999999999996,1,2019-20,Milwaukee
+Lincoln Wieseman,1,0.5,NA,0,NA,NA,NA,2019-20,Milwaukee
+Total,89,0.11699999999999999,0.11199999999999999,0.565,0.025,0.035,0.5,2019-20,Milwaukee

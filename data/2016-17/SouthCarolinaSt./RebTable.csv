@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tashombe Riley,21,0.154,0.18100000000000002,0.833,0.019,0.033,0.667,2016-17
-Eric Eaves,11,0.047,0.040999999999999995,0.5,0.02,0,0,2016-17
-Ian Kinard,8,0.109,0.067,0.33299999999999996,0.047,0.083,0.5,2016-17
-Ozante Fields,7,0.179,0.217,0.7140000000000001,0,NA,NA,2016-17
-Damani Applewhite,4,0.121,0.13,0.75,0,0,NA,2016-17
-Edward Stephens,4,0.062,0.05,0.33299999999999996,0,0,NA,2016-17
-David Bottenberg,3,0.3,0.2,0.33299999999999996,0,0,NA,2016-17
-Greg Mortimer,3,0.016,0.015,0.5,0.015,0,0,2016-17
-Tyvoris Soloman,2,0.25,0,0,0.16699999999999998,0,0,2016-17
-Jj Jam Richardson,1,0.013999999999999999,0.027000000000000003,1,0,0,NA,2016-17
-Total,64,0.075,0.08199999999999999,0.623,0.016,0.013999999999999999,0.33299999999999996,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tashombe Riley,21,0.154,0.18100000000000002,0.833,0.019,0.033,0.667,2016-17,SouthCarolinaSt.
+Eric Eaves,11,0.047,0.040999999999999995,0.5,0.02,0,0,2016-17,SouthCarolinaSt.
+Ian Kinard,8,0.109,0.067,0.33299999999999996,0.047,0.083,0.5,2016-17,SouthCarolinaSt.
+Ozante Fields,7,0.179,0.217,0.7140000000000001,0,NA,NA,2016-17,SouthCarolinaSt.
+Damani Applewhite,4,0.121,0.13,0.75,0,0,NA,2016-17,SouthCarolinaSt.
+Edward Stephens,4,0.062,0.05,0.33299999999999996,0,0,NA,2016-17,SouthCarolinaSt.
+David Bottenberg,3,0.3,0.2,0.33299999999999996,0,0,NA,2016-17,SouthCarolinaSt.
+Greg Mortimer,3,0.016,0.015,0.5,0.015,0,0,2016-17,SouthCarolinaSt.
+Tyvoris Soloman,2,0.25,0,0,0.16699999999999998,0,0,2016-17,SouthCarolinaSt.
+Jj Jam Richardson,1,0.013999999999999999,0.027000000000000003,1,0,0,NA,2016-17,SouthCarolinaSt.
+Total,64,0.075,0.08199999999999999,0.623,0.016,0.013999999999999999,0.33299999999999996,2016-17,SouthCarolinaSt.

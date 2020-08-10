@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Devonnte Holland,22,0.198,0.231,0.75,0.036000000000000004,0,0,2018-19
-Mawdo Sallah,14,0.11,0.087,0.444,0.07200000000000001,0.08800000000000001,0.6,2018-19
-Ed Polite,9,0.05,0.065,0.875,0.013000000000000001,0.034,1,2018-19
-Carlik Jones,4,0.016,0.018000000000000002,0.667,0.008,0,0,2018-19
-Tristan Owens,4,0.5710000000000001,0.667,0.5,0,NA,NA,2018-19
-Leroy Butts,2,0.083,0,0,0.042,0,0,2018-19
-Caleb Tanner,2,0,0,NA,0.055999999999999994,0.111,1,2018-19
-Travis Fields,2,0.018000000000000002,0.032,1,0,0,NA,2018-19
-John Caldwell,1,0.5,1,1,NA,NA,NA,2018-19
-Devin Hutchinson,1,0.062,0.1,1,0,0,NA,2018-19
-Donald Hicks,1,0,0,NA,0.02,0,0,2018-19
-Total,62,0.07200000000000001,0.081,0.688,0.023,0.025,0.41700000000000004,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Devonnte Holland,22,0.198,0.231,0.75,0.036000000000000004,0,0,2018-19,Radford
+Mawdo Sallah,14,0.11,0.087,0.444,0.07200000000000001,0.08800000000000001,0.6,2018-19,Radford
+Ed Polite,9,0.05,0.065,0.875,0.013000000000000001,0.034,1,2018-19,Radford
+Carlik Jones,4,0.016,0.018000000000000002,0.667,0.008,0,0,2018-19,Radford
+Tristan Owens,4,0.5710000000000001,0.667,0.5,0,NA,NA,2018-19,Radford
+Leroy Butts,2,0.083,0,0,0.042,0,0,2018-19,Radford
+Caleb Tanner,2,0,0,NA,0.055999999999999994,0.111,1,2018-19,Radford
+Travis Fields,2,0.018000000000000002,0.032,1,0,0,NA,2018-19,Radford
+John Caldwell,1,0.5,1,1,NA,NA,NA,2018-19,Radford
+Devin Hutchinson,1,0.062,0.1,1,0,0,NA,2018-19,Radford
+Donald Hicks,1,0,0,NA,0.02,0,0,2018-19,Radford
+Total,62,0.07200000000000001,0.081,0.688,0.023,0.025,0.41700000000000004,2018-19,Radford

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.35700000000000004,0.631,0.125,0.721,2016-17
-2pt Jumpers,0.298,0.385,0.054000000000000006,0.40700000000000003,2016-17
-3pt Shots,0.345,0.381,0.016,0.38799999999999996,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.35700000000000004,0.631,0.125,0.721,2016-17,Tulane
+2pt Jumpers,0.298,0.385,0.054000000000000006,0.40700000000000003,2016-17,Tulane
+3pt Shots,0.345,0.381,0.016,0.38799999999999996,2016-17,Tulane

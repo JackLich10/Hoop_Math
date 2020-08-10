@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.29600000000000004,0.649,0.03,0.669,2014-15
-2pt Jumpers,0.363,0.376,0.037000000000000005,0.39,2014-15
-3pt Shots,0.341,0.33799999999999997,0.008,0.34,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.29600000000000004,0.649,0.03,0.669,2014-15,Elon
+2pt Jumpers,0.363,0.376,0.037000000000000005,0.39,2014-15,Elon
+3pt Shots,0.341,0.33799999999999997,0.008,0.34,2014-15,Elon

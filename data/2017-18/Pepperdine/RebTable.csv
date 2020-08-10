@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Matthew Atewe,22,0.21100000000000002,0.183,0.55,0.039,0.059000000000000004,0.5,2017-18
-Kameron Edwards,17,0.096,0.114,0.727,0.05,0.068,0.5,2017-18
-Trae Berhow,15,0.217,0.308,0.8,0.057999999999999996,0.091,0.75,2017-18
-Nolan Taylor,13,0.21600000000000003,0.2,0.636,0.043,0,0,2017-18
-Darnell Dunn,13,0.191,0.214,0.6920000000000001,0,0,NA,2017-18
-Harrison Meads,10,0.18600000000000003,0.207,0.75,0.25,0.5,0.5,2017-18
-Jade' Smith,6,0.114,0.111,0.6,0.027000000000000003,0,0,2017-18
-Colbey Ross,3,0.011000000000000001,0.019,1,0.015,0,0,2017-18
-Cooper Eric,1,0,0,NA,0.018000000000000002,0.033,1,2017-18
-Total,100,0.125,0.139,0.6709999999999999,0.03,0.035,0.45,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Matthew Atewe,22,0.21100000000000002,0.183,0.55,0.039,0.059000000000000004,0.5,2017-18,Pepperdine
+Kameron Edwards,17,0.096,0.114,0.727,0.05,0.068,0.5,2017-18,Pepperdine
+Trae Berhow,15,0.217,0.308,0.8,0.057999999999999996,0.091,0.75,2017-18,Pepperdine
+Nolan Taylor,13,0.21600000000000003,0.2,0.636,0.043,0,0,2017-18,Pepperdine
+Darnell Dunn,13,0.191,0.214,0.6920000000000001,0,0,NA,2017-18,Pepperdine
+Harrison Meads,10,0.18600000000000003,0.207,0.75,0.25,0.5,0.5,2017-18,Pepperdine
+Jade' Smith,6,0.114,0.111,0.6,0.027000000000000003,0,0,2017-18,Pepperdine
+Colbey Ross,3,0.011000000000000001,0.019,1,0.015,0,0,2017-18,Pepperdine
+Cooper Eric,1,0,0,NA,0.018000000000000002,0.033,1,2017-18,Pepperdine
+Total,100,0.125,0.139,0.6709999999999999,0.03,0.035,0.45,2017-18,Pepperdine

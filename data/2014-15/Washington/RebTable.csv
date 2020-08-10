@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Robert Upshaw,25,0.268,0.262,0.727,0.048,0.12,1,2014-15
-Shawn Kemp,24,0.14800000000000002,0.109,0.556,0.102,0.222,0.667,2014-15
-Mike Anderson,14,0.16399999999999998,0.17600000000000002,0.6,0.11800000000000001,0.25,0.75,2014-15
-Jernard Jarreau,10,0.28600000000000003,0.312,0.833,0.057,0.048,0.25,2014-15
-Nigel Williams-Goss,6,0.028999999999999998,0.032,0.667,0.013000000000000001,0.02,0.667,2014-15
-Andrew Andrews,6,0.079,0.11800000000000001,0.8,0.009000000000000001,0.024,1,2014-15
-Gilles Dierickx,3,0.182,0.25,0.5,0.077,0,0,2014-15
-Darin Johnson,3,0.068,0.05,0.33299999999999996,0,0,NA,2014-15
-Quevyn Winters,2,0,0,NA,0.08,0,0,2014-15
-Greg Bowman,1,NA,NA,NA,1,1,1,2014-15
-Total,94,0.13,0.135,0.652,0.039,0.063,0.6,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Robert Upshaw,25,0.268,0.262,0.727,0.048,0.12,1,2014-15,Washington
+Shawn Kemp,24,0.14800000000000002,0.109,0.556,0.102,0.222,0.667,2014-15,Washington
+Mike Anderson,14,0.16399999999999998,0.17600000000000002,0.6,0.11800000000000001,0.25,0.75,2014-15,Washington
+Jernard Jarreau,10,0.28600000000000003,0.312,0.833,0.057,0.048,0.25,2014-15,Washington
+Nigel Williams-Goss,6,0.028999999999999998,0.032,0.667,0.013000000000000001,0.02,0.667,2014-15,Washington
+Andrew Andrews,6,0.079,0.11800000000000001,0.8,0.009000000000000001,0.024,1,2014-15,Washington
+Gilles Dierickx,3,0.182,0.25,0.5,0.077,0,0,2014-15,Washington
+Darin Johnson,3,0.068,0.05,0.33299999999999996,0,0,NA,2014-15,Washington
+Quevyn Winters,2,0,0,NA,0.08,0,0,2014-15,Washington
+Greg Bowman,1,NA,NA,NA,1,1,1,2014-15,Washington
+Total,94,0.13,0.135,0.652,0.039,0.063,0.6,2014-15,Washington

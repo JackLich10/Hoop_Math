@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Dom Hoffman,20,0.222,0.312,0.833,0.028999999999999998,0,0,2013-14
-Brian Fitzpatrick,18,0.13,0.099,0.47100000000000003,0.019,0.034,1,2013-14
-Chris Hass,8,0.078,0.086,0.5,0.016,0.037000000000000005,1,2013-14
-Cory Starkey,6,0.222,0.17600000000000002,0.5,0,0,NA,2013-14
-Cameron Ayers,5,0.033,0.065,1,0.015,0,0,2013-14
-D.J. MacLeay,5,0.294,0.28600000000000003,0.4,0,0,NA,2013-14
-Ben Brackney,4,0.14300000000000002,0.16699999999999998,0.33299999999999996,0.04,0.16699999999999998,1,2013-14
-Steven Kaspar,2,0.008,0.018000000000000002,1,0,0,NA,2013-14
-Ryan Frazier,1,0.026000000000000002,0.055999999999999994,1,0,0,NA,2013-14
-Ben Oberfeld,1,0.14300000000000002,0.33299999999999996,1,0,NA,NA,2013-14
-Ryan Hill,1,0,0,NA,0.2,NA,0,2013-14
-Joshea Singleton,1,0.091,0,0,0,NA,NA,2013-14
-Total,72,0.092,0.11199999999999999,0.613,0.018000000000000002,0.019,0.375,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Dom Hoffman,20,0.222,0.312,0.833,0.028999999999999998,0,0,2013-14,Bucknell
+Brian Fitzpatrick,18,0.13,0.099,0.47100000000000003,0.019,0.034,1,2013-14,Bucknell
+Chris Hass,8,0.078,0.086,0.5,0.016,0.037000000000000005,1,2013-14,Bucknell
+Cory Starkey,6,0.222,0.17600000000000002,0.5,0,0,NA,2013-14,Bucknell
+Cameron Ayers,5,0.033,0.065,1,0.015,0,0,2013-14,Bucknell
+D.J. MacLeay,5,0.294,0.28600000000000003,0.4,0,0,NA,2013-14,Bucknell
+Ben Brackney,4,0.14300000000000002,0.16699999999999998,0.33299999999999996,0.04,0.16699999999999998,1,2013-14,Bucknell
+Steven Kaspar,2,0.008,0.018000000000000002,1,0,0,NA,2013-14,Bucknell
+Ryan Frazier,1,0.026000000000000002,0.055999999999999994,1,0,0,NA,2013-14,Bucknell
+Ben Oberfeld,1,0.14300000000000002,0.33299999999999996,1,0,NA,NA,2013-14,Bucknell
+Ryan Hill,1,0,0,NA,0.2,NA,0,2013-14,Bucknell
+Joshea Singleton,1,0.091,0,0,0,NA,NA,2013-14,Bucknell
+Total,72,0.092,0.11199999999999999,0.613,0.018000000000000002,0.019,0.375,2013-14,Bucknell

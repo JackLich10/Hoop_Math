@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Moses Kingsley,49,0.19699999999999998,0.193,0.7709999999999999,0.09,0.07,0.214,2015-16
-Keaton Miles,14,0.242,0.3,0.75,0.091,0,0,2015-16
-Manuale Watkins,10,0.068,0.087,0.8,0.071,0,0,2015-16
-Willy Kouassi,9,0.25,0.14300000000000002,0.4,0.25,0.28600000000000003,0.5,2015-16
-Trey Thompson,7,0.051,0.061,1,0.22699999999999998,0.25,0.2,2015-16
-Jimmy Whitt,5,0.052000000000000005,0.032,0.33299999999999996,0.017,0.026000000000000002,0.5,2015-16
-Anthlon Bell,4,0.04,0.067,1,0.013000000000000001,0.019,0.5,2015-16
-Anton Beard,4,0.023,0.042,1,0.036000000000000004,0.071,0.5,2015-16
-Dusty Hannahs,3,0.018000000000000002,0,0,0.013999999999999999,0.019,0.5,2015-16
-Jabril Durham,1,0,0,NA,0,0,NA,2015-16
-Total,106,0.105,0.11199999999999999,0.726,0.049,0.038,0.23800000000000002,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Moses Kingsley,49,0.19699999999999998,0.193,0.7709999999999999,0.09,0.07,0.214,2015-16,Arkansas
+Keaton Miles,14,0.242,0.3,0.75,0.091,0,0,2015-16,Arkansas
+Manuale Watkins,10,0.068,0.087,0.8,0.071,0,0,2015-16,Arkansas
+Willy Kouassi,9,0.25,0.14300000000000002,0.4,0.25,0.28600000000000003,0.5,2015-16,Arkansas
+Trey Thompson,7,0.051,0.061,1,0.22699999999999998,0.25,0.2,2015-16,Arkansas
+Jimmy Whitt,5,0.052000000000000005,0.032,0.33299999999999996,0.017,0.026000000000000002,0.5,2015-16,Arkansas
+Anthlon Bell,4,0.04,0.067,1,0.013000000000000001,0.019,0.5,2015-16,Arkansas
+Anton Beard,4,0.023,0.042,1,0.036000000000000004,0.071,0.5,2015-16,Arkansas
+Dusty Hannahs,3,0.018000000000000002,0,0,0.013999999999999999,0.019,0.5,2015-16,Arkansas
+Jabril Durham,1,0,0,NA,0,0,NA,2015-16,Arkansas
+Total,106,0.105,0.11199999999999999,0.726,0.049,0.038,0.23800000000000002,2015-16,Arkansas

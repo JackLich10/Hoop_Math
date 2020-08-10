@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Mark Nwakamma,20,0.11199999999999999,0.08800000000000001,0.526,0.009000000000000001,0.022000000000000002,1,2013-14
-Oren Faulk,8,0.11800000000000001,0.14,0.75,0,0,NA,2013-14
-Nate Sikma,7,0.20600000000000002,0.048,0.14300000000000002,0,0,NA,2013-14
-Jamie Schneck,6,0.188,0.17600000000000002,0.5,0,0,NA,2013-14
-Corban Wroe,6,0.08800000000000001,0.125,0.833,0,0,NA,2013-14
-Yolonzo Moore II,3,0.023,0.038,1,0.02,0,0,2013-14
-Evan Cooper,3,0.022000000000000002,0.04,1,0,0,NA,2013-14
-Taylor Dyson,2,0.021,0.05,1,0.03,0.091,1,2013-14
-Wes Cole,1,0,0,NA,0,0,NA,2013-14
-Yasin Kolo,1,0.1,0.125,1,0,0,NA,2013-14
-Total,57,0.087,0.085,0.588,0.01,0.018000000000000002,0.667,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Mark Nwakamma,20,0.11199999999999999,0.08800000000000001,0.526,0.009000000000000001,0.022000000000000002,1,2013-14,Hartford
+Oren Faulk,8,0.11800000000000001,0.14,0.75,0,0,NA,2013-14,Hartford
+Nate Sikma,7,0.20600000000000002,0.048,0.14300000000000002,0,0,NA,2013-14,Hartford
+Jamie Schneck,6,0.188,0.17600000000000002,0.5,0,0,NA,2013-14,Hartford
+Corban Wroe,6,0.08800000000000001,0.125,0.833,0,0,NA,2013-14,Hartford
+Yolonzo Moore II,3,0.023,0.038,1,0.02,0,0,2013-14,Hartford
+Evan Cooper,3,0.022000000000000002,0.04,1,0,0,NA,2013-14,Hartford
+Taylor Dyson,2,0.021,0.05,1,0.03,0.091,1,2013-14,Hartford
+Wes Cole,1,0,0,NA,0,0,NA,2013-14,Hartford
+Yasin Kolo,1,0.1,0.125,1,0,0,NA,2013-14,Hartford
+Total,57,0.087,0.085,0.588,0.01,0.018000000000000002,0.667,2013-14,Hartford

@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Chris Knight,32,0.13,0.11,0.5,0.027999999999999997,0.018000000000000002,0.25,2018-19
-Adrease Jackson,14,0.213,0.14300000000000002,0.4,0.121,0.273,0.75,2018-19
-Aaryn Rai,9,0.106,0.057,0.28600000000000003,0.07400000000000001,0.083,0.5,2018-19
-Will Emery,7,0.231,0.182,0.33299999999999996,0.071,0,0,2018-19
-Ian Carter,4,0.231,0.111,0.33299999999999996,0.111,0.2,1,2018-19
-Guilien Smith,2,0.071,0,0,0,NA,NA,2018-19
-James Foye,2,0.011000000000000001,0.019,1,0.028999999999999998,0,0,2018-19
-Ian Sistare,2,0.017,0.024,1,0.05,0,0,2018-19
-Wes Slajchert,1,0.083,0.14300000000000002,1,0,0,NA,2018-19
-Brendan Barry,1,0.013000000000000001,0.026000000000000002,1,0,0,NA,2018-19
-Total,74,0.08900000000000001,0.07,0.45,0.039,0.043,0.429,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Chris Knight,32,0.13,0.11,0.5,0.027999999999999997,0.018000000000000002,0.25,2018-19,Dartmouth
+Adrease Jackson,14,0.213,0.14300000000000002,0.4,0.121,0.273,0.75,2018-19,Dartmouth
+Aaryn Rai,9,0.106,0.057,0.28600000000000003,0.07400000000000001,0.083,0.5,2018-19,Dartmouth
+Will Emery,7,0.231,0.182,0.33299999999999996,0.071,0,0,2018-19,Dartmouth
+Ian Carter,4,0.231,0.111,0.33299999999999996,0.111,0.2,1,2018-19,Dartmouth
+Guilien Smith,2,0.071,0,0,0,NA,NA,2018-19,Dartmouth
+James Foye,2,0.011000000000000001,0.019,1,0.028999999999999998,0,0,2018-19,Dartmouth
+Ian Sistare,2,0.017,0.024,1,0.05,0,0,2018-19,Dartmouth
+Wes Slajchert,1,0.083,0.14300000000000002,1,0,0,NA,2018-19,Dartmouth
+Brendan Barry,1,0.013000000000000001,0.026000000000000002,1,0,0,NA,2018-19,Dartmouth
+Total,74,0.08900000000000001,0.07,0.45,0.039,0.043,0.429,2018-19,Dartmouth

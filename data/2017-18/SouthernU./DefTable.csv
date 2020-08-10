@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.284,0.602,0.073,0.65,2017-18
-2pt Jumpers,0.35200000000000004,0.366,0.096,0.405,2017-18
-3pt Shots,0.364,0.337,0.021,0.344,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.284,0.602,0.073,0.65,2017-18,SouthernU.
+2pt Jumpers,0.35200000000000004,0.366,0.096,0.405,2017-18,SouthernU.
+3pt Shots,0.364,0.337,0.021,0.344,2017-18,SouthernU.

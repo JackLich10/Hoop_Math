@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jared Hamilton,26,0.184,0.175,0.556,0.063,0.064,0.375,2015-16
-Christian Cunningham,16,0.209,0.233,0.7140000000000001,0.105,0,0,2015-16
-Jeremy Watson,13,0.171,0.184,0.5379999999999999,0,0,NA,2015-16
-Erik Durham,5,0.091,0.115,0.75,0.025,0,0,2015-16
-Malcolm Drumwright,4,0.027999999999999997,0.049,1,0.017,0.022000000000000002,0.5,2015-16
-Delfincko Bogan,3,0.065,0,0,0.048,0.125,1,2015-16
-Jaquail Townser,3,0.043,0.053,0.5,0.012,0.033,1,2015-16
-Ousmane Ba,2,0.5,NA,0,0,0,NA,2015-16
-Ed Jones,2,0.125,0,0,0.03,0.071,1,2015-16
-Andre Statam,2,0.059000000000000004,0,0,0.045,0,0,2015-16
-Greg Tucker,2,0.028999999999999998,0.033,0.5,0,0,NA,2015-16
-Total,78,0.114,0.11900000000000001,0.557,0.03,0.036000000000000004,0.41200000000000003,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jared Hamilton,26,0.184,0.175,0.556,0.063,0.064,0.375,2015-16,JacksonvilleSt.
+Christian Cunningham,16,0.209,0.233,0.7140000000000001,0.105,0,0,2015-16,JacksonvilleSt.
+Jeremy Watson,13,0.171,0.184,0.5379999999999999,0,0,NA,2015-16,JacksonvilleSt.
+Erik Durham,5,0.091,0.115,0.75,0.025,0,0,2015-16,JacksonvilleSt.
+Malcolm Drumwright,4,0.027999999999999997,0.049,1,0.017,0.022000000000000002,0.5,2015-16,JacksonvilleSt.
+Delfincko Bogan,3,0.065,0,0,0.048,0.125,1,2015-16,JacksonvilleSt.
+Jaquail Townser,3,0.043,0.053,0.5,0.012,0.033,1,2015-16,JacksonvilleSt.
+Ousmane Ba,2,0.5,NA,0,0,0,NA,2015-16,JacksonvilleSt.
+Ed Jones,2,0.125,0,0,0.03,0.071,1,2015-16,JacksonvilleSt.
+Andre Statam,2,0.059000000000000004,0,0,0.045,0,0,2015-16,JacksonvilleSt.
+Greg Tucker,2,0.028999999999999998,0.033,0.5,0,0,NA,2015-16,JacksonvilleSt.
+Total,78,0.114,0.11900000000000001,0.557,0.03,0.036000000000000004,0.41200000000000003,2015-16,JacksonvilleSt.

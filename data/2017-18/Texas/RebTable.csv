@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Mohamed Bamba,49,0.28800000000000003,0.26899999999999996,0.737,0.126,0.214,0.545,2017-18
-Dylan Osetkowski,42,0.228,0.221,0.655,0.10099999999999999,0.03,0.077,2017-18
-Jericho Sims,13,0.085,0.113,1,0.156,0.33299999999999996,0.857,2017-18
-Kerwin Roach II,7,0.036000000000000004,0.057,1,0.023,0,0,2017-18
-James Banks III,4,0.375,0.28600000000000003,0.667,0.16699999999999998,1,1,2017-18
-Matt Coleman,4,0.028999999999999998,0.047,1,0.015,0,0,2017-18
-Jase Febres,3,0.133,0.16699999999999998,0.5,0.1,0.5,1,2017-18
-Hamm Royce,3,0.4,0,0,0.5,1,1,2017-18
-Andrew Jones,2,0,0,NA,0.111,0.2,0.5,2017-18
-Jacob Young,1,0.018000000000000002,0.027999999999999997,1,0,0,NA,2017-18
-Eric Davis Jr,1,0,0,NA,0.027999999999999997,0.071,1,2017-18
-Total,129,0.131,0.14,0.7240000000000001,0.071,0.09699999999999999,0.439,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Mohamed Bamba,49,0.28800000000000003,0.26899999999999996,0.737,0.126,0.214,0.545,2017-18,Texas
+Dylan Osetkowski,42,0.228,0.221,0.655,0.10099999999999999,0.03,0.077,2017-18,Texas
+Jericho Sims,13,0.085,0.113,1,0.156,0.33299999999999996,0.857,2017-18,Texas
+Kerwin Roach II,7,0.036000000000000004,0.057,1,0.023,0,0,2017-18,Texas
+James Banks III,4,0.375,0.28600000000000003,0.667,0.16699999999999998,1,1,2017-18,Texas
+Matt Coleman,4,0.028999999999999998,0.047,1,0.015,0,0,2017-18,Texas
+Jase Febres,3,0.133,0.16699999999999998,0.5,0.1,0.5,1,2017-18,Texas
+Hamm Royce,3,0.4,0,0,0.5,1,1,2017-18,Texas
+Andrew Jones,2,0,0,NA,0.111,0.2,0.5,2017-18,Texas
+Jacob Young,1,0.018000000000000002,0.027999999999999997,1,0,0,NA,2017-18,Texas
+Eric Davis Jr,1,0,0,NA,0.027999999999999997,0.071,1,2017-18,Texas
+Total,129,0.131,0.14,0.7240000000000001,0.071,0.09699999999999999,0.439,2017-18,Texas

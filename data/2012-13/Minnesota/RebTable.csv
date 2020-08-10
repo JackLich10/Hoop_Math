@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Trevor Mbakwe,44,0.24,0.261,0.767,0.159,0.091,0.214,2012-13
-Rodney Williams,33,0.207,0.209,0.76,0.077,0.077,0.25,2012-13
-Austin Hollins,19,0.125,0.13699999999999998,0.875,0.133,0,0,2012-13
-Joe Coleman,17,0.10400000000000001,0.111,0.8,0.057,0.051,0.28600000000000003,2012-13
-Maurice Walker,12,0.281,0.222,0.444,0.13,0.2,0.33299999999999996,2012-13
-Elliott Eliason,10,0.192,0.222,0.8,0.14300000000000002,0,0,2012-13
-Andre Ingram,10,0.188,0.273,1,0.20600000000000002,0.273,0.429,2012-13
-Andre Hollins,7,0.02,0.028999999999999998,1,0.040999999999999995,0,0,2012-13
-Wally Ellenson,6,0.28600000000000003,0.33299999999999996,1,0.4,1,0.25,2012-13
-Oto Osenieks,4,0,0,NA,0.129,0.25,0.5,2012-13
-Julian Welch,3,0.05,0.111,1,0.026000000000000002,0,0,2012-13
-Maverick Ahanmisi,1,0,0,NA,0.05,0.16699999999999998,1,2012-13
-Kendal Shell,1,1,1,1,0,0,NA,2012-13
-Total,167,0.163,0.174,0.768,0.09699999999999999,0.071,0.217,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Trevor Mbakwe,44,0.24,0.261,0.767,0.159,0.091,0.214,2012-13,Minnesota
+Rodney Williams,33,0.207,0.209,0.76,0.077,0.077,0.25,2012-13,Minnesota
+Austin Hollins,19,0.125,0.13699999999999998,0.875,0.133,0,0,2012-13,Minnesota
+Joe Coleman,17,0.10400000000000001,0.111,0.8,0.057,0.051,0.28600000000000003,2012-13,Minnesota
+Maurice Walker,12,0.281,0.222,0.444,0.13,0.2,0.33299999999999996,2012-13,Minnesota
+Elliott Eliason,10,0.192,0.222,0.8,0.14300000000000002,0,0,2012-13,Minnesota
+Andre Ingram,10,0.188,0.273,1,0.20600000000000002,0.273,0.429,2012-13,Minnesota
+Andre Hollins,7,0.02,0.028999999999999998,1,0.040999999999999995,0,0,2012-13,Minnesota
+Wally Ellenson,6,0.28600000000000003,0.33299999999999996,1,0.4,1,0.25,2012-13,Minnesota
+Oto Osenieks,4,0,0,NA,0.129,0.25,0.5,2012-13,Minnesota
+Julian Welch,3,0.05,0.111,1,0.026000000000000002,0,0,2012-13,Minnesota
+Maverick Ahanmisi,1,0,0,NA,0.05,0.16699999999999998,1,2012-13,Minnesota
+Kendal Shell,1,1,1,1,0,0,NA,2012-13,Minnesota
+Total,167,0.163,0.174,0.768,0.09699999999999999,0.071,0.217,2012-13,Minnesota

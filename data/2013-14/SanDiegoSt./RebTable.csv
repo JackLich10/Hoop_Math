@@ -1,16 +1,16 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Josh Davis,44,0.26,0.264,0.5760000000000001,0.115,0.233,0.636,2013-14
-JJ O'Brien,26,0.20800000000000002,0.21,0.65,0.057,0.028999999999999998,0.16699999999999998,2013-14
-Skylar Spencer,25,0.244,0.21,0.591,0.075,0,0,2013-14
-Winston Shepard,25,0.188,0.25,0.833,0.006,0,0,2013-14
-Dwayne Polee,14,0.151,0.157,0.727,0.064,0,0,2013-14
-Dakarai Allen,8,0.19399999999999998,0.353,1,0.069,0,0,2013-14
-James Johnson,6,0.444,0.5,0.75,0.2,0,0,2013-14
-Matt Shrigley,4,0.107,0.14300000000000002,0.667,0.037000000000000005,0.111,1,2013-14
-Xavier Thames,4,0.025,0,0,0.009000000000000001,0.012,0.5,2013-14
-Aqeel Quinn,2,0.05,0.071,1,0.022000000000000002,0,0,2013-14
-Ryan Staten,2,1,1,1,0.16699999999999998,0,0,2013-14
-Niksha Federico,1,1,1,1,NA,NA,NA,2013-14
-Chase Tapley,1,0.25,0.33299999999999996,1,0,NA,NA,2013-14
-D'Erryl Williams,1,0,0,NA,0.125,0,0,2013-14
-Total,163,0.18600000000000003,0.20600000000000002,0.682,0.043,0.038,0.294,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Josh Davis,44,0.26,0.264,0.5760000000000001,0.115,0.233,0.636,2013-14,SanDiegoSt.
+JJ O'Brien,26,0.20800000000000002,0.21,0.65,0.057,0.028999999999999998,0.16699999999999998,2013-14,SanDiegoSt.
+Skylar Spencer,25,0.244,0.21,0.591,0.075,0,0,2013-14,SanDiegoSt.
+Winston Shepard,25,0.188,0.25,0.833,0.006,0,0,2013-14,SanDiegoSt.
+Dwayne Polee,14,0.151,0.157,0.727,0.064,0,0,2013-14,SanDiegoSt.
+Dakarai Allen,8,0.19399999999999998,0.353,1,0.069,0,0,2013-14,SanDiegoSt.
+James Johnson,6,0.444,0.5,0.75,0.2,0,0,2013-14,SanDiegoSt.
+Matt Shrigley,4,0.107,0.14300000000000002,0.667,0.037000000000000005,0.111,1,2013-14,SanDiegoSt.
+Xavier Thames,4,0.025,0,0,0.009000000000000001,0.012,0.5,2013-14,SanDiegoSt.
+Aqeel Quinn,2,0.05,0.071,1,0.022000000000000002,0,0,2013-14,SanDiegoSt.
+Ryan Staten,2,1,1,1,0.16699999999999998,0,0,2013-14,SanDiegoSt.
+Niksha Federico,1,1,1,1,NA,NA,NA,2013-14,SanDiegoSt.
+Chase Tapley,1,0.25,0.33299999999999996,1,0,NA,NA,2013-14,SanDiegoSt.
+D'Erryl Williams,1,0,0,NA,0.125,0,0,2013-14,SanDiegoSt.
+Total,163,0.18600000000000003,0.20600000000000002,0.682,0.043,0.038,0.294,2013-14,SanDiegoSt.

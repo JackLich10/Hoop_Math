@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.24,0.6729999999999999,0.049,0.708,2012-13
-2pt Jumpers,0.488,0.39899999999999997,0.1,0.444,2012-13
-3pt Shots,0.271,0.363,0.013999999999999999,0.368,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.24,0.6729999999999999,0.049,0.708,2012-13,CentralArk.
+2pt Jumpers,0.488,0.39899999999999997,0.1,0.444,2012-13,CentralArk.
+3pt Shots,0.271,0.363,0.013999999999999999,0.368,2012-13,CentralArk.

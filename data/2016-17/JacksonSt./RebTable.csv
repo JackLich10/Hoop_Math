@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Janarius Middleton,41,0.324,0.391,0.6940000000000001,0.07200000000000001,0.125,0.6,2016-17
-Maurice Rivers,15,0.171,0.17600000000000002,0.6920000000000001,0.026000000000000002,0,0,2016-17
-Dontaveon Robinson,10,0.321,0.308,0.444,0.034,0.1,1,2016-17
-Derek Roscoe,10,0.09699999999999999,0.087,0.5710000000000001,0.038,0.043,0.33299999999999996,2016-17
-Edric Dennis,9,0.057999999999999996,0.08199999999999999,0.625,0,0,NA,2016-17
-Paris Collins,8,0.062,0,0,0.04,0,0,2016-17
-Sherron Wilson,2,0.182,0,0,0,0,NA,2016-17
-Yettra Specks,2,0.013999999999999999,0.024,1,0.011000000000000001,0.03,1,2016-17
-Chase Franklin,1,0.055999999999999994,0.091,1,0,NA,NA,2016-17
-Montreal Nabors,1,1,1,1,0,NA,NA,2016-17
-Demetrice Clopton,1,0,0,NA,0.33299999999999996,0.5,1,2016-17
-Javeres Brent,1,0,NA,NA,0.091,0,0,2016-17
-Jesse Love,1,0.1,0.16699999999999998,1,0,NA,NA,2016-17
-Total,102,0.134,0.15,0.607,0.034,0.044000000000000004,0.41200000000000003,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Janarius Middleton,41,0.324,0.391,0.6940000000000001,0.07200000000000001,0.125,0.6,2016-17,JacksonSt.
+Maurice Rivers,15,0.171,0.17600000000000002,0.6920000000000001,0.026000000000000002,0,0,2016-17,JacksonSt.
+Dontaveon Robinson,10,0.321,0.308,0.444,0.034,0.1,1,2016-17,JacksonSt.
+Derek Roscoe,10,0.09699999999999999,0.087,0.5710000000000001,0.038,0.043,0.33299999999999996,2016-17,JacksonSt.
+Edric Dennis,9,0.057999999999999996,0.08199999999999999,0.625,0,0,NA,2016-17,JacksonSt.
+Paris Collins,8,0.062,0,0,0.04,0,0,2016-17,JacksonSt.
+Sherron Wilson,2,0.182,0,0,0,0,NA,2016-17,JacksonSt.
+Yettra Specks,2,0.013999999999999999,0.024,1,0.011000000000000001,0.03,1,2016-17,JacksonSt.
+Chase Franklin,1,0.055999999999999994,0.091,1,0,NA,NA,2016-17,JacksonSt.
+Montreal Nabors,1,1,1,1,0,NA,NA,2016-17,JacksonSt.
+Demetrice Clopton,1,0,0,NA,0.33299999999999996,0.5,1,2016-17,JacksonSt.
+Javeres Brent,1,0,NA,NA,0.091,0,0,2016-17,JacksonSt.
+Jesse Love,1,0.1,0.16699999999999998,1,0,NA,NA,2016-17,JacksonSt.
+Total,102,0.134,0.15,0.607,0.034,0.044000000000000004,0.41200000000000003,2016-17,JacksonSt.

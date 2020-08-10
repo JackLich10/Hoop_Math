@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Willie Rodriguez,27,0.138,0.18100000000000002,0.773,0.049,0.05,0.4,2015-16
-Thomas Bruce,17,0.161,0.214,0.8,0.061,0,0,2015-16
-Bobby Ahearn,9,0.16699999999999998,0.2,0.778,0,0,NA,2015-16
-Everson Davis,7,0.039,0.031,0.4,0.024,0,0,2015-16
-Justin McFadden,6,0.095,0.15,0.75,0.154,0,0,2015-16
-Dusan Perovic,4,0.111,0,0,0,0,NA,2015-16
-Timmy Rose,3,0.033,0.055999999999999994,1,0.053,0,0,2015-16
-John Rinaldi,2,0.2,0.28600000000000003,1,0,0,NA,2015-16
-John Schurman,2,0.33299999999999996,0.33299999999999996,1,0.16699999999999998,0,0,2015-16
-Marlon Beck II,1,0,0,NA,0,0,NA,2015-16
-Total,78,0.107,0.141,0.7140000000000001,0.031,0.013999999999999999,0.154,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Willie Rodriguez,27,0.138,0.18100000000000002,0.773,0.049,0.05,0.4,2015-16,Binghamton
+Thomas Bruce,17,0.161,0.214,0.8,0.061,0,0,2015-16,Binghamton
+Bobby Ahearn,9,0.16699999999999998,0.2,0.778,0,0,NA,2015-16,Binghamton
+Everson Davis,7,0.039,0.031,0.4,0.024,0,0,2015-16,Binghamton
+Justin McFadden,6,0.095,0.15,0.75,0.154,0,0,2015-16,Binghamton
+Dusan Perovic,4,0.111,0,0,0,0,NA,2015-16,Binghamton
+Timmy Rose,3,0.033,0.055999999999999994,1,0.053,0,0,2015-16,Binghamton
+John Rinaldi,2,0.2,0.28600000000000003,1,0,0,NA,2015-16,Binghamton
+John Schurman,2,0.33299999999999996,0.33299999999999996,1,0.16699999999999998,0,0,2015-16,Binghamton
+Marlon Beck II,1,0,0,NA,0,0,NA,2015-16,Binghamton
+Total,78,0.107,0.141,0.7140000000000001,0.031,0.013999999999999999,0.154,2015-16,Binghamton

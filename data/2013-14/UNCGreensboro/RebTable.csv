@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kyle Cain,31,0.163,0.184,0.8,0.040999999999999995,0.057,0.545,2013-14
-Kayel Locke,26,0.182,0.192,0.636,0.027999999999999997,0,0,2013-14
-RJ White,22,0.22899999999999998,0.235,0.632,0.039,0,0,2013-14
-Tyrone Outlaw,17,0.23399999999999999,0.22899999999999998,0.5329999999999999,0.091,0,0,2013-14
-Tevon Saddler,16,0.109,0.111,0.5,0.022000000000000002,0.031,0.5,2013-14
-Diante Baldwin,2,0.048,0.042,0.5,0,0,NA,2013-14
-Nicholas Paulos,2,0.067,0.067,1,0.055999999999999994,0.111,1,2013-14
-Jordy Kuiper,1,0.33299999999999996,0,0,0,NA,NA,2013-14
-Drew Parker,1,0,0,NA,0,0,NA,2013-14
-Jordan Potts,1,0.067,0.14300000000000002,1,0,0,NA,2013-14
-Total,119,0.16,0.16899999999999998,0.634,0.033,0.031,0.36,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kyle Cain,31,0.163,0.184,0.8,0.040999999999999995,0.057,0.545,2013-14,UNCGreensboro
+Kayel Locke,26,0.182,0.192,0.636,0.027999999999999997,0,0,2013-14,UNCGreensboro
+RJ White,22,0.22899999999999998,0.235,0.632,0.039,0,0,2013-14,UNCGreensboro
+Tyrone Outlaw,17,0.23399999999999999,0.22899999999999998,0.5329999999999999,0.091,0,0,2013-14,UNCGreensboro
+Tevon Saddler,16,0.109,0.111,0.5,0.022000000000000002,0.031,0.5,2013-14,UNCGreensboro
+Diante Baldwin,2,0.048,0.042,0.5,0,0,NA,2013-14,UNCGreensboro
+Nicholas Paulos,2,0.067,0.067,1,0.055999999999999994,0.111,1,2013-14,UNCGreensboro
+Jordy Kuiper,1,0.33299999999999996,0,0,0,NA,NA,2013-14,UNCGreensboro
+Drew Parker,1,0,0,NA,0,0,NA,2013-14,UNCGreensboro
+Jordan Potts,1,0.067,0.14300000000000002,1,0,0,NA,2013-14,UNCGreensboro
+Total,119,0.16,0.16899999999999998,0.634,0.033,0.031,0.36,2013-14,UNCGreensboro

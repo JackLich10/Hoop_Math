@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Antravious Simmons,28,0.204,0.23600000000000002,0.7390000000000001,0.1,0.136,0.6,2017-18
-Scott Raysean,12,0.149,0.16699999999999998,0.818,0.048,0.071,1,2017-18
-Christian Terrell,12,0.092,0.08900000000000001,0.636,0.022000000000000002,0.048,1,2017-18
-Michael Gilmore,10,0.156,0.146,0.6,0,0,NA,2017-18
-Christian Carlyle,7,0.102,0.077,0.4,0.049,0,0,2017-18
-Ricky Doyle,6,0.091,0.077,0.6,0.026000000000000002,0.071,1,2017-18
-Brandon Goodwin,6,0.024,0.022000000000000002,0.6,0.009000000000000001,0,0,2017-18
-Zach Johnson,6,0.036000000000000004,0.051,0.833,0,0,NA,2017-18
-Brady Ernst,6,0.16699999999999998,0.185,0.833,0,0,NA,2017-18
-Brian Thomas,4,0.154,0.062,0.25,0,0,NA,2017-18
-Dolan Mahoney,1,1,1,1,0,0,NA,2017-18
-Dinero Mercurius,1,0,0,NA,0,0,NA,2017-18
-Total,99,0.09,0.09699999999999999,0.6779999999999999,0.024,0.033,0.545,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Antravious Simmons,28,0.204,0.23600000000000002,0.7390000000000001,0.1,0.136,0.6,2017-18,FGCU
+Scott Raysean,12,0.149,0.16699999999999998,0.818,0.048,0.071,1,2017-18,FGCU
+Christian Terrell,12,0.092,0.08900000000000001,0.636,0.022000000000000002,0.048,1,2017-18,FGCU
+Michael Gilmore,10,0.156,0.146,0.6,0,0,NA,2017-18,FGCU
+Christian Carlyle,7,0.102,0.077,0.4,0.049,0,0,2017-18,FGCU
+Ricky Doyle,6,0.091,0.077,0.6,0.026000000000000002,0.071,1,2017-18,FGCU
+Brandon Goodwin,6,0.024,0.022000000000000002,0.6,0.009000000000000001,0,0,2017-18,FGCU
+Zach Johnson,6,0.036000000000000004,0.051,0.833,0,0,NA,2017-18,FGCU
+Brady Ernst,6,0.16699999999999998,0.185,0.833,0,0,NA,2017-18,FGCU
+Brian Thomas,4,0.154,0.062,0.25,0,0,NA,2017-18,FGCU
+Dolan Mahoney,1,1,1,1,0,0,NA,2017-18,FGCU
+Dinero Mercurius,1,0,0,NA,0,0,NA,2017-18,FGCU
+Total,99,0.09,0.09699999999999999,0.6779999999999999,0.024,0.033,0.545,2017-18,FGCU

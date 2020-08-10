@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Ricky Madison,29,0.203,0.154,0.385,0.094,0.091,0.33299999999999996,2016-17
-Tarique Thompson,27,0.177,0.159,0.636,0.065,0.067,0.4,2016-17
-Miles Bowman Jr,22,0.152,0.16899999999999998,0.684,0.038,0,0,2016-17
-Andre Fox,7,0.055999999999999994,0.067,0.6,0.009000000000000001,0.026000000000000002,1,2016-17
-Cliff Thomas Jr,3,0.375,0.2,0.33299999999999996,0,0,NA,2016-17
-Jalen Williams,2,0.08,0.125,0.5,0,0,NA,2016-17
-Jordan Whitehead,1,0.2,0.33299999999999996,1,0,NA,NA,2016-17
-Luke Vargo,1,0.083,0,0,0,0,NA,2016-17
-Anthony Lindauer,1,0,0,NA,0,0,NA,2016-17
-Total,93,0.127,0.124,0.544,0.022000000000000002,0.021,0.33299999999999996,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Ricky Madison,29,0.203,0.154,0.385,0.094,0.091,0.33299999999999996,2016-17,HighPoint
+Tarique Thompson,27,0.177,0.159,0.636,0.065,0.067,0.4,2016-17,HighPoint
+Miles Bowman Jr,22,0.152,0.16899999999999998,0.684,0.038,0,0,2016-17,HighPoint
+Andre Fox,7,0.055999999999999994,0.067,0.6,0.009000000000000001,0.026000000000000002,1,2016-17,HighPoint
+Cliff Thomas Jr,3,0.375,0.2,0.33299999999999996,0,0,NA,2016-17,HighPoint
+Jalen Williams,2,0.08,0.125,0.5,0,0,NA,2016-17,HighPoint
+Jordan Whitehead,1,0.2,0.33299999999999996,1,0,NA,NA,2016-17,HighPoint
+Luke Vargo,1,0.083,0,0,0,0,NA,2016-17,HighPoint
+Anthony Lindauer,1,0,0,NA,0,0,NA,2016-17,HighPoint
+Total,93,0.127,0.124,0.544,0.022000000000000002,0.021,0.33299999999999996,2016-17,HighPoint

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.245,0.644,0.07200000000000001,0.6940000000000001,2015-16
-2pt Jumpers,0.317,0.386,0.046,0.405,2015-16
-3pt Shots,0.43799999999999994,0.34299999999999997,0.004,0.345,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.245,0.644,0.07200000000000001,0.6940000000000001,2015-16,UTMartin
+2pt Jumpers,0.317,0.386,0.046,0.405,2015-16,UTMartin
+3pt Shots,0.43799999999999994,0.34299999999999997,0.004,0.345,2015-16,UTMartin

@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jordan Minor,30,0.248,0.23800000000000002,0.5,0,0,NA,2019-20
-Idris Joyner,13,0.09,0.106,0.75,0.027000000000000003,0,0,2019-20
-Juvaris Hayes,8,0.034,0.04,0.5710000000000001,0.024,0,0,2019-20
-Jaleel Lord,6,0.064,0.083,0.667,0.031,0.08,1,2019-20
-Ziggy  Reid,4,0.077,0.16,1,0,0,NA,2019-20
-Khalief Crawford,1,0.1,0.25,1,0,0,NA,2019-20
-Jordan McKoy,1,0.1,0,0,0,0,NA,2019-20
-Ryan Miller,1,0.33299999999999996,0,0,NA,NA,NA,2019-20
-Devin Jensen,1,0,0,NA,0.111,0,0,2019-20
-Mikey Watkins,1,0.01,0.018000000000000002,1,0,0,NA,2019-20
-Total,66,0.083,0.094,0.6,0.021,0.027000000000000003,0.4,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jordan Minor,30,0.248,0.23800000000000002,0.5,0,0,NA,2019-20,Merrimack
+Idris Joyner,13,0.09,0.106,0.75,0.027000000000000003,0,0,2019-20,Merrimack
+Juvaris Hayes,8,0.034,0.04,0.5710000000000001,0.024,0,0,2019-20,Merrimack
+Jaleel Lord,6,0.064,0.083,0.667,0.031,0.08,1,2019-20,Merrimack
+Ziggy  Reid,4,0.077,0.16,1,0,0,NA,2019-20,Merrimack
+Khalief Crawford,1,0.1,0.25,1,0,0,NA,2019-20,Merrimack
+Jordan McKoy,1,0.1,0,0,0,0,NA,2019-20,Merrimack
+Ryan Miller,1,0.33299999999999996,0,0,NA,NA,NA,2019-20,Merrimack
+Devin Jensen,1,0,0,NA,0.111,0,0,2019-20,Merrimack
+Mikey Watkins,1,0.01,0.018000000000000002,1,0,0,NA,2019-20,Merrimack
+Total,66,0.083,0.094,0.6,0.021,0.027000000000000003,0.4,2019-20,Merrimack

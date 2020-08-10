@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Michael Steadman,31,0.185,0.205,0.708,0.03,0.062,0.833,2018-19
-Craig LeCesne,16,0.2,0.29600000000000004,0.8,0.076,0.077,0.33299999999999996,2018-19
-Christian Anigwe,14,0.222,0.25,0.75,0.133,0,0,2018-19
-Oumar Barry,12,0.21600000000000003,0.139,0.455,0,0,NA,2018-19
-Ashtin Chastain,9,0.171,0.261,0.857,0.062,0.091,0.5,2018-19
-Isaiah Nichols,7,0.25,0.125,0.2,0.16699999999999998,0.5,0.5,2018-19
-Seneca  Knight,6,0.081,0.111,0.6,0.023,0,0,2018-19
-Noah Baumann,3,0.038,0,0,0,0,NA,2018-19
-Brae Ivey,2,0.065,0.1,1,0,0,NA,2018-19
-Brian Rodriguez-Flores,1,0.071,0,0,0,0,NA,2018-19
-Zach Chappell,1,0,0,NA,0.028999999999999998,0,0,2018-19
-Total,102,0.14800000000000002,0.17,0.654,0.034,0.044000000000000004,0.45,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Michael Steadman,31,0.185,0.205,0.708,0.03,0.062,0.833,2018-19,SanJoseSt.
+Craig LeCesne,16,0.2,0.29600000000000004,0.8,0.076,0.077,0.33299999999999996,2018-19,SanJoseSt.
+Christian Anigwe,14,0.222,0.25,0.75,0.133,0,0,2018-19,SanJoseSt.
+Oumar Barry,12,0.21600000000000003,0.139,0.455,0,0,NA,2018-19,SanJoseSt.
+Ashtin Chastain,9,0.171,0.261,0.857,0.062,0.091,0.5,2018-19,SanJoseSt.
+Isaiah Nichols,7,0.25,0.125,0.2,0.16699999999999998,0.5,0.5,2018-19,SanJoseSt.
+Seneca  Knight,6,0.081,0.111,0.6,0.023,0,0,2018-19,SanJoseSt.
+Noah Baumann,3,0.038,0,0,0,0,NA,2018-19,SanJoseSt.
+Brae Ivey,2,0.065,0.1,1,0,0,NA,2018-19,SanJoseSt.
+Brian Rodriguez-Flores,1,0.071,0,0,0,0,NA,2018-19,SanJoseSt.
+Zach Chappell,1,0,0,NA,0.028999999999999998,0,0,2018-19,SanJoseSt.
+Total,102,0.14800000000000002,0.17,0.654,0.034,0.044000000000000004,0.45,2018-19,SanJoseSt.

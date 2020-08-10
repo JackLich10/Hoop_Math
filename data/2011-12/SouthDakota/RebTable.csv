@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Ricardo Andreotti,19,0.28300000000000003,0.281,0.6,0.235,0.25,0.25,2011-12
-Trevor Gruis,18,0.09300000000000001,0.071,0.467,0.043,0.042,0.33299999999999996,2011-12
-Steve Tecker,9,0.18600000000000003,0.16699999999999998,0.5,0.019,0,0,2011-12
-Charlie Westbrook,7,0.035,0.032,0.5,0.008,0,0,2011-12
-Louie Krogman,2,0.018000000000000002,0,0,0,0,NA,2011-12
-Allen Saint-Gelais,1,0.018000000000000002,0.028999999999999998,1,0,0,NA,2011-12
-Nimrod Hilliard IV,1,0.038,0,0,0,NA,NA,2011-12
-Brandon Bos,1,0.111,0.25,1,0,0,NA,2011-12
-Total,58,0.075,0.066,0.51,0.023,0.013999999999999999,0.222,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Ricardo Andreotti,19,0.28300000000000003,0.281,0.6,0.235,0.25,0.25,2011-12,SouthDakota
+Trevor Gruis,18,0.09300000000000001,0.071,0.467,0.043,0.042,0.33299999999999996,2011-12,SouthDakota
+Steve Tecker,9,0.18600000000000003,0.16699999999999998,0.5,0.019,0,0,2011-12,SouthDakota
+Charlie Westbrook,7,0.035,0.032,0.5,0.008,0,0,2011-12,SouthDakota
+Louie Krogman,2,0.018000000000000002,0,0,0,0,NA,2011-12,SouthDakota
+Allen Saint-Gelais,1,0.018000000000000002,0.028999999999999998,1,0,0,NA,2011-12,SouthDakota
+Nimrod Hilliard IV,1,0.038,0,0,0,NA,NA,2011-12,SouthDakota
+Brandon Bos,1,0.111,0.25,1,0,0,NA,2011-12,SouthDakota
+Total,58,0.075,0.066,0.51,0.023,0.013999999999999999,0.222,2011-12,SouthDakota

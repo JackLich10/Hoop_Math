@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.358,0.612,0.086,0.67,2018-19
-2pt Jumpers,0.285,0.377,0.045,0.395,2018-19
-3pt Shots,0.35700000000000004,0.348,0.009000000000000001,0.35200000000000004,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.358,0.612,0.086,0.67,2018-19,TexasSouthern
+2pt Jumpers,0.285,0.377,0.045,0.395,2018-19,TexasSouthern
+3pt Shots,0.35700000000000004,0.348,0.009000000000000001,0.35200000000000004,2018-19,TexasSouthern

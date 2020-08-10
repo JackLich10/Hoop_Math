@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jalen Robinson,23,0.187,0.184,0.643,0.12300000000000001,0.192,0.556,2012-13
-Josh Benson,13,0.08,0.085,0.778,0.033,0.039,0.5,2012-13
-Devin Oliver,12,0.11199999999999999,0.154,0.909,0.013999999999999999,0.042,1,2012-13
-Dyshawn Pierre,8,0.071,0.045,0.4,0.053,0.071,0.667,2012-13
-Alex Gavrilovic,5,0.182,0.267,1,0.1,0,0,2012-13
-Vee Sanford,4,0.031,0.022000000000000002,0.5,0.015,0.017,0.5,2012-13
-Khari Price,2,0,0,NA,0.2,NA,0,2012-13
-Matt Derenbecker,2,0.2,0,0,0,0,NA,2012-13
-Devon Scott,1,0,0,NA,0.043,0,0,2012-13
-Total,70,0.08199999999999999,0.09,0.7170000000000001,0.037000000000000005,0.046,0.478,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jalen Robinson,23,0.187,0.184,0.643,0.12300000000000001,0.192,0.556,2012-13,Dayton
+Josh Benson,13,0.08,0.085,0.778,0.033,0.039,0.5,2012-13,Dayton
+Devin Oliver,12,0.11199999999999999,0.154,0.909,0.013999999999999999,0.042,1,2012-13,Dayton
+Dyshawn Pierre,8,0.071,0.045,0.4,0.053,0.071,0.667,2012-13,Dayton
+Alex Gavrilovic,5,0.182,0.267,1,0.1,0,0,2012-13,Dayton
+Vee Sanford,4,0.031,0.022000000000000002,0.5,0.015,0.017,0.5,2012-13,Dayton
+Khari Price,2,0,0,NA,0.2,NA,0,2012-13,Dayton
+Matt Derenbecker,2,0.2,0,0,0,0,NA,2012-13,Dayton
+Devon Scott,1,0,0,NA,0.043,0,0,2012-13,Dayton
+Total,70,0.08199999999999999,0.09,0.7170000000000001,0.037000000000000005,0.046,0.478,2012-13,Dayton

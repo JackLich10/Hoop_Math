@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Williams Eric,28,0.187,0.175,0.5,0.095,0.13,0.375,2017-18
-Chas Brown,25,0.35700000000000004,0.441,0.6,0,0,NA,2017-18
-Tydus Verhoeven,21,0.34600000000000003,0.3,0.5,0.12,0,0,2017-18
-Jordan Robinson,21,0.267,0.16,0.4,0.015,0,0,2017-18
-Kellon Taylor,10,0.17300000000000001,0.222,0.889,0.083,0.16699999999999998,1,2017-18
-Rene Castro-Caneddy,6,0.016,0.026000000000000002,1,0.013999999999999999,0.036000000000000004,1,2017-18
-Mike Lewis II,5,0.043,0,0,0.028999999999999998,0.034,0.5,2017-18
-Tarin Smith,4,0.024,0.039,1,0.013000000000000001,0,0,2017-18
-Eric James,3,0.16699999999999998,0.111,0.5,0.14300000000000002,0,0,2017-18
-Zach Snyder,1,1,1,1,NA,NA,NA,2017-18
-Marko Krivacevic,1,0.2,0,0,NA,NA,NA,2017-18
-Total,125,0.153,0.145,0.5529999999999999,0.04,0.040999999999999995,0.33299999999999996,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Williams Eric,28,0.187,0.175,0.5,0.095,0.13,0.375,2017-18,Duquesne
+Chas Brown,25,0.35700000000000004,0.441,0.6,0,0,NA,2017-18,Duquesne
+Tydus Verhoeven,21,0.34600000000000003,0.3,0.5,0.12,0,0,2017-18,Duquesne
+Jordan Robinson,21,0.267,0.16,0.4,0.015,0,0,2017-18,Duquesne
+Kellon Taylor,10,0.17300000000000001,0.222,0.889,0.083,0.16699999999999998,1,2017-18,Duquesne
+Rene Castro-Caneddy,6,0.016,0.026000000000000002,1,0.013999999999999999,0.036000000000000004,1,2017-18,Duquesne
+Mike Lewis II,5,0.043,0,0,0.028999999999999998,0.034,0.5,2017-18,Duquesne
+Tarin Smith,4,0.024,0.039,1,0.013000000000000001,0,0,2017-18,Duquesne
+Eric James,3,0.16699999999999998,0.111,0.5,0.14300000000000002,0,0,2017-18,Duquesne
+Zach Snyder,1,1,1,1,NA,NA,NA,2017-18,Duquesne
+Marko Krivacevic,1,0.2,0,0,NA,NA,NA,2017-18,Duquesne
+Total,125,0.153,0.145,0.5529999999999999,0.04,0.040999999999999995,0.33299999999999996,2017-18,Duquesne

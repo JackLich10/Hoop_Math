@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Alex Davis,30,0.28,0.276,0.615,0.063,0,0,2013-14
-Karachi Edo,23,0.273,0.28300000000000003,0.722,0.08900000000000001,0,0,2013-14
-Tyler Johnson,16,0.107,0.147,0.846,0.013000000000000001,0.016,0.5,2013-14
-Paul Watson,14,0.122,0.083,0.444,0.053,0.036000000000000004,0.25,2013-14
-Marvelle Harris,6,0.042,0.063,0.8,0.006999999999999999,0,0,2013-14
-Tanner Giddings,6,0.294,0.214,0.6,0.028999999999999998,0,0,2013-14
-Cezar Guerrero,2,0,0,NA,0.016,0.035,1,2013-14
-"EDO,K",1,0.33299999999999996,0,0,0,NA,NA,2013-14
-Blake Williams,1,0.33299999999999996,0.33299999999999996,1,NA,NA,NA,2013-14
-Broderick Newbill,1,0.33299999999999996,0.33299999999999996,1,0,NA,NA,2013-14
-Allen Huddleston,1,0,0,NA,0,0,NA,2013-14
-Total,101,0.12,0.135,0.6709999999999999,0.027000000000000003,0.015,0.21100000000000002,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Alex Davis,30,0.28,0.276,0.615,0.063,0,0,2013-14,FresnoSt.
+Karachi Edo,23,0.273,0.28300000000000003,0.722,0.08900000000000001,0,0,2013-14,FresnoSt.
+Tyler Johnson,16,0.107,0.147,0.846,0.013000000000000001,0.016,0.5,2013-14,FresnoSt.
+Paul Watson,14,0.122,0.083,0.444,0.053,0.036000000000000004,0.25,2013-14,FresnoSt.
+Marvelle Harris,6,0.042,0.063,0.8,0.006999999999999999,0,0,2013-14,FresnoSt.
+Tanner Giddings,6,0.294,0.214,0.6,0.028999999999999998,0,0,2013-14,FresnoSt.
+Cezar Guerrero,2,0,0,NA,0.016,0.035,1,2013-14,FresnoSt.
+"EDO,K",1,0.33299999999999996,0,0,0,NA,NA,2013-14,FresnoSt.
+Blake Williams,1,0.33299999999999996,0.33299999999999996,1,NA,NA,NA,2013-14,FresnoSt.
+Broderick Newbill,1,0.33299999999999996,0.33299999999999996,1,0,NA,NA,2013-14,FresnoSt.
+Allen Huddleston,1,0,0,NA,0,0,NA,2013-14,FresnoSt.
+Total,101,0.12,0.135,0.6709999999999999,0.027000000000000003,0.015,0.21100000000000002,2013-14,FresnoSt.

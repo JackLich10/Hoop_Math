@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.374,0.625,0.091,0.688,2015-16
-2pt Jumpers,0.256,0.32,0.085,0.35,2015-16
-3pt Shots,0.37,0.312,0.008,0.315,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.374,0.625,0.091,0.688,2015-16,VirginiaTech
+2pt Jumpers,0.256,0.32,0.085,0.35,2015-16,VirginiaTech
+3pt Shots,0.37,0.312,0.008,0.315,2015-16,VirginiaTech

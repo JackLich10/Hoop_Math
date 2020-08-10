@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.354,0.659,0.066,0.706,2015-16
-2pt Jumpers,0.261,0.397,0.051,0.419,2015-16
-3pt Shots,0.385,0.305,0.004,0.307,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.354,0.659,0.066,0.706,2015-16,MississippiVal.
+2pt Jumpers,0.261,0.397,0.051,0.419,2015-16,MississippiVal.
+3pt Shots,0.385,0.305,0.004,0.307,2015-16,MississippiVal.

@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tommy Burton,28,0.122,0.038,0.16699999999999998,0.071,0.079,0.556,2019-20
-Tim Ceaser,24,0.38299999999999995,0.289,0.478,0.042,0,0,2019-20
-Garrick Green,19,0.17600000000000002,0.2,0.632,0,0,NA,2019-20
-Hosana Kitenge,11,0.217,0.25,0.8,0.111,0,0,2019-20
-DeVante  Jones,8,0.047,0.038,0.5,0,0,NA,2019-20
-Tyrell Gumbs-Frater,8,0.08199999999999999,0.12,0.75,0.033,0,0,2019-20
-Isaac Hippolyte,6,0.19,0.3,0.75,0.04,0.067,1,2019-20
-Malik LeGania,5,0.062,0.037000000000000005,0.33299999999999996,0.03,0,0,2019-20
-Levi Cook,5,0.25,0.273,0.6,0,0,NA,2019-20
-Keishawn Brewton,5,0,0,NA,0.048,0,0,2019-20
-Ahmard Harvey,3,0.136,0.083,0.33299999999999996,0,NA,NA,2019-20
-Ebrima Dibba,3,0,0,NA,0.077,0.059000000000000004,0.33299999999999996,2019-20
-Josh Peterson,1,0,0,NA,0.071,0,0,2019-20
-Total,126,0.125,0.111,0.505,0.040999999999999995,0.03,0.318,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tommy Burton,28,0.122,0.038,0.16699999999999998,0.071,0.079,0.556,2019-20,CoastalCarolina
+Tim Ceaser,24,0.38299999999999995,0.289,0.478,0.042,0,0,2019-20,CoastalCarolina
+Garrick Green,19,0.17600000000000002,0.2,0.632,0,0,NA,2019-20,CoastalCarolina
+Hosana Kitenge,11,0.217,0.25,0.8,0.111,0,0,2019-20,CoastalCarolina
+DeVante  Jones,8,0.047,0.038,0.5,0,0,NA,2019-20,CoastalCarolina
+Tyrell Gumbs-Frater,8,0.08199999999999999,0.12,0.75,0.033,0,0,2019-20,CoastalCarolina
+Isaac Hippolyte,6,0.19,0.3,0.75,0.04,0.067,1,2019-20,CoastalCarolina
+Malik LeGania,5,0.062,0.037000000000000005,0.33299999999999996,0.03,0,0,2019-20,CoastalCarolina
+Levi Cook,5,0.25,0.273,0.6,0,0,NA,2019-20,CoastalCarolina
+Keishawn Brewton,5,0,0,NA,0.048,0,0,2019-20,CoastalCarolina
+Ahmard Harvey,3,0.136,0.083,0.33299999999999996,0,NA,NA,2019-20,CoastalCarolina
+Ebrima Dibba,3,0,0,NA,0.077,0.059000000000000004,0.33299999999999996,2019-20,CoastalCarolina
+Josh Peterson,1,0,0,NA,0.071,0,0,2019-20,CoastalCarolina
+Total,126,0.125,0.111,0.505,0.040999999999999995,0.03,0.318,2019-20,CoastalCarolina

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.38299999999999995,0.59,0.113,0.6659999999999999,2016-17
-2pt Jumpers,0.256,0.368,0.033,0.38,2016-17
-3pt Shots,0.361,0.35600000000000004,0.01,0.36,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.38299999999999995,0.59,0.113,0.6659999999999999,2016-17,Pittsburgh
+2pt Jumpers,0.256,0.368,0.033,0.38,2016-17,Pittsburgh
+3pt Shots,0.361,0.35600000000000004,0.01,0.36,2016-17,Pittsburgh

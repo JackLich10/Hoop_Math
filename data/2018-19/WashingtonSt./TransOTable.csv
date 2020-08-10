@@ -1,8 +1,8 @@
-start_of_poss,percent_of_initial_attempts,e_fg_percent,percent_shots_at_rim,fg_percent_at_rim,percent_shots_2pt_jumpers,fg_percent_2pt_jumpers,percent_shots_3pt,fg_percent_3pt,season
-"Rebound, 0-10 s",0.19,0.542,0.342,0.626,0.147,0.304,0.511,0.369,2018-19
-"Rebound, 11-30 s",0.145,0.502,0.23800000000000002,0.509,0.267,0.469,0.496,0.345,2018-19
-"Opp score, 0-10 s",0.09,0.517,0.295,0.682,0.201,0.267,0.503,0.34700000000000003,2018-19
-"Opp score, 11-30 s",0.392,0.527,0.257,0.62,0.27699999999999997,0.397,0.466,0.369,2018-19
-"Steal, 0-10 s",0.038,0.637,0.645,0.725,0.065,0,0.29,0.389,2018-19
-"Steal, 11-30 s",0.015,0.34,0.2,0.2,0.44,0.273,0.36,0.33299999999999996,2018-19
-Transition,0.318,0.546,0.365,0.66,0.153,0.275,0.483,0.364,2018-19
+start_of_poss,percent_of_initial_attempts,e_fg_percent,percent_shots_at_rim,fg_percent_at_rim,percent_shots_2pt_jumpers,fg_percent_2pt_jumpers,percent_shots_3pt,fg_percent_3pt,season,team
+"Rebound, 0-10 s",0.19,0.542,0.342,0.626,0.147,0.304,0.511,0.369,2018-19,WashingtonSt.
+"Rebound, 11-30 s",0.145,0.502,0.23800000000000002,0.509,0.267,0.469,0.496,0.345,2018-19,WashingtonSt.
+"Opp score, 0-10 s",0.09,0.517,0.295,0.682,0.201,0.267,0.503,0.34700000000000003,2018-19,WashingtonSt.
+"Opp score, 11-30 s",0.392,0.527,0.257,0.62,0.27699999999999997,0.397,0.466,0.369,2018-19,WashingtonSt.
+"Steal, 0-10 s",0.038,0.637,0.645,0.725,0.065,0,0.29,0.389,2018-19,WashingtonSt.
+"Steal, 11-30 s",0.015,0.34,0.2,0.2,0.44,0.273,0.36,0.33299999999999996,2018-19,WashingtonSt.
+Transition,0.318,0.546,0.365,0.66,0.153,0.275,0.483,0.364,2018-19,WashingtonSt.

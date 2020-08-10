@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.371,0.633,0.083,0.69,2016-17
-2pt Jumpers,0.26,0.365,0.046,0.38299999999999995,2016-17
-3pt Shots,0.369,0.35100000000000003,0.004,0.353,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.371,0.633,0.083,0.69,2016-17,WashingtonSt.
+2pt Jumpers,0.26,0.365,0.046,0.38299999999999995,2016-17,WashingtonSt.
+3pt Shots,0.369,0.35100000000000003,0.004,0.353,2016-17,WashingtonSt.

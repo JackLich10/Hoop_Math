@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Aaryn Rai,18,0.099,0.094,0.545,0.066,0.062,0.5,2019-20
-Chris Knight,15,0.069,0.057999999999999996,0.5,0.01,0,0,2019-20
-Ian Carter,8,0.132,0.14300000000000002,0.6,0.09699999999999999,0.1,0.33299999999999996,2019-20
-Ian Sistare,2,0.021,0.043,1,0.083,0.2,1,2019-20
-Paul Hudson,1,0.2,0.25,1,0,NA,NA,2019-20
-Trevon Ary-Turner,1,0.045,0.077,1,0,0,NA,2019-20
-Taurus Samuels,1,0,0,NA,0.025,0.062,1,2019-20
-Demilade Adelekun,1,0.16699999999999998,0.2,1,0,0,NA,2019-20
-Nathaniel Ogbu,1,0.33299999999999996,NA,0,0,0,NA,2019-20
-Total,48,0.059000000000000004,0.059000000000000004,0.5710000000000001,0.033,0.037000000000000005,0.5,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Aaryn Rai,18,0.099,0.094,0.545,0.066,0.062,0.5,2019-20,Dartmouth
+Chris Knight,15,0.069,0.057999999999999996,0.5,0.01,0,0,2019-20,Dartmouth
+Ian Carter,8,0.132,0.14300000000000002,0.6,0.09699999999999999,0.1,0.33299999999999996,2019-20,Dartmouth
+Ian Sistare,2,0.021,0.043,1,0.083,0.2,1,2019-20,Dartmouth
+Paul Hudson,1,0.2,0.25,1,0,NA,NA,2019-20,Dartmouth
+Trevon Ary-Turner,1,0.045,0.077,1,0,0,NA,2019-20,Dartmouth
+Taurus Samuels,1,0,0,NA,0.025,0.062,1,2019-20,Dartmouth
+Demilade Adelekun,1,0.16699999999999998,0.2,1,0,0,NA,2019-20,Dartmouth
+Nathaniel Ogbu,1,0.33299999999999996,NA,0,0,0,NA,2019-20,Dartmouth
+Total,48,0.059000000000000004,0.059000000000000004,0.5710000000000001,0.033,0.037000000000000005,0.5,2019-20,Dartmouth

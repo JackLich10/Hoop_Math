@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.37,0.621,0.094,0.6859999999999999,2012-13
-2pt Jumpers,0.297,0.318,0.045,0.33299999999999996,2012-13
-3pt Shots,0.33299999999999996,0.354,0.004,0.355,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.37,0.621,0.094,0.6859999999999999,2012-13,Dartmouth
+2pt Jumpers,0.297,0.318,0.045,0.33299999999999996,2012-13,Dartmouth
+3pt Shots,0.33299999999999996,0.354,0.004,0.355,2012-13,Dartmouth

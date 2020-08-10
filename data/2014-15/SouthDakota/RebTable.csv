@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tre Burnette,25,0.146,0.158,0.6920000000000001,0.106,0.17600000000000002,0.545,2014-15
-Tyler Larson,24,0.085,0.114,0.727,0.08800000000000001,0.055999999999999994,0.231,2014-15
-James Hunter,23,0.225,0.25,0.722,0.066,0.2,1,2014-15
-Brandon Bos,10,0.073,0.133,0.857,0.012,0,0,2014-15
-"DAVIS,DJ",8,0.20800000000000002,0.267,0.8,0.13,0,0,2014-15
-Eric Robertson,7,0.1,0.055999999999999994,0.33299999999999996,0.044000000000000004,0.083,0.75,2014-15
-Duol Mayot,3,0.14300000000000002,0.25,0.667,0,0,NA,2014-15
-Austin Sparks,1,0.059000000000000004,0.077,1,0,0,NA,2014-15
-Adam Thoseby,1,0,0,NA,0.059000000000000004,0,0,2014-15
-Trey Norris,1,0,0,NA,0.032,0.067,1,2014-15
-Total,103,0.102,0.132,0.721,0.054000000000000006,0.068,0.45,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tre Burnette,25,0.146,0.158,0.6920000000000001,0.106,0.17600000000000002,0.545,2014-15,SouthDakota
+Tyler Larson,24,0.085,0.114,0.727,0.08800000000000001,0.055999999999999994,0.231,2014-15,SouthDakota
+James Hunter,23,0.225,0.25,0.722,0.066,0.2,1,2014-15,SouthDakota
+Brandon Bos,10,0.073,0.133,0.857,0.012,0,0,2014-15,SouthDakota
+"DAVIS,DJ",8,0.20800000000000002,0.267,0.8,0.13,0,0,2014-15,SouthDakota
+Eric Robertson,7,0.1,0.055999999999999994,0.33299999999999996,0.044000000000000004,0.083,0.75,2014-15,SouthDakota
+Duol Mayot,3,0.14300000000000002,0.25,0.667,0,0,NA,2014-15,SouthDakota
+Austin Sparks,1,0.059000000000000004,0.077,1,0,0,NA,2014-15,SouthDakota
+Adam Thoseby,1,0,0,NA,0.059000000000000004,0,0,2014-15,SouthDakota
+Trey Norris,1,0,0,NA,0.032,0.067,1,2014-15,SouthDakota
+Total,103,0.102,0.132,0.721,0.054000000000000006,0.068,0.45,2014-15,SouthDakota

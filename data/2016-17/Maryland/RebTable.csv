@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Damonte Dodd,29,0.33799999999999997,0.294,0.6,0.129,0.3,0.75,2016-17
-Justin Jackson,21,0.182,0.213,0.7140000000000001,0.08199999999999999,0.083,0.28600000000000003,2016-17
-Ivan Bender,13,0.146,0.08900000000000001,0.41700000000000004,0.077,0.14300000000000002,1,2016-17
-Michal Cekovsky,13,0.193,0.159,0.636,0.08,0.091,0.5,2016-17
-Kevin Huerter,9,0.196,0.172,0.556,0,0,NA,2016-17
-L.G. Gill,6,0.16,0.053,0.25,0.043,0.067,0.5,2016-17
-Jaylen Brantley,5,0.091,0.111,0.667,0.071,0.2,0.5,2016-17
-Anthony Cowan,3,0.02,0.017,0.5,0,0,NA,2016-17
-Dion Wiley,3,0.1,0.33299999999999996,1,0.111,0,0,2016-17
-Melo Trimble,1,0.008,0.011000000000000001,1,0,0,NA,2016-17
-Total,103,0.13,0.11599999999999999,0.585,0.042,0.064,0.474,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Damonte Dodd,29,0.33799999999999997,0.294,0.6,0.129,0.3,0.75,2016-17,Maryland
+Justin Jackson,21,0.182,0.213,0.7140000000000001,0.08199999999999999,0.083,0.28600000000000003,2016-17,Maryland
+Ivan Bender,13,0.146,0.08900000000000001,0.41700000000000004,0.077,0.14300000000000002,1,2016-17,Maryland
+Michal Cekovsky,13,0.193,0.159,0.636,0.08,0.091,0.5,2016-17,Maryland
+Kevin Huerter,9,0.196,0.172,0.556,0,0,NA,2016-17,Maryland
+L.G. Gill,6,0.16,0.053,0.25,0.043,0.067,0.5,2016-17,Maryland
+Jaylen Brantley,5,0.091,0.111,0.667,0.071,0.2,0.5,2016-17,Maryland
+Anthony Cowan,3,0.02,0.017,0.5,0,0,NA,2016-17,Maryland
+Dion Wiley,3,0.1,0.33299999999999996,1,0.111,0,0,2016-17,Maryland
+Melo Trimble,1,0.008,0.011000000000000001,1,0,0,NA,2016-17,Maryland
+Total,103,0.13,0.11599999999999999,0.585,0.042,0.064,0.474,2016-17,Maryland

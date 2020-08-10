@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.382,0.627,0.09699999999999999,0.6940000000000001,2018-19
-2pt Jumpers,0.27,0.33299999999999996,0.044000000000000004,0.348,2018-19
-3pt Shots,0.348,0.35,0.006,0.35200000000000004,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.382,0.627,0.09699999999999999,0.6940000000000001,2018-19,Massachusetts
+2pt Jumpers,0.27,0.33299999999999996,0.044000000000000004,0.348,2018-19,Massachusetts
+3pt Shots,0.348,0.35,0.006,0.35200000000000004,2018-19,Massachusetts

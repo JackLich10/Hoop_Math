@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jordan Session,40,0.29100000000000004,0.25,0.568,0.065,0.083,0.33299999999999996,2017-18
-D'Marcus Simonds,20,0.057999999999999996,0.06,0.647,0.012,0.039,1,2017-18
-Malik Benlevi,19,0.258,0.256,0.588,0.067,0,0,2017-18
-Jeff Thomas,10,0.132,0.14300000000000002,0.7140000000000001,0.04,0.026000000000000002,0.33299999999999996,2017-18
-Jordan Tyson,8,0.214,0.312,0.833,0.071,0.14300000000000002,1,2017-18
-Isaiah Williams,2,0.027000000000000003,0.048,1,0.021,0,0,2017-18
-Josh Linder,2,0.055999999999999994,0,0,0.125,0,0,2017-18
-Devin Mitchell,2,0,0,NA,0.02,0,0,2017-18
-Chris Clerkley,1,0,NA,NA,0.33299999999999996,NA,0,2017-18
-Kane Williams,1,0,0,NA,0.071,0.25,1,2017-18
-Total,105,0.11900000000000001,0.11900000000000001,0.616,0.036000000000000004,0.042,0.41200000000000003,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jordan Session,40,0.29100000000000004,0.25,0.568,0.065,0.083,0.33299999999999996,2017-18,GeorgiaSt.
+D'Marcus Simonds,20,0.057999999999999996,0.06,0.647,0.012,0.039,1,2017-18,GeorgiaSt.
+Malik Benlevi,19,0.258,0.256,0.588,0.067,0,0,2017-18,GeorgiaSt.
+Jeff Thomas,10,0.132,0.14300000000000002,0.7140000000000001,0.04,0.026000000000000002,0.33299999999999996,2017-18,GeorgiaSt.
+Jordan Tyson,8,0.214,0.312,0.833,0.071,0.14300000000000002,1,2017-18,GeorgiaSt.
+Isaiah Williams,2,0.027000000000000003,0.048,1,0.021,0,0,2017-18,GeorgiaSt.
+Josh Linder,2,0.055999999999999994,0,0,0.125,0,0,2017-18,GeorgiaSt.
+Devin Mitchell,2,0,0,NA,0.02,0,0,2017-18,GeorgiaSt.
+Chris Clerkley,1,0,NA,NA,0.33299999999999996,NA,0,2017-18,GeorgiaSt.
+Kane Williams,1,0,0,NA,0.071,0.25,1,2017-18,GeorgiaSt.
+Total,105,0.11900000000000001,0.11900000000000001,0.616,0.036000000000000004,0.042,0.41200000000000003,2017-18,GeorgiaSt.

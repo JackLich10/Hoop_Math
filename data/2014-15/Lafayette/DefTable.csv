@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.335,0.594,0.081,0.6459999999999999,2014-15
-2pt Jumpers,0.29100000000000004,0.41100000000000003,0.045,0.431,2014-15
-3pt Shots,0.375,0.381,0.006999999999999999,0.38299999999999995,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.335,0.594,0.081,0.6459999999999999,2014-15,Lafayette
+2pt Jumpers,0.29100000000000004,0.41100000000000003,0.045,0.431,2014-15,Lafayette
+3pt Shots,0.375,0.381,0.006999999999999999,0.38299999999999995,2014-15,Lafayette

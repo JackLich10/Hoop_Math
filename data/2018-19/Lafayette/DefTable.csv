@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.41100000000000003,0.61,0.12,0.693,2018-19
-2pt Jumpers,0.233,0.36700000000000005,0.069,0.39399999999999996,2018-19
-3pt Shots,0.35600000000000004,0.382,0.009000000000000001,0.386,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.41100000000000003,0.61,0.12,0.693,2018-19,Lafayette
+2pt Jumpers,0.233,0.36700000000000005,0.069,0.39399999999999996,2018-19,Lafayette
+3pt Shots,0.35600000000000004,0.382,0.009000000000000001,0.386,2018-19,Lafayette

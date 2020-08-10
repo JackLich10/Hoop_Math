@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Gabriel Gyamfi,16,0.151,0.145,0.615,0.231,0.16699999999999998,0.33299999999999996,2018-19
-Isaac Taylor,7,0.039,0.061,1,0.121,0.125,0.5,2018-19
-AJ Cheeseman,6,0.054000000000000006,0.087,1,0.028999999999999998,0,0,2018-19
-Canaan Bartley,5,0.075,0.125,0.8,0,0,NA,2018-19
-Tyler Jones,4,0.051,0.065,0.75,0,0,NA,2018-19
-Colen Gaynor,3,0.115,0.17600000000000002,1,0,0,NA,2018-19
-Ahmad Frost,3,0.057,0.053,0.5,0.023,0,0,2018-19
-Montraz Oliver,3,0.07400000000000001,0.133,1,0.059000000000000004,0,0,2018-19
-Total,47,0.059000000000000004,0.079,0.778,0.025,0.024,0.273,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Gabriel Gyamfi,16,0.151,0.145,0.615,0.231,0.16699999999999998,0.33299999999999996,2018-19,UMES
+Isaac Taylor,7,0.039,0.061,1,0.121,0.125,0.5,2018-19,UMES
+AJ Cheeseman,6,0.054000000000000006,0.087,1,0.028999999999999998,0,0,2018-19,UMES
+Canaan Bartley,5,0.075,0.125,0.8,0,0,NA,2018-19,UMES
+Tyler Jones,4,0.051,0.065,0.75,0,0,NA,2018-19,UMES
+Colen Gaynor,3,0.115,0.17600000000000002,1,0,0,NA,2018-19,UMES
+Ahmad Frost,3,0.057,0.053,0.5,0.023,0,0,2018-19,UMES
+Montraz Oliver,3,0.07400000000000001,0.133,1,0.059000000000000004,0,0,2018-19,UMES
+Total,47,0.059000000000000004,0.079,0.778,0.025,0.024,0.273,2018-19,UMES

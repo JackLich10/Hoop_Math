@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Volodymyr Gerun,18,0.17800000000000002,0.2,0.688,0.018000000000000002,0.021,0.5,2014-15
-VAN,16,0.08900000000000001,0.099,0.727,0.036000000000000004,0.053,0.6,2014-15
-Gabe Taylor,10,0.321,0.278,0.556,0.021,0,0,2014-15
-Bryce Pressley,8,0.062,0.059000000000000004,0.33299999999999996,0.102,0.111,0.4,2014-15
-Riley Barker,8,0.172,0.125,0.4,0.08800000000000001,0,0,2014-15
-Jason Todd,4,0.10300000000000001,0.231,1,0.026000000000000002,0,0,2014-15
-Alec Wintering,3,0.018000000000000002,0.031,1,0,0,NA,2014-15
-Kevin Bailey,2,0.013000000000000001,0,0,0.006999999999999999,0.019,1,2014-15
-D'Marques Tyson,2,0.25,0.25,1,0.05,0.111,1,2014-15
-Philipp Hartwich,1,0.071,0,0,NA,NA,NA,2014-15
-Total,72,0.092,0.10300000000000001,0.635,0.027999999999999997,0.028999999999999998,0.42100000000000004,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Volodymyr Gerun,18,0.17800000000000002,0.2,0.688,0.018000000000000002,0.021,0.5,2014-15,Portland
+VAN,16,0.08900000000000001,0.099,0.727,0.036000000000000004,0.053,0.6,2014-15,Portland
+Gabe Taylor,10,0.321,0.278,0.556,0.021,0,0,2014-15,Portland
+Bryce Pressley,8,0.062,0.059000000000000004,0.33299999999999996,0.102,0.111,0.4,2014-15,Portland
+Riley Barker,8,0.172,0.125,0.4,0.08800000000000001,0,0,2014-15,Portland
+Jason Todd,4,0.10300000000000001,0.231,1,0.026000000000000002,0,0,2014-15,Portland
+Alec Wintering,3,0.018000000000000002,0.031,1,0,0,NA,2014-15,Portland
+Kevin Bailey,2,0.013000000000000001,0,0,0.006999999999999999,0.019,1,2014-15,Portland
+D'Marques Tyson,2,0.25,0.25,1,0.05,0.111,1,2014-15,Portland
+Philipp Hartwich,1,0.071,0,0,NA,NA,NA,2014-15,Portland
+Total,72,0.092,0.10300000000000001,0.635,0.027999999999999997,0.028999999999999998,0.42100000000000004,2014-15,Portland

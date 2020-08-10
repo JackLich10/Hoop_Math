@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jordan Tolbert,33,0.17300000000000001,0.14300000000000002,0.5329999999999999,0.048,0.053,0.33299999999999996,2015-16
-Ben Moore,30,0.18100000000000002,0.188,0.76,0.047,0.061,0.4,2015-16
-Markus Kennedy,27,0.212,0.239,0.708,0.03,0.054000000000000006,0.667,2015-16
-Jarrey Foster,21,0.292,0.278,0.526,0.045,0,0,2015-16
-Sterling Brown,14,0.134,0.102,0.545,0.07,0.05,0.33299999999999996,2015-16
-Shake Milton,3,0.055999999999999994,0.053,0.667,0,0,NA,2015-16
-Nic Moore,2,0.02,0.045,1,0,0,NA,2015-16
-Keith Frazier,1,0.037000000000000005,0,0,0,0,NA,2015-16
-Total,131,0.161,0.155,0.623,0.027000000000000003,0.028999999999999998,0.4,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jordan Tolbert,33,0.17300000000000001,0.14300000000000002,0.5329999999999999,0.048,0.053,0.33299999999999996,2015-16,SMU
+Ben Moore,30,0.18100000000000002,0.188,0.76,0.047,0.061,0.4,2015-16,SMU
+Markus Kennedy,27,0.212,0.239,0.708,0.03,0.054000000000000006,0.667,2015-16,SMU
+Jarrey Foster,21,0.292,0.278,0.526,0.045,0,0,2015-16,SMU
+Sterling Brown,14,0.134,0.102,0.545,0.07,0.05,0.33299999999999996,2015-16,SMU
+Shake Milton,3,0.055999999999999994,0.053,0.667,0,0,NA,2015-16,SMU
+Nic Moore,2,0.02,0.045,1,0,0,NA,2015-16,SMU
+Keith Frazier,1,0.037000000000000005,0,0,0,0,NA,2015-16,SMU
+Total,131,0.161,0.155,0.623,0.027000000000000003,0.028999999999999998,0.4,2015-16,SMU

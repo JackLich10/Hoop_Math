@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.39899999999999997,0.581,0.134,0.672,2018-19
-2pt Jumpers,0.253,0.371,0.099,0.41200000000000003,2018-19
-3pt Shots,0.348,0.36,0.015,0.365,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.39899999999999997,0.581,0.134,0.672,2018-19,Jacksonville
+2pt Jumpers,0.253,0.371,0.099,0.41200000000000003,2018-19,Jacksonville
+3pt Shots,0.348,0.36,0.015,0.365,2018-19,Jacksonville

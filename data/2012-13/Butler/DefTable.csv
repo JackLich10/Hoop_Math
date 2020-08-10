@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.336,0.595,0.086,0.6509999999999999,2012-13
-2pt Jumpers,0.353,0.318,0.053,0.336,2012-13
-3pt Shots,0.31,0.33399999999999996,0.003,0.336,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.336,0.595,0.086,0.6509999999999999,2012-13,Butler
+2pt Jumpers,0.353,0.318,0.053,0.336,2012-13,Butler
+3pt Shots,0.31,0.33399999999999996,0.003,0.336,2012-13,Butler

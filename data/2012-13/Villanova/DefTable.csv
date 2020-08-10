@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.298,0.518,0.13699999999999998,0.6,2012-13
-2pt Jumpers,0.337,0.34,0.057,0.361,2012-13
-3pt Shots,0.365,0.371,0.008,0.373,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.298,0.518,0.13699999999999998,0.6,2012-13,Villanova
+2pt Jumpers,0.337,0.34,0.057,0.361,2012-13,Villanova
+3pt Shots,0.365,0.371,0.008,0.373,2012-13,Villanova

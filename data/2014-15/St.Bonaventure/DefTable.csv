@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.371,0.545,0.162,0.6509999999999999,2014-15
-2pt Jumpers,0.285,0.33299999999999996,0.086,0.364,2014-15
-3pt Shots,0.344,0.36200000000000004,0.012,0.36700000000000005,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.371,0.545,0.162,0.6509999999999999,2014-15,St.Bonaventure
+2pt Jumpers,0.285,0.33299999999999996,0.086,0.364,2014-15,St.Bonaventure
+3pt Shots,0.344,0.36200000000000004,0.012,0.36700000000000005,2014-15,St.Bonaventure

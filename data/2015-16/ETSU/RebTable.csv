@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Peter Jurkin,22,0.22399999999999998,0.209,0.6,0.1,0.138,0.667,2015-16
-Isaac Banks,19,0.172,0.205,0.882,0.039,0,0,2015-16
-Deuce Bello,19,0.15,0.174,0.706,0.061,0,0,2015-16
-Desonta Bradford,12,0.115,0.08900000000000001,0.444,0.048,0.034,0.33299999999999996,2015-16
-T.J. Cromer,9,0.022000000000000002,0.02,0.5,0.05,0.066,0.5710000000000001,2015-16
-Lester Wilson,8,0.294,0.5,0.6,0.091,0.28600000000000003,1,2015-16
-Ge'Lawn Guyn,7,0.006999999999999999,0.013999999999999999,1,0.02,0,0,2015-16
-Abednego Lufile,6,0.10400000000000001,0.071,0.4,0.038,0.111,1,2015-16
-A.J. Merriweather,5,0.073,0.091,0.75,0.042,0,0,2015-16
-Toriano Stokes,4,0.25,0.33299999999999996,1,0.75,0,0,2015-16
-Petey McClain,2,0.054000000000000006,0.091,1,0,0,NA,2015-16
-Nigel Holley,1,0.125,0.2,1,0,0,NA,2015-16
-Total,114,0.105,0.12,0.684,0.05,0.05,0.4,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Peter Jurkin,22,0.22399999999999998,0.209,0.6,0.1,0.138,0.667,2015-16,ETSU
+Isaac Banks,19,0.172,0.205,0.882,0.039,0,0,2015-16,ETSU
+Deuce Bello,19,0.15,0.174,0.706,0.061,0,0,2015-16,ETSU
+Desonta Bradford,12,0.115,0.08900000000000001,0.444,0.048,0.034,0.33299999999999996,2015-16,ETSU
+T.J. Cromer,9,0.022000000000000002,0.02,0.5,0.05,0.066,0.5710000000000001,2015-16,ETSU
+Lester Wilson,8,0.294,0.5,0.6,0.091,0.28600000000000003,1,2015-16,ETSU
+Ge'Lawn Guyn,7,0.006999999999999999,0.013999999999999999,1,0.02,0,0,2015-16,ETSU
+Abednego Lufile,6,0.10400000000000001,0.071,0.4,0.038,0.111,1,2015-16,ETSU
+A.J. Merriweather,5,0.073,0.091,0.75,0.042,0,0,2015-16,ETSU
+Toriano Stokes,4,0.25,0.33299999999999996,1,0.75,0,0,2015-16,ETSU
+Petey McClain,2,0.054000000000000006,0.091,1,0,0,NA,2015-16,ETSU
+Nigel Holley,1,0.125,0.2,1,0,0,NA,2015-16,ETSU
+Total,114,0.105,0.12,0.684,0.05,0.05,0.4,2015-16,ETSU

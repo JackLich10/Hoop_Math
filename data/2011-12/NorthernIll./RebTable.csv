@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Keith Gray,15,0.171,0.162,0.462,0.042,0,0,2011-12
-Tyler Storm,14,0.321,0.231,0.33299999999999996,0.091,0.077,0.33299999999999996,2011-12
-Aksel Bolin,10,0.125,0.18899999999999997,1,0.091,0.077,0.33299999999999996,2011-12
-Antone Christian,9,0.231,0.4,0.667,0.045,0.059000000000000004,0.33299999999999996,2011-12
-Kevin Gray,9,0.205,0.23800000000000002,0.556,0,0,NA,2011-12
-Abdel Nader,8,0.07200000000000001,0.059000000000000004,0.4,0.02,0.068,1,2011-12
-Tim Toler,6,0.105,0.083,0.5,0.032,0.05,0.5,2011-12
-Tony Nixon,4,0.133,0.222,1,0,0,NA,2011-12
-Jeremiah Jackson,4,0.214,0.25,0.667,0.083,0,0,2011-12
-Marquavese Ford,2,0.040999999999999995,0.037000000000000005,0.5,0,0,NA,2011-12
-Total,81,0.14,0.153,0.581,0.03,0.04,0.41200000000000003,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Keith Gray,15,0.171,0.162,0.462,0.042,0,0,2011-12,NorthernIll.
+Tyler Storm,14,0.321,0.231,0.33299999999999996,0.091,0.077,0.33299999999999996,2011-12,NorthernIll.
+Aksel Bolin,10,0.125,0.18899999999999997,1,0.091,0.077,0.33299999999999996,2011-12,NorthernIll.
+Antone Christian,9,0.231,0.4,0.667,0.045,0.059000000000000004,0.33299999999999996,2011-12,NorthernIll.
+Kevin Gray,9,0.205,0.23800000000000002,0.556,0,0,NA,2011-12,NorthernIll.
+Abdel Nader,8,0.07200000000000001,0.059000000000000004,0.4,0.02,0.068,1,2011-12,NorthernIll.
+Tim Toler,6,0.105,0.083,0.5,0.032,0.05,0.5,2011-12,NorthernIll.
+Tony Nixon,4,0.133,0.222,1,0,0,NA,2011-12,NorthernIll.
+Jeremiah Jackson,4,0.214,0.25,0.667,0.083,0,0,2011-12,NorthernIll.
+Marquavese Ford,2,0.040999999999999995,0.037000000000000005,0.5,0,0,NA,2011-12,NorthernIll.
+Total,81,0.14,0.153,0.581,0.03,0.04,0.41200000000000003,2011-12,NorthernIll.

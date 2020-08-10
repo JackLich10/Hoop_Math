@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.35200000000000004,0.557,0.13,0.64,2014-15
-2pt Jumpers,0.27699999999999997,0.348,0.085,0.381,2014-15
-3pt Shots,0.37,0.353,0.001,0.354,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.35200000000000004,0.557,0.13,0.64,2014-15,Colorado
+2pt Jumpers,0.27699999999999997,0.348,0.085,0.381,2014-15,Colorado
+3pt Shots,0.37,0.353,0.001,0.354,2014-15,Colorado

@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Nance Larry,12,0.057999999999999996,0.061,0.857,0.025,0.027999999999999997,0.4,2014-15
-Cooke Derek,10,0.06,0.045,0.625,0.07400000000000001,0,0,2014-15
-Josh Adams,7,0.05,0.067,1,0.023,0.042,0.5,2014-15
-Hankerson Charles,6,0.036000000000000004,0.055999999999999994,1,0.079,0.2,0.33299999999999996,2014-15
-Matt Sellers,3,0.154,0.083,0.5,0.055999999999999994,0.111,1,2014-15
-Alan Herndon,3,0.061,0.07400000000000001,1,0.045,0,0,2014-15
-Jason McManamen,2,0.043,0,0,0.067,0,0,2014-15
-AKA,1,0.111,0,0,0,NA,NA,2014-15
-Riley Grabau,1,0,0,NA,0.045,0,0,2014-15
-Total,45,0.054000000000000006,0.053,0.75,0.035,0.035,0.312,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Nance Larry,12,0.057999999999999996,0.061,0.857,0.025,0.027999999999999997,0.4,2014-15,Wyoming
+Cooke Derek,10,0.06,0.045,0.625,0.07400000000000001,0,0,2014-15,Wyoming
+Josh Adams,7,0.05,0.067,1,0.023,0.042,0.5,2014-15,Wyoming
+Hankerson Charles,6,0.036000000000000004,0.055999999999999994,1,0.079,0.2,0.33299999999999996,2014-15,Wyoming
+Matt Sellers,3,0.154,0.083,0.5,0.055999999999999994,0.111,1,2014-15,Wyoming
+Alan Herndon,3,0.061,0.07400000000000001,1,0.045,0,0,2014-15,Wyoming
+Jason McManamen,2,0.043,0,0,0.067,0,0,2014-15,Wyoming
+AKA,1,0.111,0,0,0,NA,NA,2014-15,Wyoming
+Riley Grabau,1,0,0,NA,0.045,0,0,2014-15,Wyoming
+Total,45,0.054000000000000006,0.053,0.75,0.035,0.035,0.312,2014-15,Wyoming

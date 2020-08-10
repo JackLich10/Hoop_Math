@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.38799999999999996,0.624,0.109,0.701,2018-19
-2pt Jumpers,0.17600000000000002,0.425,0.03,0.43799999999999994,2018-19
-3pt Shots,0.43700000000000006,0.365,0.005,0.36700000000000005,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.38799999999999996,0.624,0.109,0.701,2018-19,UNCAsheville
+2pt Jumpers,0.17600000000000002,0.425,0.03,0.43799999999999994,2018-19,UNCAsheville
+3pt Shots,0.43700000000000006,0.365,0.005,0.36700000000000005,2018-19,UNCAsheville

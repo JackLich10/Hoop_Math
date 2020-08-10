@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Greg Mangano,22,0.155,0.136,0.667,0.022000000000000002,0,0,2011-12
-Jeremiah Kreisberg,12,0.14300000000000002,0.149,0.7,0.023,0,0,2011-12
-Reggie Willhite,9,0.038,0.042,0.75,0.034,0.022000000000000002,0.25,2011-12
-Matt Townsend,5,0.214,0.16699999999999998,0.33299999999999996,0.182,0,0,2011-12
-Brandon Sherrod,5,0.106,0.043,0.2,0,0,NA,2011-12
-Jesse Pritchard,4,0.267,0.429,0.75,0,0,NA,2011-12
-Austin Morgan,4,0.057,0.12,1,0.024,0.111,1,2011-12
-Greg Kelley,3,0.33299999999999996,0.28600000000000003,0.667,0,0,NA,2011-12
-Will Childs-Klein,2,0.33299999999999996,0,0,0.14300000000000002,0,0,2011-12
-Rhett Anderson,1,0.5,1,1,0,NA,NA,2011-12
-Armani Cotton,1,0,0,NA,0.16699999999999998,0,0,2011-12
-Total,68,0.11,0.111,0.635,0.026000000000000002,0.01,0.133,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Greg Mangano,22,0.155,0.136,0.667,0.022000000000000002,0,0,2011-12,Yale
+Jeremiah Kreisberg,12,0.14300000000000002,0.149,0.7,0.023,0,0,2011-12,Yale
+Reggie Willhite,9,0.038,0.042,0.75,0.034,0.022000000000000002,0.25,2011-12,Yale
+Matt Townsend,5,0.214,0.16699999999999998,0.33299999999999996,0.182,0,0,2011-12,Yale
+Brandon Sherrod,5,0.106,0.043,0.2,0,0,NA,2011-12,Yale
+Jesse Pritchard,4,0.267,0.429,0.75,0,0,NA,2011-12,Yale
+Austin Morgan,4,0.057,0.12,1,0.024,0.111,1,2011-12,Yale
+Greg Kelley,3,0.33299999999999996,0.28600000000000003,0.667,0,0,NA,2011-12,Yale
+Will Childs-Klein,2,0.33299999999999996,0,0,0.14300000000000002,0,0,2011-12,Yale
+Rhett Anderson,1,0.5,1,1,0,NA,NA,2011-12,Yale
+Armani Cotton,1,0,0,NA,0.16699999999999998,0,0,2011-12,Yale
+Total,68,0.11,0.111,0.635,0.026000000000000002,0.01,0.133,2011-12,Yale

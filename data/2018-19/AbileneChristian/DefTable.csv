@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.322,0.599,0.09699999999999999,0.664,2018-19
-2pt Jumpers,0.349,0.381,0.064,0.408,2018-19
-3pt Shots,0.32899999999999996,0.327,0.002,0.327,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.322,0.599,0.09699999999999999,0.664,2018-19,AbileneChristian
+2pt Jumpers,0.349,0.381,0.064,0.408,2018-19,AbileneChristian
+3pt Shots,0.32899999999999996,0.327,0.002,0.327,2018-19,AbileneChristian

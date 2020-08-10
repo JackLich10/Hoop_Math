@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.386,0.606,0.086,0.6629999999999999,2015-16
-2pt Jumpers,0.228,0.4,0.026000000000000002,0.41100000000000003,2015-16
-3pt Shots,0.386,0.355,0.008,0.35700000000000004,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.386,0.606,0.086,0.6629999999999999,2015-16,UMES
+2pt Jumpers,0.228,0.4,0.026000000000000002,0.41100000000000003,2015-16,UMES
+3pt Shots,0.386,0.355,0.008,0.35700000000000004,2015-16,UMES

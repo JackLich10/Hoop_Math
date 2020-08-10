@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Ryan Anderson,28,0.153,0.17600000000000002,0.731,0.017,0,0,2013-14
-Eddie Odio,9,0.14300000000000002,0.07400000000000001,0.33299999999999996,0.182,0,0,2013-14
-Garland Owens,4,0.09300000000000001,0.037000000000000005,0.25,0,0,NA,2013-14
-KC Caudill,3,0.25,0.33299999999999996,1,0.077,0,0,2013-14
-Patrick Heckmann,2,0.05,0,0,0,0,NA,2013-14
-Will Magarity,2,0.037000000000000005,0.048,1,0.053,0.2,1,2013-14
-Alex Dragicevich,2,0.05,0.077,1,0.25,0,0,2013-14
-Dennis Clifford,1,0.33299999999999996,0.5,1,0,0,NA,2013-14
-John Cain Carney,1,1,1,1,NA,NA,NA,2013-14
-Lonnie Jackson,1,0,0,NA,0.1,0,0,2013-14
-Total,53,0.078,0.078,0.636,0.023,0.009000000000000001,0.125,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Ryan Anderson,28,0.153,0.17600000000000002,0.731,0.017,0,0,2013-14,BostonCollege
+Eddie Odio,9,0.14300000000000002,0.07400000000000001,0.33299999999999996,0.182,0,0,2013-14,BostonCollege
+Garland Owens,4,0.09300000000000001,0.037000000000000005,0.25,0,0,NA,2013-14,BostonCollege
+KC Caudill,3,0.25,0.33299999999999996,1,0.077,0,0,2013-14,BostonCollege
+Patrick Heckmann,2,0.05,0,0,0,0,NA,2013-14,BostonCollege
+Will Magarity,2,0.037000000000000005,0.048,1,0.053,0.2,1,2013-14,BostonCollege
+Alex Dragicevich,2,0.05,0.077,1,0.25,0,0,2013-14,BostonCollege
+Dennis Clifford,1,0.33299999999999996,0.5,1,0,0,NA,2013-14,BostonCollege
+John Cain Carney,1,1,1,1,NA,NA,NA,2013-14,BostonCollege
+Lonnie Jackson,1,0,0,NA,0.1,0,0,2013-14,BostonCollege
+Total,53,0.078,0.078,0.636,0.023,0.009000000000000001,0.125,2013-14,BostonCollege

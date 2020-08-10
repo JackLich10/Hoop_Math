@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.373,0.526,0.156,0.622,2013-14
-2pt Jumpers,0.26899999999999996,0.28800000000000003,0.062,0.307,2013-14
-3pt Shots,0.358,0.301,0.013000000000000001,0.305,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.373,0.526,0.156,0.622,2013-14,N.C.Central
+2pt Jumpers,0.26899999999999996,0.28800000000000003,0.062,0.307,2013-14,N.C.Central
+3pt Shots,0.358,0.301,0.013000000000000001,0.305,2013-14,N.C.Central

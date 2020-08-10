@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jalen Canty,28,0.171,0.163,0.667,0.07200000000000001,0.07,0.429,2017-18
-Ami Lakoju,26,0.33899999999999997,0.341,0.75,0.15,0.14300000000000002,0.33299999999999996,2017-18
-Leland King II,22,0.121,0.15,0.6920000000000001,0.054000000000000006,0.055,0.444,2017-18
-Jarriesse Blackmon,8,0.261,0.154,0.33299999999999996,0.2,0.33299999999999996,0.5,2017-18
-Max Heidegger,5,0.046,0.046,0.6,0,0,NA,2017-18
-Christian Terrell,5,0.083,0.042,0.33299999999999996,0.105,0.2,0.5,2017-18
-Alex Hart,4,0.25,0.4,1,0,0,NA,2017-18
-Andrew Pickles,2,1,1,0.5,0,NA,NA,2017-18
-Gabe Vincent,2,0.028999999999999998,0.049,1,0,0,NA,2017-18
-Brandon Davis,1,0,0,NA,0,NA,NA,2017-18
-Maxwell Kupchak,1,0.16699999999999998,0.2,1,0,0,NA,2017-18
-Total,104,0.129,0.139,0.675,0.042,0.045,0.423,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jalen Canty,28,0.171,0.163,0.667,0.07200000000000001,0.07,0.429,2017-18,UCSantaBarbara
+Ami Lakoju,26,0.33899999999999997,0.341,0.75,0.15,0.14300000000000002,0.33299999999999996,2017-18,UCSantaBarbara
+Leland King II,22,0.121,0.15,0.6920000000000001,0.054000000000000006,0.055,0.444,2017-18,UCSantaBarbara
+Jarriesse Blackmon,8,0.261,0.154,0.33299999999999996,0.2,0.33299999999999996,0.5,2017-18,UCSantaBarbara
+Max Heidegger,5,0.046,0.046,0.6,0,0,NA,2017-18,UCSantaBarbara
+Christian Terrell,5,0.083,0.042,0.33299999999999996,0.105,0.2,0.5,2017-18,UCSantaBarbara
+Alex Hart,4,0.25,0.4,1,0,0,NA,2017-18,UCSantaBarbara
+Andrew Pickles,2,1,1,0.5,0,NA,NA,2017-18,UCSantaBarbara
+Gabe Vincent,2,0.028999999999999998,0.049,1,0,0,NA,2017-18,UCSantaBarbara
+Brandon Davis,1,0,0,NA,0,NA,NA,2017-18,UCSantaBarbara
+Maxwell Kupchak,1,0.16699999999999998,0.2,1,0,0,NA,2017-18,UCSantaBarbara
+Total,104,0.129,0.139,0.675,0.042,0.045,0.423,2017-18,UCSantaBarbara

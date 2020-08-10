@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Marc Trasolini,35,0.14,0.129,0.625,0.02,0.016,0.33299999999999996,2012-13
-Yannick Atanga,20,0.278,0.267,0.5329999999999999,0.312,0.6,0.6,2012-13
-Raymond Cowels III,12,0.152,0.222,0.8,0.047,0,0,2012-13
-Niyi Harrison,5,0.235,0.222,0.5,0.083,0.125,1,2012-13
-Brandon Clark,5,0.053,0.038,0.33299999999999996,0.016,0.037000000000000005,1,2012-13
-John McArthur,5,0.115,0,0,0.044000000000000004,0,0,2012-13
-Robert Garrett,4,0.098,0.087,0.5,0,0,NA,2012-13
-Evan Roquemore,2,0.011000000000000001,0.02,1,0,0,NA,2012-13
-Denzel Johnson,1,0,0,NA,0.036000000000000004,0.14300000000000002,1,2012-13
-Julian Clarke,1,0,0,NA,0,0,NA,2012-13
-Kevin Foster,1,0,0,NA,0.005,0,0,2012-13
-Total,91,0.10400000000000001,0.10300000000000001,0.583,0.024,0.027000000000000003,0.43799999999999994,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Marc Trasolini,35,0.14,0.129,0.625,0.02,0.016,0.33299999999999996,2012-13,SantaClara
+Yannick Atanga,20,0.278,0.267,0.5329999999999999,0.312,0.6,0.6,2012-13,SantaClara
+Raymond Cowels III,12,0.152,0.222,0.8,0.047,0,0,2012-13,SantaClara
+Niyi Harrison,5,0.235,0.222,0.5,0.083,0.125,1,2012-13,SantaClara
+Brandon Clark,5,0.053,0.038,0.33299999999999996,0.016,0.037000000000000005,1,2012-13,SantaClara
+John McArthur,5,0.115,0,0,0.044000000000000004,0,0,2012-13,SantaClara
+Robert Garrett,4,0.098,0.087,0.5,0,0,NA,2012-13,SantaClara
+Evan Roquemore,2,0.011000000000000001,0.02,1,0,0,NA,2012-13,SantaClara
+Denzel Johnson,1,0,0,NA,0.036000000000000004,0.14300000000000002,1,2012-13,SantaClara
+Julian Clarke,1,0,0,NA,0,0,NA,2012-13,SantaClara
+Kevin Foster,1,0,0,NA,0.005,0,0,2012-13,SantaClara
+Total,91,0.10400000000000001,0.10300000000000001,0.583,0.024,0.027000000000000003,0.43799999999999994,2012-13,SantaClara

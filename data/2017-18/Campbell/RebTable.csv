@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Andrew Eudy,14,0.132,0.069,0.33299999999999996,0.021,0.022000000000000002,0.5,2017-18
-Mogga Lado,11,0.141,0.149,0.636,0,0,NA,2017-18
-Marcus Burk,7,0.034,0.045,1,0.05,0.125,1,2017-18
-Shane Whitfield,6,0.057999999999999996,0.075,0.833,0,0,NA,2017-18
-Cory Gensler,3,0.043,0.036000000000000004,0.5,0,0,NA,2017-18
-Brooks Cluxton,2,0.222,0,0,0,NA,NA,2017-18
-Damontez Oliver,2,0.087,0.154,1,0,0,NA,2017-18
-Ja'Cor Nelson,2,0.057,0.105,1,0,0,NA,2017-18
-Jon Ander Cuadra,1,0,0,NA,0.2,0.25,1,2017-18
-Chris Clemons,1,0.005,0,0,0,0,NA,2017-18
-Nick Greely,1,0,0,NA,0.25,0.5,1,2017-18
-Nick Parker,1,0.5,0.5,1,0,NA,NA,2017-18
-Total,51,0.061,0.057,0.595,0.016,0.035,0.833,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Andrew Eudy,14,0.132,0.069,0.33299999999999996,0.021,0.022000000000000002,0.5,2017-18,Campbell
+Mogga Lado,11,0.141,0.149,0.636,0,0,NA,2017-18,Campbell
+Marcus Burk,7,0.034,0.045,1,0.05,0.125,1,2017-18,Campbell
+Shane Whitfield,6,0.057999999999999996,0.075,0.833,0,0,NA,2017-18,Campbell
+Cory Gensler,3,0.043,0.036000000000000004,0.5,0,0,NA,2017-18,Campbell
+Brooks Cluxton,2,0.222,0,0,0,NA,NA,2017-18,Campbell
+Damontez Oliver,2,0.087,0.154,1,0,0,NA,2017-18,Campbell
+Ja'Cor Nelson,2,0.057,0.105,1,0,0,NA,2017-18,Campbell
+Jon Ander Cuadra,1,0,0,NA,0.2,0.25,1,2017-18,Campbell
+Chris Clemons,1,0.005,0,0,0,0,NA,2017-18,Campbell
+Nick Greely,1,0,0,NA,0.25,0.5,1,2017-18,Campbell
+Nick Parker,1,0.5,0.5,1,0,NA,NA,2017-18,Campbell
+Total,51,0.061,0.057,0.595,0.016,0.035,0.833,2017-18,Campbell

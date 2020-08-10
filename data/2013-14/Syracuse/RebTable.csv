@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jerami Grant,35,0.18100000000000002,0.193,0.696,0.08800000000000001,0.06,0.25,2013-14
-C.J. Fair,27,0.158,0.195,0.789,0.024,0.045,0.7140000000000001,2013-14
-Baye Moussa Keita,26,0.636,0.684,0.619,0.455,0,0,2013-14
-Rakeem Christmas,21,0.247,0.24100000000000002,0.737,0.043,0,0,2013-14
-Dajuan Coleman,15,0.5,0.524,0.846,0.2,NA,0,2013-14
-Tyler Ennis,6,0.028999999999999998,0.053,1,0.013999999999999999,0,0,2013-14
-Tyler Robinson,5,0.267,0,0,0.037000000000000005,0,0,2013-14
-Trevor Cooney,4,0.038,0.069,1,0.026000000000000002,0.067,1,2013-14
-Ron Patterson,3,0.33299999999999996,0.25,0.5,0.25,0,0,2013-14
-B.J. Johnson,2,0,0,NA,0.33299999999999996,0.667,1,2013-14
-Michael Gbinije,2,0.034,0.071,1,0.05,0,0,2013-14
-MOUSSA,2,0.5,0.5,1,NA,NA,NA,2013-14
-Albert Nassar,1,1,NA,0,0,NA,NA,2013-14
-Total,149,0.17600000000000002,0.20199999999999999,0.7120000000000001,0.049,0.042,0.306,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jerami Grant,35,0.18100000000000002,0.193,0.696,0.08800000000000001,0.06,0.25,2013-14,Syracuse
+C.J. Fair,27,0.158,0.195,0.789,0.024,0.045,0.7140000000000001,2013-14,Syracuse
+Baye Moussa Keita,26,0.636,0.684,0.619,0.455,0,0,2013-14,Syracuse
+Rakeem Christmas,21,0.247,0.24100000000000002,0.737,0.043,0,0,2013-14,Syracuse
+Dajuan Coleman,15,0.5,0.524,0.846,0.2,NA,0,2013-14,Syracuse
+Tyler Ennis,6,0.028999999999999998,0.053,1,0.013999999999999999,0,0,2013-14,Syracuse
+Tyler Robinson,5,0.267,0,0,0.037000000000000005,0,0,2013-14,Syracuse
+Trevor Cooney,4,0.038,0.069,1,0.026000000000000002,0.067,1,2013-14,Syracuse
+Ron Patterson,3,0.33299999999999996,0.25,0.5,0.25,0,0,2013-14,Syracuse
+B.J. Johnson,2,0,0,NA,0.33299999999999996,0.667,1,2013-14,Syracuse
+Michael Gbinije,2,0.034,0.071,1,0.05,0,0,2013-14,Syracuse
+MOUSSA,2,0.5,0.5,1,NA,NA,NA,2013-14,Syracuse
+Albert Nassar,1,1,NA,0,0,NA,NA,2013-14,Syracuse
+Total,149,0.17600000000000002,0.20199999999999999,0.7120000000000001,0.049,0.042,0.306,2013-14,Syracuse

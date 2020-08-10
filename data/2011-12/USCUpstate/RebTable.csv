@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Ricardo Glenn,57,0.275,0.28300000000000003,0.638,0.16399999999999998,0.17600000000000002,0.3,2011-12
-Jodd Maxey,40,0.276,0.244,0.541,0.043,0,0,2011-12
-Torrey Craig,27,0.22899999999999998,0.28,0.875,0.028999999999999998,0.027999999999999997,0.33299999999999996,2011-12
-Babatunde Olumuyiwa,15,0.14300000000000002,0.091,0.41700000000000004,0.045,0.077,0.667,2011-12
-Adrian Rodgers,5,0.052000000000000005,0.091,1,0.012,0.027000000000000003,1,2011-12
-Mario Blessing,4,0.037000000000000005,0,0,0.026000000000000002,0,0,2011-12
-Fred Miller,4,0.071,0.062,0.5,0.038,0.1,0.5,2011-12
-Carter Cook,3,0.055999999999999994,0.091,1,0.095,0,0,2011-12
-Chalmers Rogers,2,0.28600000000000003,0.33299999999999996,0.5,0,0,NA,2011-12
-Ty Greene,2,0.023,0,0,0.01,0.03,1,2011-12
-Shane Porchea,1,0.1,0,0,0,0,NA,2011-12
-Total,160,0.18899999999999997,0.193,0.626,0.038,0.039,0.37,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Ricardo Glenn,57,0.275,0.28300000000000003,0.638,0.16399999999999998,0.17600000000000002,0.3,2011-12,USCUpstate
+Jodd Maxey,40,0.276,0.244,0.541,0.043,0,0,2011-12,USCUpstate
+Torrey Craig,27,0.22899999999999998,0.28,0.875,0.028999999999999998,0.027999999999999997,0.33299999999999996,2011-12,USCUpstate
+Babatunde Olumuyiwa,15,0.14300000000000002,0.091,0.41700000000000004,0.045,0.077,0.667,2011-12,USCUpstate
+Adrian Rodgers,5,0.052000000000000005,0.091,1,0.012,0.027000000000000003,1,2011-12,USCUpstate
+Mario Blessing,4,0.037000000000000005,0,0,0.026000000000000002,0,0,2011-12,USCUpstate
+Fred Miller,4,0.071,0.062,0.5,0.038,0.1,0.5,2011-12,USCUpstate
+Carter Cook,3,0.055999999999999994,0.091,1,0.095,0,0,2011-12,USCUpstate
+Chalmers Rogers,2,0.28600000000000003,0.33299999999999996,0.5,0,0,NA,2011-12,USCUpstate
+Ty Greene,2,0.023,0,0,0.01,0.03,1,2011-12,USCUpstate
+Shane Porchea,1,0.1,0,0,0,0,NA,2011-12,USCUpstate
+Total,160,0.18899999999999997,0.193,0.626,0.038,0.039,0.37,2011-12,USCUpstate

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.312,0.629,0.08199999999999999,0.6859999999999999,2017-18
-2pt Jumpers,0.253,0.36200000000000004,0.062,0.386,2017-18
-3pt Shots,0.434,0.335,0.001,0.335,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.312,0.629,0.08199999999999999,0.6859999999999999,2017-18,Denver
+2pt Jumpers,0.253,0.36200000000000004,0.062,0.386,2017-18,Denver
+3pt Shots,0.434,0.335,0.001,0.335,2017-18,Denver

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.35700000000000004,0.659,0.09699999999999999,0.73,2016-17
-2pt Jumpers,0.259,0.34299999999999997,0.068,0.368,2016-17
-3pt Shots,0.384,0.359,0.013000000000000001,0.363,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.35700000000000004,0.659,0.09699999999999999,0.73,2016-17,Fordham
+2pt Jumpers,0.259,0.34299999999999997,0.068,0.368,2016-17,Fordham
+3pt Shots,0.384,0.359,0.013000000000000001,0.363,2016-17,Fordham

@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Luka Brajkovic,28,0.158,0.14,0.625,0.033,0,0,2018-19
-Kellan Grady,7,0.028999999999999998,0.022000000000000002,0.5,0.024,0.021,0.33299999999999996,2018-19
-Carter Collins,7,0.095,0.105,0.667,0.111,0.33299999999999996,1,2018-19
-Bates Jones,3,0.273,0.16699999999999998,0.33299999999999996,0,NA,NA,2018-19
-Dusan Kovacevic,3,0.1,0.125,0.667,0,0,NA,2018-19
-Nathan Ekwu,3,0.25,0.222,0.667,0,0,NA,2018-19
-Kishawn Pritchett,2,0,0,NA,0.053,0,0,2018-19
-Jon Axel Gudmunsson,2,0.013000000000000001,0,0,0,0,NA,2018-19
-Luke Frampton,2,0,0,NA,0.042,0,0,2018-19
-Nelson Boachie-Yiadom,1,0.5,0.5,1,NA,NA,NA,2018-19
-Total,58,0.077,0.069,0.5870000000000001,0.027000000000000003,0.013000000000000001,0.182,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Luka Brajkovic,28,0.158,0.14,0.625,0.033,0,0,2018-19,Davidson
+Kellan Grady,7,0.028999999999999998,0.022000000000000002,0.5,0.024,0.021,0.33299999999999996,2018-19,Davidson
+Carter Collins,7,0.095,0.105,0.667,0.111,0.33299999999999996,1,2018-19,Davidson
+Bates Jones,3,0.273,0.16699999999999998,0.33299999999999996,0,NA,NA,2018-19,Davidson
+Dusan Kovacevic,3,0.1,0.125,0.667,0,0,NA,2018-19,Davidson
+Nathan Ekwu,3,0.25,0.222,0.667,0,0,NA,2018-19,Davidson
+Kishawn Pritchett,2,0,0,NA,0.053,0,0,2018-19,Davidson
+Jon Axel Gudmunsson,2,0.013000000000000001,0,0,0,0,NA,2018-19,Davidson
+Luke Frampton,2,0,0,NA,0.042,0,0,2018-19,Davidson
+Nelson Boachie-Yiadom,1,0.5,0.5,1,NA,NA,NA,2018-19,Davidson
+Total,58,0.077,0.069,0.5870000000000001,0.027000000000000003,0.013000000000000001,0.182,2018-19,Davidson

@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Darnell Tillman,29,0.33299999999999996,0.29100000000000004,0.593,0.2,0.5,1,2016-17
-Kyle Steward,19,0.183,0.2,0.6920000000000001,0.048,0.040999999999999995,0.33299999999999996,2016-17
-Dashawn King,14,0.136,0.185,0.7140000000000001,0,0,NA,2016-17
-Broderick Newbill,12,0.11,0.091,0.545,0.015,0,0,2016-17
-Duane Clark,11,0.20800000000000002,0.258,0.8,0.019,0,0,2016-17
-Lavell Boyd,7,0.043,0.043,0.5,0.009000000000000001,0.03,1,2016-17
-Isaiah Ross,3,0.115,0.062,0.33299999999999996,0,0,NA,2016-17
-Aleer Leek,2,0.182,0.222,1,0,0,NA,2016-17
-Martez Harrison,2,0.067,0.053,0.5,0,0,NA,2016-17
-Xavier Bishop,1,0,0,NA,0,0,NA,2016-17
-Jordan Giles,1,0.1,0,0,0,0,NA,2016-17
-Total,101,0.13,0.14,0.629,0.02,0.025,0.455,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Darnell Tillman,29,0.33299999999999996,0.29100000000000004,0.593,0.2,0.5,1,2016-17,KansasCity
+Kyle Steward,19,0.183,0.2,0.6920000000000001,0.048,0.040999999999999995,0.33299999999999996,2016-17,KansasCity
+Dashawn King,14,0.136,0.185,0.7140000000000001,0,0,NA,2016-17,KansasCity
+Broderick Newbill,12,0.11,0.091,0.545,0.015,0,0,2016-17,KansasCity
+Duane Clark,11,0.20800000000000002,0.258,0.8,0.019,0,0,2016-17,KansasCity
+Lavell Boyd,7,0.043,0.043,0.5,0.009000000000000001,0.03,1,2016-17,KansasCity
+Isaiah Ross,3,0.115,0.062,0.33299999999999996,0,0,NA,2016-17,KansasCity
+Aleer Leek,2,0.182,0.222,1,0,0,NA,2016-17,KansasCity
+Martez Harrison,2,0.067,0.053,0.5,0,0,NA,2016-17,KansasCity
+Xavier Bishop,1,0,0,NA,0,0,NA,2016-17,KansasCity
+Jordan Giles,1,0.1,0,0,0,0,NA,2016-17,KansasCity
+Total,101,0.13,0.14,0.629,0.02,0.025,0.455,2016-17,KansasCity

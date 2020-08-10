@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jarrell Brantley,26,0.141,0.17,0.7390000000000001,0.024,0.026000000000000002,0.33299999999999996,2016-17
-Nick Harris,21,0.228,0.203,0.667,0.067,0.1,0.667,2016-17
-Chevez Goodwin,17,0.27699999999999997,0.26899999999999996,0.5379999999999999,0.222,0.125,0.25,2016-17
-Grant Riller,6,0.039,0.045,0.8,0.012,0,0,2016-17
-Cameron Johnson,6,0.09300000000000001,0.069,0.4,0.013999999999999999,0,0,2016-17
-Marquise Pointer,5,0.051,0.055999999999999994,0.5,0.061,0.071,0.33299999999999996,2016-17
-Payton Hulsey,3,0.273,0.2,0.33299999999999996,0,0,NA,2016-17
-Joe Chealey,3,0.018000000000000002,0.039,1,0.008,0,0,2016-17
-Jaylen McManus,1,0.16699999999999998,0,0,0,NA,NA,2016-17
-Evan Bailey,1,0,0,NA,0.125,0,0,2016-17
-Terrance O'Donohue,1,0,0,NA,0.25,0,0,2016-17
-Total,90,0.111,0.11900000000000001,0.639,0.033,0.025,0.278,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jarrell Brantley,26,0.141,0.17,0.7390000000000001,0.024,0.026000000000000002,0.33299999999999996,2016-17,Col.ofCharleston
+Nick Harris,21,0.228,0.203,0.667,0.067,0.1,0.667,2016-17,Col.ofCharleston
+Chevez Goodwin,17,0.27699999999999997,0.26899999999999996,0.5379999999999999,0.222,0.125,0.25,2016-17,Col.ofCharleston
+Grant Riller,6,0.039,0.045,0.8,0.012,0,0,2016-17,Col.ofCharleston
+Cameron Johnson,6,0.09300000000000001,0.069,0.4,0.013999999999999999,0,0,2016-17,Col.ofCharleston
+Marquise Pointer,5,0.051,0.055999999999999994,0.5,0.061,0.071,0.33299999999999996,2016-17,Col.ofCharleston
+Payton Hulsey,3,0.273,0.2,0.33299999999999996,0,0,NA,2016-17,Col.ofCharleston
+Joe Chealey,3,0.018000000000000002,0.039,1,0.008,0,0,2016-17,Col.ofCharleston
+Jaylen McManus,1,0.16699999999999998,0,0,0,NA,NA,2016-17,Col.ofCharleston
+Evan Bailey,1,0,0,NA,0.125,0,0,2016-17,Col.ofCharleston
+Terrance O'Donohue,1,0,0,NA,0.25,0,0,2016-17,Col.ofCharleston
+Total,90,0.111,0.11900000000000001,0.639,0.033,0.025,0.278,2016-17,Col.ofCharleston

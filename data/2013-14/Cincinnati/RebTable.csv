@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Justin Jackson,47,0.23600000000000002,0.248,0.667,0.018000000000000002,0.026000000000000002,0.5,2013-14
-Titus Rubles,22,0.20800000000000002,0.138,0.4,0.019,0,0,2013-14
-Sean Kilpatrick,13,0.099,0.081,0.583,0.008,0.028999999999999998,1,2013-14
-Shaquille Thomas,13,0.16399999999999998,0.18600000000000003,0.727,0.018000000000000002,0.024,0.5,2013-14
-Jermaine Lawrence,11,0.385,0.4,0.6,0.017,0.077,1,2013-14
-Kevin Johnson,10,0.2,0.111,0.33299999999999996,0.16,0.125,0.25,2013-14
-Jermaine Sanders,8,0.233,0.316,0.857,0.026000000000000002,0,0,2013-14
-David Nyarsuk,5,0.25,0.222,0.667,0.222,0.33299999999999996,0.5,2013-14
-Ge'Lawn Guyn,3,0.045,0.053,0.5,0.036000000000000004,0.14300000000000002,1,2013-14
-Troy Caupain,3,0.049,0.065,0.667,0,0,NA,2013-14
-Zack Tobler,1,NA,NA,NA,0.5,NA,0,2013-14
-Jeremiah Davis III,1,0.5,0.5,1,0,NA,NA,2013-14
-Total,137,0.17600000000000002,0.17300000000000001,0.608,0.027000000000000003,0.037000000000000005,0.41200000000000003,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Justin Jackson,47,0.23600000000000002,0.248,0.667,0.018000000000000002,0.026000000000000002,0.5,2013-14,Cincinnati
+Titus Rubles,22,0.20800000000000002,0.138,0.4,0.019,0,0,2013-14,Cincinnati
+Sean Kilpatrick,13,0.099,0.081,0.583,0.008,0.028999999999999998,1,2013-14,Cincinnati
+Shaquille Thomas,13,0.16399999999999998,0.18600000000000003,0.727,0.018000000000000002,0.024,0.5,2013-14,Cincinnati
+Jermaine Lawrence,11,0.385,0.4,0.6,0.017,0.077,1,2013-14,Cincinnati
+Kevin Johnson,10,0.2,0.111,0.33299999999999996,0.16,0.125,0.25,2013-14,Cincinnati
+Jermaine Sanders,8,0.233,0.316,0.857,0.026000000000000002,0,0,2013-14,Cincinnati
+David Nyarsuk,5,0.25,0.222,0.667,0.222,0.33299999999999996,0.5,2013-14,Cincinnati
+Ge'Lawn Guyn,3,0.045,0.053,0.5,0.036000000000000004,0.14300000000000002,1,2013-14,Cincinnati
+Troy Caupain,3,0.049,0.065,0.667,0,0,NA,2013-14,Cincinnati
+Zack Tobler,1,NA,NA,NA,0.5,NA,0,2013-14,Cincinnati
+Jeremiah Davis III,1,0.5,0.5,1,0,NA,NA,2013-14,Cincinnati
+Total,137,0.17600000000000002,0.17300000000000001,0.608,0.027000000000000003,0.037000000000000005,0.41200000000000003,2013-14,Cincinnati

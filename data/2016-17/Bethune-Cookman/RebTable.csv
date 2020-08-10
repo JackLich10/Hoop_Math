@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Quinton Forrest,33,0.13699999999999998,0.16399999999999998,0.7859999999999999,0.125,0.16699999999999998,0.4,2016-17
-Brandon Suggs,25,0.434,0.42100000000000004,0.696,0.071,0.091,0.5,2016-17
-Diamante Lewis,24,0.138,0.188,0.684,0.040999999999999995,0.054000000000000006,0.4,2016-17
-Ulmer Manzier,16,0.21100000000000002,0.235,0.5329999999999999,0.042,0,0,2016-17
-Houston Smith,11,0.314,0.35,0.636,0,0,NA,2016-17
-Brandon Tabb,9,0.07400000000000001,0.09300000000000001,0.7140000000000001,0.022000000000000002,0,0,2016-17
-Reggie Baker,9,0.049,0.076,0.857,0.017,0,0,2016-17
-Josue Salaam,4,0.182,0.16699999999999998,0.5,0.2,NA,0,2016-17
-Rodney Ross,1,1,NA,0,NA,NA,NA,2016-17
-Jeffrey Altidort,1,0.013999999999999999,0,0,0,0,NA,2016-17
-Total,133,0.138,0.166,0.684,0.037000000000000005,0.035,0.278,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Quinton Forrest,33,0.13699999999999998,0.16399999999999998,0.7859999999999999,0.125,0.16699999999999998,0.4,2016-17,Bethune-Cookman
+Brandon Suggs,25,0.434,0.42100000000000004,0.696,0.071,0.091,0.5,2016-17,Bethune-Cookman
+Diamante Lewis,24,0.138,0.188,0.684,0.040999999999999995,0.054000000000000006,0.4,2016-17,Bethune-Cookman
+Ulmer Manzier,16,0.21100000000000002,0.235,0.5329999999999999,0.042,0,0,2016-17,Bethune-Cookman
+Houston Smith,11,0.314,0.35,0.636,0,0,NA,2016-17,Bethune-Cookman
+Brandon Tabb,9,0.07400000000000001,0.09300000000000001,0.7140000000000001,0.022000000000000002,0,0,2016-17,Bethune-Cookman
+Reggie Baker,9,0.049,0.076,0.857,0.017,0,0,2016-17,Bethune-Cookman
+Josue Salaam,4,0.182,0.16699999999999998,0.5,0.2,NA,0,2016-17,Bethune-Cookman
+Rodney Ross,1,1,NA,0,NA,NA,NA,2016-17,Bethune-Cookman
+Jeffrey Altidort,1,0.013999999999999999,0,0,0,0,NA,2016-17,Bethune-Cookman
+Total,133,0.138,0.166,0.684,0.037000000000000005,0.035,0.278,2016-17,Bethune-Cookman

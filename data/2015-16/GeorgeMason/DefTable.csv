@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.276,0.606,0.111,0.6809999999999999,2015-16
-2pt Jumpers,0.376,0.35200000000000004,0.078,0.382,2015-16
-3pt Shots,0.348,0.353,0.003,0.354,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.276,0.606,0.111,0.6809999999999999,2015-16,GeorgeMason
+2pt Jumpers,0.376,0.35200000000000004,0.078,0.382,2015-16,GeorgeMason
+3pt Shots,0.348,0.353,0.003,0.354,2015-16,GeorgeMason

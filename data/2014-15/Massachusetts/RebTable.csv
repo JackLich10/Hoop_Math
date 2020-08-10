@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Cady Lalanne,48,0.23399999999999999,0.24100000000000002,0.7,0.131,0.21100000000000002,0.5,2014-15
-Maxie Esho,23,0.121,0.094,0.47100000000000003,0.053,0.023,0.16699999999999998,2014-15
-Demetrius Dyson,13,0.321,0.35700000000000004,0.556,0.33299999999999996,1,0.75,2014-15
-Derrick Gordon,12,0.067,0.091,0.636,0.011000000000000001,0,0,2014-15
-Tyler Bergantino,7,0.259,0.25,0.7140000000000001,NA,NA,NA,2014-15
-Zach Coleman,7,0.316,0.41700000000000004,0.833,0.077,0,0,2014-15
-Donte Clark,5,0.057999999999999996,0.05,0.5,0.013000000000000001,0.045,1,2014-15
-Trey Davis,5,0.075,0.091,0.75,0,0,NA,2014-15
-Seth Berger,4,0.444,0.75,0.75,0,NA,NA,2014-15
-C.J. Anderson,1,0.14300000000000002,0,0,0,0,NA,2014-15
-Total,125,0.132,0.145,0.6409999999999999,0.040999999999999995,0.052000000000000005,0.429,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Cady Lalanne,48,0.23399999999999999,0.24100000000000002,0.7,0.131,0.21100000000000002,0.5,2014-15,Massachusetts
+Maxie Esho,23,0.121,0.094,0.47100000000000003,0.053,0.023,0.16699999999999998,2014-15,Massachusetts
+Demetrius Dyson,13,0.321,0.35700000000000004,0.556,0.33299999999999996,1,0.75,2014-15,Massachusetts
+Derrick Gordon,12,0.067,0.091,0.636,0.011000000000000001,0,0,2014-15,Massachusetts
+Tyler Bergantino,7,0.259,0.25,0.7140000000000001,NA,NA,NA,2014-15,Massachusetts
+Zach Coleman,7,0.316,0.41700000000000004,0.833,0.077,0,0,2014-15,Massachusetts
+Donte Clark,5,0.057999999999999996,0.05,0.5,0.013000000000000001,0.045,1,2014-15,Massachusetts
+Trey Davis,5,0.075,0.091,0.75,0,0,NA,2014-15,Massachusetts
+Seth Berger,4,0.444,0.75,0.75,0,NA,NA,2014-15,Massachusetts
+C.J. Anderson,1,0.14300000000000002,0,0,0,0,NA,2014-15,Massachusetts
+Total,125,0.132,0.145,0.6409999999999999,0.040999999999999995,0.052000000000000005,0.429,2014-15,Massachusetts

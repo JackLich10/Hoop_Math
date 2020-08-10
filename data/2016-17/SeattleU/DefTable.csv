@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.20800000000000002,0.6759999999999999,0.043,0.706,2016-17
-2pt Jumpers,0.354,0.353,0.061,0.376,2016-17
-3pt Shots,0.43799999999999994,0.315,0.009000000000000001,0.318,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.20800000000000002,0.6759999999999999,0.043,0.706,2016-17,SeattleU
+2pt Jumpers,0.354,0.353,0.061,0.376,2016-17,SeattleU
+3pt Shots,0.43799999999999994,0.315,0.009000000000000001,0.318,2016-17,SeattleU

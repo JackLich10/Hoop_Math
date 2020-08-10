@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Cam Gregory,42,0.218,0.22899999999999998,0.7809999999999999,0.16699999999999998,0.25,0.6,2016-17
-Jarred Jones,14,0.062,0.076,0.6920000000000001,0.006,0,0,2016-17
-Chancellor Barnard,13,0.11599999999999999,0.102,0.5,0.2,0.33299999999999996,0.33299999999999996,2016-17
-Kavaughn Scott,10,0.27,0.304,0.7,0,0,NA,2016-17
-James Fives,10,0.188,0.21100000000000002,0.444,0.028999999999999998,0,0,2016-17
-Andre Walker,9,0.063,0.08900000000000001,0.556,0,0,NA,2016-17
-Andrew Kostecka,4,0.047,0.065,1,0.08,0,0,2016-17
-Austin Harriott,2,0.14300000000000002,0.2,1,0.25,NA,0,2016-17
-Chuck Champion,2,0.026000000000000002,0,0,0,0,NA,2016-17
-Ian Langendoerfer,1,0.1,0.2,1,0,0,NA,2016-17
-Total,107,0.11199999999999999,0.135,0.67,0.039,0.05,0.389,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Cam Gregory,42,0.218,0.22899999999999998,0.7809999999999999,0.16699999999999998,0.25,0.6,2016-17,LoyolaMaryland
+Jarred Jones,14,0.062,0.076,0.6920000000000001,0.006,0,0,2016-17,LoyolaMaryland
+Chancellor Barnard,13,0.11599999999999999,0.102,0.5,0.2,0.33299999999999996,0.33299999999999996,2016-17,LoyolaMaryland
+Kavaughn Scott,10,0.27,0.304,0.7,0,0,NA,2016-17,LoyolaMaryland
+James Fives,10,0.188,0.21100000000000002,0.444,0.028999999999999998,0,0,2016-17,LoyolaMaryland
+Andre Walker,9,0.063,0.08900000000000001,0.556,0,0,NA,2016-17,LoyolaMaryland
+Andrew Kostecka,4,0.047,0.065,1,0.08,0,0,2016-17,LoyolaMaryland
+Austin Harriott,2,0.14300000000000002,0.2,1,0.25,NA,0,2016-17,LoyolaMaryland
+Chuck Champion,2,0.026000000000000002,0,0,0,0,NA,2016-17,LoyolaMaryland
+Ian Langendoerfer,1,0.1,0.2,1,0,0,NA,2016-17,LoyolaMaryland
+Total,107,0.11199999999999999,0.135,0.67,0.039,0.05,0.389,2016-17,LoyolaMaryland

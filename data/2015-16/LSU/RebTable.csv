@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Ben Simmons,38,0.138,0.12,0.655,0.052000000000000005,0.053,0.33299999999999996,2015-16
-Craig Victor,25,0.20600000000000002,0.18,0.643,0.077,0.061,0.273,2015-16
-Tim Quarterman,18,0.128,0.158,0.818,0.10300000000000001,0.231,0.5,2015-16
-Antonio Blakeney,10,0.094,0.12,1,0.039,0.028999999999999998,0.25,2015-16
-Elbert Robinson Iii,10,0.32,0.43799999999999994,0.875,0.111,0,0,2015-16
-Aaron Epps,10,0.212,0.22699999999999998,0.7140000000000001,0.081,0.095,0.667,2015-16
-Brian Bridgewater,7,0.188,0.125,0.33299999999999996,0.222,0.25,0.5,2015-16
-Darcy Malone,3,0.33299999999999996,0.25,0.5,0.14300000000000002,0,0,2015-16
-Josh Gray,2,0.011000000000000001,0.019,1,0.032,0,0,2015-16
-Keith Hornsby,2,0,0,NA,0.04,0.087,1,2015-16
-Brandon Sampson,1,0,0,NA,0.048,0.25,1,2015-16
-Jalyn Patterson,1,0.055999999999999994,0,0,0,0,NA,2015-16
-Total,127,0.12,0.12300000000000001,0.7070000000000001,0.064,0.071,0.386,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Ben Simmons,38,0.138,0.12,0.655,0.052000000000000005,0.053,0.33299999999999996,2015-16,LSU
+Craig Victor,25,0.20600000000000002,0.18,0.643,0.077,0.061,0.273,2015-16,LSU
+Tim Quarterman,18,0.128,0.158,0.818,0.10300000000000001,0.231,0.5,2015-16,LSU
+Antonio Blakeney,10,0.094,0.12,1,0.039,0.028999999999999998,0.25,2015-16,LSU
+Elbert Robinson Iii,10,0.32,0.43799999999999994,0.875,0.111,0,0,2015-16,LSU
+Aaron Epps,10,0.212,0.22699999999999998,0.7140000000000001,0.081,0.095,0.667,2015-16,LSU
+Brian Bridgewater,7,0.188,0.125,0.33299999999999996,0.222,0.25,0.5,2015-16,LSU
+Darcy Malone,3,0.33299999999999996,0.25,0.5,0.14300000000000002,0,0,2015-16,LSU
+Josh Gray,2,0.011000000000000001,0.019,1,0.032,0,0,2015-16,LSU
+Keith Hornsby,2,0,0,NA,0.04,0.087,1,2015-16,LSU
+Brandon Sampson,1,0,0,NA,0.048,0.25,1,2015-16,LSU
+Jalyn Patterson,1,0.055999999999999994,0,0,0,0,NA,2015-16,LSU
+Total,127,0.12,0.12300000000000001,0.7070000000000001,0.064,0.071,0.386,2015-16,LSU

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.217,0.696,0.075,0.752,2016-17
-2pt Jumpers,0.42700000000000005,0.37799999999999995,0.12300000000000001,0.431,2016-17
-3pt Shots,0.35600000000000004,0.341,0,0.341,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.217,0.696,0.075,0.752,2016-17,MissouriSt.
+2pt Jumpers,0.42700000000000005,0.37799999999999995,0.12300000000000001,0.431,2016-17,MissouriSt.
+3pt Shots,0.35600000000000004,0.341,0,0.341,2016-17,MissouriSt.

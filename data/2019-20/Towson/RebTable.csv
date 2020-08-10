@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Charles Thompson,29,0.382,0.263,0.385,0.15,0.14300000000000002,0.33299999999999996,2019-20
-Nakye Sanders,26,0.21,0.18,0.5,0.044000000000000004,0.083,0.667,2019-20
-Dennis Tunstall,19,0.28800000000000003,0.273,0.706,0.095,0.16699999999999998,0.5,2019-20
-Allen Betrand,15,0.111,0.156,0.778,0.032,0.031,0.4,2019-20
-Brian Fobbs,8,0.055999999999999994,0.07400000000000001,0.833,0.006999999999999999,0,0,2019-20
-Jakigh Dottin,8,0.10400000000000001,0.171,0.75,0,0,NA,2019-20
-Juwan Gray,8,0.149,0.14300000000000002,0.5710000000000001,0,0,NA,2019-20
-Nicolas Timberlake,7,0.156,0.115,0.429,0,0,NA,2019-20
-Justin Patterson,1,0.25,0.33299999999999996,1,0,NA,NA,2019-20
-Nigel Haughton,1,0.25,0.5,1,0,0,NA,2019-20
-Solomon Uyaelunmo,1,0.25,0,0,0,0,NA,2019-20
-Total,123,0.162,0.16,0.5710000000000001,0.025,0.028999999999999998,0.429,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Charles Thompson,29,0.382,0.263,0.385,0.15,0.14300000000000002,0.33299999999999996,2019-20,Towson
+Nakye Sanders,26,0.21,0.18,0.5,0.044000000000000004,0.083,0.667,2019-20,Towson
+Dennis Tunstall,19,0.28800000000000003,0.273,0.706,0.095,0.16699999999999998,0.5,2019-20,Towson
+Allen Betrand,15,0.111,0.156,0.778,0.032,0.031,0.4,2019-20,Towson
+Brian Fobbs,8,0.055999999999999994,0.07400000000000001,0.833,0.006999999999999999,0,0,2019-20,Towson
+Jakigh Dottin,8,0.10400000000000001,0.171,0.75,0,0,NA,2019-20,Towson
+Juwan Gray,8,0.149,0.14300000000000002,0.5710000000000001,0,0,NA,2019-20,Towson
+Nicolas Timberlake,7,0.156,0.115,0.429,0,0,NA,2019-20,Towson
+Justin Patterson,1,0.25,0.33299999999999996,1,0,NA,NA,2019-20,Towson
+Nigel Haughton,1,0.25,0.5,1,0,0,NA,2019-20,Towson
+Solomon Uyaelunmo,1,0.25,0,0,0,0,NA,2019-20,Towson
+Total,123,0.162,0.16,0.5710000000000001,0.025,0.028999999999999998,0.429,2019-20,Towson

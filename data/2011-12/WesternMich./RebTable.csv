@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Matt Stainbrook,35,0.14300000000000002,0.132,0.667,0.133,0.14,0.429,2011-12
-Flenard Whitfield,24,0.096,0.07200000000000001,0.5,0.086,0.14800000000000002,0.643,2011-12
-Shayne Whittington,19,0.183,0.205,0.727,0.242,0.182,0.25,2011-12
-Nate Hutcheson,16,0.14800000000000002,0.132,0.556,0.163,0.133,0.28600000000000003,2011-12
-Demetrius Ward,11,0.099,0.162,0.857,0.025,0.04,0.5,2011-12
-Muhammed Conteh,10,0.429,0.625,0.833,0.5,0,0,2011-12
-Mike Douglas,3,0.016,0.034,1,0.01,0,0,2011-12
-David Brown,3,0.111,0.2,1,0.16699999999999998,0,0,2011-12
-Hayden Hoerdemann,2,0.222,0.4,1,0,0,NA,2011-12
-Austin Richie,2,0,0,NA,0.087,0.2,0.5,2011-12
-Tim Brennan,1,NA,NA,NA,0.5,NA,0,2011-12
-Total,126,0.106,0.121,0.696,0.092,0.10400000000000001,0.389,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Matt Stainbrook,35,0.14300000000000002,0.132,0.667,0.133,0.14,0.429,2011-12,WesternMich.
+Flenard Whitfield,24,0.096,0.07200000000000001,0.5,0.086,0.14800000000000002,0.643,2011-12,WesternMich.
+Shayne Whittington,19,0.183,0.205,0.727,0.242,0.182,0.25,2011-12,WesternMich.
+Nate Hutcheson,16,0.14800000000000002,0.132,0.556,0.163,0.133,0.28600000000000003,2011-12,WesternMich.
+Demetrius Ward,11,0.099,0.162,0.857,0.025,0.04,0.5,2011-12,WesternMich.
+Muhammed Conteh,10,0.429,0.625,0.833,0.5,0,0,2011-12,WesternMich.
+Mike Douglas,3,0.016,0.034,1,0.01,0,0,2011-12,WesternMich.
+David Brown,3,0.111,0.2,1,0.16699999999999998,0,0,2011-12,WesternMich.
+Hayden Hoerdemann,2,0.222,0.4,1,0,0,NA,2011-12,WesternMich.
+Austin Richie,2,0,0,NA,0.087,0.2,0.5,2011-12,WesternMich.
+Tim Brennan,1,NA,NA,NA,0.5,NA,0,2011-12,WesternMich.
+Total,126,0.106,0.121,0.696,0.092,0.10400000000000001,0.389,2011-12,WesternMich.

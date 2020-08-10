@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.386,0.552,0.102,0.615,2016-17
-2pt Jumpers,0.276,0.326,0.048,0.34299999999999997,2016-17
-3pt Shots,0.337,0.381,0.011000000000000001,0.386,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.386,0.552,0.102,0.615,2016-17,Davidson
+2pt Jumpers,0.276,0.326,0.048,0.34299999999999997,2016-17,Davidson
+3pt Shots,0.337,0.381,0.011000000000000001,0.386,2016-17,Davidson

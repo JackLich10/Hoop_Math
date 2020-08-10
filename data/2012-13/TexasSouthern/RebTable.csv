@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Fred Sturdivant,28,0.168,0.14300000000000002,0.615,0.027000000000000003,0.034,0.5,2012-13
-Kyrie Sutton,23,0.25,0.235,0.5329999999999999,0.11900000000000001,0.09699999999999999,0.375,2012-13
-Aaron Clayborn,21,0.125,0.10400000000000001,0.5379999999999999,0.129,0.07400000000000001,0.25,2012-13
-Madarious Gibbs,6,0.07,0.10800000000000001,0.8,0.025,0,0,2012-13
-Raymond Penn,5,0.015,0.033,1,0.021,0.032,0.5,2012-13
-Omar Strong,4,0,0,NA,0.028999999999999998,0.031,0.5,2012-13
-Lawrence Johnson-Danner,3,0.111,0.2,1,0.021,0,0,2012-13
-Dexter Ellington,1,0.125,0.2,1,0,0,NA,2012-13
-Total,91,0.122,0.126,0.619,0.051,0.042,0.33299999999999996,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Fred Sturdivant,28,0.168,0.14300000000000002,0.615,0.027000000000000003,0.034,0.5,2012-13,TexasSouthern
+Kyrie Sutton,23,0.25,0.235,0.5329999999999999,0.11900000000000001,0.09699999999999999,0.375,2012-13,TexasSouthern
+Aaron Clayborn,21,0.125,0.10400000000000001,0.5379999999999999,0.129,0.07400000000000001,0.25,2012-13,TexasSouthern
+Madarious Gibbs,6,0.07,0.10800000000000001,0.8,0.025,0,0,2012-13,TexasSouthern
+Raymond Penn,5,0.015,0.033,1,0.021,0.032,0.5,2012-13,TexasSouthern
+Omar Strong,4,0,0,NA,0.028999999999999998,0.031,0.5,2012-13,TexasSouthern
+Lawrence Johnson-Danner,3,0.111,0.2,1,0.021,0,0,2012-13,TexasSouthern
+Dexter Ellington,1,0.125,0.2,1,0,0,NA,2012-13,TexasSouthern
+Total,91,0.122,0.126,0.619,0.051,0.042,0.33299999999999996,2012-13,TexasSouthern

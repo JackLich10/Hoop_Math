@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Elijah Bryant,11,0.054000000000000006,0.059000000000000004,0.5,0.034,0.038,0.4,2014-15
-Dmitri Thompson,11,0.131,0.11900000000000001,0.636,0,0,NA,2014-15
-Ryan Winters,11,0.16899999999999998,0.258,0.8,0.025,0.083,1,2014-15
-Kevin Blake,10,0.06,0.037000000000000005,0.4,0.098,0.28600000000000003,0.8,2014-15
-Christian Hairston,7,0.055999999999999994,0.07,1,0.067,0.125,0.667,2014-15
-Austin Hamilton,6,0.032,0.053,1,0.022000000000000002,0.028999999999999998,0.5,2014-15
-Tony Sabato,6,0.08,0.115,0.75,0.026000000000000002,0,0,2014-15
-Jack Anton,3,0.133,0.111,0.5,0.042,0.125,1,2014-15
-Collin Luther,2,0.1,0.25,1,0.125,0,0,2014-15
-Tanner Samson,1,0.043,0,0,0,0,NA,2014-15
-Ryder Bowline,1,0.5,0.5,1,NA,NA,NA,2014-15
-Patrick Ryan,1,1,1,1,NA,NA,NA,2014-15
-Total,70,0.078,0.08800000000000001,0.688,0.033,0.057,0.55,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Elijah Bryant,11,0.054000000000000006,0.059000000000000004,0.5,0.034,0.038,0.4,2014-15,Elon
+Dmitri Thompson,11,0.131,0.11900000000000001,0.636,0,0,NA,2014-15,Elon
+Ryan Winters,11,0.16899999999999998,0.258,0.8,0.025,0.083,1,2014-15,Elon
+Kevin Blake,10,0.06,0.037000000000000005,0.4,0.098,0.28600000000000003,0.8,2014-15,Elon
+Christian Hairston,7,0.055999999999999994,0.07,1,0.067,0.125,0.667,2014-15,Elon
+Austin Hamilton,6,0.032,0.053,1,0.022000000000000002,0.028999999999999998,0.5,2014-15,Elon
+Tony Sabato,6,0.08,0.115,0.75,0.026000000000000002,0,0,2014-15,Elon
+Jack Anton,3,0.133,0.111,0.5,0.042,0.125,1,2014-15,Elon
+Collin Luther,2,0.1,0.25,1,0.125,0,0,2014-15,Elon
+Tanner Samson,1,0.043,0,0,0,0,NA,2014-15,Elon
+Ryder Bowline,1,0.5,0.5,1,NA,NA,NA,2014-15,Elon
+Patrick Ryan,1,1,1,1,NA,NA,NA,2014-15,Elon
+Total,70,0.078,0.08800000000000001,0.688,0.033,0.057,0.55,2014-15,Elon

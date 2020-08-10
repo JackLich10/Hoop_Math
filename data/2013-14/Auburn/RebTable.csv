@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Asauhn Dixon-Tatum,39,0.456,0.42,0.677,0.154,0.158,0.375,2013-14
-Allen Payne,23,0.245,0.245,0.565,0,0,NA,2013-14
-Chris Denson,13,0.040999999999999995,0.048,0.667,0.039,0.024,0.25,2013-14
-Matthew Atewe,9,0.429,0.273,0.33299999999999996,0,0,NA,2013-14
-Jordon Granger,7,0.389,0.364,0.5710000000000001,0,0,NA,2013-14
-KT Harrell,7,0.038,0.057999999999999996,1,0.027000000000000003,0.026000000000000002,0.33299999999999996,2013-14
-Tahj Shamsid-Deen,4,0,0,NA,0.069,0.04,0.25,2013-14
-Benas Griciunas,4,0.267,0.444,1,0,0,NA,2013-14
-Malcolm Canada,3,0.065,0.111,0.667,0,0,NA,2013-14
-Dion Wade,3,0.125,0.16699999999999998,1,0.28600000000000003,NA,0,2013-14
-Alex Thompson,1,0.16699999999999998,0.5,1,0,0,NA,2013-14
-Total,113,0.139,0.153,0.6409999999999999,0.048,0.036000000000000004,0.28600000000000003,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Asauhn Dixon-Tatum,39,0.456,0.42,0.677,0.154,0.158,0.375,2013-14,Auburn
+Allen Payne,23,0.245,0.245,0.565,0,0,NA,2013-14,Auburn
+Chris Denson,13,0.040999999999999995,0.048,0.667,0.039,0.024,0.25,2013-14,Auburn
+Matthew Atewe,9,0.429,0.273,0.33299999999999996,0,0,NA,2013-14,Auburn
+Jordon Granger,7,0.389,0.364,0.5710000000000001,0,0,NA,2013-14,Auburn
+KT Harrell,7,0.038,0.057999999999999996,1,0.027000000000000003,0.026000000000000002,0.33299999999999996,2013-14,Auburn
+Tahj Shamsid-Deen,4,0,0,NA,0.069,0.04,0.25,2013-14,Auburn
+Benas Griciunas,4,0.267,0.444,1,0,0,NA,2013-14,Auburn
+Malcolm Canada,3,0.065,0.111,0.667,0,0,NA,2013-14,Auburn
+Dion Wade,3,0.125,0.16699999999999998,1,0.28600000000000003,NA,0,2013-14,Auburn
+Alex Thompson,1,0.16699999999999998,0.5,1,0,0,NA,2013-14,Auburn
+Total,113,0.139,0.153,0.6409999999999999,0.048,0.036000000000000004,0.28600000000000003,2013-14,Auburn

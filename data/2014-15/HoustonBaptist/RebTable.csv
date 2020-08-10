@@ -1,16 +1,16 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Josh Ibarra,27,0.28600000000000003,0.259,0.636,0.14300000000000002,0.125,0.4,2014-15
-Ricmonds Vilde,25,0.299,0.294,0.652,0.067,0.182,1,2014-15
-Reveal Chukwujekwu,16,0.16699999999999998,0.14,0.462,0.057999999999999996,0.053,0.33299999999999996,2014-15
-Colter Lasher,12,0.095,0.098,0.75,0.048,0.09699999999999999,0.75,2014-15
-Jourdan Stickler,9,0.26899999999999996,0.25,0.5710000000000001,0.053,0.071,0.5,2014-15
-Cody Stetler,9,0.158,0.25,1,0.125,0,0,2014-15
-Alex Fountain,7,0.21100000000000002,0.273,0.75,0.077,0,0,2014-15
-Anthony Odunsi,5,0.01,0.015,1,0.059000000000000004,0,0,2014-15
-Terry Harris,3,0.188,0.25,0.667,0,0,NA,2014-15
-Stephen O'Suji,2,1,NA,0,0.5,NA,0,2014-15
-Marcel Smith,1,0,0,NA,0,0,NA,2014-15
-Trey Patterson,1,0.053,0.083,1,0,0,NA,2014-15
-Tyler Russell,1,0.021,0.04,1,0,0,NA,2014-15
-Caleb Crayton,1,0.042,0,0,0,0,NA,2014-15
-Total,119,0.142,0.145,0.648,0.052000000000000005,0.051,0.33299999999999996,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Josh Ibarra,27,0.28600000000000003,0.259,0.636,0.14300000000000002,0.125,0.4,2014-15,HoustonBaptist
+Ricmonds Vilde,25,0.299,0.294,0.652,0.067,0.182,1,2014-15,HoustonBaptist
+Reveal Chukwujekwu,16,0.16699999999999998,0.14,0.462,0.057999999999999996,0.053,0.33299999999999996,2014-15,HoustonBaptist
+Colter Lasher,12,0.095,0.098,0.75,0.048,0.09699999999999999,0.75,2014-15,HoustonBaptist
+Jourdan Stickler,9,0.26899999999999996,0.25,0.5710000000000001,0.053,0.071,0.5,2014-15,HoustonBaptist
+Cody Stetler,9,0.158,0.25,1,0.125,0,0,2014-15,HoustonBaptist
+Alex Fountain,7,0.21100000000000002,0.273,0.75,0.077,0,0,2014-15,HoustonBaptist
+Anthony Odunsi,5,0.01,0.015,1,0.059000000000000004,0,0,2014-15,HoustonBaptist
+Terry Harris,3,0.188,0.25,0.667,0,0,NA,2014-15,HoustonBaptist
+Stephen O'Suji,2,1,NA,0,0.5,NA,0,2014-15,HoustonBaptist
+Marcel Smith,1,0,0,NA,0,0,NA,2014-15,HoustonBaptist
+Trey Patterson,1,0.053,0.083,1,0,0,NA,2014-15,HoustonBaptist
+Tyler Russell,1,0.021,0.04,1,0,0,NA,2014-15,HoustonBaptist
+Caleb Crayton,1,0.042,0,0,0,0,NA,2014-15,HoustonBaptist
+Total,119,0.142,0.145,0.648,0.052000000000000005,0.051,0.33299999999999996,2014-15,HoustonBaptist

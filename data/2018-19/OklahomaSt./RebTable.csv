@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Yor Anei,23,0.2,0.184,0.636,0.02,0.045,1,2018-19
-Cameron McGriff,21,0.18899999999999997,0.14800000000000002,0.4,0.01,0.027000000000000003,1,2018-19
-Isaac Likekele,6,0.027999999999999997,0.037000000000000005,0.75,0.019,0.067,1,2018-19
-Duncan Demuth,5,0.182,0.4,0.5,0.111,0,0,2018-19
-Curtis Jones,5,0.05,0.059000000000000004,0.5,0,0,NA,2018-19
-III Waters,4,0.044000000000000004,0.077,1,0.012,0,0,2018-19
-Michael Weathers,3,0.034,0.048,0.667,0,0,NA,2018-19
-J.L. Hadlock,1,NA,NA,NA,1,1,1,2018-19
-Thomas Dziagwa,1,0,0,NA,0,0,NA,2018-19
-Kentrevious Jones,1,0.33299999999999996,0.33299999999999996,1,0,0,NA,2018-19
-LINDY,1,1,1,1,0,0,NA,2018-19
-Total,71,0.096,0.102,0.5760000000000001,0.013999999999999999,0.027000000000000003,0.667,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Yor Anei,23,0.2,0.184,0.636,0.02,0.045,1,2018-19,OklahomaSt.
+Cameron McGriff,21,0.18899999999999997,0.14800000000000002,0.4,0.01,0.027000000000000003,1,2018-19,OklahomaSt.
+Isaac Likekele,6,0.027999999999999997,0.037000000000000005,0.75,0.019,0.067,1,2018-19,OklahomaSt.
+Duncan Demuth,5,0.182,0.4,0.5,0.111,0,0,2018-19,OklahomaSt.
+Curtis Jones,5,0.05,0.059000000000000004,0.5,0,0,NA,2018-19,OklahomaSt.
+III Waters,4,0.044000000000000004,0.077,1,0.012,0,0,2018-19,OklahomaSt.
+Michael Weathers,3,0.034,0.048,0.667,0,0,NA,2018-19,OklahomaSt.
+J.L. Hadlock,1,NA,NA,NA,1,1,1,2018-19,OklahomaSt.
+Thomas Dziagwa,1,0,0,NA,0,0,NA,2018-19,OklahomaSt.
+Kentrevious Jones,1,0.33299999999999996,0.33299999999999996,1,0,0,NA,2018-19,OklahomaSt.
+LINDY,1,1,1,1,0,0,NA,2018-19,OklahomaSt.
+Total,71,0.096,0.102,0.5760000000000001,0.013999999999999999,0.027000000000000003,0.667,2018-19,OklahomaSt.

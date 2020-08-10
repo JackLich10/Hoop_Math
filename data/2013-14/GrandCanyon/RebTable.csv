@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Killian Larson,35,0.139,0.12,0.531,0.03,0.027000000000000003,0.33299999999999996,2013-14
-Blake Davis,10,0.237,0.273,0.667,0.031,0,0,2013-14
-Jerome Garrison,7,0.061,0.106,0.833,0.013000000000000001,0,0,2013-14
-Jeremy Adams,6,0.13,0.154,0.667,0.068,0,0,2013-14
-Jake Zuilof,5,0.278,0.5,1,0,0,NA,2013-14
-Daniel Alexander,2,0.027000000000000003,0.042,1,0.033,0,0,2013-14
-Sam Daly,2,0.069,0.111,1,0,0,NA,2013-14
-Justin Foreman,1,0.033,0,0,0,0,NA,2013-14
-Jevon Estelle,1,0.25,0,0,0,0,NA,2013-14
-Akachi Okugo,1,0,0,NA,0.038,0,0,2013-14
-Total,70,0.107,0.11800000000000001,0.633,0.025,0.006999999999999999,0.1,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Killian Larson,35,0.139,0.12,0.531,0.03,0.027000000000000003,0.33299999999999996,2013-14,GrandCanyon
+Blake Davis,10,0.237,0.273,0.667,0.031,0,0,2013-14,GrandCanyon
+Jerome Garrison,7,0.061,0.106,0.833,0.013000000000000001,0,0,2013-14,GrandCanyon
+Jeremy Adams,6,0.13,0.154,0.667,0.068,0,0,2013-14,GrandCanyon
+Jake Zuilof,5,0.278,0.5,1,0,0,NA,2013-14,GrandCanyon
+Daniel Alexander,2,0.027000000000000003,0.042,1,0.033,0,0,2013-14,GrandCanyon
+Sam Daly,2,0.069,0.111,1,0,0,NA,2013-14,GrandCanyon
+Justin Foreman,1,0.033,0,0,0,0,NA,2013-14,GrandCanyon
+Jevon Estelle,1,0.25,0,0,0,0,NA,2013-14,GrandCanyon
+Akachi Okugo,1,0,0,NA,0.038,0,0,2013-14,GrandCanyon
+Total,70,0.107,0.11800000000000001,0.633,0.025,0.006999999999999999,0.1,2013-14,GrandCanyon

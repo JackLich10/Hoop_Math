@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.40399999999999997,0.635,0.092,0.7,2017-18
-2pt Jumpers,0.191,0.359,0.054000000000000006,0.38,2017-18
-3pt Shots,0.405,0.35200000000000004,0.011000000000000001,0.35600000000000004,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.40399999999999997,0.635,0.092,0.7,2017-18,MoreheadSt.
+2pt Jumpers,0.191,0.359,0.054000000000000006,0.38,2017-18,MoreheadSt.
+3pt Shots,0.405,0.35200000000000004,0.011000000000000001,0.35600000000000004,2017-18,MoreheadSt.

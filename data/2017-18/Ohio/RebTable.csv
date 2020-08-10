@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Doug Taylor,26,0.22399999999999998,0.22399999999999998,0.654,0,0,NA,2017-18
-Teyvion Kirk,14,0.055,0.07200000000000001,0.667,0.019,0,0,2017-18
-Kevin Mickle,7,0.059000000000000004,0.063,0.667,0.012,0,0,2017-18
-Gavin Block,4,0.061,0.077,0.667,0,0,NA,2017-18
-Jordan Dartis,3,0.043,0.087,1,0,0,NA,2017-18
-James Gollon,3,0.047,0.037000000000000005,0.5,0.077,0.2,1,2017-18
-Mike Laster,2,0.018000000000000002,0.013999999999999999,0.5,0,0,NA,2017-18
-Jaylin Mcdonald,1,1,NA,0,NA,NA,NA,2017-18
-Sam Frayer,1,0.5,1,1,0,0,NA,2017-18
-Total,61,0.07400000000000001,0.086,0.655,0.008,0.006,0.25,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Doug Taylor,26,0.22399999999999998,0.22399999999999998,0.654,0,0,NA,2017-18,Ohio
+Teyvion Kirk,14,0.055,0.07200000000000001,0.667,0.019,0,0,2017-18,Ohio
+Kevin Mickle,7,0.059000000000000004,0.063,0.667,0.012,0,0,2017-18,Ohio
+Gavin Block,4,0.061,0.077,0.667,0,0,NA,2017-18,Ohio
+Jordan Dartis,3,0.043,0.087,1,0,0,NA,2017-18,Ohio
+James Gollon,3,0.047,0.037000000000000005,0.5,0.077,0.2,1,2017-18,Ohio
+Mike Laster,2,0.018000000000000002,0.013999999999999999,0.5,0,0,NA,2017-18,Ohio
+Jaylin Mcdonald,1,1,NA,0,NA,NA,NA,2017-18,Ohio
+Sam Frayer,1,0.5,1,1,0,0,NA,2017-18,Ohio
+Total,61,0.07400000000000001,0.086,0.655,0.008,0.006,0.25,2017-18,Ohio

@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Gilvydas Biruta,43,0.212,0.239,0.688,0.136,0.08800000000000001,0.273,2013-14
-Hassan Martin,25,0.20800000000000002,0.17600000000000002,0.545,0.083,0.077,0.33299999999999996,2013-14
-Ifeanyi Onyekaba,16,0.255,0.267,0.667,0.235,0,0,2013-14
-Jarelle Reischel,8,0.098,0.05,0.25,0,0,NA,2013-14
-T.J. Buchanan,5,0.048,0.054000000000000006,0.667,0.049,0,0,2013-14
-E.C. Matthews,5,0.024,0.028999999999999998,0.667,0.01,0.028999999999999998,1,2013-14
-Xavier Munford,5,0.022000000000000002,0.024,0.667,0.015,0,0,2013-14
-Mike Aaman,3,0.16699999999999998,0.33299999999999996,1,0.5,0,0,2013-14
-A.J. Kemp,1,1,NA,0,NA,NA,NA,2013-14
-Total,111,0.111,0.11599999999999999,0.605,0.053,0.032,0.20800000000000002,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Gilvydas Biruta,43,0.212,0.239,0.688,0.136,0.08800000000000001,0.273,2013-14,RhodeIsland
+Hassan Martin,25,0.20800000000000002,0.17600000000000002,0.545,0.083,0.077,0.33299999999999996,2013-14,RhodeIsland
+Ifeanyi Onyekaba,16,0.255,0.267,0.667,0.235,0,0,2013-14,RhodeIsland
+Jarelle Reischel,8,0.098,0.05,0.25,0,0,NA,2013-14,RhodeIsland
+T.J. Buchanan,5,0.048,0.054000000000000006,0.667,0.049,0,0,2013-14,RhodeIsland
+E.C. Matthews,5,0.024,0.028999999999999998,0.667,0.01,0.028999999999999998,1,2013-14,RhodeIsland
+Xavier Munford,5,0.022000000000000002,0.024,0.667,0.015,0,0,2013-14,RhodeIsland
+Mike Aaman,3,0.16699999999999998,0.33299999999999996,1,0.5,0,0,2013-14,RhodeIsland
+A.J. Kemp,1,1,NA,0,NA,NA,NA,2013-14,RhodeIsland
+Total,111,0.111,0.11599999999999999,0.605,0.053,0.032,0.20800000000000002,2013-14,RhodeIsland

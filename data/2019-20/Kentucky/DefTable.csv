@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.32,0.595,0.115,0.672,2019-20
-2pt Jumpers,0.29600000000000004,0.29100000000000004,0.139,0.33799999999999997,2019-20
-3pt Shots,0.384,0.307,0.01,0.31,2019-20
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.32,0.595,0.115,0.672,2019-20,Kentucky
+2pt Jumpers,0.29600000000000004,0.29100000000000004,0.139,0.33799999999999997,2019-20,Kentucky
+3pt Shots,0.384,0.307,0.01,0.31,2019-20,Kentucky

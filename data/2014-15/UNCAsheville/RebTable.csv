@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jaleel Roberts,26,0.226,0.203,0.5710000000000001,0.083,0.114,0.8,2014-15
-Giacomo Zilli,13,0.133,0.109,0.5,0.214,0,0,2014-15
-Corey Littlejohn,13,0.278,0.235,0.4,0.11800000000000001,0.33299999999999996,1,2014-15
-Chudier Pal,11,0.355,0.389,0.636,0,0,NA,2014-15
-Sam Hughes,10,0.145,0.184,0.7,0,0,NA,2014-15
-Ahmad Thomas,10,0.122,0.071,0.33299999999999996,0.059000000000000004,0.125,0.667,2014-15
-Kem Ubaru,7,0.121,0.077,0.28600000000000003,0,0,NA,2014-15
-Andrew Rowsey,5,0.038,0.03,0.33299999999999996,0.02,0.024,0.5,2014-15
-Marcus Neely,4,0.16699999999999998,0.16699999999999998,0.5,0,0,NA,2014-15
-Alec Wnuk,3,0.115,0.214,1,0,0,NA,2014-15
-Will Weeks,3,0.067,0.062,0.5,0.16699999999999998,0.5,1,2014-15
-Kevin Vannatta,3,0.061,0.033,0.33299999999999996,0,0,NA,2014-15
-David Robertson,2,0.013000000000000001,0.024,1,0.026000000000000002,0,0,2014-15
-Total,110,0.128,0.125,0.527,0.042,0.062,0.588,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jaleel Roberts,26,0.226,0.203,0.5710000000000001,0.083,0.114,0.8,2014-15,UNCAsheville
+Giacomo Zilli,13,0.133,0.109,0.5,0.214,0,0,2014-15,UNCAsheville
+Corey Littlejohn,13,0.278,0.235,0.4,0.11800000000000001,0.33299999999999996,1,2014-15,UNCAsheville
+Chudier Pal,11,0.355,0.389,0.636,0,0,NA,2014-15,UNCAsheville
+Sam Hughes,10,0.145,0.184,0.7,0,0,NA,2014-15,UNCAsheville
+Ahmad Thomas,10,0.122,0.071,0.33299999999999996,0.059000000000000004,0.125,0.667,2014-15,UNCAsheville
+Kem Ubaru,7,0.121,0.077,0.28600000000000003,0,0,NA,2014-15,UNCAsheville
+Andrew Rowsey,5,0.038,0.03,0.33299999999999996,0.02,0.024,0.5,2014-15,UNCAsheville
+Marcus Neely,4,0.16699999999999998,0.16699999999999998,0.5,0,0,NA,2014-15,UNCAsheville
+Alec Wnuk,3,0.115,0.214,1,0,0,NA,2014-15,UNCAsheville
+Will Weeks,3,0.067,0.062,0.5,0.16699999999999998,0.5,1,2014-15,UNCAsheville
+Kevin Vannatta,3,0.061,0.033,0.33299999999999996,0,0,NA,2014-15,UNCAsheville
+David Robertson,2,0.013000000000000001,0.024,1,0.026000000000000002,0,0,2014-15,UNCAsheville
+Total,110,0.128,0.125,0.527,0.042,0.062,0.588,2014-15,UNCAsheville

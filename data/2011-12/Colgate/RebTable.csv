@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-John Brandenburg,13,0.18100000000000002,0.15,0.462,0,0,NA,2011-12
-Nick Pascale,9,0.08900000000000001,0.125,0.875,0.016,0,0,2011-12
-Brandon James,9,0.32,0.278,0.625,0.026000000000000002,0,0,2011-12
-Sterling Melville,5,0.047,0.05,0.6,0,0,NA,2011-12
-Matt McMullen,4,0.17600000000000002,0.14300000000000002,0.33299999999999996,0.059000000000000004,0,0,2011-12
-Pat Moore,4,0.038,0.061,1,0,0,NA,2011-12
-Yaw Gyawu,3,0,0,NA,0.042,0.037000000000000005,0.33299999999999996,2011-12
-Mitch Rolls,2,0.083,0,0,0,0,NA,2011-12
-Chad Johnson,1,0.25,0,0,0,0,NA,2011-12
-Mike Venezia,1,0.055999999999999994,0,0,0,0,NA,2011-12
-Total,51,0.08800000000000001,0.08800000000000001,0.5579999999999999,0.011000000000000001,0.005,0.16699999999999998,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+John Brandenburg,13,0.18100000000000002,0.15,0.462,0,0,NA,2011-12,Colgate
+Nick Pascale,9,0.08900000000000001,0.125,0.875,0.016,0,0,2011-12,Colgate
+Brandon James,9,0.32,0.278,0.625,0.026000000000000002,0,0,2011-12,Colgate
+Sterling Melville,5,0.047,0.05,0.6,0,0,NA,2011-12,Colgate
+Matt McMullen,4,0.17600000000000002,0.14300000000000002,0.33299999999999996,0.059000000000000004,0,0,2011-12,Colgate
+Pat Moore,4,0.038,0.061,1,0,0,NA,2011-12,Colgate
+Yaw Gyawu,3,0,0,NA,0.042,0.037000000000000005,0.33299999999999996,2011-12,Colgate
+Mitch Rolls,2,0.083,0,0,0,0,NA,2011-12,Colgate
+Chad Johnson,1,0.25,0,0,0,0,NA,2011-12,Colgate
+Mike Venezia,1,0.055999999999999994,0,0,0,0,NA,2011-12,Colgate
+Total,51,0.08800000000000001,0.08800000000000001,0.5579999999999999,0.011000000000000001,0.005,0.16699999999999998,2011-12,Colgate

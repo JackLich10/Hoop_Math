@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Austin Ajukwa,8,0.136,0.11800000000000001,0.667,0.011000000000000001,0,0,2016-17
-Anthony Vanhook,7,0.055999999999999994,0.013999999999999999,0.16699999999999998,0.012,0,0,2016-17
-Najee Garvin,7,0.078,0.098,1,0.040999999999999995,0.045,0.33299999999999996,2016-17
-Braxton Ogbueze,5,0.14300000000000002,0.182,0.667,0.013000000000000001,0,0,2016-17
-JC Washington,5,0.14300000000000002,0.125,0.667,0.111,0.25,0.5,2016-17
-Andrien White,4,0.052000000000000005,0.062,0.667,0.024,0,0,2016-17
-Benas Griciunas,4,0.083,0.071,0.5,0.08,0.111,0.5,2016-17
-Reid Aube,3,0.33299999999999996,0,0,0.14300000000000002,0,0,2016-17
-Hudson Price,3,0.11800000000000001,0.133,1,0,0,NA,2016-17
-Quentin Jackson,3,0,0,NA,0.049,0.053,0.33299999999999996,2016-17
-Total,49,0.057,0.05,0.581,0.024,0.02,0.267,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Austin Ajukwa,8,0.136,0.11800000000000001,0.667,0.011000000000000001,0,0,2016-17,Charlotte
+Anthony Vanhook,7,0.055999999999999994,0.013999999999999999,0.16699999999999998,0.012,0,0,2016-17,Charlotte
+Najee Garvin,7,0.078,0.098,1,0.040999999999999995,0.045,0.33299999999999996,2016-17,Charlotte
+Braxton Ogbueze,5,0.14300000000000002,0.182,0.667,0.013000000000000001,0,0,2016-17,Charlotte
+JC Washington,5,0.14300000000000002,0.125,0.667,0.111,0.25,0.5,2016-17,Charlotte
+Andrien White,4,0.052000000000000005,0.062,0.667,0.024,0,0,2016-17,Charlotte
+Benas Griciunas,4,0.083,0.071,0.5,0.08,0.111,0.5,2016-17,Charlotte
+Reid Aube,3,0.33299999999999996,0,0,0.14300000000000002,0,0,2016-17,Charlotte
+Hudson Price,3,0.11800000000000001,0.133,1,0,0,NA,2016-17,Charlotte
+Quentin Jackson,3,0,0,NA,0.049,0.053,0.33299999999999996,2016-17,Charlotte
+Total,49,0.057,0.05,0.581,0.024,0.02,0.267,2016-17,Charlotte

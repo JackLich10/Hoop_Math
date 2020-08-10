@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.21100000000000002,0.735,0.032,0.759,2012-13
-2pt Jumpers,0.456,0.373,0.08,0.406,2012-13
-3pt Shots,0.33299999999999996,0.311,0.01,0.314,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.21100000000000002,0.735,0.032,0.759,2012-13,IowaSt.
+2pt Jumpers,0.456,0.373,0.08,0.406,2012-13,IowaSt.
+3pt Shots,0.33299999999999996,0.311,0.01,0.314,2012-13,IowaSt.

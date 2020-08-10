@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Ramone Snowden,20,0.26899999999999996,0.3,0.667,0.105,0.16699999999999998,0.5,2016-17
-Shakir Brown,12,0.121,0.091,0.429,0.069,0.17600000000000002,0.75,2016-17
-Ivan Lukic,10,0.094,0.08199999999999999,0.667,0.1,0.2,0.75,2016-17
-Paulius Satkus,9,0.063,0.062,0.667,0.035,0.081,1,2016-17
-Jackson Kent,7,0.045,0.036000000000000004,0.5,0.01,0,0,2016-17
-Yohanny Dalembert,6,0.07,0.038,0.33299999999999996,0,0,NA,2016-17
-Dimitrije Cabarkapa,5,0.156,0.235,0.8,0,0,NA,2016-17
-Tom Vodanovich,5,0.069,0.114,1,0,0,NA,2016-17
-Vince Holmes,2,0.1,0.111,0.5,0,NA,NA,2016-17
-Tyriq Nady,2,0,NA,NA,0.5,NA,0,2016-17
-Terrence Johnson,1,0,0,NA,0.2,1,1,2016-17
-Total,79,0.092,0.095,0.627,0.037000000000000005,0.064,0.647,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Ramone Snowden,20,0.26899999999999996,0.3,0.667,0.105,0.16699999999999998,0.5,2016-17,JamesMadison
+Shakir Brown,12,0.121,0.091,0.429,0.069,0.17600000000000002,0.75,2016-17,JamesMadison
+Ivan Lukic,10,0.094,0.08199999999999999,0.667,0.1,0.2,0.75,2016-17,JamesMadison
+Paulius Satkus,9,0.063,0.062,0.667,0.035,0.081,1,2016-17,JamesMadison
+Jackson Kent,7,0.045,0.036000000000000004,0.5,0.01,0,0,2016-17,JamesMadison
+Yohanny Dalembert,6,0.07,0.038,0.33299999999999996,0,0,NA,2016-17,JamesMadison
+Dimitrije Cabarkapa,5,0.156,0.235,0.8,0,0,NA,2016-17,JamesMadison
+Tom Vodanovich,5,0.069,0.114,1,0,0,NA,2016-17,JamesMadison
+Vince Holmes,2,0.1,0.111,0.5,0,NA,NA,2016-17,JamesMadison
+Tyriq Nady,2,0,NA,NA,0.5,NA,0,2016-17,JamesMadison
+Terrence Johnson,1,0,0,NA,0.2,1,1,2016-17,JamesMadison
+Total,79,0.092,0.095,0.627,0.037000000000000005,0.064,0.647,2016-17,JamesMadison

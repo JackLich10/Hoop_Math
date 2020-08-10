@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Sandi Marcius,25,0.303,0.33299999999999996,0.696,0.083,0.083,0.5,2013-14
-Cleveland Melvin,22,0.23,0.18899999999999997,0.5,0.02,0.028999999999999998,0.5,2013-14
-Tommy Hamilton IV,18,0.21,0.275,0.647,0.012,0.038,1,2013-14
-Greg Sequele,8,0.348,0.312,0.625,0,0,NA,2013-14
-Dejuan Marrero,7,0.292,0.364,0.5710000000000001,0,0,NA,2013-14
-Brandon Young,7,0.025,0.01,0.25,0.006999999999999999,0,0,2013-14
-Charles McKinney,6,0.091,0.09699999999999999,0.75,0.095,0.1,0.5,2013-14
-Peter Ryckbosch,5,0.22699999999999998,0.222,0.4,0,0,NA,2013-14
-R.J. Curington,5,0.172,0.33299999999999996,0.8,0,0,NA,2013-14
-Durrell McDonald,4,0.079,0.1,0.667,0.018000000000000002,0.055999999999999994,1,2013-14
-Forrest Robinson,3,0.75,0.667,0.667,0,0,NA,2013-14
-Jamee Crockett,3,0.14300000000000002,0.16699999999999998,0.5,0.04,0,0,2013-14
-Garrett Billy,3,0.033,0.024,0.33299999999999996,0,0,NA,2013-14
-Total,116,0.14800000000000002,0.158,0.596,0.018000000000000002,0.026000000000000002,0.5,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Sandi Marcius,25,0.303,0.33299999999999996,0.696,0.083,0.083,0.5,2013-14,DePaul
+Cleveland Melvin,22,0.23,0.18899999999999997,0.5,0.02,0.028999999999999998,0.5,2013-14,DePaul
+Tommy Hamilton IV,18,0.21,0.275,0.647,0.012,0.038,1,2013-14,DePaul
+Greg Sequele,8,0.348,0.312,0.625,0,0,NA,2013-14,DePaul
+Dejuan Marrero,7,0.292,0.364,0.5710000000000001,0,0,NA,2013-14,DePaul
+Brandon Young,7,0.025,0.01,0.25,0.006999999999999999,0,0,2013-14,DePaul
+Charles McKinney,6,0.091,0.09699999999999999,0.75,0.095,0.1,0.5,2013-14,DePaul
+Peter Ryckbosch,5,0.22699999999999998,0.222,0.4,0,0,NA,2013-14,DePaul
+R.J. Curington,5,0.172,0.33299999999999996,0.8,0,0,NA,2013-14,DePaul
+Durrell McDonald,4,0.079,0.1,0.667,0.018000000000000002,0.055999999999999994,1,2013-14,DePaul
+Forrest Robinson,3,0.75,0.667,0.667,0,0,NA,2013-14,DePaul
+Jamee Crockett,3,0.14300000000000002,0.16699999999999998,0.5,0.04,0,0,2013-14,DePaul
+Garrett Billy,3,0.033,0.024,0.33299999999999996,0,0,NA,2013-14,DePaul
+Total,116,0.14800000000000002,0.158,0.596,0.018000000000000002,0.026000000000000002,0.5,2013-14,DePaul

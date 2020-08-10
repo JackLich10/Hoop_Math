@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Dane Miller,26,0.255,0.24600000000000002,0.56,0.033,0,0,2012-13
-Kadeem Jack,25,0.29600000000000004,0.33299999999999996,0.583,0.013999999999999999,0,0,2012-13
-Wally Judge,23,0.239,0.233,0.667,0.024,0,0,2012-13
-Mike Poole,17,0.405,0.41200000000000003,0.467,0.024,0.034,0.5,2012-13
-Derrick Randall,13,0.324,0.21100000000000002,0.33299999999999996,0.33299999999999996,0,0,2012-13
-Austin Johnson,11,0.13,0.125,0.6,0.013999999999999999,0,0,2012-13
-Malick Kone,7,0.292,0.25,0.5710000000000001,0,0,NA,2012-13
-Jerome Seagears,6,0.11800000000000001,0.13,0.5,0,0,NA,2012-13
-Vincent Garrett,2,0.28600000000000003,0.4,1,0,0,NA,2012-13
-Myles Mack,1,0.011000000000000001,0,0,0,0,NA,2012-13
-Total,131,0.184,0.18,0.5529999999999999,0.013000000000000001,0.005,0.125,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Dane Miller,26,0.255,0.24600000000000002,0.56,0.033,0,0,2012-13,Rutgers
+Kadeem Jack,25,0.29600000000000004,0.33299999999999996,0.583,0.013999999999999999,0,0,2012-13,Rutgers
+Wally Judge,23,0.239,0.233,0.667,0.024,0,0,2012-13,Rutgers
+Mike Poole,17,0.405,0.41200000000000003,0.467,0.024,0.034,0.5,2012-13,Rutgers
+Derrick Randall,13,0.324,0.21100000000000002,0.33299999999999996,0.33299999999999996,0,0,2012-13,Rutgers
+Austin Johnson,11,0.13,0.125,0.6,0.013999999999999999,0,0,2012-13,Rutgers
+Malick Kone,7,0.292,0.25,0.5710000000000001,0,0,NA,2012-13,Rutgers
+Jerome Seagears,6,0.11800000000000001,0.13,0.5,0,0,NA,2012-13,Rutgers
+Vincent Garrett,2,0.28600000000000003,0.4,1,0,0,NA,2012-13,Rutgers
+Myles Mack,1,0.011000000000000001,0,0,0,0,NA,2012-13,Rutgers
+Total,131,0.184,0.18,0.5529999999999999,0.013000000000000001,0.005,0.125,2012-13,Rutgers

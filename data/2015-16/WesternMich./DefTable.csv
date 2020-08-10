@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.33799999999999997,0.611,0.08,0.664,2015-16
-2pt Jumpers,0.247,0.35200000000000004,0.071,0.37799999999999995,2015-16
-3pt Shots,0.415,0.354,0.001,0.355,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.33799999999999997,0.611,0.08,0.664,2015-16,WesternMich.
+2pt Jumpers,0.247,0.35200000000000004,0.071,0.37799999999999995,2015-16,WesternMich.
+3pt Shots,0.415,0.354,0.001,0.355,2015-16,WesternMich.

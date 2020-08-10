@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Javis Howard,17,0.20600000000000002,0.18,0.643,0.027999999999999997,0.023,0.33299999999999996,2015-16
-Aaron Wheeler,15,0.064,0.083,0.778,0.087,0.091,0.5,2015-16
-Reuben King,12,0.18,0.23800000000000002,0.909,0.024,0,0,2015-16
-Wesley Johnson,8,0.28600000000000003,0.429,1,0.28600000000000003,0.5,0.5,2015-16
-Melvin Brooks,7,0.312,0.4,0.8,0.154,0.33299999999999996,0.5,2015-16
-Armel Potter,6,0.033,0.036000000000000004,0.667,0.006999999999999999,0,0,2015-16
-Raemond Robinson,4,0.11800000000000001,0,0,0.034,0,0,2015-16
-Ugo Mmonu,4,0.133,0.111,0.5,0,0,NA,2015-16
-Patrick Wallace,3,0,0,NA,0.188,0,0,2015-16
-Demetrius Pollard,1,0.026000000000000002,0.043,1,0,0,NA,2015-16
-Total,77,0.106,0.127,0.745,0.04,0.035,0.316,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Javis Howard,17,0.20600000000000002,0.18,0.643,0.027999999999999997,0.023,0.33299999999999996,2015-16,CharlestonSo.
+Aaron Wheeler,15,0.064,0.083,0.778,0.087,0.091,0.5,2015-16,CharlestonSo.
+Reuben King,12,0.18,0.23800000000000002,0.909,0.024,0,0,2015-16,CharlestonSo.
+Wesley Johnson,8,0.28600000000000003,0.429,1,0.28600000000000003,0.5,0.5,2015-16,CharlestonSo.
+Melvin Brooks,7,0.312,0.4,0.8,0.154,0.33299999999999996,0.5,2015-16,CharlestonSo.
+Armel Potter,6,0.033,0.036000000000000004,0.667,0.006999999999999999,0,0,2015-16,CharlestonSo.
+Raemond Robinson,4,0.11800000000000001,0,0,0.034,0,0,2015-16,CharlestonSo.
+Ugo Mmonu,4,0.133,0.111,0.5,0,0,NA,2015-16,CharlestonSo.
+Patrick Wallace,3,0,0,NA,0.188,0,0,2015-16,CharlestonSo.
+Demetrius Pollard,1,0.026000000000000002,0.043,1,0,0,NA,2015-16,CharlestonSo.
+Total,77,0.106,0.127,0.745,0.04,0.035,0.316,2015-16,CharlestonSo.

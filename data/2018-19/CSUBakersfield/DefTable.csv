@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.303,0.599,0.115,0.677,2018-19
-2pt Jumpers,0.281,0.364,0.062,0.389,2018-19
-3pt Shots,0.41600000000000004,0.366,0.013999999999999999,0.371,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.303,0.599,0.115,0.677,2018-19,CSUBakersfield
+2pt Jumpers,0.281,0.364,0.062,0.389,2018-19,CSUBakersfield
+3pt Shots,0.41600000000000004,0.366,0.013999999999999999,0.371,2018-19,CSUBakersfield

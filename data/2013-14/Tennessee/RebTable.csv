@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jarnell Stokes,63,0.196,0.205,0.722,0.141,0.16699999999999998,0.444,2013-14
-Jeronne Maymon,38,0.165,0.17600000000000002,0.655,0.14300000000000002,0.1,0.222,2013-14
-Jordan McRae,11,0.078,0.091,0.8,0.006,0.018000000000000002,1,2013-14
-Armani Moore,9,0.21600000000000003,0.3,0.75,0.05,0,0,2013-14
-Derek Reese,8,0.385,0.14300000000000002,0.2,0.375,0,0,2013-14
-Josh Richardson,7,0.071,0.086,0.833,0.009000000000000001,0,0,2013-14
-Antonio Barton,4,0.021,0.036000000000000004,1,0.039,0,0,2013-14
-Robert Hubbs,3,0.12,0.1,0.33299999999999996,0,0,NA,2013-14
-Rawane Ndiaye,3,0,0,NA,0.375,NA,0,2013-14
-A.J. Davis,3,0.16699999999999998,0.2,0.667,0,0,NA,2013-14
-Darius Thompson,2,0.032,0,0,0.083,0,0,2013-14
-D'Montre Edwards,1,0.2,0,0,0,0,NA,2013-14
-Total,152,0.135,0.141,0.67,0.07400000000000001,0.065,0.312,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jarnell Stokes,63,0.196,0.205,0.722,0.141,0.16699999999999998,0.444,2013-14,Tennessee
+Jeronne Maymon,38,0.165,0.17600000000000002,0.655,0.14300000000000002,0.1,0.222,2013-14,Tennessee
+Jordan McRae,11,0.078,0.091,0.8,0.006,0.018000000000000002,1,2013-14,Tennessee
+Armani Moore,9,0.21600000000000003,0.3,0.75,0.05,0,0,2013-14,Tennessee
+Derek Reese,8,0.385,0.14300000000000002,0.2,0.375,0,0,2013-14,Tennessee
+Josh Richardson,7,0.071,0.086,0.833,0.009000000000000001,0,0,2013-14,Tennessee
+Antonio Barton,4,0.021,0.036000000000000004,1,0.039,0,0,2013-14,Tennessee
+Robert Hubbs,3,0.12,0.1,0.33299999999999996,0,0,NA,2013-14,Tennessee
+Rawane Ndiaye,3,0,0,NA,0.375,NA,0,2013-14,Tennessee
+A.J. Davis,3,0.16699999999999998,0.2,0.667,0,0,NA,2013-14,Tennessee
+Darius Thompson,2,0.032,0,0,0.083,0,0,2013-14,Tennessee
+D'Montre Edwards,1,0.2,0,0,0,0,NA,2013-14,Tennessee
+Total,152,0.135,0.141,0.67,0.07400000000000001,0.065,0.312,2013-14,Tennessee

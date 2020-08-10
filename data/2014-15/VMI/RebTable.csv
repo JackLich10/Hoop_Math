@@ -1,16 +1,16 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Phillip Anglade,26,0.175,0.174,0.75,0.086,0.08,0.33299999999999996,2014-15
-Trey Chapman,12,0.175,0.2,0.727,0.022000000000000002,0.067,1,2014-15
-QJ Peterson,11,0.081,0.028999999999999998,0.16699999999999998,0.062,0.069,0.4,2014-15
-Jarid Watson,11,0.265,0.308,0.889,0.059000000000000004,0,0,2014-15
-Fred Iruafemi,11,0.5,0.5379999999999999,0.875,0.057999999999999996,0.055999999999999994,0.33299999999999996,2014-15
-Jordan Weethee,11,0.188,0.304,0.778,0.2,1,0.5,2014-15
-Tim Marshall,7,0.188,0.2,0.667,0.033,0,0,2014-15
-Craig Hinton,7,0.07400000000000001,0.055999999999999994,0.5,0.294,0,0,2014-15
-Julian Eleby,4,0.024,0.023,0.5,0.047,0,0,2014-15
-Armani Branch,3,0.222,0.4,1,0,0,NA,2014-15
-Christian Burton,3,0.222,0,0,0.083,0.16699999999999998,1,2014-15
-T Mason,2,0,0,NA,1,NA,0,2014-15
-Brian Brown,1,0,0,NA,0.024,0,0,2014-15
-Niles Tate,1,0.5,0.5,1,NA,NA,NA,2014-15
-Total,110,0.14400000000000002,0.165,0.705,0.069,0.052000000000000005,0.258,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Phillip Anglade,26,0.175,0.174,0.75,0.086,0.08,0.33299999999999996,2014-15,VMI
+Trey Chapman,12,0.175,0.2,0.727,0.022000000000000002,0.067,1,2014-15,VMI
+QJ Peterson,11,0.081,0.028999999999999998,0.16699999999999998,0.062,0.069,0.4,2014-15,VMI
+Jarid Watson,11,0.265,0.308,0.889,0.059000000000000004,0,0,2014-15,VMI
+Fred Iruafemi,11,0.5,0.5379999999999999,0.875,0.057999999999999996,0.055999999999999994,0.33299999999999996,2014-15,VMI
+Jordan Weethee,11,0.188,0.304,0.778,0.2,1,0.5,2014-15,VMI
+Tim Marshall,7,0.188,0.2,0.667,0.033,0,0,2014-15,VMI
+Craig Hinton,7,0.07400000000000001,0.055999999999999994,0.5,0.294,0,0,2014-15,VMI
+Julian Eleby,4,0.024,0.023,0.5,0.047,0,0,2014-15,VMI
+Armani Branch,3,0.222,0.4,1,0,0,NA,2014-15,VMI
+Christian Burton,3,0.222,0,0,0.083,0.16699999999999998,1,2014-15,VMI
+T Mason,2,0,0,NA,1,NA,0,2014-15,VMI
+Brian Brown,1,0,0,NA,0.024,0,0,2014-15,VMI
+Niles Tate,1,0.5,0.5,1,NA,NA,NA,2014-15,VMI
+Total,110,0.14400000000000002,0.165,0.705,0.069,0.052000000000000005,0.258,2014-15,VMI

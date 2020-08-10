@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.358,0.56,0.11,0.629,2015-16
-2pt Jumpers,0.255,0.376,0.052000000000000005,0.396,2015-16
-3pt Shots,0.387,0.36,0.008,0.363,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.358,0.56,0.11,0.629,2015-16,Lehigh
+2pt Jumpers,0.255,0.376,0.052000000000000005,0.396,2015-16,Lehigh
+3pt Shots,0.387,0.36,0.008,0.363,2015-16,Lehigh

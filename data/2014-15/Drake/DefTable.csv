@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.313,0.669,0.073,0.721,2014-15
-2pt Jumpers,0.319,0.387,0.047,0.406,2014-15
-3pt Shots,0.368,0.38799999999999996,0.002,0.389,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.313,0.669,0.073,0.721,2014-15,Drake
+2pt Jumpers,0.319,0.387,0.047,0.406,2014-15,Drake
+3pt Shots,0.368,0.38799999999999996,0.002,0.389,2014-15,Drake

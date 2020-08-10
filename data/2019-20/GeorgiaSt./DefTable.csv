@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.36700000000000005,0.552,0.13,0.634,2019-20
-2pt Jumpers,0.27899999999999997,0.361,0.054000000000000006,0.381,2019-20
-3pt Shots,0.355,0.284,0.015,0.28800000000000003,2019-20
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.36700000000000005,0.552,0.13,0.634,2019-20,GeorgiaSt.
+2pt Jumpers,0.27899999999999997,0.361,0.054000000000000006,0.381,2019-20,GeorgiaSt.
+3pt Shots,0.355,0.284,0.015,0.28800000000000003,2019-20,GeorgiaSt.

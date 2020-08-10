@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tim Rusthoven,28,0.177,0.161,0.6,0.054000000000000006,0,0,2011-12
-Quinn McDowell,11,0.085,0.049,0.33299999999999996,0.05,0.034,0.25,2011-12
-Tom Schalk,6,0.19,0.188,0.75,0.14300000000000002,0.2,0.5,2011-12
-Kendrix Brown,6,0.133,0.059000000000000004,0.25,0.04,0,0,2011-12
-Fred Heldring,6,0.261,0.308,0.667,0,0,NA,2011-12
-Matt Rum,3,0.073,0.125,1,0,0,NA,2011-12
-Marcus Thornton,2,0.012,0.026000000000000002,1,0.008,0.023,1,2011-12
-Brandon Britt,2,0.008,0.016,1,0,0,NA,2011-12
-JohnMark Ludwick,1,0.5,0.5,1,0,NA,NA,2011-12
-Julian Boatner,1,0,0,NA,0.091,0,0,2011-12
-Total,66,0.091,0.09699999999999999,0.608,0.03,0.024,0.25,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tim Rusthoven,28,0.177,0.161,0.6,0.054000000000000006,0,0,2011-12,William&Mary
+Quinn McDowell,11,0.085,0.049,0.33299999999999996,0.05,0.034,0.25,2011-12,William&Mary
+Tom Schalk,6,0.19,0.188,0.75,0.14300000000000002,0.2,0.5,2011-12,William&Mary
+Kendrix Brown,6,0.133,0.059000000000000004,0.25,0.04,0,0,2011-12,William&Mary
+Fred Heldring,6,0.261,0.308,0.667,0,0,NA,2011-12,William&Mary
+Matt Rum,3,0.073,0.125,1,0,0,NA,2011-12,William&Mary
+Marcus Thornton,2,0.012,0.026000000000000002,1,0.008,0.023,1,2011-12,William&Mary
+Brandon Britt,2,0.008,0.016,1,0,0,NA,2011-12,William&Mary
+JohnMark Ludwick,1,0.5,0.5,1,0,NA,NA,2011-12,William&Mary
+Julian Boatner,1,0,0,NA,0.091,0,0,2011-12,William&Mary
+Total,66,0.091,0.09699999999999999,0.608,0.03,0.024,0.25,2011-12,William&Mary

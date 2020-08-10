@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Johnny Hamilton,41,0.21899999999999997,0.217,0.758,0.1,0.09699999999999999,0.375,2017-18
-Kevin Hervey,38,0.203,0.214,0.688,0.025,0.048,0.75,2017-18
-Kaelon Wilson,13,0.067,0.113,0.667,0.067,0.045,0.25,2017-18
-Davion Turner,8,0.21899999999999997,0.2,0.5710000000000001,0.125,0,0,2017-18
-Erick Neal,7,0.05,0.08800000000000001,1,0.011000000000000001,0,0,2017-18
-Link Kabadyundi,6,0.179,0.15,0.6,0.083,0.1,1,2017-18
-Nathan Hawkins,5,0.05,0.075,0.75,0.028999999999999998,0,0,2017-18
-Julian Harris,3,0.07,0.091,0.667,0,0,NA,2017-18
-Mairega Clarke,2,0.105,0.125,0.5,0,0,NA,2017-18
-Scott Muirhead,1,0,NA,NA,NA,NA,NA,2017-18
-DJ Bryant,1,0.05,0.091,1,0,0,NA,2017-18
-Total,125,0.132,0.16,0.713,0.043,0.043,0.4,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Johnny Hamilton,41,0.21899999999999997,0.217,0.758,0.1,0.09699999999999999,0.375,2017-18,UTArlington
+Kevin Hervey,38,0.203,0.214,0.688,0.025,0.048,0.75,2017-18,UTArlington
+Kaelon Wilson,13,0.067,0.113,0.667,0.067,0.045,0.25,2017-18,UTArlington
+Davion Turner,8,0.21899999999999997,0.2,0.5710000000000001,0.125,0,0,2017-18,UTArlington
+Erick Neal,7,0.05,0.08800000000000001,1,0.011000000000000001,0,0,2017-18,UTArlington
+Link Kabadyundi,6,0.179,0.15,0.6,0.083,0.1,1,2017-18,UTArlington
+Nathan Hawkins,5,0.05,0.075,0.75,0.028999999999999998,0,0,2017-18,UTArlington
+Julian Harris,3,0.07,0.091,0.667,0,0,NA,2017-18,UTArlington
+Mairega Clarke,2,0.105,0.125,0.5,0,0,NA,2017-18,UTArlington
+Scott Muirhead,1,0,NA,NA,NA,NA,NA,2017-18,UTArlington
+DJ Bryant,1,0.05,0.091,1,0,0,NA,2017-18,UTArlington
+Total,125,0.132,0.16,0.713,0.043,0.043,0.4,2017-18,UTArlington

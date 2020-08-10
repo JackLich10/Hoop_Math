@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.386,0.565,0.098,0.626,2014-15
-2pt Jumpers,0.299,0.39399999999999996,0.034,0.40700000000000003,2014-15
-3pt Shots,0.315,0.335,0.006,0.337,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.386,0.565,0.098,0.626,2014-15,BostonCollege
+2pt Jumpers,0.299,0.39399999999999996,0.034,0.40700000000000003,2014-15,BostonCollege
+3pt Shots,0.315,0.335,0.006,0.337,2014-15,BostonCollege

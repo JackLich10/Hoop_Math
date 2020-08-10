@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Damian Jones,29,0.136,0.153,0.75,0.033,0.045,0.6,2014-15
-James Siakam,24,0.184,0.172,0.7140000000000001,0.073,0,0,2014-15
-Jeff Roberson,8,0.174,0.185,0.625,0,0,NA,2014-15
-Luke Kornet,7,0.109,0.08800000000000001,0.6,0.047,0.045,0.5,2014-15
-Josh Henderson,4,0.25,0.222,0.667,0.033,0,0,2014-15
-Matthew Fisher-Davis,2,0.16699999999999998,0.5,0.5,0,0,NA,2014-15
-Riley LaChance,2,0.022000000000000002,0.031,1,0.008,0.02,1,2014-15
-Wade Baldwin IV,2,0.013999999999999999,0,0,0.017,0,0,2014-15
-Shelton Mitchell,2,0.034,0.032,0.5,0,0,NA,2014-15
-Shelby Moats,2,0.4,0.5,1,0,NA,NA,2014-15
-"IV,WADE",1,NA,NA,NA,0,NA,NA,2014-15
-Total,83,0.11800000000000001,0.125,0.696,0.024,0.025,0.385,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Damian Jones,29,0.136,0.153,0.75,0.033,0.045,0.6,2014-15,Vanderbilt
+James Siakam,24,0.184,0.172,0.7140000000000001,0.073,0,0,2014-15,Vanderbilt
+Jeff Roberson,8,0.174,0.185,0.625,0,0,NA,2014-15,Vanderbilt
+Luke Kornet,7,0.109,0.08800000000000001,0.6,0.047,0.045,0.5,2014-15,Vanderbilt
+Josh Henderson,4,0.25,0.222,0.667,0.033,0,0,2014-15,Vanderbilt
+Matthew Fisher-Davis,2,0.16699999999999998,0.5,0.5,0,0,NA,2014-15,Vanderbilt
+Riley LaChance,2,0.022000000000000002,0.031,1,0.008,0.02,1,2014-15,Vanderbilt
+Wade Baldwin IV,2,0.013999999999999999,0,0,0.017,0,0,2014-15,Vanderbilt
+Shelton Mitchell,2,0.034,0.032,0.5,0,0,NA,2014-15,Vanderbilt
+Shelby Moats,2,0.4,0.5,1,0,NA,NA,2014-15,Vanderbilt
+"IV,WADE",1,NA,NA,NA,0,NA,NA,2014-15,Vanderbilt
+Total,83,0.11800000000000001,0.125,0.696,0.024,0.025,0.385,2014-15,Vanderbilt

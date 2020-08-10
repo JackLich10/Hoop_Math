@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.355,0.525,0.184,0.643,2018-19
-2pt Jumpers,0.239,0.325,0.068,0.349,2018-19
-3pt Shots,0.40700000000000003,0.349,0.019,0.35600000000000004,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.355,0.525,0.184,0.643,2018-19,Tennessee
+2pt Jumpers,0.239,0.325,0.068,0.349,2018-19,Tennessee
+3pt Shots,0.40700000000000003,0.349,0.019,0.35600000000000004,2018-19,Tennessee

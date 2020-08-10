@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.3,0.585,0.075,0.632,2018-19
-2pt Jumpers,0.213,0.36,0.049,0.37799999999999995,2018-19
-3pt Shots,0.48700000000000004,0.34,0.008,0.34299999999999997,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.3,0.585,0.075,0.632,2018-19,Longwood
+2pt Jumpers,0.213,0.36,0.049,0.37799999999999995,2018-19,Longwood
+3pt Shots,0.48700000000000004,0.34,0.008,0.34299999999999997,2018-19,Longwood

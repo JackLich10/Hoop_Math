@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Alex Poythress,29,0.132,0.113,0.688,0.17300000000000001,0.409,0.6920000000000001,2012-13
-Nerlens Noel,28,0.17,0.184,0.8240000000000001,0.16699999999999998,0.136,0.273,2012-13
-Archie Goodwin,24,0.07400000000000001,0.047,0.385,0.09300000000000001,0.061,0.182,2012-13
-Willie Cauley-Stein,23,0.149,0.134,0.733,0.11800000000000001,0.13,0.375,2012-13
-Kyle Wiltjer,7,0.077,0.094,0.75,0.039,0.067,0.667,2012-13
-Ryan Harrow,6,0.042,0.033,0.5,0.01,0,0,2012-13
-Jarrod Polson,5,0.10800000000000001,0.174,1,0.1,0.14300000000000002,1,2012-13
-Julius Mays,3,0.105,0.091,0.5,0,0,NA,2012-13
-Jon Hood,3,0.33299999999999996,0.4,1,0.2,0.5,1,2012-13
-Tod Lanter,1,NA,NA,NA,1,NA,0,2012-13
-Total,129,0.10800000000000001,0.107,0.688,0.087,0.114,0.42,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Alex Poythress,29,0.132,0.113,0.688,0.17300000000000001,0.409,0.6920000000000001,2012-13,Kentucky
+Nerlens Noel,28,0.17,0.184,0.8240000000000001,0.16699999999999998,0.136,0.273,2012-13,Kentucky
+Archie Goodwin,24,0.07400000000000001,0.047,0.385,0.09300000000000001,0.061,0.182,2012-13,Kentucky
+Willie Cauley-Stein,23,0.149,0.134,0.733,0.11800000000000001,0.13,0.375,2012-13,Kentucky
+Kyle Wiltjer,7,0.077,0.094,0.75,0.039,0.067,0.667,2012-13,Kentucky
+Ryan Harrow,6,0.042,0.033,0.5,0.01,0,0,2012-13,Kentucky
+Jarrod Polson,5,0.10800000000000001,0.174,1,0.1,0.14300000000000002,1,2012-13,Kentucky
+Julius Mays,3,0.105,0.091,0.5,0,0,NA,2012-13,Kentucky
+Jon Hood,3,0.33299999999999996,0.4,1,0.2,0.5,1,2012-13,Kentucky
+Tod Lanter,1,NA,NA,NA,1,NA,0,2012-13,Kentucky
+Total,129,0.10800000000000001,0.107,0.688,0.087,0.114,0.42,2012-13,Kentucky

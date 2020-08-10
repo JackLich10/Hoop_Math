@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Trey Burch-Manning,27,0.13,0.158,0.643,0.1,0.059000000000000004,0.231,2016-17
-Tyler Flack,24,0.17,0.222,0.9329999999999999,0.062,0.042,0.33299999999999996,2016-17
-Dan Jech,12,0.375,0.3,0.33299999999999996,0.214,0.25,0.667,2016-17
-Carlton Hurst,11,0.10300000000000001,0.125,0.667,0.055999999999999994,0,0,2016-17
-Tyler Hagedorn,7,0.294,0.231,0.6,0.091,0,0,2016-17
-Triston Simpson,6,0.054000000000000006,0.055999999999999994,0.5,0.067,0.067,0.33299999999999996,2016-17
-Tyler Peterson,6,0.08900000000000001,0.10800000000000001,0.8,0.04,0,0,2016-17
-Austin Sparks,4,0.174,0.154,0.5,0,0,NA,2016-17
-Matt Mooney,3,0.008,0,0,0.013000000000000001,0.013999999999999999,0.5,2016-17
-Brandon Armstrong,3,0.25,0.25,0.33299999999999996,0,0,NA,2016-17
-Trey Dickerson,3,0.016,0.017,0.5,0,0,NA,2016-17
-Logan Power,2,0.16699999999999998,0.25,1,0.33299999999999996,NA,0,2016-17
-Joshua Doss,1,0.25,0.5,1,0,0,NA,2016-17
-Total,109,0.10099999999999999,0.113,0.648,0.052000000000000005,0.036000000000000004,0.278,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Trey Burch-Manning,27,0.13,0.158,0.643,0.1,0.059000000000000004,0.231,2016-17,SouthDakota
+Tyler Flack,24,0.17,0.222,0.9329999999999999,0.062,0.042,0.33299999999999996,2016-17,SouthDakota
+Dan Jech,12,0.375,0.3,0.33299999999999996,0.214,0.25,0.667,2016-17,SouthDakota
+Carlton Hurst,11,0.10300000000000001,0.125,0.667,0.055999999999999994,0,0,2016-17,SouthDakota
+Tyler Hagedorn,7,0.294,0.231,0.6,0.091,0,0,2016-17,SouthDakota
+Triston Simpson,6,0.054000000000000006,0.055999999999999994,0.5,0.067,0.067,0.33299999999999996,2016-17,SouthDakota
+Tyler Peterson,6,0.08900000000000001,0.10800000000000001,0.8,0.04,0,0,2016-17,SouthDakota
+Austin Sparks,4,0.174,0.154,0.5,0,0,NA,2016-17,SouthDakota
+Matt Mooney,3,0.008,0,0,0.013000000000000001,0.013999999999999999,0.5,2016-17,SouthDakota
+Brandon Armstrong,3,0.25,0.25,0.33299999999999996,0,0,NA,2016-17,SouthDakota
+Trey Dickerson,3,0.016,0.017,0.5,0,0,NA,2016-17,SouthDakota
+Logan Power,2,0.16699999999999998,0.25,1,0.33299999999999996,NA,0,2016-17,SouthDakota
+Joshua Doss,1,0.25,0.5,1,0,0,NA,2016-17,SouthDakota
+Total,109,0.10099999999999999,0.113,0.648,0.052000000000000005,0.036000000000000004,0.278,2016-17,SouthDakota

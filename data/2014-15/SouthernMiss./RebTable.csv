@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Matt Bingaya,19,0.079,0.09699999999999999,0.75,0.086,0.125,0.6,2014-15
-Chip Armelin,18,0.043,0.067,1,0.126,0.122,0.462,2014-15
-Norville Carey,18,0.17300000000000001,0.192,0.769,0.043,0.071,0.8,2014-15
-Jeremiah Eason,11,0.278,0.5,0.8,0.128,0.16699999999999998,0.33299999999999996,2014-15
-Jamie Chapman,6,0.625,0,0,0.111,0.25,1,2014-15
-Michael O'Donnell,3,0.2,0.25,1,0.14300000000000002,0.25,0.5,2014-15
-Keljin Blevins,3,0.125,0.1,0.5,0.111,0,0,2014-15
-Shadell Millinghaus,2,0.033,0.055999999999999994,1,0.045,0,0,2014-15
-Rasham Suarez,2,0,0,NA,0.1,0.4,1,2014-15
-Davon Hayes,2,0,0,NA,0.069,0.14300000000000002,0.5,2014-15
-Eddie Davis,1,NA,NA,NA,0.5,NA,0,2014-15
-Total,85,0.10300000000000001,0.113,0.6920000000000001,0.087,0.11699999999999999,0.523,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Matt Bingaya,19,0.079,0.09699999999999999,0.75,0.086,0.125,0.6,2014-15,SouthernMiss.
+Chip Armelin,18,0.043,0.067,1,0.126,0.122,0.462,2014-15,SouthernMiss.
+Norville Carey,18,0.17300000000000001,0.192,0.769,0.043,0.071,0.8,2014-15,SouthernMiss.
+Jeremiah Eason,11,0.278,0.5,0.8,0.128,0.16699999999999998,0.33299999999999996,2014-15,SouthernMiss.
+Jamie Chapman,6,0.625,0,0,0.111,0.25,1,2014-15,SouthernMiss.
+Michael O'Donnell,3,0.2,0.25,1,0.14300000000000002,0.25,0.5,2014-15,SouthernMiss.
+Keljin Blevins,3,0.125,0.1,0.5,0.111,0,0,2014-15,SouthernMiss.
+Shadell Millinghaus,2,0.033,0.055999999999999994,1,0.045,0,0,2014-15,SouthernMiss.
+Rasham Suarez,2,0,0,NA,0.1,0.4,1,2014-15,SouthernMiss.
+Davon Hayes,2,0,0,NA,0.069,0.14300000000000002,0.5,2014-15,SouthernMiss.
+Eddie Davis,1,NA,NA,NA,0.5,NA,0,2014-15,SouthernMiss.
+Total,85,0.10300000000000001,0.113,0.6920000000000001,0.087,0.11699999999999999,0.523,2014-15,SouthernMiss.

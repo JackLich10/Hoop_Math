@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.344,0.588,0.157,0.6970000000000001,2018-19
-2pt Jumpers,0.231,0.35600000000000004,0.059000000000000004,0.37799999999999995,2018-19
-3pt Shots,0.424,0.341,0.022000000000000002,0.349,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.344,0.588,0.157,0.6970000000000001,2018-19,EasternMich.
+2pt Jumpers,0.231,0.35600000000000004,0.059000000000000004,0.37799999999999995,2018-19,EasternMich.
+3pt Shots,0.424,0.341,0.022000000000000002,0.349,2018-19,EasternMich.

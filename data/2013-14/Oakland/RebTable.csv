@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Corey Petros,26,0.122,0.106,0.522,0.023,0.028999999999999998,0.667,2013-14
-Duke Mondy,12,0.11199999999999999,0.102,0.5,0,0,NA,2013-14
-Tommie McCune,10,0.161,0.222,0.889,0.017,0,0,2013-14
-Dante Williams,7,0.10300000000000001,0.125,0.7140000000000001,0,0,NA,2013-14
-Lloyd Neely II,5,0.278,0.33299999999999996,0.6,0,0,NA,2013-14
-Kahlil Felder,3,0.03,0.038,0.667,0,0,NA,2013-14
-Travis Bader,3,0,0,NA,0.022000000000000002,0.087,1,2013-14
-Ralph Hill,2,0.1,0,0,0,0,NA,2013-14
-Jalen Hayes,1,1,1,1,0,NA,NA,2013-14
-Mitch Baenziger,1,0,0,NA,0,0,NA,2013-14
-Total,70,0.10099999999999999,0.105,0.597,0.012,0.021,0.667,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Corey Petros,26,0.122,0.106,0.522,0.023,0.028999999999999998,0.667,2013-14,Oakland
+Duke Mondy,12,0.11199999999999999,0.102,0.5,0,0,NA,2013-14,Oakland
+Tommie McCune,10,0.161,0.222,0.889,0.017,0,0,2013-14,Oakland
+Dante Williams,7,0.10300000000000001,0.125,0.7140000000000001,0,0,NA,2013-14,Oakland
+Lloyd Neely II,5,0.278,0.33299999999999996,0.6,0,0,NA,2013-14,Oakland
+Kahlil Felder,3,0.03,0.038,0.667,0,0,NA,2013-14,Oakland
+Travis Bader,3,0,0,NA,0.022000000000000002,0.087,1,2013-14,Oakland
+Ralph Hill,2,0.1,0,0,0,0,NA,2013-14,Oakland
+Jalen Hayes,1,1,1,1,0,NA,NA,2013-14,Oakland
+Mitch Baenziger,1,0,0,NA,0,0,NA,2013-14,Oakland
+Total,70,0.10099999999999999,0.105,0.597,0.012,0.021,0.667,2013-14,Oakland

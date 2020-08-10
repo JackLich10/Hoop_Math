@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Mo Muhammed,27,0.192,0.18600000000000003,0.5710000000000001,0.19,0.34600000000000003,0.75,2018-19
-Anthony Duruji,22,0.147,0.147,0.733,0.08199999999999999,0.071,0.28600000000000003,2018-19
-Jacolby Pemberton,18,0.131,0.13699999999999998,0.636,0.152,0.19,0.5710000000000001,2018-19
-Oliver Powell,17,0.157,0.16,0.615,0.063,0.053,0.25,2018-19
-Amorie Archibald,7,0.054000000000000006,0.051,0.5,0.038,0.071,0.667,2018-19
-Daquan Bracey,6,0.012,0.011000000000000001,0.5,0.045,0.028999999999999998,0.25,2018-19
-Stacey Thomas,4,0.25,0.16699999999999998,0.5,0.16699999999999998,0.16699999999999998,0.5,2018-19
-Ra'Shawn Langston,3,0,0,NA,0.073,0.067,0.33299999999999996,2018-19
-Derric Jean,2,0.055999999999999994,0,0,0.2,1,1,2018-19
-Kyle McKinley,1,0,NA,NA,0.33299999999999996,NA,0,2018-19
-Total,107,0.092,0.094,0.613,0.08800000000000001,0.121,0.5,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Mo Muhammed,27,0.192,0.18600000000000003,0.5710000000000001,0.19,0.34600000000000003,0.75,2018-19,LouisianaTech
+Anthony Duruji,22,0.147,0.147,0.733,0.08199999999999999,0.071,0.28600000000000003,2018-19,LouisianaTech
+Jacolby Pemberton,18,0.131,0.13699999999999998,0.636,0.152,0.19,0.5710000000000001,2018-19,LouisianaTech
+Oliver Powell,17,0.157,0.16,0.615,0.063,0.053,0.25,2018-19,LouisianaTech
+Amorie Archibald,7,0.054000000000000006,0.051,0.5,0.038,0.071,0.667,2018-19,LouisianaTech
+Daquan Bracey,6,0.012,0.011000000000000001,0.5,0.045,0.028999999999999998,0.25,2018-19,LouisianaTech
+Stacey Thomas,4,0.25,0.16699999999999998,0.5,0.16699999999999998,0.16699999999999998,0.5,2018-19,LouisianaTech
+Ra'Shawn Langston,3,0,0,NA,0.073,0.067,0.33299999999999996,2018-19,LouisianaTech
+Derric Jean,2,0.055999999999999994,0,0,0.2,1,1,2018-19,LouisianaTech
+Kyle McKinley,1,0,NA,NA,0.33299999999999996,NA,0,2018-19,LouisianaTech
+Total,107,0.092,0.094,0.613,0.08800000000000001,0.121,0.5,2018-19,LouisianaTech

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.285,0.5579999999999999,0.145,0.652,2017-18
-2pt Jumpers,0.271,0.349,0.063,0.37200000000000005,2017-18
-3pt Shots,0.445,0.341,0.012,0.345,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.285,0.5579999999999999,0.145,0.652,2017-18,CoastalCarolina
+2pt Jumpers,0.271,0.349,0.063,0.37200000000000005,2017-18,CoastalCarolina
+3pt Shots,0.445,0.341,0.012,0.345,2017-18,CoastalCarolina

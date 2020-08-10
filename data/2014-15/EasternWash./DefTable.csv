@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.382,0.58,0.139,0.6729999999999999,2014-15
-2pt Jumpers,0.258,0.345,0.10300000000000001,0.384,2014-15
-3pt Shots,0.36,0.38799999999999996,0.011000000000000001,0.392,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.382,0.58,0.139,0.6729999999999999,2014-15,EasternWash.
+2pt Jumpers,0.258,0.345,0.10300000000000001,0.384,2014-15,EasternWash.
+3pt Shots,0.36,0.38799999999999996,0.011000000000000001,0.392,2014-15,EasternWash.

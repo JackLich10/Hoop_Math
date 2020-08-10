@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-VAN,23,0.091,0.10099999999999999,0.778,0.1,0.071,0.2,2011-12
-Richie Edwards,19,0.179,0.111,0.41200000000000003,0.033,0.055999999999999994,0.5,2011-12
-Ryan Broekhoff,17,0.11900000000000001,0.095,0.583,0.086,0.14300000000000002,0.6,2011-12
-Erik Buggs,6,0.075,0.091,0.667,0,0,NA,2011-12
-Ben Boggs,6,0.146,0.14300000000000002,0.33299999999999996,0,NA,NA,2011-12
-Matt Kenney,5,0.048,0.035,0.5,0,0,NA,2011-12
-Jay Harris,5,0.102,0.129,0.8,0,0,NA,2011-12
-Nathan Stegelmann,3,0.429,0.6,1,0,NA,NA,2011-12
-Hrvoje Vucic,3,0.125,0,0,0.055999999999999994,0,0,2011-12
-Will Bogan,2,0.048,0.067,1,0.055999999999999994,0,0,2011-12
-Total,89,0.106,0.096,0.595,0.045,0.05,0.35700000000000004,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+VAN,23,0.091,0.10099999999999999,0.778,0.1,0.071,0.2,2011-12,Valparaiso
+Richie Edwards,19,0.179,0.111,0.41200000000000003,0.033,0.055999999999999994,0.5,2011-12,Valparaiso
+Ryan Broekhoff,17,0.11900000000000001,0.095,0.583,0.086,0.14300000000000002,0.6,2011-12,Valparaiso
+Erik Buggs,6,0.075,0.091,0.667,0,0,NA,2011-12,Valparaiso
+Ben Boggs,6,0.146,0.14300000000000002,0.33299999999999996,0,NA,NA,2011-12,Valparaiso
+Matt Kenney,5,0.048,0.035,0.5,0,0,NA,2011-12,Valparaiso
+Jay Harris,5,0.102,0.129,0.8,0,0,NA,2011-12,Valparaiso
+Nathan Stegelmann,3,0.429,0.6,1,0,NA,NA,2011-12,Valparaiso
+Hrvoje Vucic,3,0.125,0,0,0.055999999999999994,0,0,2011-12,Valparaiso
+Will Bogan,2,0.048,0.067,1,0.055999999999999994,0,0,2011-12,Valparaiso
+Total,89,0.106,0.096,0.595,0.045,0.05,0.35700000000000004,2011-12,Valparaiso

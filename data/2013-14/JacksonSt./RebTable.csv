@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Brandon West,43,0.243,0.265,0.703,0.07400000000000001,0.091,0.5,2013-14
-Derrell Taylor,16,0.149,0.155,0.643,0.036000000000000004,0.055999999999999994,0.5,2013-14
-Treshawn Bolden,14,0.155,0.16699999999999998,0.545,0.040999999999999995,0.08,0.667,2013-14
-Janarius Middleton,10,0.136,0.136,0.667,0.021,0,0,2013-14
-Dontaveon Robinson,6,0.078,0.13,0.75,0.031,0.1,1,2013-14
-Julysses Nobles,3,0,0,NA,0.021,0,0,2013-14
-Marcus Love,3,0.031,0,0,0,0,NA,2013-14
-Javares Brent,2,0.032,0,0,0,0,NA,2013-14
-Kenneth Taylor,1,1,1,1,0,NA,NA,2013-14
-Jeff Stubbs,1,0.023,0.043,1,0,0,NA,2013-14
-Total,99,0.11699999999999999,0.136,0.6579999999999999,0.027000000000000003,0.038,0.47100000000000003,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Brandon West,43,0.243,0.265,0.703,0.07400000000000001,0.091,0.5,2013-14,JacksonSt.
+Derrell Taylor,16,0.149,0.155,0.643,0.036000000000000004,0.055999999999999994,0.5,2013-14,JacksonSt.
+Treshawn Bolden,14,0.155,0.16699999999999998,0.545,0.040999999999999995,0.08,0.667,2013-14,JacksonSt.
+Janarius Middleton,10,0.136,0.136,0.667,0.021,0,0,2013-14,JacksonSt.
+Dontaveon Robinson,6,0.078,0.13,0.75,0.031,0.1,1,2013-14,JacksonSt.
+Julysses Nobles,3,0,0,NA,0.021,0,0,2013-14,JacksonSt.
+Marcus Love,3,0.031,0,0,0,0,NA,2013-14,JacksonSt.
+Javares Brent,2,0.032,0,0,0,0,NA,2013-14,JacksonSt.
+Kenneth Taylor,1,1,1,1,0,NA,NA,2013-14,JacksonSt.
+Jeff Stubbs,1,0.023,0.043,1,0,0,NA,2013-14,JacksonSt.
+Total,99,0.11699999999999999,0.136,0.6579999999999999,0.027000000000000003,0.038,0.47100000000000003,2013-14,JacksonSt.

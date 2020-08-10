@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.264,0.524,0.179,0.639,2012-13
-2pt Jumpers,0.42700000000000005,0.336,0.055999999999999994,0.35600000000000004,2012-13
-3pt Shots,0.309,0.307,0.01,0.311,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.264,0.524,0.179,0.639,2012-13,Bucknell
+2pt Jumpers,0.42700000000000005,0.336,0.055999999999999994,0.35600000000000004,2012-13,Bucknell
+3pt Shots,0.309,0.307,0.01,0.311,2012-13,Bucknell

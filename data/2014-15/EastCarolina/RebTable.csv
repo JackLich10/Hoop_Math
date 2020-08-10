@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Michel Nzege,20,0.1,0.08800000000000001,0.625,0.207,0.25,0.583,2014-15
-Kanu Aja,18,0.261,0.16699999999999998,0.33299999999999996,0.308,0.429,0.5,2014-15
-B.J. Tyson,18,0.055999999999999994,0.05,0.5710000000000001,0.08900000000000001,0.114,0.455,2014-15
-Michael Zangari,12,0.069,0.067,0.5,0.23800000000000002,0.25,0.4,2014-15
-Antonio Robinson,9,0.040999999999999995,0,0,0.113,0.17600000000000002,0.429,2014-15
-Marshall Guilmette,8,0.128,0.174,0.8,0.065,0.062,0.33299999999999996,2014-15
-Terry Whisnant,7,0.036000000000000004,0.054000000000000006,1,0.032,0,0,2014-15
-Caleb White,5,0.03,0.024,0.5,0.037000000000000005,0.034,0.33299999999999996,2014-15
-Prince Williams,2,0.067,0.14300000000000002,1,0.083,0.25,1,2014-15
-Lance Tejada,1,0,0,NA,0.043,0,0,2014-15
-Total,100,0.064,0.062,0.5710000000000001,0.109,0.14400000000000002,0.452,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Michel Nzege,20,0.1,0.08800000000000001,0.625,0.207,0.25,0.583,2014-15,EastCarolina
+Kanu Aja,18,0.261,0.16699999999999998,0.33299999999999996,0.308,0.429,0.5,2014-15,EastCarolina
+B.J. Tyson,18,0.055999999999999994,0.05,0.5710000000000001,0.08900000000000001,0.114,0.455,2014-15,EastCarolina
+Michael Zangari,12,0.069,0.067,0.5,0.23800000000000002,0.25,0.4,2014-15,EastCarolina
+Antonio Robinson,9,0.040999999999999995,0,0,0.113,0.17600000000000002,0.429,2014-15,EastCarolina
+Marshall Guilmette,8,0.128,0.174,0.8,0.065,0.062,0.33299999999999996,2014-15,EastCarolina
+Terry Whisnant,7,0.036000000000000004,0.054000000000000006,1,0.032,0,0,2014-15,EastCarolina
+Caleb White,5,0.03,0.024,0.5,0.037000000000000005,0.034,0.33299999999999996,2014-15,EastCarolina
+Prince Williams,2,0.067,0.14300000000000002,1,0.083,0.25,1,2014-15,EastCarolina
+Lance Tejada,1,0,0,NA,0.043,0,0,2014-15,EastCarolina
+Total,100,0.064,0.062,0.5710000000000001,0.109,0.14400000000000002,0.452,2014-15,EastCarolina

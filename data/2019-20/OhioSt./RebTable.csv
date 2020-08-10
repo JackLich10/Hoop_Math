@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kaleb Wesson,23,0.168,0.18600000000000003,0.647,0.061,0.062,0.33299999999999996,2019-20
-Kyle Young,13,0.12300000000000001,0.12300000000000001,0.778,0.10800000000000001,0.231,0.75,2019-20
-Andre Wesson,9,0.151,0.188,0.75,0,0,NA,2019-20
-E.J.  Liddell,8,0.105,0.073,0.375,0,0,NA,2019-20
-Ibrahima Diallo,5,0.33299999999999996,0,0,0.429,0.33299999999999996,0.33299999999999996,2019-20
-D.J.  Carton,4,0.034,0.026000000000000002,0.5,0,0,NA,2019-20
-Justin Ahrens,2,0.667,0.5,0.5,0,0,NA,2019-20
-Alonzo  Gaffney,1,0.077,0.091,1,0,0,NA,2019-20
-Harrison Hookfin,1,0,0,NA,0.5,NA,0,2019-20
-Washington Duane,1,0.013999999999999999,0.026000000000000002,1,0,0,NA,2019-20
-Luther Muhammad,1,0.032,0.062,1,0,0,NA,2019-20
-Total,68,0.091,0.094,0.627,0.033,0.039,0.429,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kaleb Wesson,23,0.168,0.18600000000000003,0.647,0.061,0.062,0.33299999999999996,2019-20,OhioSt.
+Kyle Young,13,0.12300000000000001,0.12300000000000001,0.778,0.10800000000000001,0.231,0.75,2019-20,OhioSt.
+Andre Wesson,9,0.151,0.188,0.75,0,0,NA,2019-20,OhioSt.
+E.J.  Liddell,8,0.105,0.073,0.375,0,0,NA,2019-20,OhioSt.
+Ibrahima Diallo,5,0.33299999999999996,0,0,0.429,0.33299999999999996,0.33299999999999996,2019-20,OhioSt.
+D.J.  Carton,4,0.034,0.026000000000000002,0.5,0,0,NA,2019-20,OhioSt.
+Justin Ahrens,2,0.667,0.5,0.5,0,0,NA,2019-20,OhioSt.
+Alonzo  Gaffney,1,0.077,0.091,1,0,0,NA,2019-20,OhioSt.
+Harrison Hookfin,1,0,0,NA,0.5,NA,0,2019-20,OhioSt.
+Washington Duane,1,0.013999999999999999,0.026000000000000002,1,0,0,NA,2019-20,OhioSt.
+Luther Muhammad,1,0.032,0.062,1,0,0,NA,2019-20,OhioSt.
+Total,68,0.091,0.094,0.627,0.033,0.039,0.429,2019-20,OhioSt.

@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Royce O'Neale,17,0.184,0.2,0.75,0.033,0,0,2011-12
-Chris Udofia,8,0.042,0.052000000000000005,0.857,0.013999999999999999,0,0,2011-12
-Chase Hallam,7,0.087,0.086,0.5,0.027000000000000003,0,0,2011-12
-Rob Lewis,5,0.034,0.036000000000000004,0.667,0.062,0,0,2011-12
-Cam Griffin,2,0.4,0.5,0.5,0,NA,NA,2011-12
-Brian Stafford,2,0,0,NA,0.032,0.037000000000000005,0.5,2011-12
-Travis Hallam,1,0,0,NA,0.1,0,0,2011-12
-Brett Olson,1,0,0,NA,0.059000000000000004,0,0,2011-12
-Tyler Thalken,1,0.33299999999999996,0.33299999999999996,1,NA,NA,NA,2011-12
-Total,44,0.062,0.068,0.7140000000000001,0.032,0.009000000000000001,0.111,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Royce O'Neale,17,0.184,0.2,0.75,0.033,0,0,2011-12,Denver
+Chris Udofia,8,0.042,0.052000000000000005,0.857,0.013999999999999999,0,0,2011-12,Denver
+Chase Hallam,7,0.087,0.086,0.5,0.027000000000000003,0,0,2011-12,Denver
+Rob Lewis,5,0.034,0.036000000000000004,0.667,0.062,0,0,2011-12,Denver
+Cam Griffin,2,0.4,0.5,0.5,0,NA,NA,2011-12,Denver
+Brian Stafford,2,0,0,NA,0.032,0.037000000000000005,0.5,2011-12,Denver
+Travis Hallam,1,0,0,NA,0.1,0,0,2011-12,Denver
+Brett Olson,1,0,0,NA,0.059000000000000004,0,0,2011-12,Denver
+Tyler Thalken,1,0.33299999999999996,0.33299999999999996,1,NA,NA,NA,2011-12,Denver
+Total,44,0.062,0.068,0.7140000000000001,0.032,0.009000000000000001,0.111,2011-12,Denver

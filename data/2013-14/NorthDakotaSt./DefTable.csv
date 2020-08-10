@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.322,0.546,0.151,0.643,2013-14
-2pt Jumpers,0.327,0.35600000000000004,0.086,0.389,2013-14
-3pt Shots,0.35100000000000003,0.37,0.023,0.379,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.322,0.546,0.151,0.643,2013-14,NorthDakotaSt.
+2pt Jumpers,0.327,0.35600000000000004,0.086,0.389,2013-14,NorthDakotaSt.
+3pt Shots,0.35100000000000003,0.37,0.023,0.379,2013-14,NorthDakotaSt.

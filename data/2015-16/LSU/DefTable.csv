@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.298,0.6990000000000001,0.051,0.737,2015-16
-2pt Jumpers,0.332,0.34600000000000003,0.081,0.377,2015-16
-3pt Shots,0.371,0.35,0.006999999999999999,0.35200000000000004,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.298,0.6990000000000001,0.051,0.737,2015-16,LSU
+2pt Jumpers,0.332,0.34600000000000003,0.081,0.377,2015-16,LSU
+3pt Shots,0.371,0.35,0.006999999999999999,0.35200000000000004,2015-16,LSU

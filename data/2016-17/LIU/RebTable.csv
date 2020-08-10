@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Raiquan Clark,32,0.24600000000000002,0.262,0.516,0.25,0.5,1,2016-17
-Nura Zanna,32,0.183,0.243,0.871,0.04,0,0,2016-17
-Jerome Frink,29,0.132,0.168,0.72,0.006999999999999999,0,0,2016-17
-Iverson Fleming,6,0.037000000000000005,0.019,0.2,0,0,NA,2016-17
-VAN,6,0.231,0.16699999999999998,0.33299999999999996,0,0,NA,2016-17
-Raul Frias,5,0.16699999999999998,0,0,0.107,0.16699999999999998,0.667,2016-17
-Kwe Askew,2,0.125,0.2,1,0.25,NA,0,2016-17
-Ashtyn Bradley,1,0,0,NA,0,0,NA,2016-17
-Joel Hernandez,1,0.125,0.14300000000000002,1,0,NA,NA,2016-17
-Julian Batts,1,0.028999999999999998,0,0,0,0,NA,2016-17
-Ganlandou Cisse,1,0.16699999999999998,0.2,1,0,0,NA,2016-17
-Total,116,0.125,0.154,0.644,0.015,0.016,0.429,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Raiquan Clark,32,0.24600000000000002,0.262,0.516,0.25,0.5,1,2016-17,LIU
+Nura Zanna,32,0.183,0.243,0.871,0.04,0,0,2016-17,LIU
+Jerome Frink,29,0.132,0.168,0.72,0.006999999999999999,0,0,2016-17,LIU
+Iverson Fleming,6,0.037000000000000005,0.019,0.2,0,0,NA,2016-17,LIU
+VAN,6,0.231,0.16699999999999998,0.33299999999999996,0,0,NA,2016-17,LIU
+Raul Frias,5,0.16699999999999998,0,0,0.107,0.16699999999999998,0.667,2016-17,LIU
+Kwe Askew,2,0.125,0.2,1,0.25,NA,0,2016-17,LIU
+Ashtyn Bradley,1,0,0,NA,0,0,NA,2016-17,LIU
+Joel Hernandez,1,0.125,0.14300000000000002,1,0,NA,NA,2016-17,LIU
+Julian Batts,1,0.028999999999999998,0,0,0,0,NA,2016-17,LIU
+Ganlandou Cisse,1,0.16699999999999998,0.2,1,0,0,NA,2016-17,LIU
+Total,116,0.125,0.154,0.644,0.015,0.016,0.429,2016-17,LIU

@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Dallis Joyner,35,0.24600000000000002,0.292,0.8,0,0,NA,2011-12
-Tommy Brenton,31,0.256,0.233,0.5479999999999999,0,0,NA,2011-12
-Al Rapier,16,0.115,0.146,0.75,0,0,NA,2011-12
-Dave Coley,13,0.122,0.163,0.8,0.018000000000000002,0.036000000000000004,0.667,2011-12
-Leonard Hayes,5,0.308,0.14300000000000002,0.25,0.037000000000000005,0,0,2011-12
-Eric McAlister,4,0.188,0.14300000000000002,0.33299999999999996,0.04,0,0,2011-12
-Bryan Dougher,4,0.019,0.037000000000000005,1,0.012,0,0,2011-12
-Danny Carter,2,0.125,0,0,0,0,NA,2011-12
-Ron Bracey,2,0.062,0.111,1,0.043,0,0,2011-12
-Marcus Rouse,1,0.091,0.111,1,0,0,NA,2011-12
-Total,113,0.166,0.18899999999999997,0.6729999999999999,0.012,0.01,0.28600000000000003,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Dallis Joyner,35,0.24600000000000002,0.292,0.8,0,0,NA,2011-12,StonyBrook
+Tommy Brenton,31,0.256,0.233,0.5479999999999999,0,0,NA,2011-12,StonyBrook
+Al Rapier,16,0.115,0.146,0.75,0,0,NA,2011-12,StonyBrook
+Dave Coley,13,0.122,0.163,0.8,0.018000000000000002,0.036000000000000004,0.667,2011-12,StonyBrook
+Leonard Hayes,5,0.308,0.14300000000000002,0.25,0.037000000000000005,0,0,2011-12,StonyBrook
+Eric McAlister,4,0.188,0.14300000000000002,0.33299999999999996,0.04,0,0,2011-12,StonyBrook
+Bryan Dougher,4,0.019,0.037000000000000005,1,0.012,0,0,2011-12,StonyBrook
+Danny Carter,2,0.125,0,0,0,0,NA,2011-12,StonyBrook
+Ron Bracey,2,0.062,0.111,1,0.043,0,0,2011-12,StonyBrook
+Marcus Rouse,1,0.091,0.111,1,0,0,NA,2011-12,StonyBrook
+Total,113,0.166,0.18899999999999997,0.6729999999999999,0.012,0.01,0.28600000000000003,2011-12,StonyBrook

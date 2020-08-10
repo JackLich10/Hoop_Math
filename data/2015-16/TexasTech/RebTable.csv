@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Zach Smith,23,0.18100000000000002,0.193,0.762,0.021,0.031,0.5,2015-16
-Justin Gray,20,0.262,0.22699999999999998,0.625,0.066,0.043,0.25,2015-16
-Aaron Ross,18,0.304,0.308,0.706,0.013999999999999999,0,0,2015-16
-Norense Odiase,11,0.122,0.135,0.833,0.055999999999999994,0.057,0.4,2015-16
-Toddrick Gotcher,10,0.195,0.2,0.625,0.016,0,0,2015-16
-Devaugntah Williams,10,0.073,0.113,0.778,0.016,0,0,2015-16
-Matthew Temple,5,0.135,0.08,0.4,0,0,NA,2015-16
-Jordan Jackson,3,0.2,0.1,0.33299999999999996,0,0,NA,2015-16
-Keenan Evans,2,0.012,0.022000000000000002,1,0.015,0.053,1,2015-16
-Total,102,0.135,0.147,0.6859999999999999,0.026000000000000002,0.025,0.33299999999999996,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Zach Smith,23,0.18100000000000002,0.193,0.762,0.021,0.031,0.5,2015-16,TexasTech
+Justin Gray,20,0.262,0.22699999999999998,0.625,0.066,0.043,0.25,2015-16,TexasTech
+Aaron Ross,18,0.304,0.308,0.706,0.013999999999999999,0,0,2015-16,TexasTech
+Norense Odiase,11,0.122,0.135,0.833,0.055999999999999994,0.057,0.4,2015-16,TexasTech
+Toddrick Gotcher,10,0.195,0.2,0.625,0.016,0,0,2015-16,TexasTech
+Devaugntah Williams,10,0.073,0.113,0.778,0.016,0,0,2015-16,TexasTech
+Matthew Temple,5,0.135,0.08,0.4,0,0,NA,2015-16,TexasTech
+Jordan Jackson,3,0.2,0.1,0.33299999999999996,0,0,NA,2015-16,TexasTech
+Keenan Evans,2,0.012,0.022000000000000002,1,0.015,0.053,1,2015-16,TexasTech
+Total,102,0.135,0.147,0.6859999999999999,0.026000000000000002,0.025,0.33299999999999996,2015-16,TexasTech

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.408,0.604,0.1,0.6709999999999999,2015-16
-2pt Jumpers,0.268,0.36,0.08900000000000001,0.395,2015-16
-3pt Shots,0.325,0.363,0.01,0.36700000000000005,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.408,0.604,0.1,0.6709999999999999,2015-16,Drexel
+2pt Jumpers,0.268,0.36,0.08900000000000001,0.395,2015-16,Drexel
+3pt Shots,0.325,0.363,0.01,0.36700000000000005,2015-16,Drexel

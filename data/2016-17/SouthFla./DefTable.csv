@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.358,0.5379999999999999,0.138,0.624,2016-17
-2pt Jumpers,0.231,0.318,0.055,0.337,2016-17
-3pt Shots,0.41100000000000003,0.396,0.011000000000000001,0.401,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.358,0.5379999999999999,0.138,0.624,2016-17,SouthFla.
+2pt Jumpers,0.231,0.318,0.055,0.337,2016-17,SouthFla.
+3pt Shots,0.41100000000000003,0.396,0.011000000000000001,0.401,2016-17,SouthFla.

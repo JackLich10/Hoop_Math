@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.33399999999999996,0.637,0.069,0.684,2017-18
-2pt Jumpers,0.22,0.36200000000000004,0.09,0.39799999999999996,2017-18
-3pt Shots,0.446,0.385,0.006,0.38799999999999996,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.33399999999999996,0.637,0.069,0.684,2017-18,DelawareSt.
+2pt Jumpers,0.22,0.36200000000000004,0.09,0.39799999999999996,2017-18,DelawareSt.
+3pt Shots,0.446,0.385,0.006,0.38799999999999996,2017-18,DelawareSt.

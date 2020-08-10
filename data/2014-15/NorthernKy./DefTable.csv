@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.379,0.561,0.121,0.639,2014-15
-2pt Jumpers,0.256,0.366,0.022000000000000002,0.374,2014-15
-3pt Shots,0.365,0.34,0.005,0.342,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.379,0.561,0.121,0.639,2014-15,NorthernKy.
+2pt Jumpers,0.256,0.366,0.022000000000000002,0.374,2014-15,NorthernKy.
+3pt Shots,0.365,0.34,0.005,0.342,2014-15,NorthernKy.

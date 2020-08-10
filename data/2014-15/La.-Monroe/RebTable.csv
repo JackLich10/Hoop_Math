@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tylor Ongwae,37,0.149,0.152,0.63,0.045,0.049,0.33299999999999996,2014-15
-Majok Deng,32,0.177,0.185,0.652,0.10400000000000001,0.182,0.5,2014-15
-Demondre Harvey,27,0.368,0.36200000000000004,0.68,0.125,0,0,2014-15
-Jamaal Samuel,21,0.243,0.271,0.765,0.045,0.059000000000000004,0.5,2014-15
-Marvin Williams,16,0.171,0.226,0.9229999999999999,0.06,0.105,0.667,2014-15
-Justin Roberson,16,0.102,0.085,0.429,0.013000000000000001,0.019,0.5,2014-15
-Mack Foster,6,0.07200000000000001,0.079,0.6,0.04,0,0,2014-15
-Chinedu Amajoyi,1,0.1,0.2,1,0,NA,NA,2014-15
-Nick Coppola,1,0,0,NA,0,0,NA,2014-15
-Prince Cooper,1,0.33299999999999996,0.5,1,0,0,NA,2014-15
-Total,158,0.156,0.17300000000000001,0.675,0.04,0.05,0.414,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tylor Ongwae,37,0.149,0.152,0.63,0.045,0.049,0.33299999999999996,2014-15,La.-Monroe
+Majok Deng,32,0.177,0.185,0.652,0.10400000000000001,0.182,0.5,2014-15,La.-Monroe
+Demondre Harvey,27,0.368,0.36200000000000004,0.68,0.125,0,0,2014-15,La.-Monroe
+Jamaal Samuel,21,0.243,0.271,0.765,0.045,0.059000000000000004,0.5,2014-15,La.-Monroe
+Marvin Williams,16,0.171,0.226,0.9229999999999999,0.06,0.105,0.667,2014-15,La.-Monroe
+Justin Roberson,16,0.102,0.085,0.429,0.013000000000000001,0.019,0.5,2014-15,La.-Monroe
+Mack Foster,6,0.07200000000000001,0.079,0.6,0.04,0,0,2014-15,La.-Monroe
+Chinedu Amajoyi,1,0.1,0.2,1,0,NA,NA,2014-15,La.-Monroe
+Nick Coppola,1,0,0,NA,0,0,NA,2014-15,La.-Monroe
+Prince Cooper,1,0.33299999999999996,0.5,1,0,0,NA,2014-15,La.-Monroe
+Total,158,0.156,0.17300000000000001,0.675,0.04,0.05,0.414,2014-15,La.-Monroe

@@ -1,9 +1,9 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-John Carroll,26,0.138,0.171,0.731,0,0,NA,2017-18
-Hassan Attia,17,0.11900000000000001,0.122,0.75,0.077,0,0,2017-18
-George Blagojevic,14,0.19699999999999998,0.23399999999999999,0.7859999999999999,0,0,NA,2017-18
-Jack Hobbs,7,0.312,0.33299999999999996,0.8,0.222,0,0,2017-18
-Jason Dunne,3,0.019,0,0,0,0,NA,2017-18
-Travis Weatherington,1,0,0,NA,0.04,0.091,1,2017-18
-Petr Stepanyants,1,0.16699999999999998,0.5,1,0,NA,NA,2017-18
-Total,69,0.091,0.109,0.7340000000000001,0.011000000000000001,0.006999999999999999,0.25,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+John Carroll,26,0.138,0.171,0.731,0,0,NA,2017-18,Hartford
+Hassan Attia,17,0.11900000000000001,0.122,0.75,0.077,0,0,2017-18,Hartford
+George Blagojevic,14,0.19699999999999998,0.23399999999999999,0.7859999999999999,0,0,NA,2017-18,Hartford
+Jack Hobbs,7,0.312,0.33299999999999996,0.8,0.222,0,0,2017-18,Hartford
+Jason Dunne,3,0.019,0,0,0,0,NA,2017-18,Hartford
+Travis Weatherington,1,0,0,NA,0.04,0.091,1,2017-18,Hartford
+Petr Stepanyants,1,0.16699999999999998,0.5,1,0,NA,NA,2017-18,Hartford
+Total,69,0.091,0.109,0.7340000000000001,0.011000000000000001,0.006999999999999999,0.25,2017-18,Hartford

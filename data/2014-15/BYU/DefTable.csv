@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.231,0.62,0.076,0.6709999999999999,2014-15
-2pt Jumpers,0.444,0.419,0.068,0.449,2014-15
-3pt Shots,0.325,0.327,0.008,0.33,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.231,0.62,0.076,0.6709999999999999,2014-15,BYU
+2pt Jumpers,0.444,0.419,0.068,0.449,2014-15,BYU
+3pt Shots,0.325,0.327,0.008,0.33,2014-15,BYU

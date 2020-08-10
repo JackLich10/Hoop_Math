@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kyle Davis,35,0.113,0.134,0.7859999999999999,0.115,0.11599999999999999,0.47600000000000003,2015-16
-Corbin Kaufusi,22,0.162,0.163,0.727,0.18,0.3,0.818,2015-16
-Kyle Collinsworth,22,0.025,0.027999999999999997,0.75,0.07200000000000001,0.08800000000000001,0.444,2015-16
-Nate Austin,7,0.12,0.14300000000000002,1,0.1,0.17600000000000002,0.75,2015-16
-Nick Emery,7,0.009000000000000001,0,0,0.034,0.05,0.5,2015-16
-Zac Seljaas,6,0.2,0.3,1,0.07400000000000001,0,0,2015-16
-Jamal Aytes,4,0.273,0.429,1,0.024,0.048,1,2015-16
-Davin Guinn,2,0,0,NA,0.4,0.5,0.5,2015-16
-Chase Fischer,2,0.01,0.017,1,0,0,NA,2015-16
-Jordan Chatman,1,0,0,NA,0,0,NA,2015-16
-Jake Toolson,1,0.14300000000000002,0.2,1,0,0,NA,2015-16
-Total,109,0.064,0.08,0.805,0.07200000000000001,0.09699999999999999,0.54,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kyle Davis,35,0.113,0.134,0.7859999999999999,0.115,0.11599999999999999,0.47600000000000003,2015-16,BYU
+Corbin Kaufusi,22,0.162,0.163,0.727,0.18,0.3,0.818,2015-16,BYU
+Kyle Collinsworth,22,0.025,0.027999999999999997,0.75,0.07200000000000001,0.08800000000000001,0.444,2015-16,BYU
+Nate Austin,7,0.12,0.14300000000000002,1,0.1,0.17600000000000002,0.75,2015-16,BYU
+Nick Emery,7,0.009000000000000001,0,0,0.034,0.05,0.5,2015-16,BYU
+Zac Seljaas,6,0.2,0.3,1,0.07400000000000001,0,0,2015-16,BYU
+Jamal Aytes,4,0.273,0.429,1,0.024,0.048,1,2015-16,BYU
+Davin Guinn,2,0,0,NA,0.4,0.5,0.5,2015-16,BYU
+Chase Fischer,2,0.01,0.017,1,0,0,NA,2015-16,BYU
+Jordan Chatman,1,0,0,NA,0,0,NA,2015-16,BYU
+Jake Toolson,1,0.14300000000000002,0.2,1,0,0,NA,2015-16,BYU
+Total,109,0.064,0.08,0.805,0.07200000000000001,0.09699999999999999,0.54,2015-16,BYU

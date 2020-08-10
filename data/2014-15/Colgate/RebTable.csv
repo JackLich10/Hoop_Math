@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Ethan Jacobs,11,0.11599999999999999,0.15,0.9,0.008,0,0,2014-15
-Matt McMullen,9,0.12300000000000001,0.15,0.857,0.019,0.048,1,2014-15
-Luke Roh,9,0.040999999999999995,0.009000000000000001,0.14300000000000002,0.047,0.071,0.5,2014-15
-Jack Fenton,8,0.24100000000000002,0.182,0.28600000000000003,0.077,0,0,2014-15
-Damon Sherman-Newsome,5,0.031,0.025,0.5,0,0,NA,2014-15
-Austin Tillotson,3,0.035,0.051,1,0,0,NA,2014-15
-Jordan Robertson,2,0.16699999999999998,0,0,0.25,0,0,2014-15
-Wyatt Hagerty,1,0.33299999999999996,NA,0,0,NA,NA,2014-15
-Total,48,0.067,0.059000000000000004,0.575,0.015,0.012,0.33299999999999996,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Ethan Jacobs,11,0.11599999999999999,0.15,0.9,0.008,0,0,2014-15,Colgate
+Matt McMullen,9,0.12300000000000001,0.15,0.857,0.019,0.048,1,2014-15,Colgate
+Luke Roh,9,0.040999999999999995,0.009000000000000001,0.14300000000000002,0.047,0.071,0.5,2014-15,Colgate
+Jack Fenton,8,0.24100000000000002,0.182,0.28600000000000003,0.077,0,0,2014-15,Colgate
+Damon Sherman-Newsome,5,0.031,0.025,0.5,0,0,NA,2014-15,Colgate
+Austin Tillotson,3,0.035,0.051,1,0,0,NA,2014-15,Colgate
+Jordan Robertson,2,0.16699999999999998,0,0,0.25,0,0,2014-15,Colgate
+Wyatt Hagerty,1,0.33299999999999996,NA,0,0,NA,NA,2014-15,Colgate
+Total,48,0.067,0.059000000000000004,0.575,0.015,0.012,0.33299999999999996,2014-15,Colgate

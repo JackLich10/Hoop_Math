@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.285,0.652,0.08,0.7090000000000001,2012-13
-2pt Jumpers,0.35600000000000004,0.332,0.09,0.365,2012-13
-3pt Shots,0.359,0.37200000000000005,0.01,0.376,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.285,0.652,0.08,0.7090000000000001,2012-13,LongBeachSt.
+2pt Jumpers,0.35600000000000004,0.332,0.09,0.365,2012-13,LongBeachSt.
+3pt Shots,0.359,0.37200000000000005,0.01,0.376,2012-13,LongBeachSt.

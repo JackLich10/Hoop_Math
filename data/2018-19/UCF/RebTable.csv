@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tacko Fall,48,0.254,0.25,0.7909999999999999,0.135,0.16699999999999998,0.6,2018-19
-Chad Brown,18,0.237,0.265,0.722,0,0,NA,2018-19
-Collin Smith,17,0.14300000000000002,0.14800000000000002,0.6,0.027000000000000003,0,0,2018-19
-Aubrey Dawkins,14,0.13,0.14,0.667,0.008,0,0,2018-19
-B.J. Taylor,4,0.043,0.062,0.75,0,0,NA,2018-19
-Chance McSpadden,1,0.33299999999999996,0,0,NA,NA,NA,2018-19
-Terrell Allen,1,0,0,NA,0.017,0,0,2018-19
-Dayon Griffin,1,0,0,NA,0,0,NA,2018-19
-Ryan Anders,1,1,NA,0,0,0,NA,2018-19
-Frank Bertz,1,0,0,NA,0,0,NA,2018-19
-Total,106,0.141,0.158,0.713,0.019,0.018000000000000002,0.33299999999999996,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tacko Fall,48,0.254,0.25,0.7909999999999999,0.135,0.16699999999999998,0.6,2018-19,UCF
+Chad Brown,18,0.237,0.265,0.722,0,0,NA,2018-19,UCF
+Collin Smith,17,0.14300000000000002,0.14800000000000002,0.6,0.027000000000000003,0,0,2018-19,UCF
+Aubrey Dawkins,14,0.13,0.14,0.667,0.008,0,0,2018-19,UCF
+B.J. Taylor,4,0.043,0.062,0.75,0,0,NA,2018-19,UCF
+Chance McSpadden,1,0.33299999999999996,0,0,NA,NA,NA,2018-19,UCF
+Terrell Allen,1,0,0,NA,0.017,0,0,2018-19,UCF
+Dayon Griffin,1,0,0,NA,0,0,NA,2018-19,UCF
+Ryan Anders,1,1,NA,0,0,0,NA,2018-19,UCF
+Frank Bertz,1,0,0,NA,0,0,NA,2018-19,UCF
+Total,106,0.141,0.158,0.713,0.019,0.018000000000000002,0.33299999999999996,2018-19,UCF

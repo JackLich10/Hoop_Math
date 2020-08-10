@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Dominique Ferguson,21,0.127,0.14300000000000002,0.647,0.06,0.055999999999999994,0.25,2011-12
-DeJuan Wright,18,0.09699999999999999,0.08,0.467,0.065,0.125,0.667,2011-12
-Brandon Moore,18,0.516,0.588,0.625,0.067,0.16699999999999998,1,2011-12
-Cameron Bell,14,0.218,0.25,0.583,0.154,0,0,2011-12
-Jeremy Allen,10,0.10099999999999999,0.12,0.667,0.01,0.034,1,2011-12
-Gilles Dierickx,7,0.259,0.25,0.429,0,0,NA,2011-12
-Richaud Pack,3,0.375,0.5,0.667,0,NA,NA,2011-12
-Phil Taylor,2,0.017,0.04,1,0.011000000000000001,0.031,1,2011-12
-Tola Akomolafe,2,0.077,0.125,1,0,NA,NA,2011-12
-DE,2,0.125,0,0,0.077,0,0,2011-12
-Manuel Nunez,1,0.16699999999999998,0,0,0,NA,NA,2011-12
-Steven Miro,1,0.5,0.5,1,0,0,NA,2011-12
-Total,99,0.134,0.14800000000000002,0.588,0.032,0.049,0.5,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Dominique Ferguson,21,0.127,0.14300000000000002,0.647,0.06,0.055999999999999994,0.25,2011-12,FIU
+DeJuan Wright,18,0.09699999999999999,0.08,0.467,0.065,0.125,0.667,2011-12,FIU
+Brandon Moore,18,0.516,0.588,0.625,0.067,0.16699999999999998,1,2011-12,FIU
+Cameron Bell,14,0.218,0.25,0.583,0.154,0,0,2011-12,FIU
+Jeremy Allen,10,0.10099999999999999,0.12,0.667,0.01,0.034,1,2011-12,FIU
+Gilles Dierickx,7,0.259,0.25,0.429,0,0,NA,2011-12,FIU
+Richaud Pack,3,0.375,0.5,0.667,0,NA,NA,2011-12,FIU
+Phil Taylor,2,0.017,0.04,1,0.011000000000000001,0.031,1,2011-12,FIU
+Tola Akomolafe,2,0.077,0.125,1,0,NA,NA,2011-12,FIU
+DE,2,0.125,0,0,0.077,0,0,2011-12,FIU
+Manuel Nunez,1,0.16699999999999998,0,0,0,NA,NA,2011-12,FIU
+Steven Miro,1,0.5,0.5,1,0,0,NA,2011-12,FIU
+Total,99,0.134,0.14800000000000002,0.588,0.032,0.049,0.5,2011-12,FIU

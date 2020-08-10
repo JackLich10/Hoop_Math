@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.374,0.5329999999999999,0.141,0.621,2013-14
-2pt Jumpers,0.319,0.34700000000000003,0.1,0.386,2013-14
-3pt Shots,0.307,0.321,0.027000000000000003,0.33,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.374,0.5329999999999999,0.141,0.621,2013-14,Harvard
+2pt Jumpers,0.319,0.34700000000000003,0.1,0.386,2013-14,Harvard
+3pt Shots,0.307,0.321,0.027000000000000003,0.33,2013-14,Harvard

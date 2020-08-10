@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Bobby Ahearn,18,0.24,0.267,0.667,0,0,NA,2014-15
-Romello Walker,15,0.157,0.146,0.5,0.009000000000000001,0,0,2014-15
-Willie Rodriguez,14,0.1,0.141,0.857,0,0,NA,2014-15
-Justin McFadden,11,0.125,0.114,0.5,0.1,0.2,0.33299999999999996,2014-15
-Magnus Richards,9,0.308,0.312,0.625,0.062,0.33299999999999996,1,2014-15
-Nick Madray,4,0.125,0.091,0.33299999999999996,0,0,NA,2014-15
-Karon Waller,2,0.14300000000000002,0.16699999999999998,0.5,0,NA,NA,2014-15
-Dusan Perovic,2,0.047,0.087,1,0,0,NA,2014-15
-John Rinaldi,2,0.28600000000000003,0,0,NA,NA,NA,2014-15
-Jabrille Williams,2,0.5,0.33299999999999996,0.5,0,0,NA,2014-15
-Marlon Beck II,1,0.017,0,0,0,0,NA,2014-15
-Jordan Reed,1,0,0,NA,0.091,0,0,2014-15
-Total,81,0.126,0.14300000000000002,0.608,0.013000000000000001,0.013999999999999999,0.33299999999999996,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Bobby Ahearn,18,0.24,0.267,0.667,0,0,NA,2014-15,Binghamton
+Romello Walker,15,0.157,0.146,0.5,0.009000000000000001,0,0,2014-15,Binghamton
+Willie Rodriguez,14,0.1,0.141,0.857,0,0,NA,2014-15,Binghamton
+Justin McFadden,11,0.125,0.114,0.5,0.1,0.2,0.33299999999999996,2014-15,Binghamton
+Magnus Richards,9,0.308,0.312,0.625,0.062,0.33299999999999996,1,2014-15,Binghamton
+Nick Madray,4,0.125,0.091,0.33299999999999996,0,0,NA,2014-15,Binghamton
+Karon Waller,2,0.14300000000000002,0.16699999999999998,0.5,0,NA,NA,2014-15,Binghamton
+Dusan Perovic,2,0.047,0.087,1,0,0,NA,2014-15,Binghamton
+John Rinaldi,2,0.28600000000000003,0,0,NA,NA,NA,2014-15,Binghamton
+Jabrille Williams,2,0.5,0.33299999999999996,0.5,0,0,NA,2014-15,Binghamton
+Marlon Beck II,1,0.017,0,0,0,0,NA,2014-15,Binghamton
+Jordan Reed,1,0,0,NA,0.091,0,0,2014-15,Binghamton
+Total,81,0.126,0.14300000000000002,0.608,0.013000000000000001,0.013999999999999999,0.33299999999999996,2014-15,Binghamton

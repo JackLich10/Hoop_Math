@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.38,0.611,0.083,0.667,2012-13
-2pt Jumpers,0.29600000000000004,0.35200000000000004,0.075,0.381,2012-13
-3pt Shots,0.325,0.322,0.009000000000000001,0.325,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.38,0.611,0.083,0.667,2012-13,WesternCaro.
+2pt Jumpers,0.29600000000000004,0.35200000000000004,0.075,0.381,2012-13,WesternCaro.
+3pt Shots,0.325,0.322,0.009000000000000001,0.325,2012-13,WesternCaro.

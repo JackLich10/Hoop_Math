@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Tyson Jolly,19,0.174,0.18,0.733,0.040999999999999995,0,0,2019-20
-Feron Hunt,16,0.099,0.09699999999999999,0.7140000000000001,0.045,0,0,2019-20
-Isiaha Mike,15,0.126,0.11800000000000001,0.667,0.043,0,0,2019-20
-Ethan Chargois,12,0.152,0.115,0.429,0.09300000000000001,0.048,0.2,2019-20
-Isiah Jasey,6,0.14300000000000002,0.17600000000000002,0.75,0.111,0.111,0.5,2019-20
-CJ White,5,0.214,0.14300000000000002,0.33299999999999996,0.111,0.25,1,2019-20
-Kendric Davis,4,0.021,0,0,0.01,0.023,1,2019-20
-Everett Ray,3,0.158,0.062,0.33299999999999996,0,0,NA,2019-20
-Emmanuel Bandoumel,2,0.021,0.032,1,0.062,0,0,2019-20
-Grant Youngkin,1,1,NA,0,0,NA,NA,2019-20
-Total,83,0.10800000000000001,0.098,0.613,0.045,0.027000000000000003,0.222,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Tyson Jolly,19,0.174,0.18,0.733,0.040999999999999995,0,0,2019-20,SMU
+Feron Hunt,16,0.099,0.09699999999999999,0.7140000000000001,0.045,0,0,2019-20,SMU
+Isiaha Mike,15,0.126,0.11800000000000001,0.667,0.043,0,0,2019-20,SMU
+Ethan Chargois,12,0.152,0.115,0.429,0.09300000000000001,0.048,0.2,2019-20,SMU
+Isiah Jasey,6,0.14300000000000002,0.17600000000000002,0.75,0.111,0.111,0.5,2019-20,SMU
+CJ White,5,0.214,0.14300000000000002,0.33299999999999996,0.111,0.25,1,2019-20,SMU
+Kendric Davis,4,0.021,0,0,0.01,0.023,1,2019-20,SMU
+Everett Ray,3,0.158,0.062,0.33299999999999996,0,0,NA,2019-20,SMU
+Emmanuel Bandoumel,2,0.021,0.032,1,0.062,0,0,2019-20,SMU
+Grant Youngkin,1,1,NA,0,0,NA,NA,2019-20,SMU
+Total,83,0.10800000000000001,0.098,0.613,0.045,0.027000000000000003,0.222,2019-20,SMU

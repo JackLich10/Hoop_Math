@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Brandon Sebirumbi,17,0.145,0.174,0.8,0.051,0,0,2011-12
-Colin Reddick,15,0.268,0.273,0.545,0.059000000000000004,0.111,0.75,2011-12
-Chris Toler,12,0.231,0.267,0.667,0.08199999999999999,0.136,0.5,2011-12
-Bryant Irwin,11,0.158,0.125,0.5,0.1,0.182,0.4,2011-12
-Bryson Barnes,9,0.128,0.08,0.4,0.1,0.125,0.5,2011-12
-Charlie Reddick,4,0.091,0.08,0.667,0.016,0,0,2011-12
-Jordan Loyd,4,0.067,0,0,0.021,0.062,1,2011-12
-Dominic Early,4,0.154,0.111,0.5,0.083,0,0,2011-12
-Bobby Austin,4,0.05,0.071,1,0.045,0.037000000000000005,0.33299999999999996,2011-12
-Richard Brown,1,0,0,NA,0.017,0.037000000000000005,1,2011-12
-David Brown,1,0,0,NA,0,0,NA,2011-12
-Total,82,0.124,0.115,0.574,0.053,0.055,0.382,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Brandon Sebirumbi,17,0.145,0.174,0.8,0.051,0,0,2011-12,Furman
+Colin Reddick,15,0.268,0.273,0.545,0.059000000000000004,0.111,0.75,2011-12,Furman
+Chris Toler,12,0.231,0.267,0.667,0.08199999999999999,0.136,0.5,2011-12,Furman
+Bryant Irwin,11,0.158,0.125,0.5,0.1,0.182,0.4,2011-12,Furman
+Bryson Barnes,9,0.128,0.08,0.4,0.1,0.125,0.5,2011-12,Furman
+Charlie Reddick,4,0.091,0.08,0.667,0.016,0,0,2011-12,Furman
+Jordan Loyd,4,0.067,0,0,0.021,0.062,1,2011-12,Furman
+Dominic Early,4,0.154,0.111,0.5,0.083,0,0,2011-12,Furman
+Bobby Austin,4,0.05,0.071,1,0.045,0.037000000000000005,0.33299999999999996,2011-12,Furman
+Richard Brown,1,0,0,NA,0.017,0.037000000000000005,1,2011-12,Furman
+David Brown,1,0,0,NA,0,0,NA,2011-12,Furman
+Total,82,0.124,0.115,0.574,0.053,0.055,0.382,2011-12,Furman

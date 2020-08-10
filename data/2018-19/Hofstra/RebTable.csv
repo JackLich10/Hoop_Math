@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jacquil Taylor,32,0.212,0.23399999999999999,0.862,0.073,0.15,1,2018-19
-Tareq Coburn,17,0.185,0.162,0.5,0.192,0.28600000000000003,0.4,2018-19
-Eli Pemberton,10,0.076,0.071,0.556,0.01,0.025,1,2018-19
-Stafford Trueheart,6,0.20800000000000002,0.267,0.8,0.055999999999999994,0,0,2018-19
-Justin Wright-Foreman,6,0.019,0.027999999999999997,1,0.009000000000000001,0.009000000000000001,0.5,2018-19
-Dan Dwyer,5,0.133,0.045,0.25,0.16699999999999998,0.25,1,2018-19
-Jalen Ray,1,0.031,0.062,1,0,0,NA,2018-19
-Matija Radovic,1,1,1,1,NA,NA,NA,2018-19
-Connor Klementowicz,1,0.2,0.33299999999999996,1,0,NA,NA,2018-19
-Desure Buie,1,0.011000000000000001,0.017,1,0,0,NA,2018-19
-Total,80,0.09699999999999999,0.107,0.727,0.022000000000000002,0.033,0.615,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jacquil Taylor,32,0.212,0.23399999999999999,0.862,0.073,0.15,1,2018-19,Hofstra
+Tareq Coburn,17,0.185,0.162,0.5,0.192,0.28600000000000003,0.4,2018-19,Hofstra
+Eli Pemberton,10,0.076,0.071,0.556,0.01,0.025,1,2018-19,Hofstra
+Stafford Trueheart,6,0.20800000000000002,0.267,0.8,0.055999999999999994,0,0,2018-19,Hofstra
+Justin Wright-Foreman,6,0.019,0.027999999999999997,1,0.009000000000000001,0.009000000000000001,0.5,2018-19,Hofstra
+Dan Dwyer,5,0.133,0.045,0.25,0.16699999999999998,0.25,1,2018-19,Hofstra
+Jalen Ray,1,0.031,0.062,1,0,0,NA,2018-19,Hofstra
+Matija Radovic,1,1,1,1,NA,NA,NA,2018-19,Hofstra
+Connor Klementowicz,1,0.2,0.33299999999999996,1,0,NA,NA,2018-19,Hofstra
+Desure Buie,1,0.011000000000000001,0.017,1,0,0,NA,2018-19,Hofstra
+Total,80,0.09699999999999999,0.107,0.727,0.022000000000000002,0.033,0.615,2018-19,Hofstra

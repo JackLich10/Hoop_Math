@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Duncan LeXander,17,0.345,0.375,0.6,0.20600000000000002,0.273,0.429,2018-19
-Fleming Phlandrous,15,0.20600000000000002,0.19,0.5710000000000001,0,0,NA,2018-19
-Sadarius Bowser,12,0.314,0.318,0.636,0.083,0.14300000000000002,1,2018-19
-Timmy Sellers,10,0.188,0.16,0.444,0.1,0,0,2018-19
-Travis McConico,10,0.16399999999999998,0.162,0.667,0.013999999999999999,0.045,1,2018-19
-Christian Keeling,9,0.046,0.043,0.5710000000000001,0,0,NA,2018-19
-Ty Jones,8,0.095,0.12300000000000001,0.875,0,0,NA,2018-19
-Dontrell Shuler,3,0.012,0.019,1,0.017,0,0,2018-19
-Sean Price,2,0.095,0.154,1,0,0,NA,2018-19
-Nathan Payne,1,0.2,0.5,1,0,0,NA,2018-19
-Deontaye Buskey,1,0,0,NA,0,0,NA,2018-19
-Jamir Moore,1,0.125,0.16699999999999998,1,0,0,NA,2018-19
-Total,89,0.113,0.121,0.644,0.021,0.023,0.41700000000000004,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Duncan LeXander,17,0.345,0.375,0.6,0.20600000000000002,0.273,0.429,2018-19,CharlestonSo.
+Fleming Phlandrous,15,0.20600000000000002,0.19,0.5710000000000001,0,0,NA,2018-19,CharlestonSo.
+Sadarius Bowser,12,0.314,0.318,0.636,0.083,0.14300000000000002,1,2018-19,CharlestonSo.
+Timmy Sellers,10,0.188,0.16,0.444,0.1,0,0,2018-19,CharlestonSo.
+Travis McConico,10,0.16399999999999998,0.162,0.667,0.013999999999999999,0.045,1,2018-19,CharlestonSo.
+Christian Keeling,9,0.046,0.043,0.5710000000000001,0,0,NA,2018-19,CharlestonSo.
+Ty Jones,8,0.095,0.12300000000000001,0.875,0,0,NA,2018-19,CharlestonSo.
+Dontrell Shuler,3,0.012,0.019,1,0.017,0,0,2018-19,CharlestonSo.
+Sean Price,2,0.095,0.154,1,0,0,NA,2018-19,CharlestonSo.
+Nathan Payne,1,0.2,0.5,1,0,0,NA,2018-19,CharlestonSo.
+Deontaye Buskey,1,0,0,NA,0,0,NA,2018-19,CharlestonSo.
+Jamir Moore,1,0.125,0.16699999999999998,1,0,0,NA,2018-19,CharlestonSo.
+Total,89,0.113,0.121,0.644,0.021,0.023,0.41700000000000004,2018-19,CharlestonSo.

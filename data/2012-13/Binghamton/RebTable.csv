@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jordan Reed,34,0.203,0.209,0.6,0.018000000000000002,0.027999999999999997,0.5,2012-13
-Roland Brown,18,0.27699999999999997,0.35700000000000004,0.769,0.046,0.03,0.2,2012-13
-Brian Freeman,9,0.102,0.114,0.8,0.083,0,0,2012-13
-Javon Ralling,7,0.158,0.25,0.833,0.022000000000000002,0,0,2012-13
-Alex Ogundadegbe,6,0.222,0.25,0.75,0.059000000000000004,0,0,2012-13
-Jabrille Williams,5,0.273,0.28600000000000003,0.667,0.33299999999999996,0.33299999999999996,0.5,2012-13
-Jimmy Gray,4,0.077,0,0,0.015,0,0,2012-13
-Rayner Moquete,3,0.083,0,0,0.023,0.059000000000000004,1,2012-13
-Taylor Johnston,3,0.14300000000000002,0.2,0.5,0.045,0,0,2012-13
-Karon Waller,1,0.053,0.1,1,0,0,NA,2012-13
-Mike Horn,1,0.111,0,0,0,0,NA,2012-13
-Total,91,0.17,0.192,0.647,0.033,0.025,0.23800000000000002,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jordan Reed,34,0.203,0.209,0.6,0.018000000000000002,0.027999999999999997,0.5,2012-13,Binghamton
+Roland Brown,18,0.27699999999999997,0.35700000000000004,0.769,0.046,0.03,0.2,2012-13,Binghamton
+Brian Freeman,9,0.102,0.114,0.8,0.083,0,0,2012-13,Binghamton
+Javon Ralling,7,0.158,0.25,0.833,0.022000000000000002,0,0,2012-13,Binghamton
+Alex Ogundadegbe,6,0.222,0.25,0.75,0.059000000000000004,0,0,2012-13,Binghamton
+Jabrille Williams,5,0.273,0.28600000000000003,0.667,0.33299999999999996,0.33299999999999996,0.5,2012-13,Binghamton
+Jimmy Gray,4,0.077,0,0,0.015,0,0,2012-13,Binghamton
+Rayner Moquete,3,0.083,0,0,0.023,0.059000000000000004,1,2012-13,Binghamton
+Taylor Johnston,3,0.14300000000000002,0.2,0.5,0.045,0,0,2012-13,Binghamton
+Karon Waller,1,0.053,0.1,1,0,0,NA,2012-13,Binghamton
+Mike Horn,1,0.111,0,0,0,0,NA,2012-13,Binghamton
+Total,91,0.17,0.192,0.647,0.033,0.025,0.23800000000000002,2012-13,Binghamton

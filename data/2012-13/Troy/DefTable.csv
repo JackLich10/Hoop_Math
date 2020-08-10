@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.384,0.575,0.09699999999999999,0.637,2012-13
-2pt Jumpers,0.264,0.377,0.027999999999999997,0.38799999999999996,2012-13
-3pt Shots,0.35200000000000004,0.358,0.005,0.36,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.384,0.575,0.09699999999999999,0.637,2012-13,Troy
+2pt Jumpers,0.264,0.377,0.027999999999999997,0.38799999999999996,2012-13,Troy
+3pt Shots,0.35200000000000004,0.358,0.005,0.36,2012-13,Troy

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.265,0.588,0.11199999999999999,0.662,2019-20
-2pt Jumpers,0.373,0.365,0.067,0.391,2019-20
-3pt Shots,0.36200000000000004,0.337,0.006999999999999999,0.33899999999999997,2019-20
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.265,0.588,0.11199999999999999,0.662,2019-20,NotreDame
+2pt Jumpers,0.373,0.365,0.067,0.391,2019-20,NotreDame
+3pt Shots,0.36200000000000004,0.337,0.006999999999999999,0.33899999999999997,2019-20,NotreDame

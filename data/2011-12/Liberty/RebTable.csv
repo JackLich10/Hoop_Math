@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Antwan Burrus,34,0.205,0.20800000000000002,0.606,0.009000000000000001,0,0,2011-12
-VANDER,15,0.209,0.22,0.643,0.067,0,0,2011-12
-Jesse Sanders,6,0.037000000000000005,0.026000000000000002,0.4,0.013000000000000001,0,0,2011-12
-Stephen Baird,5,0.41700000000000004,0.5710000000000001,0.8,0,0,NA,2011-12
-Tomasz Gielo,5,0.263,0.33299999999999996,1,0,0,NA,2011-12
-Tavares Speaks,5,0.021,0.02,0.5,0.017,0.012,0.33299999999999996,2011-12
-John Caleb Sanders,3,0.015,0.026000000000000002,1,0.016,0.032,1,2011-12
-Andrew Smith,1,0.091,0.111,1,0,0,NA,2011-12
-David Minaya,1,0.012,0.023,1,0,0,NA,2011-12
-Total,75,0.098,0.115,0.657,0.01,0.006999999999999999,0.28600000000000003,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Antwan Burrus,34,0.205,0.20800000000000002,0.606,0.009000000000000001,0,0,2011-12,Liberty
+VANDER,15,0.209,0.22,0.643,0.067,0,0,2011-12,Liberty
+Jesse Sanders,6,0.037000000000000005,0.026000000000000002,0.4,0.013000000000000001,0,0,2011-12,Liberty
+Stephen Baird,5,0.41700000000000004,0.5710000000000001,0.8,0,0,NA,2011-12,Liberty
+Tomasz Gielo,5,0.263,0.33299999999999996,1,0,0,NA,2011-12,Liberty
+Tavares Speaks,5,0.021,0.02,0.5,0.017,0.012,0.33299999999999996,2011-12,Liberty
+John Caleb Sanders,3,0.015,0.026000000000000002,1,0.016,0.032,1,2011-12,Liberty
+Andrew Smith,1,0.091,0.111,1,0,0,NA,2011-12,Liberty
+David Minaya,1,0.012,0.023,1,0,0,NA,2011-12,Liberty
+Total,75,0.098,0.115,0.657,0.01,0.006999999999999999,0.28600000000000003,2011-12,Liberty

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.223,0.642,0.094,0.708,2012-13
-2pt Jumpers,0.434,0.324,0.085,0.354,2012-13
-3pt Shots,0.34299999999999997,0.332,0.003,0.33299999999999996,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.223,0.642,0.094,0.708,2012-13,Utah
+2pt Jumpers,0.434,0.324,0.085,0.354,2012-13,Utah
+3pt Shots,0.34299999999999997,0.332,0.003,0.33299999999999996,2012-13,Utah

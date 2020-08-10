@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Sam Rowley,25,0.1,0.115,0.625,0.011000000000000001,0.026000000000000002,1,2014-15
-Michael Rowley,11,0.155,0.156,0.455,0,0,NA,2014-15
-Ray Sanders,11,0.091,0.05,0.3,0.03,0.125,1,2014-15
-Richard Peters,10,0.213,0.207,0.6,0,0,NA,2014-15
-Greig Stire,7,0.184,0.105,0.28600000000000003,0,0,NA,2014-15
-Dallas Ennema,3,0.11800000000000001,0.1,0.5,0.027999999999999997,0.062,1,2014-15
-Peter Hooley,3,0.012,0,0,0,0,NA,2014-15
-Evan Singletary,1,0.009000000000000001,0.019,1,0,0,NA,2014-15
-Total,71,0.087,0.08199999999999999,0.5,0.009000000000000001,0.025,1,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Sam Rowley,25,0.1,0.115,0.625,0.011000000000000001,0.026000000000000002,1,2014-15,Albany(NY)
+Michael Rowley,11,0.155,0.156,0.455,0,0,NA,2014-15,Albany(NY)
+Ray Sanders,11,0.091,0.05,0.3,0.03,0.125,1,2014-15,Albany(NY)
+Richard Peters,10,0.213,0.207,0.6,0,0,NA,2014-15,Albany(NY)
+Greig Stire,7,0.184,0.105,0.28600000000000003,0,0,NA,2014-15,Albany(NY)
+Dallas Ennema,3,0.11800000000000001,0.1,0.5,0.027999999999999997,0.062,1,2014-15,Albany(NY)
+Peter Hooley,3,0.012,0,0,0,0,NA,2014-15,Albany(NY)
+Evan Singletary,1,0.009000000000000001,0.019,1,0,0,NA,2014-15,Albany(NY)
+Total,71,0.087,0.08199999999999999,0.5,0.009000000000000001,0.025,1,2014-15,Albany(NY)

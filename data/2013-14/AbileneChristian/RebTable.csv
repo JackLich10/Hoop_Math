@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jacob Lancaster,16,0.13,0.141,0.6920000000000001,0.052000000000000005,0.043,0.33299999999999996,2013-14
-Austin Cooke,12,0.222,0.235,0.667,0.15,0.188,0.5,2013-14
-James Pegues,10,0.10800000000000001,0.14,0.857,0.055999999999999994,0.091,0.33299999999999996,2013-14
-Riley Payne,9,0.083,0.048,0.33299999999999996,0.13,0.16699999999999998,0.5,2013-14
-Michael Grant,5,0.066,0.057,0.5,0.022000000000000002,0,0,2013-14
-Julian Edmonson,5,0.038,0.061,0.667,0.03,0.037000000000000005,0.5,2013-14
-Rafael Farley,4,0.11800000000000001,0,0,0.111,0,0,2013-14
-Ladarrien Williams,3,0.036000000000000004,0.036000000000000004,0.5,0.013000000000000001,0.043,1,2013-14
-Alexsander Milosavljevic,3,0.059000000000000004,0,0,0.133,0.4,1,2013-14
-Parker Wentz,1,0.027999999999999997,0,0,0,0,NA,2013-14
-Total,68,0.078,0.083,0.595,0.049,0.062,0.462,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jacob Lancaster,16,0.13,0.141,0.6920000000000001,0.052000000000000005,0.043,0.33299999999999996,2013-14,AbileneChristian
+Austin Cooke,12,0.222,0.235,0.667,0.15,0.188,0.5,2013-14,AbileneChristian
+James Pegues,10,0.10800000000000001,0.14,0.857,0.055999999999999994,0.091,0.33299999999999996,2013-14,AbileneChristian
+Riley Payne,9,0.083,0.048,0.33299999999999996,0.13,0.16699999999999998,0.5,2013-14,AbileneChristian
+Michael Grant,5,0.066,0.057,0.5,0.022000000000000002,0,0,2013-14,AbileneChristian
+Julian Edmonson,5,0.038,0.061,0.667,0.03,0.037000000000000005,0.5,2013-14,AbileneChristian
+Rafael Farley,4,0.11800000000000001,0,0,0.111,0,0,2013-14,AbileneChristian
+Ladarrien Williams,3,0.036000000000000004,0.036000000000000004,0.5,0.013000000000000001,0.043,1,2013-14,AbileneChristian
+Alexsander Milosavljevic,3,0.059000000000000004,0,0,0.133,0.4,1,2013-14,AbileneChristian
+Parker Wentz,1,0.027999999999999997,0,0,0,0,NA,2013-14,AbileneChristian
+Total,68,0.078,0.083,0.595,0.049,0.062,0.462,2013-14,AbileneChristian

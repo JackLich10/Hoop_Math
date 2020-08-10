@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Ruben Guerrero,45,0.188,0.213,0.821,0.061,0.054000000000000006,0.33299999999999996,2018-19
-Robert Allen,17,0.11699999999999999,0.096,0.5379999999999999,0.06,0.036000000000000004,0.25,2018-19
-Deandre Thomas,9,0.4,0.375,0.5,0.16699999999999998,0.14300000000000002,0.33299999999999996,2018-19
-Brandon Austin,6,0.055999999999999994,0.061,0.667,0.016,0.043,1,2018-19
-Logan Dye,3,0.071,0.048,0.5,0.038,0,0,2018-19
-Myron Gordon,2,0.013000000000000001,0.02,1,0.009000000000000001,0,0,2018-19
-Josh Sharkey,2,0.005,0.009000000000000001,1,0.01,0,0,2018-19
-Stefan Lakic,1,0.091,0.125,1,0,0,NA,2018-19
-Total,85,0.092,0.10300000000000001,0.727,0.031,0.025,0.294,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Ruben Guerrero,45,0.188,0.213,0.821,0.061,0.054000000000000006,0.33299999999999996,2018-19,Samford
+Robert Allen,17,0.11699999999999999,0.096,0.5379999999999999,0.06,0.036000000000000004,0.25,2018-19,Samford
+Deandre Thomas,9,0.4,0.375,0.5,0.16699999999999998,0.14300000000000002,0.33299999999999996,2018-19,Samford
+Brandon Austin,6,0.055999999999999994,0.061,0.667,0.016,0.043,1,2018-19,Samford
+Logan Dye,3,0.071,0.048,0.5,0.038,0,0,2018-19,Samford
+Myron Gordon,2,0.013000000000000001,0.02,1,0.009000000000000001,0,0,2018-19,Samford
+Josh Sharkey,2,0.005,0.009000000000000001,1,0.01,0,0,2018-19,Samford
+Stefan Lakic,1,0.091,0.125,1,0,0,NA,2018-19,Samford
+Total,85,0.092,0.10300000000000001,0.727,0.031,0.025,0.294,2018-19,Samford

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.391,0.5770000000000001,0.076,0.624,2018-19
-2pt Jumpers,0.223,0.359,0.037000000000000005,0.373,2018-19
-3pt Shots,0.386,0.366,0.001,0.36700000000000005,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.391,0.5770000000000001,0.076,0.624,2018-19,WesternMich.
+2pt Jumpers,0.223,0.359,0.037000000000000005,0.373,2018-19,WesternMich.
+3pt Shots,0.386,0.366,0.001,0.36700000000000005,2018-19,WesternMich.

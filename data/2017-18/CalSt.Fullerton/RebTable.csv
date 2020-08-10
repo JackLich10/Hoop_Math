@@ -1,15 +1,15 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Arkim Robertson,17,0.188,0.259,1,0.111,0.2,0.5,2017-18
-Jackson Rowe,16,0.096,0.1,0.7140000000000001,0.067,0,0,2017-18
-Davon Clare,8,0.179,0.231,0.857,0.036000000000000004,0,0,2017-18
-Austen Awosika,8,0.06,0.024,0.2,0.04,0.032,0.33299999999999996,2017-18
-Josh Pitts,7,0.28600000000000003,0.16699999999999998,0.25,0.25,0.33299999999999996,0.33299999999999996,2017-18
-Kyle Allman,5,0.034,0.032,0.6,0,0,NA,2017-18
-Dominik Heinzl,5,0.12,0.158,1,0.077,0.1,0.5,2017-18
-Dwight Ramos,4,0.429,0.25,0.33299999999999996,0.062,0,0,2017-18
-Khalil Ahmad,3,0.013999999999999999,0.024,1,0.012,0,0,2017-18
-Jose Garcia-Gonzalez,3,1,1,0.667,0,NA,NA,2017-18
-Johnny Wang,1,0.25,0,0,0,NA,NA,2017-18
-Jamal Smith,1,0,0,NA,0.083,0.5,1,2017-18
-Landon Kirkwood,1,0,0,NA,1,1,1,2017-18
-Total,79,0.083,0.094,0.71,0.036000000000000004,0.035,0.353,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Arkim Robertson,17,0.188,0.259,1,0.111,0.2,0.5,2017-18,CalSt.Fullerton
+Jackson Rowe,16,0.096,0.1,0.7140000000000001,0.067,0,0,2017-18,CalSt.Fullerton
+Davon Clare,8,0.179,0.231,0.857,0.036000000000000004,0,0,2017-18,CalSt.Fullerton
+Austen Awosika,8,0.06,0.024,0.2,0.04,0.032,0.33299999999999996,2017-18,CalSt.Fullerton
+Josh Pitts,7,0.28600000000000003,0.16699999999999998,0.25,0.25,0.33299999999999996,0.33299999999999996,2017-18,CalSt.Fullerton
+Kyle Allman,5,0.034,0.032,0.6,0,0,NA,2017-18,CalSt.Fullerton
+Dominik Heinzl,5,0.12,0.158,1,0.077,0.1,0.5,2017-18,CalSt.Fullerton
+Dwight Ramos,4,0.429,0.25,0.33299999999999996,0.062,0,0,2017-18,CalSt.Fullerton
+Khalil Ahmad,3,0.013999999999999999,0.024,1,0.012,0,0,2017-18,CalSt.Fullerton
+Jose Garcia-Gonzalez,3,1,1,0.667,0,NA,NA,2017-18,CalSt.Fullerton
+Johnny Wang,1,0.25,0,0,0,NA,NA,2017-18,CalSt.Fullerton
+Jamal Smith,1,0,0,NA,0.083,0.5,1,2017-18,CalSt.Fullerton
+Landon Kirkwood,1,0,0,NA,1,1,1,2017-18,CalSt.Fullerton
+Total,79,0.083,0.094,0.71,0.036000000000000004,0.035,0.353,2017-18,CalSt.Fullerton

@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Chris Silva,35,0.175,0.162,0.619,0.1,0.071,0.214,2017-18
-Justin Minaya,25,0.262,0.235,0.47100000000000003,0.136,0.11800000000000001,0.25,2017-18
-Felipe Haase,17,0.25,0.19,0.444,0.14300000000000002,0.16,0.5,2017-18
-Frank Booker,8,0.1,0.105,0.667,0.038,0.091,1,2017-18
-Jason Cudd,6,0.4,0.2,0.25,0.154,0.25,0.5,2017-18
-Maik Kotsar,5,0.043,0.033,0.5,0.008,0,0,2017-18
-Wesley Myers,3,0.02,0,0,0,0,NA,2017-18
-Evan Hinson,2,0.067,0,0,0.05,0,0,2017-18
-FAMOUKE,2,0.667,0.5,0.5,0,0,NA,2017-18
-Hassani Gravett,2,0.057,0.111,1,0,0,NA,2017-18
-David Beatty,1,0,0,NA,0.027000000000000003,0,0,2017-18
-Kory Holden,1,0,0,NA,0.043,0,0,2017-18
-Total,107,0.129,0.11199999999999999,0.516,0.055,0.054000000000000006,0.316,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Chris Silva,35,0.175,0.162,0.619,0.1,0.071,0.214,2017-18,SouthCarolina
+Justin Minaya,25,0.262,0.235,0.47100000000000003,0.136,0.11800000000000001,0.25,2017-18,SouthCarolina
+Felipe Haase,17,0.25,0.19,0.444,0.14300000000000002,0.16,0.5,2017-18,SouthCarolina
+Frank Booker,8,0.1,0.105,0.667,0.038,0.091,1,2017-18,SouthCarolina
+Jason Cudd,6,0.4,0.2,0.25,0.154,0.25,0.5,2017-18,SouthCarolina
+Maik Kotsar,5,0.043,0.033,0.5,0.008,0,0,2017-18,SouthCarolina
+Wesley Myers,3,0.02,0,0,0,0,NA,2017-18,SouthCarolina
+Evan Hinson,2,0.067,0,0,0.05,0,0,2017-18,SouthCarolina
+FAMOUKE,2,0.667,0.5,0.5,0,0,NA,2017-18,SouthCarolina
+Hassani Gravett,2,0.057,0.111,1,0,0,NA,2017-18,SouthCarolina
+David Beatty,1,0,0,NA,0.027000000000000003,0,0,2017-18,SouthCarolina
+Kory Holden,1,0,0,NA,0.043,0,0,2017-18,SouthCarolina
+Total,107,0.129,0.11199999999999999,0.516,0.055,0.054000000000000006,0.316,2017-18,SouthCarolina

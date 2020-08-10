@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Dexter Werner,27,0.14300000000000002,0.165,0.8240000000000001,0.095,0.109,0.556,2016-17
-Tyson Ward,14,0.21600000000000003,0.222,0.75,0.154,0.273,0.5,2016-17
-Dylan Miller,8,0.163,0.067,0.28600000000000003,0.03,0.077,1,2016-17
-Deng Geu,8,0.158,0.083,0.33299999999999996,0.08,0.222,1,2016-17
-Paul Miller,4,0.026000000000000002,0.022000000000000002,0.5,0.024,0.024,0.5,2016-17
-A.J. Jacobson,4,0.043,0.055999999999999994,0.667,0.031,0,0,2016-17
-Spencer Eliason,3,0.067,0.14300000000000002,1,0.2,0,0,2016-17
-Carlin Dupree,2,0.01,0.019,1,0.011000000000000001,0,0,2016-17
-Jared Samuelson,1,0,0,NA,0,0,NA,2016-17
-Total,71,0.079,0.085,0.644,0.048,0.059000000000000004,0.5,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Dexter Werner,27,0.14300000000000002,0.165,0.8240000000000001,0.095,0.109,0.556,2016-17,NorthDakotaSt.
+Tyson Ward,14,0.21600000000000003,0.222,0.75,0.154,0.273,0.5,2016-17,NorthDakotaSt.
+Dylan Miller,8,0.163,0.067,0.28600000000000003,0.03,0.077,1,2016-17,NorthDakotaSt.
+Deng Geu,8,0.158,0.083,0.33299999999999996,0.08,0.222,1,2016-17,NorthDakotaSt.
+Paul Miller,4,0.026000000000000002,0.022000000000000002,0.5,0.024,0.024,0.5,2016-17,NorthDakotaSt.
+A.J. Jacobson,4,0.043,0.055999999999999994,0.667,0.031,0,0,2016-17,NorthDakotaSt.
+Spencer Eliason,3,0.067,0.14300000000000002,1,0.2,0,0,2016-17,NorthDakotaSt.
+Carlin Dupree,2,0.01,0.019,1,0.011000000000000001,0,0,2016-17,NorthDakotaSt.
+Jared Samuelson,1,0,0,NA,0,0,NA,2016-17,NorthDakotaSt.
+Total,71,0.079,0.085,0.644,0.048,0.059000000000000004,0.5,2016-17,NorthDakotaSt.

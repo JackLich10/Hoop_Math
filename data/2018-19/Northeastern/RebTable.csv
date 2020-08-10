@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Anthony Green,20,0.114,0.124,0.8240000000000001,0.111,0,0,2018-19
-Tomas Murphy,11,0.147,0.18,0.9,0.011000000000000001,0,0,2018-19
-Jason Strong,6,0.138,0.095,0.5,0.083,0.111,0.5,2018-19
-Jeremy Miller,4,0.14300000000000002,0.188,1,0.083,0.2,1,2018-19
-Shawn Occeus,3,0.027999999999999997,0,0,0.045,0,0,2018-19
-Myles Franklin,3,0.111,0,0,0.222,0,0,2018-19
-Jordan Roland,2,0.018000000000000002,0,0,0.013999999999999999,0,0,2018-19
-Bolden Brace,2,0.015,0,0,0.033,0,0,2018-19
-Vasa Pusica,2,0.009000000000000001,0.016,1,0.017,0.034,1,2018-19
-Donnell Gresham,1,0.017,0,0,0,0,NA,2018-19
-Shaquille Walters,1,0.125,0.5,1,0,0,NA,2018-19
-Total,55,0.068,0.076,0.732,0.034,0.019,0.231,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Anthony Green,20,0.114,0.124,0.8240000000000001,0.111,0,0,2018-19,Northeastern
+Tomas Murphy,11,0.147,0.18,0.9,0.011000000000000001,0,0,2018-19,Northeastern
+Jason Strong,6,0.138,0.095,0.5,0.083,0.111,0.5,2018-19,Northeastern
+Jeremy Miller,4,0.14300000000000002,0.188,1,0.083,0.2,1,2018-19,Northeastern
+Shawn Occeus,3,0.027999999999999997,0,0,0.045,0,0,2018-19,Northeastern
+Myles Franklin,3,0.111,0,0,0.222,0,0,2018-19,Northeastern
+Jordan Roland,2,0.018000000000000002,0,0,0.013999999999999999,0,0,2018-19,Northeastern
+Bolden Brace,2,0.015,0,0,0.033,0,0,2018-19,Northeastern
+Vasa Pusica,2,0.009000000000000001,0.016,1,0.017,0.034,1,2018-19,Northeastern
+Donnell Gresham,1,0.017,0,0,0,0,NA,2018-19,Northeastern
+Shaquille Walters,1,0.125,0.5,1,0,0,NA,2018-19,Northeastern
+Total,55,0.068,0.076,0.732,0.034,0.019,0.231,2018-19,Northeastern

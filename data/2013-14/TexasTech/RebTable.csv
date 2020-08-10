@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Dejan Kravic,39,0.304,0.253,0.5429999999999999,0.055,0.05,0.25,2013-14
-Jaye Crockett,29,0.17,0.14400000000000002,0.609,0.046,0.038,0.33299999999999996,2013-14
-Jordan Tolbert,23,0.14400000000000002,0.155,0.8,0.045,0.055999999999999994,0.33299999999999996,2013-14
-Alex Foster,10,0.34600000000000003,0.5,0.889,0.1,0.33299999999999996,1,2013-14
-Robert Turner,9,0.059000000000000004,0.057,0.5,0.035,0.065,0.667,2013-14
-Toddrick Gotcher,6,0.038,0.033,0.5,0.087,0.067,0.25,2013-14
-Kader Tapsoba,5,0.19,0.2,0.75,0.053,0,0,2013-14
-Aaron Ross,5,0.22699999999999998,0.2,0.6,0,0,NA,2013-14
-Dusty Hannahs,5,0.081,0.095,0.667,0.044000000000000004,0,0,2013-14
-Randy Onwuasor,4,0.053,0.045,0.5,0.065,0.14300000000000002,0.5,2013-14
-Clark Lammert,4,0.667,0.5,0.5,0.667,1,0.5,2013-14
-Jamal Williams,1,0,0,NA,0.053,0.16699999999999998,1,2013-14
-Total,140,0.157,0.155,0.64,0.052000000000000005,0.059000000000000004,0.379,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Dejan Kravic,39,0.304,0.253,0.5429999999999999,0.055,0.05,0.25,2013-14,TexasTech
+Jaye Crockett,29,0.17,0.14400000000000002,0.609,0.046,0.038,0.33299999999999996,2013-14,TexasTech
+Jordan Tolbert,23,0.14400000000000002,0.155,0.8,0.045,0.055999999999999994,0.33299999999999996,2013-14,TexasTech
+Alex Foster,10,0.34600000000000003,0.5,0.889,0.1,0.33299999999999996,1,2013-14,TexasTech
+Robert Turner,9,0.059000000000000004,0.057,0.5,0.035,0.065,0.667,2013-14,TexasTech
+Toddrick Gotcher,6,0.038,0.033,0.5,0.087,0.067,0.25,2013-14,TexasTech
+Kader Tapsoba,5,0.19,0.2,0.75,0.053,0,0,2013-14,TexasTech
+Aaron Ross,5,0.22699999999999998,0.2,0.6,0,0,NA,2013-14,TexasTech
+Dusty Hannahs,5,0.081,0.095,0.667,0.044000000000000004,0,0,2013-14,TexasTech
+Randy Onwuasor,4,0.053,0.045,0.5,0.065,0.14300000000000002,0.5,2013-14,TexasTech
+Clark Lammert,4,0.667,0.5,0.5,0.667,1,0.5,2013-14,TexasTech
+Jamal Williams,1,0,0,NA,0.053,0.16699999999999998,1,2013-14,TexasTech
+Total,140,0.157,0.155,0.64,0.052000000000000005,0.059000000000000004,0.379,2013-14,TexasTech

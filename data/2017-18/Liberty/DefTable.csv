@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.32799999999999996,0.54,0.111,0.608,2017-18
-2pt Jumpers,0.218,0.33399999999999996,0.057999999999999996,0.355,2017-18
-3pt Shots,0.455,0.365,0.001,0.365,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.32799999999999996,0.54,0.111,0.608,2017-18,Liberty
+2pt Jumpers,0.218,0.33399999999999996,0.057999999999999996,0.355,2017-18,Liberty
+3pt Shots,0.455,0.365,0.001,0.365,2017-18,Liberty

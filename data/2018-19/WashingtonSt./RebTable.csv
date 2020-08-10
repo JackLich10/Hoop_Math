@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-CJ Elleby,24,0.16,0.141,0.5,0.03,0,0,2018-19
-Isaiah Wade,12,0.136,0.13,0.636,0.048,0,0,2018-19
-Robert Franks,10,0.064,0.06,0.625,0.011000000000000001,0.023,1,2018-19
-Marvin Cannon,10,0.12300000000000001,0.114,0.556,0,0,NA,2018-19
-Aljaz Kunc,4,0.2,0.133,0.5,0,0,NA,2018-19
-Jeff Pollard,4,0.051,0,0,0.042,0,0,2018-19
-Ahmed Ali,3,0.049,0,0,0.04,0.083,1,2018-19
-Arinze Chidom,3,0.25,0.4,1,0.083,0.33299999999999996,1,2018-19
-Jervae Robinson,2,0.051,0.111,1,0,0,NA,2018-19
-Total,72,0.102,0.09,0.541,0.021,0.018000000000000002,0.33299999999999996,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+CJ Elleby,24,0.16,0.141,0.5,0.03,0,0,2018-19,WashingtonSt.
+Isaiah Wade,12,0.136,0.13,0.636,0.048,0,0,2018-19,WashingtonSt.
+Robert Franks,10,0.064,0.06,0.625,0.011000000000000001,0.023,1,2018-19,WashingtonSt.
+Marvin Cannon,10,0.12300000000000001,0.114,0.556,0,0,NA,2018-19,WashingtonSt.
+Aljaz Kunc,4,0.2,0.133,0.5,0,0,NA,2018-19,WashingtonSt.
+Jeff Pollard,4,0.051,0,0,0.042,0,0,2018-19,WashingtonSt.
+Ahmed Ali,3,0.049,0,0,0.04,0.083,1,2018-19,WashingtonSt.
+Arinze Chidom,3,0.25,0.4,1,0.083,0.33299999999999996,1,2018-19,WashingtonSt.
+Jervae Robinson,2,0.051,0.111,1,0,0,NA,2018-19,WashingtonSt.
+Total,72,0.102,0.09,0.541,0.021,0.018000000000000002,0.33299999999999996,2018-19,WashingtonSt.

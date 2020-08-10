@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Amile Jefferson,32,0.152,0.126,0.5710000000000001,0.07400000000000001,0.105,0.5,2016-17
-Harry Giles,21,0.348,0.212,0.43799999999999994,0.156,0.16699999999999998,0.4,2016-17
-Matt Jones,13,0.185,0.2,0.6,0.053,0.067,0.5,2016-17
-Marques Bolden,12,0.524,0.636,0.636,0.071,0,0,2016-17
-Luke Kennard,12,0.11199999999999999,0.127,0.7,0.01,0.011000000000000001,0.5,2016-17
-Jayson Tatum,9,0.05,0.053,0.667,0.016,0.02,0.5,2016-17
-Chase Jeter,7,0.33299999999999996,0.25,0.5,0.125,0,0,2016-17
-Antonio Vrankovic,7,0.5,0.455,0.7140000000000001,0,0,NA,2016-17
-Frank Jackson,5,0.042,0.05,0.75,0.018000000000000002,0.045,1,2016-17
-Grayson Allen,3,0.043,0.027999999999999997,0.33299999999999996,0,0,NA,2016-17
-Javin DeLaurier,2,0.111,0.111,1,1,NA,0,2016-17
-Jack White,1,0.2,0.25,1,0,0,NA,2016-17
-Total,124,0.142,0.132,0.5920000000000001,0.032,0.033,0.42100000000000004,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Amile Jefferson,32,0.152,0.126,0.5710000000000001,0.07400000000000001,0.105,0.5,2016-17,Duke
+Harry Giles,21,0.348,0.212,0.43799999999999994,0.156,0.16699999999999998,0.4,2016-17,Duke
+Matt Jones,13,0.185,0.2,0.6,0.053,0.067,0.5,2016-17,Duke
+Marques Bolden,12,0.524,0.636,0.636,0.071,0,0,2016-17,Duke
+Luke Kennard,12,0.11199999999999999,0.127,0.7,0.01,0.011000000000000001,0.5,2016-17,Duke
+Jayson Tatum,9,0.05,0.053,0.667,0.016,0.02,0.5,2016-17,Duke
+Chase Jeter,7,0.33299999999999996,0.25,0.5,0.125,0,0,2016-17,Duke
+Antonio Vrankovic,7,0.5,0.455,0.7140000000000001,0,0,NA,2016-17,Duke
+Frank Jackson,5,0.042,0.05,0.75,0.018000000000000002,0.045,1,2016-17,Duke
+Grayson Allen,3,0.043,0.027999999999999997,0.33299999999999996,0,0,NA,2016-17,Duke
+Javin DeLaurier,2,0.111,0.111,1,1,NA,0,2016-17,Duke
+Jack White,1,0.2,0.25,1,0,0,NA,2016-17,Duke
+Total,124,0.142,0.132,0.5920000000000001,0.032,0.033,0.42100000000000004,2016-17,Duke

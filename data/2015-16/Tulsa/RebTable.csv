@@ -1,9 +1,9 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Brandon Swannegan,25,0.247,0.258,0.762,0.078,0,0,2015-16
-Rashad Smith,15,0.16,0.17,0.6920000000000001,0.025,0.028999999999999998,0.5,2015-16
-D'Andre Wright,11,0.127,0.145,0.8,0.023,0,0,2015-16
-Marquel Curtis,9,0.08,0.098,0.7140000000000001,0.071,0,0,2015-16
-Shaquille Harrison,8,0.017,0.028999999999999998,1,0.045,0.037000000000000005,0.25,2015-16
-James Woodard,5,0.052000000000000005,0,0,0,0,NA,2015-16
-Pat Birt,3,0.054000000000000006,0.14300000000000002,1,0.013999999999999999,0,0,2015-16
-Total,76,0.085,0.1,0.733,0.03,0.012,0.14300000000000002,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Brandon Swannegan,25,0.247,0.258,0.762,0.078,0,0,2015-16,Tulsa
+Rashad Smith,15,0.16,0.17,0.6920000000000001,0.025,0.028999999999999998,0.5,2015-16,Tulsa
+D'Andre Wright,11,0.127,0.145,0.8,0.023,0,0,2015-16,Tulsa
+Marquel Curtis,9,0.08,0.098,0.7140000000000001,0.071,0,0,2015-16,Tulsa
+Shaquille Harrison,8,0.017,0.028999999999999998,1,0.045,0.037000000000000005,0.25,2015-16,Tulsa
+James Woodard,5,0.052000000000000005,0,0,0,0,NA,2015-16,Tulsa
+Pat Birt,3,0.054000000000000006,0.14300000000000002,1,0.013999999999999999,0,0,2015-16,Tulsa
+Total,76,0.085,0.1,0.733,0.03,0.012,0.14300000000000002,2015-16,Tulsa

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.377,0.608,0.099,0.674,2013-14
-2pt Jumpers,0.33,0.39,0.08,0.424,2013-14
-3pt Shots,0.293,0.369,0.004,0.37,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.377,0.608,0.099,0.674,2013-14,LMU(CA)
+2pt Jumpers,0.33,0.39,0.08,0.424,2013-14,LMU(CA)
+3pt Shots,0.293,0.369,0.004,0.37,2013-14,LMU(CA)

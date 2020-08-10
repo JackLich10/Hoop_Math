@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.441,0.523,0.11199999999999999,0.588,2017-18
-2pt Jumpers,0.255,0.344,0.06,0.365,2017-18
-3pt Shots,0.304,0.278,0.016,0.282,2017-18
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.441,0.523,0.11199999999999999,0.588,2017-18,GrandCanyon
+2pt Jumpers,0.255,0.344,0.06,0.365,2017-18,GrandCanyon
+3pt Shots,0.304,0.278,0.016,0.282,2017-18,GrandCanyon

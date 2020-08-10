@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Mathias Ward,12,0.11,0.125,0.727,0.01,0,0,2012-13
-Kareem Jamar,11,0.08,0.08800000000000001,0.778,0.02,0.051,1,2012-13
-Spencer Coleman,10,0.13,0.106,0.556,0.023,0,0,2012-13
-Andy Martin,9,0.273,0.14300000000000002,0.33299999999999996,0.16699999999999998,0.2,0.33299999999999996,2012-13
-Kevin Henderson,3,0.1,0.16699999999999998,1,0.043,0.14300000000000002,1,2012-13
-Will Cherry,3,0.03,0.036000000000000004,0.667,0,0,NA,2012-13
-Keron DeShields,2,0.013999999999999999,0.028999999999999998,1,0.025,0.1,1,2012-13
-Jake Wiley,2,0.182,0.28600000000000003,1,0,0,NA,2012-13
-Mike Weisner,2,0.059000000000000004,0.077,1,0.042,0,0,2012-13
-Jordan Gregory,1,0.026000000000000002,0.048,1,0,0,NA,2012-13
-Eric Hutchison,1,0.021,0.033,1,0,0,NA,2012-13
-Total,56,0.076,0.085,0.696,0.023,0.03,0.5,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Mathias Ward,12,0.11,0.125,0.727,0.01,0,0,2012-13,Montana
+Kareem Jamar,11,0.08,0.08800000000000001,0.778,0.02,0.051,1,2012-13,Montana
+Spencer Coleman,10,0.13,0.106,0.556,0.023,0,0,2012-13,Montana
+Andy Martin,9,0.273,0.14300000000000002,0.33299999999999996,0.16699999999999998,0.2,0.33299999999999996,2012-13,Montana
+Kevin Henderson,3,0.1,0.16699999999999998,1,0.043,0.14300000000000002,1,2012-13,Montana
+Will Cherry,3,0.03,0.036000000000000004,0.667,0,0,NA,2012-13,Montana
+Keron DeShields,2,0.013999999999999999,0.028999999999999998,1,0.025,0.1,1,2012-13,Montana
+Jake Wiley,2,0.182,0.28600000000000003,1,0,0,NA,2012-13,Montana
+Mike Weisner,2,0.059000000000000004,0.077,1,0.042,0,0,2012-13,Montana
+Jordan Gregory,1,0.026000000000000002,0.048,1,0,0,NA,2012-13,Montana
+Eric Hutchison,1,0.021,0.033,1,0,0,NA,2012-13,Montana
+Total,56,0.076,0.085,0.696,0.023,0.03,0.5,2012-13,Montana

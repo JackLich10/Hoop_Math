@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Cam Gregory,48,0.23600000000000002,0.245,0.659,0.146,0.15,0.429,2017-18
-Kavaughn Scott,14,0.23600000000000002,0.267,0.615,0.111,0,0,2017-18
-Brent Holcombe,11,0.244,0.375,0.9,0,0,NA,2017-18
-Andre Walker,8,0.035,0.047,0.6,0.02,0.053,1,2017-18
-Andrew Kostecka,7,0.045,0.057999999999999996,0.75,0.032,0,0,2017-18
-Chuck Champion,6,0.054000000000000006,0.11599999999999999,1,0.008,0,0,2017-18
-River Reed,4,0.21100000000000002,0.231,0.75,0,0,NA,2017-18
-Sam Norton,4,0.077,0,0,0.105,0.14300000000000002,0.5,2017-18
-James Fives,3,0.25,0.667,0.667,0,0,NA,2017-18
-Ian Langendoerfer,3,0.25,1,1,0.222,0,0,2017-18
-Luke Johnson,2,0.125,0.25,1,0,0,NA,2017-18
-Isaiah Hart,2,0.016,0.013000000000000001,0.5,0,0,NA,2017-18
-Total,112,0.115,0.147,0.696,0.033,0.03,0.353,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Cam Gregory,48,0.23600000000000002,0.245,0.659,0.146,0.15,0.429,2017-18,LoyolaMaryland
+Kavaughn Scott,14,0.23600000000000002,0.267,0.615,0.111,0,0,2017-18,LoyolaMaryland
+Brent Holcombe,11,0.244,0.375,0.9,0,0,NA,2017-18,LoyolaMaryland
+Andre Walker,8,0.035,0.047,0.6,0.02,0.053,1,2017-18,LoyolaMaryland
+Andrew Kostecka,7,0.045,0.057999999999999996,0.75,0.032,0,0,2017-18,LoyolaMaryland
+Chuck Champion,6,0.054000000000000006,0.11599999999999999,1,0.008,0,0,2017-18,LoyolaMaryland
+River Reed,4,0.21100000000000002,0.231,0.75,0,0,NA,2017-18,LoyolaMaryland
+Sam Norton,4,0.077,0,0,0.105,0.14300000000000002,0.5,2017-18,LoyolaMaryland
+James Fives,3,0.25,0.667,0.667,0,0,NA,2017-18,LoyolaMaryland
+Ian Langendoerfer,3,0.25,1,1,0.222,0,0,2017-18,LoyolaMaryland
+Luke Johnson,2,0.125,0.25,1,0,0,NA,2017-18,LoyolaMaryland
+Isaiah Hart,2,0.016,0.013000000000000001,0.5,0,0,NA,2017-18,LoyolaMaryland
+Total,112,0.115,0.147,0.696,0.033,0.03,0.353,2017-18,LoyolaMaryland

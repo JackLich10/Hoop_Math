@@ -1,8 +1,8 @@
-start_of_poss,percent_of_initial_attempts,e_fg_percent,percent_shots_at_rim,fg_percent_at_rim,percent_shots_2pt_jumpers,fg_percent_2pt_jumpers,percent_shots_3pt,fg_percent_3pt,season
-"Rebound, 0-10 s",0.129,0.53,0.368,0.63,0.259,0.386,0.373,0.354,2015-16
-"Rebound, 11-30 s",0.247,0.469,0.303,0.555,0.415,0.349,0.282,0.37,2015-16
-"Opp score, 0-10 s",0.063,0.41200000000000003,0.426,0.63,0.259,0.071,0.315,0.265,2015-16
-"Opp score, 11-30 s",0.349,0.498,0.3,0.5870000000000001,0.396,0.381,0.304,0.376,2015-16
-"Steal, 0-10 s",0.086,0.616,0.687,0.703,0.102,0.4,0.21100000000000002,0.29,2015-16
-"Steal, 11-30 s",0.02,0.456,0.294,0.4,0.353,0.583,0.353,0.25,2015-16
-Transition,0.278,0.529,0.48,0.662,0.21100000000000002,0.3,0.309,0.32,2015-16
+start_of_poss,percent_of_initial_attempts,e_fg_percent,percent_shots_at_rim,fg_percent_at_rim,percent_shots_2pt_jumpers,fg_percent_2pt_jumpers,percent_shots_3pt,fg_percent_3pt,season,team
+"Rebound, 0-10 s",0.129,0.53,0.368,0.63,0.259,0.386,0.373,0.354,2015-16,NorthDakota
+"Rebound, 11-30 s",0.247,0.469,0.303,0.555,0.415,0.349,0.282,0.37,2015-16,NorthDakota
+"Opp score, 0-10 s",0.063,0.41200000000000003,0.426,0.63,0.259,0.071,0.315,0.265,2015-16,NorthDakota
+"Opp score, 11-30 s",0.349,0.498,0.3,0.5870000000000001,0.396,0.381,0.304,0.376,2015-16,NorthDakota
+"Steal, 0-10 s",0.086,0.616,0.687,0.703,0.102,0.4,0.21100000000000002,0.29,2015-16,NorthDakota
+"Steal, 11-30 s",0.02,0.456,0.294,0.4,0.353,0.583,0.353,0.25,2015-16,NorthDakota
+Transition,0.278,0.529,0.48,0.662,0.21100000000000002,0.3,0.309,0.32,2015-16,NorthDakota

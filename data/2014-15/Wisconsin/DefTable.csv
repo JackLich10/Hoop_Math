@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.335,0.556,0.113,0.626,2014-15
-2pt Jumpers,0.408,0.358,0.055,0.37799999999999995,2014-15
-3pt Shots,0.257,0.375,0.002,0.376,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.335,0.556,0.113,0.626,2014-15,Wisconsin
+2pt Jumpers,0.408,0.358,0.055,0.37799999999999995,2014-15,Wisconsin
+3pt Shots,0.257,0.375,0.002,0.376,2014-15,Wisconsin

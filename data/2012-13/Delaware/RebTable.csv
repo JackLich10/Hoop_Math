@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jamelle Hagins,52,0.281,0.29,0.674,0.077,0.042,0.222,2012-13
-Josh Brinkley,22,0.161,0.14800000000000002,0.5710000000000001,0.113,0.07400000000000001,0.25,2012-13
-Carl Baptiste,15,0.302,0.258,0.615,0.039,0,0,2012-13
-Jarvis Threatt,14,0.091,0.16,0.727,0.021,0,0,2012-13
-Marvin King-Davis,11,0.3,0.375,0.5,0.179,0.25,0.6,2012-13
-Kyle Anderson,11,0.214,0.28600000000000003,0.667,0.078,0.095,0.5,2012-13
-Devon Saddler,11,0.057,0.038,0.429,0.018000000000000002,0.012,0.25,2012-13
-Larry Savage,9,0.385,0.556,1,0.14800000000000002,0.14300000000000002,0.25,2012-13
-Will Townsville,2,0,0,NA,0.4,1,0.5,2012-13
-Terrell Rogers,1,0.059000000000000004,0.25,1,0,0,NA,2012-13
-Total,148,0.175,0.19699999999999998,0.6509999999999999,0.054000000000000006,0.043,0.293,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jamelle Hagins,52,0.281,0.29,0.674,0.077,0.042,0.222,2012-13,Delaware
+Josh Brinkley,22,0.161,0.14800000000000002,0.5710000000000001,0.113,0.07400000000000001,0.25,2012-13,Delaware
+Carl Baptiste,15,0.302,0.258,0.615,0.039,0,0,2012-13,Delaware
+Jarvis Threatt,14,0.091,0.16,0.727,0.021,0,0,2012-13,Delaware
+Marvin King-Davis,11,0.3,0.375,0.5,0.179,0.25,0.6,2012-13,Delaware
+Kyle Anderson,11,0.214,0.28600000000000003,0.667,0.078,0.095,0.5,2012-13,Delaware
+Devon Saddler,11,0.057,0.038,0.429,0.018000000000000002,0.012,0.25,2012-13,Delaware
+Larry Savage,9,0.385,0.556,1,0.14800000000000002,0.14300000000000002,0.25,2012-13,Delaware
+Will Townsville,2,0,0,NA,0.4,1,0.5,2012-13,Delaware
+Terrell Rogers,1,0.059000000000000004,0.25,1,0,0,NA,2012-13,Delaware
+Total,148,0.175,0.19699999999999998,0.6509999999999999,0.054000000000000006,0.043,0.293,2012-13,Delaware

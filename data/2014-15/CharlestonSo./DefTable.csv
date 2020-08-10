@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.249,0.642,0.055,0.679,2014-15
-2pt Jumpers,0.348,0.376,0.069,0.40399999999999997,2014-15
-3pt Shots,0.40299999999999997,0.36200000000000004,0.006999999999999999,0.364,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.249,0.642,0.055,0.679,2014-15,CharlestonSo.
+2pt Jumpers,0.348,0.376,0.069,0.40399999999999997,2014-15,CharlestonSo.
+3pt Shots,0.40299999999999997,0.36200000000000004,0.006999999999999999,0.364,2014-15,CharlestonSo.

@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kadeem Jack,44,0.276,0.273,0.643,0.01,0.013999999999999999,0.5,2013-14
-Wally Judge,29,0.267,0.23800000000000002,0.556,0.025,0,0,2013-14
-J.J. Moore,17,0.147,0.131,0.5710000000000001,0.06,0.11800000000000001,0.667,2013-14
-Junior Etou,17,0.3,0.226,0.467,0.055999999999999994,0.16699999999999998,1,2013-14
-Craig Brown,15,0.22,0.2,0.455,0.105,0,0,2013-14
-Greg Lewis,10,0.35700000000000004,0.35700000000000004,0.5,0,0,NA,2013-14
-Malick Kone,9,0.207,0.2,0.833,0.040999999999999995,0.071,0.5,2013-14
-Myles Mack,8,0.044000000000000004,0.059000000000000004,0.6,0.012,0,0,2013-14
-D'Von Campbell,5,0.069,0,0,0.08,0.091,0.5,2013-14
-Kerwin Okoro,3,0.28600000000000003,0.2,0.5,0,0,NA,2013-14
-Jerome Seagears,2,0.038,0.048,0.5,0,0,NA,2013-14
-Total,159,0.192,0.18899999999999997,0.5660000000000001,0.028999999999999998,0.032,0.389,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kadeem Jack,44,0.276,0.273,0.643,0.01,0.013999999999999999,0.5,2013-14,Rutgers
+Wally Judge,29,0.267,0.23800000000000002,0.556,0.025,0,0,2013-14,Rutgers
+J.J. Moore,17,0.147,0.131,0.5710000000000001,0.06,0.11800000000000001,0.667,2013-14,Rutgers
+Junior Etou,17,0.3,0.226,0.467,0.055999999999999994,0.16699999999999998,1,2013-14,Rutgers
+Craig Brown,15,0.22,0.2,0.455,0.105,0,0,2013-14,Rutgers
+Greg Lewis,10,0.35700000000000004,0.35700000000000004,0.5,0,0,NA,2013-14,Rutgers
+Malick Kone,9,0.207,0.2,0.833,0.040999999999999995,0.071,0.5,2013-14,Rutgers
+Myles Mack,8,0.044000000000000004,0.059000000000000004,0.6,0.012,0,0,2013-14,Rutgers
+D'Von Campbell,5,0.069,0,0,0.08,0.091,0.5,2013-14,Rutgers
+Kerwin Okoro,3,0.28600000000000003,0.2,0.5,0,0,NA,2013-14,Rutgers
+Jerome Seagears,2,0.038,0.048,0.5,0,0,NA,2013-14,Rutgers
+Total,159,0.192,0.18899999999999997,0.5660000000000001,0.028999999999999998,0.032,0.389,2013-14,Rutgers

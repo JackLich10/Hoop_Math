@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Juwan Gray,10,0.161,0.19,0.889,0.023,0,0,2017-18
-Yauhen Massalski,8,0.1,0.109,0.833,0.095,0,0,2017-18
-Isaiah Pineiro,7,0.047,0.048,0.667,0.006,0,0,2017-18
-Tyler Williams,4,0.125,0.111,0.667,0.027000000000000003,0,0,2017-18
-Isaiah Wright,3,0.027999999999999997,0.031,0.667,0,0,NA,2017-18
-Alex Floresca,3,0.111,0,0,0,0,NA,2017-18
-Jake Gilliam,2,0.667,0.667,1,0,NA,NA,2017-18
-Jose Martinez,1,0.5,0.5,1,0,0,NA,2017-18
-Nassir Barrino,1,0.5,0.5,1,0,0,NA,2017-18
-Cameron Neubauer,1,0,0,NA,0.062,0,0,2017-18
-Olin Carter III,1,0,0,NA,0.013000000000000001,0.033,1,2017-18
-Total,41,0.07,0.078,0.735,0.013999999999999999,0.005,0.14300000000000002,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Juwan Gray,10,0.161,0.19,0.889,0.023,0,0,2017-18,SanDiego
+Yauhen Massalski,8,0.1,0.109,0.833,0.095,0,0,2017-18,SanDiego
+Isaiah Pineiro,7,0.047,0.048,0.667,0.006,0,0,2017-18,SanDiego
+Tyler Williams,4,0.125,0.111,0.667,0.027000000000000003,0,0,2017-18,SanDiego
+Isaiah Wright,3,0.027999999999999997,0.031,0.667,0,0,NA,2017-18,SanDiego
+Alex Floresca,3,0.111,0,0,0,0,NA,2017-18,SanDiego
+Jake Gilliam,2,0.667,0.667,1,0,NA,NA,2017-18,SanDiego
+Jose Martinez,1,0.5,0.5,1,0,0,NA,2017-18,SanDiego
+Nassir Barrino,1,0.5,0.5,1,0,0,NA,2017-18,SanDiego
+Cameron Neubauer,1,0,0,NA,0.062,0,0,2017-18,SanDiego
+Olin Carter III,1,0,0,NA,0.013000000000000001,0.033,1,2017-18,SanDiego
+Total,41,0.07,0.078,0.735,0.013999999999999999,0.005,0.14300000000000002,2017-18,SanDiego

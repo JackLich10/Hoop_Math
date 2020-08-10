@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.40700000000000003,0.5329999999999999,0.138,0.618,2012-13
-2pt Jumpers,0.294,0.35100000000000003,0.084,0.384,2012-13
-3pt Shots,0.299,0.342,0.01,0.345,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.40700000000000003,0.5329999999999999,0.138,0.618,2012-13,SantaClara
+2pt Jumpers,0.294,0.35100000000000003,0.084,0.384,2012-13,SantaClara
+3pt Shots,0.299,0.342,0.01,0.345,2012-13,SantaClara

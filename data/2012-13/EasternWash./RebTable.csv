@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Martin Seiferth,40,0.23399999999999999,0.20199999999999999,0.562,0.32,0.583,0.875,2012-13
-Venky Jois,24,0.10300000000000001,0.13699999999999998,0.737,0.068,0.038,0.2,2012-13
-Thomas Reuter,13,0.226,0.348,0.667,0.019,0.055999999999999994,1,2012-13
-Jeffrey Forbes,8,0.11800000000000001,0.17600000000000002,0.75,0.077,0.214,1,2012-13
-Jordan Hickert,5,0.41700000000000004,1,0.8,0,NA,NA,2012-13
-Justin Crosgile,3,0.083,0,0,0,0,NA,2012-13
-Parker Kelly,3,0.032,0.055999999999999994,1,0.023,0,0,2012-13
-Tyler Harvey,2,0.071,0.091,1,0,0,NA,2012-13
-Collin Chiverton,2,0.027999999999999997,0.053,1,0.019,0,0,2012-13
-Kevin Winford,1,0.032,0,0,0,0,NA,2012-13
-Total,101,0.129,0.152,0.638,0.046,0.079,0.632,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Martin Seiferth,40,0.23399999999999999,0.20199999999999999,0.562,0.32,0.583,0.875,2012-13,EasternWash.
+Venky Jois,24,0.10300000000000001,0.13699999999999998,0.737,0.068,0.038,0.2,2012-13,EasternWash.
+Thomas Reuter,13,0.226,0.348,0.667,0.019,0.055999999999999994,1,2012-13,EasternWash.
+Jeffrey Forbes,8,0.11800000000000001,0.17600000000000002,0.75,0.077,0.214,1,2012-13,EasternWash.
+Jordan Hickert,5,0.41700000000000004,1,0.8,0,NA,NA,2012-13,EasternWash.
+Justin Crosgile,3,0.083,0,0,0,0,NA,2012-13,EasternWash.
+Parker Kelly,3,0.032,0.055999999999999994,1,0.023,0,0,2012-13,EasternWash.
+Tyler Harvey,2,0.071,0.091,1,0,0,NA,2012-13,EasternWash.
+Collin Chiverton,2,0.027999999999999997,0.053,1,0.019,0,0,2012-13,EasternWash.
+Kevin Winford,1,0.032,0,0,0,0,NA,2012-13,EasternWash.
+Total,101,0.129,0.152,0.638,0.046,0.079,0.632,2012-13,EasternWash.

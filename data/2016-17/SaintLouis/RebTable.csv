@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Reggie Agbeko,23,0.132,0.159,0.722,0.07,0.069,0.4,2016-17
-Jalen Johnson,15,0.221,0.257,0.6,0,0,NA,2016-17
-Elliott Welmer,10,0.081,0.125,0.857,0.115,0.111,0.33299999999999996,2016-17
-Mike Crawford,6,0.033,0.043,0.75,0.025,0.045,0.5,2016-17
-Davell Roby,4,0.036000000000000004,0.043,0.667,0.015,0,0,2016-17
-Zeke Moore,4,0.095,0.091,0.5,0.054000000000000006,0.111,0.5,2016-17
-Aaron Hines,2,0.028999999999999998,0,0,0,0,NA,2016-17
-Matt Neufeld,2,0.2,0.14300000000000002,0.5,0,0,NA,2016-17
-Markos Psimitis,1,1,NA,0,NA,NA,NA,2016-17
-Austin Gillmann,1,0.2,0.2,1,0,NA,NA,2016-17
-Total,68,0.087,0.105,0.655,0.03,0.039,0.385,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Reggie Agbeko,23,0.132,0.159,0.722,0.07,0.069,0.4,2016-17,SaintLouis
+Jalen Johnson,15,0.221,0.257,0.6,0,0,NA,2016-17,SaintLouis
+Elliott Welmer,10,0.081,0.125,0.857,0.115,0.111,0.33299999999999996,2016-17,SaintLouis
+Mike Crawford,6,0.033,0.043,0.75,0.025,0.045,0.5,2016-17,SaintLouis
+Davell Roby,4,0.036000000000000004,0.043,0.667,0.015,0,0,2016-17,SaintLouis
+Zeke Moore,4,0.095,0.091,0.5,0.054000000000000006,0.111,0.5,2016-17,SaintLouis
+Aaron Hines,2,0.028999999999999998,0,0,0,0,NA,2016-17,SaintLouis
+Matt Neufeld,2,0.2,0.14300000000000002,0.5,0,0,NA,2016-17,SaintLouis
+Markos Psimitis,1,1,NA,0,NA,NA,NA,2016-17,SaintLouis
+Austin Gillmann,1,0.2,0.2,1,0,NA,NA,2016-17,SaintLouis
+Total,68,0.087,0.105,0.655,0.03,0.039,0.385,2016-17,SaintLouis

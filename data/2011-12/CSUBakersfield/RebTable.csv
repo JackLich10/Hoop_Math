@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Donald Johnson,24,0.165,0.145,0.643,0.182,0.105,0.2,2011-12
-Rashad Savage,23,0.28800000000000003,0.25,0.579,0.174,0.25,0.5,2011-12
-Mo Hughley,17,0.179,0.22899999999999998,0.733,0.065,0,0,2011-12
-Stephon Carter,12,0.08800000000000001,0.08199999999999999,0.6,0.012,0,0,2011-12
-Adam Young,9,0.33299999999999996,0.33299999999999996,0.5710000000000001,0.040999999999999995,0,0,2011-12
-Zach Lamb,5,0.028999999999999998,0.022000000000000002,0.5,0.038,0.059000000000000004,0.667,2011-12
-Andre Jackson,2,0.1,0.125,1,0.023,0.055999999999999994,1,2011-12
-Issiah Grayson,2,0.038,0.07400000000000001,1,0,0,NA,2011-12
-Robert Hayes,2,0.2,0.4,1,0,0,NA,2011-12
-Tyrone White,1,0,0,NA,0,0,NA,2011-12
-Total,97,0.13,0.134,0.653,0.040999999999999995,0.033,0.292,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Donald Johnson,24,0.165,0.145,0.643,0.182,0.105,0.2,2011-12,CSUBakersfield
+Rashad Savage,23,0.28800000000000003,0.25,0.579,0.174,0.25,0.5,2011-12,CSUBakersfield
+Mo Hughley,17,0.179,0.22899999999999998,0.733,0.065,0,0,2011-12,CSUBakersfield
+Stephon Carter,12,0.08800000000000001,0.08199999999999999,0.6,0.012,0,0,2011-12,CSUBakersfield
+Adam Young,9,0.33299999999999996,0.33299999999999996,0.5710000000000001,0.040999999999999995,0,0,2011-12,CSUBakersfield
+Zach Lamb,5,0.028999999999999998,0.022000000000000002,0.5,0.038,0.059000000000000004,0.667,2011-12,CSUBakersfield
+Andre Jackson,2,0.1,0.125,1,0.023,0.055999999999999994,1,2011-12,CSUBakersfield
+Issiah Grayson,2,0.038,0.07400000000000001,1,0,0,NA,2011-12,CSUBakersfield
+Robert Hayes,2,0.2,0.4,1,0,0,NA,2011-12,CSUBakersfield
+Tyrone White,1,0,0,NA,0,0,NA,2011-12,CSUBakersfield
+Total,97,0.13,0.134,0.653,0.040999999999999995,0.033,0.292,2011-12,CSUBakersfield

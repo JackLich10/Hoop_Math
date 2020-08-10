@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.392,0.648,0.079,0.7040000000000001,2018-19
-2pt Jumpers,0.191,0.348,0.053,0.368,2018-19
-3pt Shots,0.41700000000000004,0.363,0.002,0.364,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.392,0.648,0.079,0.7040000000000001,2018-19,WashingtonSt.
+2pt Jumpers,0.191,0.348,0.053,0.368,2018-19,WashingtonSt.
+3pt Shots,0.41700000000000004,0.363,0.002,0.364,2018-19,WashingtonSt.

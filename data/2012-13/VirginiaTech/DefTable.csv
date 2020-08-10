@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.337,0.589,0.11699999999999999,0.667,2012-13
-2pt Jumpers,0.293,0.373,0.081,0.405,2012-13
-3pt Shots,0.37,0.348,0.006999999999999999,0.35,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.337,0.589,0.11699999999999999,0.667,2012-13,VirginiaTech
+2pt Jumpers,0.293,0.373,0.081,0.405,2012-13,VirginiaTech
+3pt Shots,0.37,0.348,0.006999999999999999,0.35,2012-13,VirginiaTech

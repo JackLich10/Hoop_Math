@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Matt Pile,53,0.239,0.276,0.7290000000000001,0.079,0.071,0.4,2018-19
-Zach Jackson,13,0.09300000000000001,0.07200000000000001,0.462,0,0,NA,2018-19
-Wanjang Tut,9,0.182,0.161,0.625,0,0,NA,2018-19
-Mitch Hahn,8,0.086,0.077,0.5,0.006999999999999999,0,0,2018-19
-Brett Barney,5,0.136,0.077,0.33299999999999996,0.11800000000000001,0.16699999999999998,0.5,2018-19
-KJ Robinson,3,0.013000000000000001,0,0,0.027999999999999997,0.033,0.5,2018-19
-Zach Thornhill,3,0.25,0.4,1,0.125,0,0,2018-19
-Ayo Akinwole,2,0.026000000000000002,0.05,1,0.027999999999999997,0.067,1,2018-19
-JT Gibson,2,0.033,0.028999999999999998,0.5,0,0,NA,2018-19
-Hayden Miller,2,NA,NA,NA,1,1,0.5,2018-19
-Total,100,0.124,0.135,0.643,0.023,0.022000000000000002,0.429,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Matt Pile,53,0.239,0.276,0.7290000000000001,0.079,0.071,0.4,2018-19,Omaha
+Zach Jackson,13,0.09300000000000001,0.07200000000000001,0.462,0,0,NA,2018-19,Omaha
+Wanjang Tut,9,0.182,0.161,0.625,0,0,NA,2018-19,Omaha
+Mitch Hahn,8,0.086,0.077,0.5,0.006999999999999999,0,0,2018-19,Omaha
+Brett Barney,5,0.136,0.077,0.33299999999999996,0.11800000000000001,0.16699999999999998,0.5,2018-19,Omaha
+KJ Robinson,3,0.013000000000000001,0,0,0.027999999999999997,0.033,0.5,2018-19,Omaha
+Zach Thornhill,3,0.25,0.4,1,0.125,0,0,2018-19,Omaha
+Ayo Akinwole,2,0.026000000000000002,0.05,1,0.027999999999999997,0.067,1,2018-19,Omaha
+JT Gibson,2,0.033,0.028999999999999998,0.5,0,0,NA,2018-19,Omaha
+Hayden Miller,2,NA,NA,NA,1,1,0.5,2018-19,Omaha
+Total,100,0.124,0.135,0.643,0.023,0.022000000000000002,0.429,2018-19,Omaha

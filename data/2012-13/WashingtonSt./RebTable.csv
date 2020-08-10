@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Brock Motum,31,0.11800000000000001,0.113,0.6,0.039,0.053,0.4,2012-13
-Mike Ladd,24,0.214,0.212,0.611,0.071,0.125,0.6,2012-13
-D.J. Shelton,16,0.182,0.222,0.5710000000000001,0.095,0,0,2012-13
-Will DiIorio,12,0.256,0.24,0.545,0.1,0,0,2012-13
-Richard Longrus,10,0.42100000000000004,0.545,0.75,0.133,0,0,2012-13
-Dexter Kernich-Drew,3,0.051,0.037000000000000005,0.5,0,0,NA,2012-13
-Royce Woolridge,2,0.02,0.017,0.5,0,0,NA,2012-13
-Davonte Lacy,2,0.044000000000000004,0.04,0.5,0,0,NA,2012-13
-James Hunter,1,0.14300000000000002,0.33299999999999996,1,0,NA,NA,2012-13
-Brett Boese,1,0.33299999999999996,0,0,0,0,NA,2012-13
-Total,102,0.132,0.133,0.595,0.04,0.045,0.33299999999999996,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Brock Motum,31,0.11800000000000001,0.113,0.6,0.039,0.053,0.4,2012-13,WashingtonSt.
+Mike Ladd,24,0.214,0.212,0.611,0.071,0.125,0.6,2012-13,WashingtonSt.
+D.J. Shelton,16,0.182,0.222,0.5710000000000001,0.095,0,0,2012-13,WashingtonSt.
+Will DiIorio,12,0.256,0.24,0.545,0.1,0,0,2012-13,WashingtonSt.
+Richard Longrus,10,0.42100000000000004,0.545,0.75,0.133,0,0,2012-13,WashingtonSt.
+Dexter Kernich-Drew,3,0.051,0.037000000000000005,0.5,0,0,NA,2012-13,WashingtonSt.
+Royce Woolridge,2,0.02,0.017,0.5,0,0,NA,2012-13,WashingtonSt.
+Davonte Lacy,2,0.044000000000000004,0.04,0.5,0,0,NA,2012-13,WashingtonSt.
+James Hunter,1,0.14300000000000002,0.33299999999999996,1,0,NA,NA,2012-13,WashingtonSt.
+Brett Boese,1,0.33299999999999996,0,0,0,0,NA,2012-13,WashingtonSt.
+Total,102,0.132,0.133,0.595,0.04,0.045,0.33299999999999996,2012-13,WashingtonSt.

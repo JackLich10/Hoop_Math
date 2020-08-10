@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.301,0.598,0.106,0.669,2015-16
-2pt Jumpers,0.304,0.363,0.083,0.396,2015-16
-3pt Shots,0.395,0.337,0.001,0.337,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.301,0.598,0.106,0.669,2015-16,UTEP
+2pt Jumpers,0.304,0.363,0.083,0.396,2015-16,UTEP
+3pt Shots,0.395,0.337,0.001,0.337,2015-16,UTEP

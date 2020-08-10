@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Mark Cisco,26,0.198,0.198,0.773,0.04,0,0,2011-12
-Blaise Staab,15,0.179,0.22899999999999998,0.667,0.13,0.25,0.667,2011-12
-John Daniels,9,0.21100000000000002,0.28600000000000003,0.75,0.027000000000000003,0.16699999999999998,1,2011-12
-Alex Rosenberg,6,0.092,0.028999999999999998,0.16699999999999998,0,0,NA,2011-12
-Cory Osetkowski,6,0.121,0.11800000000000001,0.5,0.057,0.067,0.5,2011-12
-Brian Barbour,6,0.028999999999999998,0.022000000000000002,0.33299999999999996,0.013999999999999999,0.034,1,2011-12
-Steve Egee,2,0.154,0.125,0.5,0,NA,NA,2011-12
-Meiko Lyles,1,0.022000000000000002,0,0,0,0,NA,2011-12
-Noruwa Agho,1,0.067,0,0,0,0,NA,2011-12
-Darius Stevens,1,0.2,0,0,NA,NA,NA,2011-12
-Total,73,0.114,0.121,0.6,0.024,0.034,0.5,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Mark Cisco,26,0.198,0.198,0.773,0.04,0,0,2011-12,Columbia
+Blaise Staab,15,0.179,0.22899999999999998,0.667,0.13,0.25,0.667,2011-12,Columbia
+John Daniels,9,0.21100000000000002,0.28600000000000003,0.75,0.027000000000000003,0.16699999999999998,1,2011-12,Columbia
+Alex Rosenberg,6,0.092,0.028999999999999998,0.16699999999999998,0,0,NA,2011-12,Columbia
+Cory Osetkowski,6,0.121,0.11800000000000001,0.5,0.057,0.067,0.5,2011-12,Columbia
+Brian Barbour,6,0.028999999999999998,0.022000000000000002,0.33299999999999996,0.013999999999999999,0.034,1,2011-12,Columbia
+Steve Egee,2,0.154,0.125,0.5,0,NA,NA,2011-12,Columbia
+Meiko Lyles,1,0.022000000000000002,0,0,0,0,NA,2011-12,Columbia
+Noruwa Agho,1,0.067,0,0,0,0,NA,2011-12,Columbia
+Darius Stevens,1,0.2,0,0,NA,NA,NA,2011-12,Columbia
+Total,73,0.114,0.121,0.6,0.024,0.034,0.5,2011-12,Columbia

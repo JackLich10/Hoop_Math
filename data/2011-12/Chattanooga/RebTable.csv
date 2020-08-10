@@ -1,16 +1,16 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Drazen Zlovaric,26,0.145,0.16,0.765,0.06,0.03,0.222,2011-12
-Z. Mason,24,0.317,0.344,0.579,0.09300000000000001,0.154,0.4,2011-12
-Jahmal Burroughs,14,0.19,0.22,0.75,0.095,0.125,0.5,2011-12
-Jared Bryant,11,0.191,0.161,0.556,0.2,0,0,2011-12
-Ricky Taylor,8,0.039,0.055999999999999994,0.75,0.048,0,0,2011-12
-Omar Wattad,6,0.079,0.071,0.33299999999999996,0.027000000000000003,0.043,0.5,2011-12
-Keegan Bell,3,0.038,0.038,0.5,0,0,NA,2011-12
-Lance Stokes,3,0.14300000000000002,0.231,1,0,0,NA,2011-12
-Drew Baker,3,0.158,0.182,0.667,0,NA,NA,2011-12
-Martynas Bareika,2,0.2,0.33299999999999996,1,0,NA,NA,2011-12
-Ronrico White,2,0.07400000000000001,0.133,1,0,0,NA,2011-12
-Chris Early,2,0.091,0,0,0,0,NA,2011-12
-Dontay Hampton,2,0.022000000000000002,0,0,0.033,0,0,2011-12
-Trey Brown,1,0.5,1,1,0,NA,NA,2011-12
-Total,107,0.128,0.14800000000000002,0.662,0.05,0.036000000000000004,0.24,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Drazen Zlovaric,26,0.145,0.16,0.765,0.06,0.03,0.222,2011-12,Chattanooga
+Z. Mason,24,0.317,0.344,0.579,0.09300000000000001,0.154,0.4,2011-12,Chattanooga
+Jahmal Burroughs,14,0.19,0.22,0.75,0.095,0.125,0.5,2011-12,Chattanooga
+Jared Bryant,11,0.191,0.161,0.556,0.2,0,0,2011-12,Chattanooga
+Ricky Taylor,8,0.039,0.055999999999999994,0.75,0.048,0,0,2011-12,Chattanooga
+Omar Wattad,6,0.079,0.071,0.33299999999999996,0.027000000000000003,0.043,0.5,2011-12,Chattanooga
+Keegan Bell,3,0.038,0.038,0.5,0,0,NA,2011-12,Chattanooga
+Lance Stokes,3,0.14300000000000002,0.231,1,0,0,NA,2011-12,Chattanooga
+Drew Baker,3,0.158,0.182,0.667,0,NA,NA,2011-12,Chattanooga
+Martynas Bareika,2,0.2,0.33299999999999996,1,0,NA,NA,2011-12,Chattanooga
+Ronrico White,2,0.07400000000000001,0.133,1,0,0,NA,2011-12,Chattanooga
+Chris Early,2,0.091,0,0,0,0,NA,2011-12,Chattanooga
+Dontay Hampton,2,0.022000000000000002,0,0,0.033,0,0,2011-12,Chattanooga
+Trey Brown,1,0.5,1,1,0,NA,NA,2011-12,Chattanooga
+Total,107,0.128,0.14800000000000002,0.662,0.05,0.036000000000000004,0.24,2011-12,Chattanooga

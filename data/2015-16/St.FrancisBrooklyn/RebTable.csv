@@ -1,9 +1,9 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Chris Hooper,26,0.132,0.17800000000000002,0.8079999999999999,0,0,NA,2015-16
-Antonio Jennifer,23,0.258,0.24,0.522,0,0,NA,2015-16
-Amdy Fall,17,0.191,0.204,0.588,0,0,NA,2015-16
-Tyreek Jewell,11,0.075,0.085,0.6,0,0,NA,2015-16
-Keon Williams,6,0.263,0.33299999999999996,0.6,0.083,0.16699999999999998,1,2015-16
-Jon Doss,4,0.308,0.4,1,0,0,NA,2015-16
-Yunus Hopkinson,1,0.017,0.071,1,0,0,NA,2015-16
-Total,89,0.13,0.161,0.6629999999999999,0.003,0.01,1,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Chris Hooper,26,0.132,0.17800000000000002,0.8079999999999999,0,0,NA,2015-16,St.FrancisBrooklyn
+Antonio Jennifer,23,0.258,0.24,0.522,0,0,NA,2015-16,St.FrancisBrooklyn
+Amdy Fall,17,0.191,0.204,0.588,0,0,NA,2015-16,St.FrancisBrooklyn
+Tyreek Jewell,11,0.075,0.085,0.6,0,0,NA,2015-16,St.FrancisBrooklyn
+Keon Williams,6,0.263,0.33299999999999996,0.6,0.083,0.16699999999999998,1,2015-16,St.FrancisBrooklyn
+Jon Doss,4,0.308,0.4,1,0,0,NA,2015-16,St.FrancisBrooklyn
+Yunus Hopkinson,1,0.017,0.071,1,0,0,NA,2015-16,St.FrancisBrooklyn
+Total,89,0.13,0.161,0.6629999999999999,0.003,0.01,1,2015-16,St.FrancisBrooklyn

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.418,0.5710000000000001,0.12300000000000001,0.6509999999999999,2015-16
-2pt Jumpers,0.27899999999999997,0.358,0.049,0.376,2015-16
-3pt Shots,0.303,0.337,0.01,0.341,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.418,0.5710000000000001,0.12300000000000001,0.6509999999999999,2015-16,VCU
+2pt Jumpers,0.27899999999999997,0.358,0.049,0.376,2015-16,VCU
+3pt Shots,0.303,0.337,0.01,0.341,2015-16,VCU

@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Au'diese Toney,32,0.23399999999999999,0.17600000000000002,0.34600000000000003,0.14300000000000002,0.083,0.16699999999999998,2018-19
-Terrell Brown,24,0.24,0.13699999999999998,0.304,0.021,0.071,1,2018-19
-Jared Wilson-Frame,21,0.235,0.222,0.5,0.042,0,0,2018-19
-Malik Ellison,15,0.14400000000000002,0.161,0.643,0.024,0,0,2018-19
-Kene Chukwuka,14,0.20600000000000002,0.19,0.615,0.5,NA,0,2018-19
-Xavier Johnson,10,0.043,0.042,0.5,0.022000000000000002,0.038,0.5,2018-19
-Trey McGowens,2,0.015,0.028999999999999998,1,0,0,NA,2018-19
-Samson George,2,0.33299999999999996,0.33299999999999996,0.5,NA,NA,NA,2018-19
-Sidy N'Dir,2,0.02,0.032,1,0,0,NA,2018-19
-Khameron Davis,1,0.1,0,0,0,0,NA,2018-19
-Total,123,0.127,0.109,0.462,0.036000000000000004,0.031,0.25,2018-19
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Au'diese Toney,32,0.23399999999999999,0.17600000000000002,0.34600000000000003,0.14300000000000002,0.083,0.16699999999999998,2018-19,Pittsburgh
+Terrell Brown,24,0.24,0.13699999999999998,0.304,0.021,0.071,1,2018-19,Pittsburgh
+Jared Wilson-Frame,21,0.235,0.222,0.5,0.042,0,0,2018-19,Pittsburgh
+Malik Ellison,15,0.14400000000000002,0.161,0.643,0.024,0,0,2018-19,Pittsburgh
+Kene Chukwuka,14,0.20600000000000002,0.19,0.615,0.5,NA,0,2018-19,Pittsburgh
+Xavier Johnson,10,0.043,0.042,0.5,0.022000000000000002,0.038,0.5,2018-19,Pittsburgh
+Trey McGowens,2,0.015,0.028999999999999998,1,0,0,NA,2018-19,Pittsburgh
+Samson George,2,0.33299999999999996,0.33299999999999996,0.5,NA,NA,NA,2018-19,Pittsburgh
+Sidy N'Dir,2,0.02,0.032,1,0,0,NA,2018-19,Pittsburgh
+Khameron Davis,1,0.1,0,0,0,0,NA,2018-19,Pittsburgh
+Total,123,0.127,0.109,0.462,0.036000000000000004,0.031,0.25,2018-19,Pittsburgh

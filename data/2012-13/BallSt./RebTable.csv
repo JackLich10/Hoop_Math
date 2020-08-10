@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Majok Majok,33,0.171,0.172,0.5710000000000001,0.094,0.077,0.2,2012-13
-Chris Bond,23,0.126,0.146,0.722,0.1,0.062,0.2,2012-13
-Matt Kamieniecki,16,0.23199999999999998,0.182,0.462,0.077,0.067,0.33299999999999996,2012-13
-Zach Fields,7,0.094,0.111,0.6,0.062,0.071,0.5,2012-13
-Marcus Posley,2,0,0,NA,0,0,NA,2012-13
-Tyler Koch,2,0.154,0,0,0,NA,NA,2012-13
-Bo Calhoun,2,0.087,0.067,0.5,0,0,NA,2012-13
-Jauwan Scaife,1,0,0,NA,0.011000000000000001,0.026000000000000002,1,2012-13
-Michael Ramey,1,0.5,1,1,0,0,NA,2012-13
-Total,87,0.113,0.114,0.58,0.040999999999999995,0.039,0.312,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Majok Majok,33,0.171,0.172,0.5710000000000001,0.094,0.077,0.2,2012-13,BallSt.
+Chris Bond,23,0.126,0.146,0.722,0.1,0.062,0.2,2012-13,BallSt.
+Matt Kamieniecki,16,0.23199999999999998,0.182,0.462,0.077,0.067,0.33299999999999996,2012-13,BallSt.
+Zach Fields,7,0.094,0.111,0.6,0.062,0.071,0.5,2012-13,BallSt.
+Marcus Posley,2,0,0,NA,0,0,NA,2012-13,BallSt.
+Tyler Koch,2,0.154,0,0,0,NA,NA,2012-13,BallSt.
+Bo Calhoun,2,0.087,0.067,0.5,0,0,NA,2012-13,BallSt.
+Jauwan Scaife,1,0,0,NA,0.011000000000000001,0.026000000000000002,1,2012-13,BallSt.
+Michael Ramey,1,0.5,1,1,0,0,NA,2012-13,BallSt.
+Total,87,0.113,0.114,0.58,0.040999999999999995,0.039,0.312,2012-13,BallSt.

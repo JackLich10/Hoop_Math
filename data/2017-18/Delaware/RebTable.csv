@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Eric Carter,22,0.14300000000000002,0.159,0.684,0.043,0.051,0.667,2017-18
-Ryan Daly,19,0.08900000000000001,0.08800000000000001,0.615,0.05,0.073,0.5,2017-18
-Chryee Walker,17,0.19399999999999998,0.184,0.5,0.10300000000000001,0.28600000000000003,0.667,2017-18
-Skye Johnson,13,0.16899999999999998,0.22399999999999998,0.917,0.059000000000000004,0.14300000000000002,1,2017-18
-Anthony Mosley,13,0.06,0.053,0.5,0.052000000000000005,0.055999999999999994,0.33299999999999996,2017-18
-Derrick Woods,4,0.174,0.062,0.25,0,0,NA,2017-18
-Kevin Anderson,3,0.048,0.045,0.5,0.053,0.111,1,2017-18
-Ryan Allen,2,0.016,0.03,1,0.009000000000000001,0.023,1,2017-18
-Darian Bryant,2,0.03,0,0,0,0,NA,2017-18
-Jacob Cushing,1,0.048,0,0,0,0,NA,2017-18
-Total,96,0.096,0.099,0.603,0.037000000000000005,0.057999999999999996,0.611,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Eric Carter,22,0.14300000000000002,0.159,0.684,0.043,0.051,0.667,2017-18,Delaware
+Ryan Daly,19,0.08900000000000001,0.08800000000000001,0.615,0.05,0.073,0.5,2017-18,Delaware
+Chryee Walker,17,0.19399999999999998,0.184,0.5,0.10300000000000001,0.28600000000000003,0.667,2017-18,Delaware
+Skye Johnson,13,0.16899999999999998,0.22399999999999998,0.917,0.059000000000000004,0.14300000000000002,1,2017-18,Delaware
+Anthony Mosley,13,0.06,0.053,0.5,0.052000000000000005,0.055999999999999994,0.33299999999999996,2017-18,Delaware
+Derrick Woods,4,0.174,0.062,0.25,0,0,NA,2017-18,Delaware
+Kevin Anderson,3,0.048,0.045,0.5,0.053,0.111,1,2017-18,Delaware
+Ryan Allen,2,0.016,0.03,1,0.009000000000000001,0.023,1,2017-18,Delaware
+Darian Bryant,2,0.03,0,0,0,0,NA,2017-18,Delaware
+Jacob Cushing,1,0.048,0,0,0,0,NA,2017-18,Delaware
+Total,96,0.096,0.099,0.603,0.037000000000000005,0.057999999999999996,0.611,2017-18,Delaware

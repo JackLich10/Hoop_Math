@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.317,0.573,0.121,0.652,2014-15
-2pt Jumpers,0.37,0.32,0.084,0.35,2014-15
-3pt Shots,0.313,0.299,0.004,0.3,2014-15
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.317,0.573,0.121,0.652,2014-15,SouthernU.
+2pt Jumpers,0.37,0.32,0.084,0.35,2014-15,SouthernU.
+3pt Shots,0.313,0.299,0.004,0.3,2014-15,SouthernU.

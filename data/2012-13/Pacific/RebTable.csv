@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Khalil Kelley,28,0.193,0.172,0.588,0.138,0.185,0.455,2012-13
-Colin Beatty,12,0.14300000000000002,0.11800000000000001,0.5,0.09,0.139,0.625,2012-13
-Tony Gill,9,0.077,0.067,0.6,0.067,0.04,0.25,2012-13
-Travis Fulton,9,0.08800000000000001,0.027999999999999997,0.2,0.040999999999999995,0.04,0.5,2012-13
-Ross Rivera,8,0.179,0.154,0.5710000000000001,0.009000000000000001,0,0,2012-13
-Lorenzo McCloud,3,0.038,0.024,0.33299999999999996,0,0,NA,2012-13
-Tim Thomas,3,0.2,0.182,0.667,0,0,NA,2012-13
-Trevin Harris,3,0.25,0.111,0.33299999999999996,0,0,NA,2012-13
-Sama Taku,3,0.016,0,0,0.017,0.021,0.5,2012-13
-Jordan Turner,1,0,0,NA,0.5,NA,0,2012-13
-Total,79,0.09699999999999999,0.08199999999999999,0.5,0.040999999999999995,0.046,0.452,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Khalil Kelley,28,0.193,0.172,0.588,0.138,0.185,0.455,2012-13,Pacific
+Colin Beatty,12,0.14300000000000002,0.11800000000000001,0.5,0.09,0.139,0.625,2012-13,Pacific
+Tony Gill,9,0.077,0.067,0.6,0.067,0.04,0.25,2012-13,Pacific
+Travis Fulton,9,0.08800000000000001,0.027999999999999997,0.2,0.040999999999999995,0.04,0.5,2012-13,Pacific
+Ross Rivera,8,0.179,0.154,0.5710000000000001,0.009000000000000001,0,0,2012-13,Pacific
+Lorenzo McCloud,3,0.038,0.024,0.33299999999999996,0,0,NA,2012-13,Pacific
+Tim Thomas,3,0.2,0.182,0.667,0,0,NA,2012-13,Pacific
+Trevin Harris,3,0.25,0.111,0.33299999999999996,0,0,NA,2012-13,Pacific
+Sama Taku,3,0.016,0,0,0.017,0.021,0.5,2012-13,Pacific
+Jordan Turner,1,0,0,NA,0.5,NA,0,2012-13,Pacific
+Total,79,0.09699999999999999,0.08199999999999999,0.5,0.040999999999999995,0.046,0.452,2012-13,Pacific

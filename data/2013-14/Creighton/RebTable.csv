@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Doug McDermott,21,0.075,0.091,0.833,0.017,0.013999999999999999,0.33299999999999996,2013-14
-Will Artino,15,0.146,0.155,0.7859999999999999,0.045,0.125,1,2013-14
-Grant Gibbs,12,0.18,0.225,0.818,0.036000000000000004,0,0,2013-14
-Devin Brooks,10,0.086,0.10300000000000001,0.667,0.031,0,0,2013-14
-Austin Chatman,7,0.092,0.061,0.33299999999999996,0,0,NA,2013-14
-Zach Hanson,6,0.192,0.22699999999999998,1,0.1,0,0,2013-14
-Ethan Wragge,6,1,1,0.33299999999999996,0.4,0,0,2013-14
-Avery Dingman,4,0.079,0.115,1,0.125,0,0,2013-14
-Geoffrey Groselle,4,0.444,0.5,1,0,0,NA,2013-14
-Jahenns Manigat,3,0.059000000000000004,0.05,0.5,0,0,NA,2013-14
-Total,88,0.107,0.125,0.76,0.027000000000000003,0.013999999999999999,0.2,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Doug McDermott,21,0.075,0.091,0.833,0.017,0.013999999999999999,0.33299999999999996,2013-14,Creighton
+Will Artino,15,0.146,0.155,0.7859999999999999,0.045,0.125,1,2013-14,Creighton
+Grant Gibbs,12,0.18,0.225,0.818,0.036000000000000004,0,0,2013-14,Creighton
+Devin Brooks,10,0.086,0.10300000000000001,0.667,0.031,0,0,2013-14,Creighton
+Austin Chatman,7,0.092,0.061,0.33299999999999996,0,0,NA,2013-14,Creighton
+Zach Hanson,6,0.192,0.22699999999999998,1,0.1,0,0,2013-14,Creighton
+Ethan Wragge,6,1,1,0.33299999999999996,0.4,0,0,2013-14,Creighton
+Avery Dingman,4,0.079,0.115,1,0.125,0,0,2013-14,Creighton
+Geoffrey Groselle,4,0.444,0.5,1,0,0,NA,2013-14,Creighton
+Jahenns Manigat,3,0.059000000000000004,0.05,0.5,0,0,NA,2013-14,Creighton
+Total,88,0.107,0.125,0.76,0.027000000000000003,0.013999999999999999,0.2,2013-14,Creighton

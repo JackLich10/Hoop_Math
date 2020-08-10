@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Nate Hinton,21,0.276,0.281,0.562,0.024,0,0,2019-20
-Fabian White Jr,18,0.254,0.35100000000000003,0.812,0.011000000000000001,0,0,2019-20
-Brison Gresham,16,0.33299999999999996,0.265,0.562,0,0,NA,2019-20
-Harris Chris,11,0.155,0.182,0.889,0.087,0.125,0.5,2019-20
-Quentin Grimes,8,0.07400000000000001,0.113,1,0,0,NA,2019-20
-Caleb Mills,3,0,0,NA,0.017,0.017,0.33299999999999996,2019-20
-Marcus Sasser,2,0,0,NA,0.026000000000000002,0,0,2019-20
-Justin Gorham,2,0.125,0.125,0.5,0,0,NA,2019-20
-DeJon Jarreau,2,0.023,0.023,0.5,0,0,NA,2019-20
-Total,83,0.135,0.157,0.701,0.013999999999999999,0.006999999999999999,0.2,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Nate Hinton,21,0.276,0.281,0.562,0.024,0,0,2019-20,Houston
+Fabian White Jr,18,0.254,0.35100000000000003,0.812,0.011000000000000001,0,0,2019-20,Houston
+Brison Gresham,16,0.33299999999999996,0.265,0.562,0,0,NA,2019-20,Houston
+Harris Chris,11,0.155,0.182,0.889,0.087,0.125,0.5,2019-20,Houston
+Quentin Grimes,8,0.07400000000000001,0.113,1,0,0,NA,2019-20,Houston
+Caleb Mills,3,0,0,NA,0.017,0.017,0.33299999999999996,2019-20,Houston
+Marcus Sasser,2,0,0,NA,0.026000000000000002,0,0,2019-20,Houston
+Justin Gorham,2,0.125,0.125,0.5,0,0,NA,2019-20,Houston
+DeJon Jarreau,2,0.023,0.023,0.5,0,0,NA,2019-20,Houston
+Total,83,0.135,0.157,0.701,0.013999999999999999,0.006999999999999999,0.2,2019-20,Houston

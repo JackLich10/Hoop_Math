@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.309,0.605,0.067,0.648,2015-16
-2pt Jumpers,0.29600000000000004,0.34299999999999997,0.083,0.374,2015-16
-3pt Shots,0.395,0.385,0.006999999999999999,0.38799999999999996,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.309,0.605,0.067,0.648,2015-16,SanFrancisco
+2pt Jumpers,0.29600000000000004,0.34299999999999997,0.083,0.374,2015-16,SanFrancisco
+3pt Shots,0.395,0.385,0.006999999999999999,0.38799999999999996,2015-16,SanFrancisco

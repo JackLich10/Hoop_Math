@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Shayne Whittington,41,0.195,0.18899999999999997,0.636,0.057999999999999996,0.06,0.375,2012-13
-Darius Paul,38,0.276,0.32899999999999996,0.75,0.039,0.057,0.6,2012-13
-Nate Hutcheson,14,0.09,0.107,0.75,0.076,0.087,0.33299999999999996,2012-13
-Connar Tava,14,0.129,0.156,0.636,0.136,0.429,1,2012-13
-Dan Loney,5,0.25,0.182,0.5,0.125,0,0,2012-13
-Brandon Pokley,2,0.055999999999999994,0.071,0.5,0,0,NA,2012-13
-A.J. Avery,2,0.2,0.14300000000000002,0.5,0,0,NA,2012-13
-Taylor Perry,2,0.042,0.091,1,0.062,0,0,2012-13
-Tim Brennan,1,0.5,0,0,0,NA,NA,2012-13
-Jared Klein,1,0.04,0.077,1,0,0,NA,2012-13
-Charles Harris,1,0,0,NA,0.5,NA,0,2012-13
-Total,121,0.142,0.162,0.674,0.048,0.061,0.44,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Shayne Whittington,41,0.195,0.18899999999999997,0.636,0.057999999999999996,0.06,0.375,2012-13,WesternMich.
+Darius Paul,38,0.276,0.32899999999999996,0.75,0.039,0.057,0.6,2012-13,WesternMich.
+Nate Hutcheson,14,0.09,0.107,0.75,0.076,0.087,0.33299999999999996,2012-13,WesternMich.
+Connar Tava,14,0.129,0.156,0.636,0.136,0.429,1,2012-13,WesternMich.
+Dan Loney,5,0.25,0.182,0.5,0.125,0,0,2012-13,WesternMich.
+Brandon Pokley,2,0.055999999999999994,0.071,0.5,0,0,NA,2012-13,WesternMich.
+A.J. Avery,2,0.2,0.14300000000000002,0.5,0,0,NA,2012-13,WesternMich.
+Taylor Perry,2,0.042,0.091,1,0.062,0,0,2012-13,WesternMich.
+Tim Brennan,1,0.5,0,0,0,NA,NA,2012-13,WesternMich.
+Jared Klein,1,0.04,0.077,1,0,0,NA,2012-13,WesternMich.
+Charles Harris,1,0,0,NA,0.5,NA,0,2012-13,WesternMich.
+Total,121,0.142,0.162,0.674,0.048,0.061,0.44,2012-13,WesternMich.

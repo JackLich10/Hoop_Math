@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.415,0.542,0.13,0.623,2012-13
-2pt Jumpers,0.276,0.317,0.075,0.34299999999999997,2012-13
-3pt Shots,0.309,0.293,0.019,0.299,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.415,0.542,0.13,0.623,2012-13,NorfolkSt.
+2pt Jumpers,0.276,0.317,0.075,0.34299999999999997,2012-13,NorfolkSt.
+3pt Shots,0.309,0.293,0.019,0.299,2012-13,NorfolkSt.

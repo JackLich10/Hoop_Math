@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Anthony Livingston,30,0.225,0.188,0.444,0.016,0,0,2015-16
-Nouhoum Bocoum,27,0.21,0.231,0.5710000000000001,0.107,0.083,0.33299999999999996,2015-16
-Charles Waters,17,0.221,0.27,0.588,0,0,NA,2015-16
-Sean Gardner,15,0.105,0.10800000000000001,0.5,0.071,0.032,0.14300000000000002,2015-16
-Devin Carter,8,0.047,0.057,0.75,0.019,0.048,1,2015-16
-Donte Thomas,5,0.045,0.057,0.75,0.012,0.033,1,2015-16
-Christian Davis,3,0.14300000000000002,0.16699999999999998,0.5,0.034,0,0,2015-16
-Josh Pierre,1,0.25,NA,0,0,NA,NA,2015-16
-Frederic Dure,1,0.02,0.045,1,0,0,NA,2015-16
-Connor Kern,1,0.25,0,0,0,0,NA,2015-16
-Kelvin Downs,1,0.1,0,0,0,0,NA,2015-16
-Total,109,0.13699999999999998,0.138,0.529,0.031,0.023,0.3,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Anthony Livingston,30,0.225,0.188,0.444,0.016,0,0,2015-16,ArkansasSt.
+Nouhoum Bocoum,27,0.21,0.231,0.5710000000000001,0.107,0.083,0.33299999999999996,2015-16,ArkansasSt.
+Charles Waters,17,0.221,0.27,0.588,0,0,NA,2015-16,ArkansasSt.
+Sean Gardner,15,0.105,0.10800000000000001,0.5,0.071,0.032,0.14300000000000002,2015-16,ArkansasSt.
+Devin Carter,8,0.047,0.057,0.75,0.019,0.048,1,2015-16,ArkansasSt.
+Donte Thomas,5,0.045,0.057,0.75,0.012,0.033,1,2015-16,ArkansasSt.
+Christian Davis,3,0.14300000000000002,0.16699999999999998,0.5,0.034,0,0,2015-16,ArkansasSt.
+Josh Pierre,1,0.25,NA,0,0,NA,NA,2015-16,ArkansasSt.
+Frederic Dure,1,0.02,0.045,1,0,0,NA,2015-16,ArkansasSt.
+Connor Kern,1,0.25,0,0,0,0,NA,2015-16,ArkansasSt.
+Kelvin Downs,1,0.1,0,0,0,0,NA,2015-16,ArkansasSt.
+Total,109,0.13699999999999998,0.138,0.529,0.031,0.023,0.3,2015-16,ArkansasSt.

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.359,0.473,0.201,0.591,2013-14
-2pt Jumpers,0.24100000000000002,0.306,0.1,0.34,2013-14
-3pt Shots,0.4,0.308,0.033,0.318,2013-14
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.359,0.473,0.201,0.591,2013-14,EasternMich.
+2pt Jumpers,0.24100000000000002,0.306,0.1,0.34,2013-14,EasternMich.
+3pt Shots,0.4,0.308,0.033,0.318,2013-14,EasternMich.

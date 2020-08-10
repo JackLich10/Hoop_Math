@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Luther Page,26,0.184,0.204,0.688,0.141,0.08,0.2,2013-14
-Maurice Strong,19,0.157,0.16699999999999998,0.625,0.027000000000000003,0,0,2013-14
-Brandon Graham,13,0.17800000000000002,0.226,0.9229999999999999,0,0,NA,2013-14
-Bobby Brown,12,0.153,0.11800000000000001,0.444,0.057999999999999996,0.095,0.667,2013-14
-Tony Armstrong,10,0.13699999999999998,0.11800000000000001,0.5710000000000001,0.067,0.055999999999999994,0.33299999999999996,2013-14
-Demarcus Robinson,4,0.028999999999999998,0.051,1,0.01,0,0,2013-14
-Terrance LeFlore,4,0.1,0.125,0.667,0.026000000000000002,0,0,2013-14
-Billy Ingram,3,0.25,0.25,0.33299999999999996,0,0,NA,2013-14
-Jamel Waters,2,0,0,NA,0.01,0.012,0.5,2013-14
-Deangelo Stewart,1,0,0,NA,0.2,NA,0,2013-14
-Darius Scott,1,0.25,0.33299999999999996,1,NA,NA,NA,2013-14
-Total,95,0.122,0.139,0.6709999999999999,0.034,0.021,0.25,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Luther Page,26,0.184,0.204,0.688,0.141,0.08,0.2,2013-14,AlabamaSt.
+Maurice Strong,19,0.157,0.16699999999999998,0.625,0.027000000000000003,0,0,2013-14,AlabamaSt.
+Brandon Graham,13,0.17800000000000002,0.226,0.9229999999999999,0,0,NA,2013-14,AlabamaSt.
+Bobby Brown,12,0.153,0.11800000000000001,0.444,0.057999999999999996,0.095,0.667,2013-14,AlabamaSt.
+Tony Armstrong,10,0.13699999999999998,0.11800000000000001,0.5710000000000001,0.067,0.055999999999999994,0.33299999999999996,2013-14,AlabamaSt.
+Demarcus Robinson,4,0.028999999999999998,0.051,1,0.01,0,0,2013-14,AlabamaSt.
+Terrance LeFlore,4,0.1,0.125,0.667,0.026000000000000002,0,0,2013-14,AlabamaSt.
+Billy Ingram,3,0.25,0.25,0.33299999999999996,0,0,NA,2013-14,AlabamaSt.
+Jamel Waters,2,0,0,NA,0.01,0.012,0.5,2013-14,AlabamaSt.
+Deangelo Stewart,1,0,0,NA,0.2,NA,0,2013-14,AlabamaSt.
+Darius Scott,1,0.25,0.33299999999999996,1,NA,NA,NA,2013-14,AlabamaSt.
+Total,95,0.122,0.139,0.6709999999999999,0.034,0.021,0.25,2013-14,AlabamaSt.

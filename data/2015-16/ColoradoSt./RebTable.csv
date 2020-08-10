@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Dantiel Daniels,37,0.205,0.245,0.8,0.146,0.136,0.429,2015-16
-Emmanuel Omogbo,36,0.209,0.222,0.667,0.039,0.05,0.33299999999999996,2015-16
-Fred Richardson III,7,0.28600000000000003,0.33299999999999996,0.75,0.13,0.25,0.667,2015-16
-Kimani Jackson,7,0.16699999999999998,0.235,0.667,0.055999999999999994,0,0,2015-16
-DE,7,0.109,0.11800000000000001,0.5710000000000001,0,0,NA,2015-16
-Gian Clavell,6,0.075,0.12,1,0.048,0.071,0.5,2015-16
-Jeremiah Paige,5,0.040999999999999995,0.048,0.5,0.054000000000000006,0,0,2015-16
-Antwan Scott,3,0.022000000000000002,0.02,0.5,0.012,0.037000000000000005,1,2015-16
-John Gillon,2,0.011000000000000001,0.024,1,0,0,NA,2015-16
-Total,110,0.125,0.158,0.716,0.040999999999999995,0.053,0.42100000000000004,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Dantiel Daniels,37,0.205,0.245,0.8,0.146,0.136,0.429,2015-16,ColoradoSt.
+Emmanuel Omogbo,36,0.209,0.222,0.667,0.039,0.05,0.33299999999999996,2015-16,ColoradoSt.
+Fred Richardson III,7,0.28600000000000003,0.33299999999999996,0.75,0.13,0.25,0.667,2015-16,ColoradoSt.
+Kimani Jackson,7,0.16699999999999998,0.235,0.667,0.055999999999999994,0,0,2015-16,ColoradoSt.
+DE,7,0.109,0.11800000000000001,0.5710000000000001,0,0,NA,2015-16,ColoradoSt.
+Gian Clavell,6,0.075,0.12,1,0.048,0.071,0.5,2015-16,ColoradoSt.
+Jeremiah Paige,5,0.040999999999999995,0.048,0.5,0.054000000000000006,0,0,2015-16,ColoradoSt.
+Antwan Scott,3,0.022000000000000002,0.02,0.5,0.012,0.037000000000000005,1,2015-16,ColoradoSt.
+John Gillon,2,0.011000000000000001,0.024,1,0,0,NA,2015-16,ColoradoSt.
+Total,110,0.125,0.158,0.716,0.040999999999999995,0.053,0.42100000000000004,2015-16,ColoradoSt.

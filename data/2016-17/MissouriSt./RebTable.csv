@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Alize Johnson,44,0.128,0.132,0.7,0.2,0.316,0.727,2016-17
-Obediah Church,18,0.10800000000000001,0.083,0.625,0.196,0.28600000000000003,0.6,2016-17
-Jarred Dixon,10,0.057999999999999996,0.065,0.667,0.045,0.068,0.5710000000000001,2016-17
-Jordan Martin,10,0.33299999999999996,0.35700000000000004,0.833,0.129,0.25,0.75,2016-17
-Jarrid Rhodes,8,0.17600000000000002,0.091,0.33299999999999996,0.034,0.081,1,2016-17
-Chris Kendrix,4,0.158,0.091,0.33299999999999996,0,0,NA,2016-17
-Ross Owens,2,NA,NA,NA,0.667,0,0,2016-17
-Dequon Miller,1,0,0,NA,0.006,0,0,2016-17
-Tyler McCullough,1,0,0,NA,0.1,0,0,2016-17
-Ryan Kreklow,1,0.04,0.053,1,0,0,NA,2016-17
-"III,RONNIE",1,0,0,NA,0.02,0,0,2016-17
-Total,100,0.098,0.091,0.647,0.077,0.122,0.645,2016-17
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Alize Johnson,44,0.128,0.132,0.7,0.2,0.316,0.727,2016-17,MissouriSt.
+Obediah Church,18,0.10800000000000001,0.083,0.625,0.196,0.28600000000000003,0.6,2016-17,MissouriSt.
+Jarred Dixon,10,0.057999999999999996,0.065,0.667,0.045,0.068,0.5710000000000001,2016-17,MissouriSt.
+Jordan Martin,10,0.33299999999999996,0.35700000000000004,0.833,0.129,0.25,0.75,2016-17,MissouriSt.
+Jarrid Rhodes,8,0.17600000000000002,0.091,0.33299999999999996,0.034,0.081,1,2016-17,MissouriSt.
+Chris Kendrix,4,0.158,0.091,0.33299999999999996,0,0,NA,2016-17,MissouriSt.
+Ross Owens,2,NA,NA,NA,0.667,0,0,2016-17,MissouriSt.
+Dequon Miller,1,0,0,NA,0.006,0,0,2016-17,MissouriSt.
+Tyler McCullough,1,0,0,NA,0.1,0,0,2016-17,MissouriSt.
+Ryan Kreklow,1,0.04,0.053,1,0,0,NA,2016-17,MissouriSt.
+"III,RONNIE",1,0,0,NA,0.02,0,0,2016-17,MissouriSt.
+Total,100,0.098,0.091,0.647,0.077,0.122,0.645,2016-17,MissouriSt.

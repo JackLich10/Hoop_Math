@@ -1,14 +1,14 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kaleb Bishop,32,0.18899999999999997,0.20199999999999999,0.613,0.013999999999999999,0,0,2019-20
-Elyjah Williams,22,0.11,0.07200000000000001,0.429,0.026000000000000002,0,0,2019-20
-Brandon Powell,11,0.126,0.05,0.182,0,0,NA,2019-20
-Daniel Rodriguez,6,0.111,0.2,1,0.364,0.5,0.5,2019-20
-Oscar Okeke,4,0.375,0.4,0.667,0.25,0,0,2019-20
-Devon Dunn,4,0.105,0.154,1,0.105,0,0,2019-20
-Brandon Rush,3,0.051,0.095,1,0.071,0,0,2019-20
-Jahlil Jenkins,3,0.008,0.016,1,0,0,NA,2019-20
-Marc Dadika,2,0.125,0.222,1,0,0,NA,2019-20
-Collin McManus,1,0.5,1,1,0,NA,NA,2019-20
-Xzavier Malone-Key,1,0,0,NA,0,0,NA,2019-20
-Saliba Bassel,1,0.083,0,0,0,0,NA,2019-20
-Total,90,0.1,0.095,0.545,0.028999999999999998,0.016,0.2,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kaleb Bishop,32,0.18899999999999997,0.20199999999999999,0.613,0.013999999999999999,0,0,2019-20,FairleighDickinson
+Elyjah Williams,22,0.11,0.07200000000000001,0.429,0.026000000000000002,0,0,2019-20,FairleighDickinson
+Brandon Powell,11,0.126,0.05,0.182,0,0,NA,2019-20,FairleighDickinson
+Daniel Rodriguez,6,0.111,0.2,1,0.364,0.5,0.5,2019-20,FairleighDickinson
+Oscar Okeke,4,0.375,0.4,0.667,0.25,0,0,2019-20,FairleighDickinson
+Devon Dunn,4,0.105,0.154,1,0.105,0,0,2019-20,FairleighDickinson
+Brandon Rush,3,0.051,0.095,1,0.071,0,0,2019-20,FairleighDickinson
+Jahlil Jenkins,3,0.008,0.016,1,0,0,NA,2019-20,FairleighDickinson
+Marc Dadika,2,0.125,0.222,1,0,0,NA,2019-20,FairleighDickinson
+Collin McManus,1,0.5,1,1,0,NA,NA,2019-20,FairleighDickinson
+Xzavier Malone-Key,1,0,0,NA,0,0,NA,2019-20,FairleighDickinson
+Saliba Bassel,1,0.083,0,0,0,0,NA,2019-20,FairleighDickinson
+Total,90,0.1,0.095,0.545,0.028999999999999998,0.016,0.2,2019-20,FairleighDickinson

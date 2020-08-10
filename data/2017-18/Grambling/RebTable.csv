@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Jason Perry-Murray,27,0.35700000000000004,0.41700000000000004,0.8,0.053,0,0,2017-18
-Axel Mpoyo,22,0.153,0.127,0.5379999999999999,0.084,0,0,2017-18
-Devante Jackson,16,0.162,0.136,0.462,0.043,0.111,1,2017-18
-Shirmane Thomas,15,0.126,0.191,0.818,0.055999999999999994,0.048,0.25,2017-18
-Bobby Jackson,12,0.233,0.217,0.7140000000000001,0.161,0.28600000000000003,0.4,2017-18
-Anthony Gaston,8,0.08900000000000001,0.087,0.5710000000000001,0.011000000000000001,0.031,1,2017-18
-Drake Wilks,7,0.136,0.14300000000000002,0.667,0.15,0.25,0.667,2017-18
-Ivy Smith.Jr,3,0.009000000000000001,0,0,0.012,0.033,1,2017-18
-Diontae Jones,3,0.086,0.111,0.667,0,0,NA,2017-18
-Charles Simmons,1,1,NA,0,NA,NA,NA,2017-18
-Total,114,0.127,0.146,0.655,0.04,0.045,0.379,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Jason Perry-Murray,27,0.35700000000000004,0.41700000000000004,0.8,0.053,0,0,2017-18,Grambling
+Axel Mpoyo,22,0.153,0.127,0.5379999999999999,0.084,0,0,2017-18,Grambling
+Devante Jackson,16,0.162,0.136,0.462,0.043,0.111,1,2017-18,Grambling
+Shirmane Thomas,15,0.126,0.191,0.818,0.055999999999999994,0.048,0.25,2017-18,Grambling
+Bobby Jackson,12,0.233,0.217,0.7140000000000001,0.161,0.28600000000000003,0.4,2017-18,Grambling
+Anthony Gaston,8,0.08900000000000001,0.087,0.5710000000000001,0.011000000000000001,0.031,1,2017-18,Grambling
+Drake Wilks,7,0.136,0.14300000000000002,0.667,0.15,0.25,0.667,2017-18,Grambling
+Ivy Smith.Jr,3,0.009000000000000001,0,0,0.012,0.033,1,2017-18,Grambling
+Diontae Jones,3,0.086,0.111,0.667,0,0,NA,2017-18,Grambling
+Charles Simmons,1,1,NA,0,NA,NA,NA,2017-18,Grambling
+Total,114,0.127,0.146,0.655,0.04,0.045,0.379,2017-18,Grambling

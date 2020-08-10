@@ -1,17 +1,17 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Rashard Kelly,16,0.171,0.214,0.643,0.08,0,0,2015-16
-Markis McDuffie,16,0.152,0.20800000000000002,0.833,0.077,0.188,0.75,2015-16
-Shaq Morris,15,0.149,0.138,0.6920000000000001,0.025,0,0,2015-16
-Anton Grady,7,0.081,0.11900000000000001,1,0.019,0.021,0.5,2015-16
-Zach Brown,7,0.107,0.10800000000000001,0.667,0.059000000000000004,0,0,2015-16
-Evan Wessel,4,0.222,0.273,0.75,0,0,NA,2015-16
-Ron Baker,3,0.038,0.02,0.33299999999999996,0,0,NA,2015-16
-Fred VanVleet,3,0.016,0,0,0.013999999999999999,0.048,1,2015-16
-Landry Shamet,2,0.5,0.5,1,0,NA,NA,2015-16
-Ty Taylor II,2,0,0,NA,0.038,0,0,2015-16
-Bush Wamukota,2,0.055999999999999994,0.1,1,0.1,0,0,2015-16
-Rauno Nurger,2,0.133,0.1,0.5,0,0,NA,2015-16
-Eric Hamilton,2,0.043,0.067,1,0.1,0.25,1,2015-16
-Conner Frankamp,1,0,0,NA,0.036000000000000004,0,0,2015-16
-Zach Bush,1,0.5,1,1,0,NA,NA,2015-16
-Total,83,0.096,0.115,0.7120000000000001,0.027999999999999997,0.028999999999999998,0.375,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Rashard Kelly,16,0.171,0.214,0.643,0.08,0,0,2015-16,WichitaSt.
+Markis McDuffie,16,0.152,0.20800000000000002,0.833,0.077,0.188,0.75,2015-16,WichitaSt.
+Shaq Morris,15,0.149,0.138,0.6920000000000001,0.025,0,0,2015-16,WichitaSt.
+Anton Grady,7,0.081,0.11900000000000001,1,0.019,0.021,0.5,2015-16,WichitaSt.
+Zach Brown,7,0.107,0.10800000000000001,0.667,0.059000000000000004,0,0,2015-16,WichitaSt.
+Evan Wessel,4,0.222,0.273,0.75,0,0,NA,2015-16,WichitaSt.
+Ron Baker,3,0.038,0.02,0.33299999999999996,0,0,NA,2015-16,WichitaSt.
+Fred VanVleet,3,0.016,0,0,0.013999999999999999,0.048,1,2015-16,WichitaSt.
+Landry Shamet,2,0.5,0.5,1,0,NA,NA,2015-16,WichitaSt.
+Ty Taylor II,2,0,0,NA,0.038,0,0,2015-16,WichitaSt.
+Bush Wamukota,2,0.055999999999999994,0.1,1,0.1,0,0,2015-16,WichitaSt.
+Rauno Nurger,2,0.133,0.1,0.5,0,0,NA,2015-16,WichitaSt.
+Eric Hamilton,2,0.043,0.067,1,0.1,0.25,1,2015-16,WichitaSt.
+Conner Frankamp,1,0,0,NA,0.036000000000000004,0,0,2015-16,WichitaSt.
+Zach Bush,1,0.5,1,1,0,NA,NA,2015-16,WichitaSt.
+Total,83,0.096,0.115,0.7120000000000001,0.027999999999999997,0.028999999999999998,0.375,2015-16,WichitaSt.

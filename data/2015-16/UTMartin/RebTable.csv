@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kedar Edwards,33,0.28300000000000003,0.196,0.39299999999999996,0.122,0.182,0.4,2015-16
-Myles Taylor,27,0.16,0.19,0.8420000000000001,0.091,0.087,0.5,2015-16
-Twymond Howard,17,0.08800000000000001,0.071,0.429,0.01,0.025,1,2015-16
-Chandler Rowe,10,0.294,0.278,0.5,0,0,NA,2015-16
-Javier Martinez,6,0.114,0.08800000000000001,0.6,0.1,0,0,2015-16
-Richard Lee,5,0.21100000000000002,0.308,1,0,0,NA,2015-16
-Alex Anderson,4,0,0,NA,0.04,0.125,1,2015-16
-Jacolby Mobley,4,0.043,0.067,1,0,0,NA,2015-16
-Malik London,3,0.231,0.33299999999999996,1,0,NA,NA,2015-16
-Fatodd Lewis,1,0.083,0.125,1,0,0,NA,2015-16
-James Harrison,1,0,0,NA,0.16699999999999998,0,0,2015-16
-Total,111,0.13,0.128,0.598,0.034,0.048,0.526,2015-16
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kedar Edwards,33,0.28300000000000003,0.196,0.39299999999999996,0.122,0.182,0.4,2015-16,UTMartin
+Myles Taylor,27,0.16,0.19,0.8420000000000001,0.091,0.087,0.5,2015-16,UTMartin
+Twymond Howard,17,0.08800000000000001,0.071,0.429,0.01,0.025,1,2015-16,UTMartin
+Chandler Rowe,10,0.294,0.278,0.5,0,0,NA,2015-16,UTMartin
+Javier Martinez,6,0.114,0.08800000000000001,0.6,0.1,0,0,2015-16,UTMartin
+Richard Lee,5,0.21100000000000002,0.308,1,0,0,NA,2015-16,UTMartin
+Alex Anderson,4,0,0,NA,0.04,0.125,1,2015-16,UTMartin
+Jacolby Mobley,4,0.043,0.067,1,0,0,NA,2015-16,UTMartin
+Malik London,3,0.231,0.33299999999999996,1,0,NA,NA,2015-16,UTMartin
+Fatodd Lewis,1,0.083,0.125,1,0,0,NA,2015-16,UTMartin
+James Harrison,1,0,0,NA,0.16699999999999998,0,0,2015-16,UTMartin
+Total,111,0.13,0.128,0.598,0.034,0.048,0.526,2015-16,UTMartin

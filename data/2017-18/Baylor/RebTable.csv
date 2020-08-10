@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Lual-Acuil Jo,50,0.207,0.253,0.917,0.115,0.128,0.462,2017-18
-Terry Maston,30,0.237,0.23199999999999998,0.722,0.071,0.1,0.667,2017-18
-Mark Vital,28,0.133,0.145,0.667,0.198,0.226,0.43799999999999994,2017-18
-Tristan Clark,24,0.20800000000000002,0.175,0.636,0.14,0.13699999999999998,0.5379999999999999,2017-18
-Nuni Omot,7,0.107,0.095,0.667,0.021,0,0,2017-18
-Tyson Jolly,4,0.222,0.33299999999999996,1,0.133,0,0,2017-18
-King McClure,2,0.017,0,0,0.017,0.067,1,2017-18
-Jake Lindsey,1,0.019,0.028999999999999998,1,0,0,NA,2017-18
-Total,146,0.135,0.149,0.76,0.084,0.10300000000000001,0.493,2017-18
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Lual-Acuil Jo,50,0.207,0.253,0.917,0.115,0.128,0.462,2017-18,Baylor
+Terry Maston,30,0.237,0.23199999999999998,0.722,0.071,0.1,0.667,2017-18,Baylor
+Mark Vital,28,0.133,0.145,0.667,0.198,0.226,0.43799999999999994,2017-18,Baylor
+Tristan Clark,24,0.20800000000000002,0.175,0.636,0.14,0.13699999999999998,0.5379999999999999,2017-18,Baylor
+Nuni Omot,7,0.107,0.095,0.667,0.021,0,0,2017-18,Baylor
+Tyson Jolly,4,0.222,0.33299999999999996,1,0.133,0,0,2017-18,Baylor
+King McClure,2,0.017,0,0,0.017,0.067,1,2017-18,Baylor
+Jake Lindsey,1,0.019,0.028999999999999998,1,0,0,NA,2017-18,Baylor
+Total,146,0.135,0.149,0.76,0.084,0.10300000000000001,0.493,2017-18,Baylor

@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-T.J. Robinson,50,0.20199999999999999,0.18100000000000002,0.565,0.15,0.171,0.519,2011-12
-Eugene Phelps,23,0.1,0.10300000000000001,0.75,0.08,0.1,0.364,2011-12
-Larry Anderson,13,0.087,0.079,0.625,0.042,0.08,0.667,2011-12
-James Ennis,10,0.10400000000000001,0.054000000000000006,0.375,0.057,0.111,1,2011-12
-Edis Dervisevic,9,0.083,0.105,1,0.121,0.138,0.5710000000000001,2011-12
-Mike Caffey,4,0.028999999999999998,0.05,1,0.06,0.083,0.667,2011-12
-Casper Ware,3,0.013999999999999999,0.022000000000000002,1,0.015,0.02,0.5,2011-12
-Nick Shepherd,1,0.077,0.125,1,0,0,NA,2011-12
-Sean Starkey,1,0,0,NA,0.111,0,0,2011-12
-Mike Vantrimpont,1,NA,NA,NA,0.5,NA,0,2011-12
-Total,115,0.10099999999999999,0.09300000000000001,0.625,0.081,0.10300000000000001,0.509,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+T.J. Robinson,50,0.20199999999999999,0.18100000000000002,0.565,0.15,0.171,0.519,2011-12,LongBeachSt.
+Eugene Phelps,23,0.1,0.10300000000000001,0.75,0.08,0.1,0.364,2011-12,LongBeachSt.
+Larry Anderson,13,0.087,0.079,0.625,0.042,0.08,0.667,2011-12,LongBeachSt.
+James Ennis,10,0.10400000000000001,0.054000000000000006,0.375,0.057,0.111,1,2011-12,LongBeachSt.
+Edis Dervisevic,9,0.083,0.105,1,0.121,0.138,0.5710000000000001,2011-12,LongBeachSt.
+Mike Caffey,4,0.028999999999999998,0.05,1,0.06,0.083,0.667,2011-12,LongBeachSt.
+Casper Ware,3,0.013999999999999999,0.022000000000000002,1,0.015,0.02,0.5,2011-12,LongBeachSt.
+Nick Shepherd,1,0.077,0.125,1,0,0,NA,2011-12,LongBeachSt.
+Sean Starkey,1,0,0,NA,0.111,0,0,2011-12,LongBeachSt.
+Mike Vantrimpont,1,NA,NA,NA,0.5,NA,0,2011-12,LongBeachSt.
+Total,115,0.10099999999999999,0.09300000000000001,0.625,0.081,0.10300000000000001,0.509,2011-12,LongBeachSt.

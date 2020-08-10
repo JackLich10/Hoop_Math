@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Roosevelt Jones,29,0.146,0.20199999999999999,0.8,0.033,0,0,2012-13
-Khyle Marshall,27,0.142,0.10800000000000001,0.545,0.049,0,0,2012-13
-Andrew Smith,17,0.13699999999999998,0.10800000000000001,0.529,0,0,NA,2012-13
-Erik Fromm,12,0.364,0.455,0.833,0,0,NA,2012-13
-Kameron Woods,10,0.163,0.132,0.625,0.031,0.04,0.5,2012-13
-Alexander Barlow,4,0.111,0.16699999999999998,1,0.125,0,0,2012-13
-Rotnei Clarke,2,0,0,NA,0.009000000000000001,0,0,2012-13
-Chase Stigall,1,0,0,NA,0.33299999999999996,0,0,2012-13
-Emerson Kampen,1,NA,NA,NA,0.33299999999999996,0,0,2012-13
-Kellen Dunham,1,0.05,0,0,0,0,NA,2012-13
-Total,104,0.136,0.142,0.667,0.025,0.005,0.067,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Roosevelt Jones,29,0.146,0.20199999999999999,0.8,0.033,0,0,2012-13,Butler
+Khyle Marshall,27,0.142,0.10800000000000001,0.545,0.049,0,0,2012-13,Butler
+Andrew Smith,17,0.13699999999999998,0.10800000000000001,0.529,0,0,NA,2012-13,Butler
+Erik Fromm,12,0.364,0.455,0.833,0,0,NA,2012-13,Butler
+Kameron Woods,10,0.163,0.132,0.625,0.031,0.04,0.5,2012-13,Butler
+Alexander Barlow,4,0.111,0.16699999999999998,1,0.125,0,0,2012-13,Butler
+Rotnei Clarke,2,0,0,NA,0.009000000000000001,0,0,2012-13,Butler
+Chase Stigall,1,0,0,NA,0.33299999999999996,0,0,2012-13,Butler
+Emerson Kampen,1,NA,NA,NA,0.33299999999999996,0,0,2012-13,Butler
+Kellen Dunham,1,0.05,0,0,0,0,NA,2012-13,Butler
+Total,104,0.136,0.142,0.667,0.025,0.005,0.067,2012-13,Butler

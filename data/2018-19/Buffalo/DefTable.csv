@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.395,0.5660000000000001,0.10400000000000001,0.632,2018-19
-2pt Jumpers,0.24100000000000002,0.365,0.053,0.386,2018-19
-3pt Shots,0.363,0.298,0.023,0.305,2018-19
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.395,0.5660000000000001,0.10400000000000001,0.632,2018-19,Buffalo
+2pt Jumpers,0.24100000000000002,0.365,0.053,0.386,2018-19,Buffalo
+3pt Shots,0.363,0.298,0.023,0.305,2018-19,Buffalo

@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Kennedy Meeks,49,0.35700000000000004,0.326,0.6,0.203,0.175,0.41700000000000004,2013-14
-Brice Johnson,43,0.24,0.237,0.7829999999999999,0.11800000000000001,0.162,0.6,2013-14
-"McAdoo,James",35,0.13,0.203,1,0.077,0.083,0.429,2013-14
-J.P. Tokoto,22,0.20600000000000002,0.192,0.7140000000000001,0.05,0.057999999999999996,0.5,2013-14
-Joel James,15,0.583,0.6,0.429,0.21600000000000003,0.429,0.75,2013-14
-Desmond Hubert,7,0.545,0.7140000000000001,0.833,0.25,NA,0,2013-14
-Isaiah Hicks,3,0.077,0.1,1,0.111,0,0,2013-14
-Jackson Simmons,3,0.5,0.5,0.667,0,0,NA,2013-14
-Leslie McDonald,3,0,0,NA,0.028999999999999998,0.03,0.5,2013-14
-Marcus Paige,2,0.022000000000000002,0.033,1,0.006,0,0,2013-14
-Total,182,0.19699999999999998,0.21100000000000002,0.731,0.076,0.087,0.483,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Kennedy Meeks,49,0.35700000000000004,0.326,0.6,0.203,0.175,0.41700000000000004,2013-14,NorthCarolina
+Brice Johnson,43,0.24,0.237,0.7829999999999999,0.11800000000000001,0.162,0.6,2013-14,NorthCarolina
+"McAdoo,James",35,0.13,0.203,1,0.077,0.083,0.429,2013-14,NorthCarolina
+J.P. Tokoto,22,0.20600000000000002,0.192,0.7140000000000001,0.05,0.057999999999999996,0.5,2013-14,NorthCarolina
+Joel James,15,0.583,0.6,0.429,0.21600000000000003,0.429,0.75,2013-14,NorthCarolina
+Desmond Hubert,7,0.545,0.7140000000000001,0.833,0.25,NA,0,2013-14,NorthCarolina
+Isaiah Hicks,3,0.077,0.1,1,0.111,0,0,2013-14,NorthCarolina
+Jackson Simmons,3,0.5,0.5,0.667,0,0,NA,2013-14,NorthCarolina
+Leslie McDonald,3,0,0,NA,0.028999999999999998,0.03,0.5,2013-14,NorthCarolina
+Marcus Paige,2,0.022000000000000002,0.033,1,0.006,0,0,2013-14,NorthCarolina
+Total,182,0.19699999999999998,0.21100000000000002,0.731,0.076,0.087,0.483,2013-14,NorthCarolina

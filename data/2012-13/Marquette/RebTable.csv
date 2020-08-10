@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Davante Gardner,41,0.295,0.27,0.632,0.024,0,0,2012-13
-Chris Otule,26,0.28,0.28600000000000003,0.696,0.073,0.045,0.33299999999999996,2012-13
-Trent Lockett,25,0.247,0.22399999999999998,0.5,0.05,0.062,0.33299999999999996,2012-13
-Steve Taylor,14,0.33299999999999996,0.33299999999999996,0.7140000000000001,0,0,NA,2012-13
-Jamil Wilson,14,0.21100000000000002,0.139,0.41700000000000004,0.018000000000000002,0,0,2012-13
-Vander Blue,9,0.051,0.068,0.857,0.015,0,0,2012-13
-Juan Anderson,4,0.111,0.125,0.5,0,0,NA,2012-13
-Todd Mayo,2,0.105,0.14300000000000002,1,0,0,NA,2012-13
-Junior Cadougan,2,0.024,0,0,0,0,NA,2012-13
-Jake Thomas,1,1,1,1,0,0,NA,2012-13
-Total,138,0.177,0.17300000000000001,0.616,0.019,0.008,0.16699999999999998,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Davante Gardner,41,0.295,0.27,0.632,0.024,0,0,2012-13,Marquette
+Chris Otule,26,0.28,0.28600000000000003,0.696,0.073,0.045,0.33299999999999996,2012-13,Marquette
+Trent Lockett,25,0.247,0.22399999999999998,0.5,0.05,0.062,0.33299999999999996,2012-13,Marquette
+Steve Taylor,14,0.33299999999999996,0.33299999999999996,0.7140000000000001,0,0,NA,2012-13,Marquette
+Jamil Wilson,14,0.21100000000000002,0.139,0.41700000000000004,0.018000000000000002,0,0,2012-13,Marquette
+Vander Blue,9,0.051,0.068,0.857,0.015,0,0,2012-13,Marquette
+Juan Anderson,4,0.111,0.125,0.5,0,0,NA,2012-13,Marquette
+Todd Mayo,2,0.105,0.14300000000000002,1,0,0,NA,2012-13,Marquette
+Junior Cadougan,2,0.024,0,0,0,0,NA,2012-13,Marquette
+Jake Thomas,1,1,1,1,0,0,NA,2012-13,Marquette
+Total,138,0.177,0.17300000000000001,0.616,0.019,0.008,0.16699999999999998,2012-13,Marquette

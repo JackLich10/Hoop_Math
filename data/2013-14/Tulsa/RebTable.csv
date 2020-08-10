@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Rashad Smith,28,0.22,0.18600000000000003,0.593,0.009000000000000001,0.025,1,2013-14
-Brandon Swannegan,26,0.395,0.469,0.882,0.138,0,0,2013-14
-D'Andre Wright,21,0.20600000000000002,0.214,0.6920000000000001,0.073,0.105,0.5,2013-14
-James Woodard,19,0.154,0.16899999999999998,0.7140000000000001,0.045,0.053,0.4,2013-14
-Lew Evans,10,0.3,0.318,0.778,0.024,0,0,2013-14
-Tim Peete,8,0.151,0.19399999999999998,0.875,0,0,NA,2013-14
-Shaquille Harrison,5,0.028999999999999998,0.025,0.5,0.015,0,0,2013-14
-Marquel Curtis,5,0.174,0.182,0.5,0.14300000000000002,1,1,2013-14
-Tarekeyi Edogi,1,1,1,1,0,NA,NA,2013-14
-Swilling Pat,1,0,0,NA,0,0,NA,2013-14
-Total,124,0.142,0.159,0.711,0.043,0.039,0.308,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Rashad Smith,28,0.22,0.18600000000000003,0.593,0.009000000000000001,0.025,1,2013-14,Tulsa
+Brandon Swannegan,26,0.395,0.469,0.882,0.138,0,0,2013-14,Tulsa
+D'Andre Wright,21,0.20600000000000002,0.214,0.6920000000000001,0.073,0.105,0.5,2013-14,Tulsa
+James Woodard,19,0.154,0.16899999999999998,0.7140000000000001,0.045,0.053,0.4,2013-14,Tulsa
+Lew Evans,10,0.3,0.318,0.778,0.024,0,0,2013-14,Tulsa
+Tim Peete,8,0.151,0.19399999999999998,0.875,0,0,NA,2013-14,Tulsa
+Shaquille Harrison,5,0.028999999999999998,0.025,0.5,0.015,0,0,2013-14,Tulsa
+Marquel Curtis,5,0.174,0.182,0.5,0.14300000000000002,1,1,2013-14,Tulsa
+Tarekeyi Edogi,1,1,1,1,0,NA,NA,2013-14,Tulsa
+Swilling Pat,1,0,0,NA,0,0,NA,2013-14,Tulsa
+Total,124,0.142,0.159,0.711,0.043,0.039,0.308,2013-14,Tulsa

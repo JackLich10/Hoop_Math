@@ -1,11 +1,11 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Mark Flagg,27,0.166,0.19,0.64,0.14300000000000002,0,0,2019-20
-Myles Thompson,27,0.214,0.264,0.76,0.023,0.062,1,2019-20
-Isaiah Blackmon,21,0.131,0.15,0.6,0,0,NA,2019-20
-Keith Braxton,14,0.064,0.07,0.667,0.017,0.044000000000000004,1,2019-20
-Tyler Stewart,11,0.08,0.083,0.5,0.054000000000000006,0.057,0.4,2019-20
-Deivydas Kuzavas,7,0.109,0.077,0.429,0,0,NA,2019-20
-Ramiir Dixon-Conover,3,0.055,0.077,1,0,0,NA,2019-20
-Bryce Laskey,1,0,0,NA,0.1,0,0,2019-20
-Ben Seidel,1,0.5,0,0,0,0,NA,2019-20
-Total,112,0.113,0.126,0.6459999999999999,0.025,0.032,0.5,2019-20
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Mark Flagg,27,0.166,0.19,0.64,0.14300000000000002,0,0,2019-20,SaintFrancis(PA)
+Myles Thompson,27,0.214,0.264,0.76,0.023,0.062,1,2019-20,SaintFrancis(PA)
+Isaiah Blackmon,21,0.131,0.15,0.6,0,0,NA,2019-20,SaintFrancis(PA)
+Keith Braxton,14,0.064,0.07,0.667,0.017,0.044000000000000004,1,2019-20,SaintFrancis(PA)
+Tyler Stewart,11,0.08,0.083,0.5,0.054000000000000006,0.057,0.4,2019-20,SaintFrancis(PA)
+Deivydas Kuzavas,7,0.109,0.077,0.429,0,0,NA,2019-20,SaintFrancis(PA)
+Ramiir Dixon-Conover,3,0.055,0.077,1,0,0,NA,2019-20,SaintFrancis(PA)
+Bryce Laskey,1,0,0,NA,0.1,0,0,2019-20,SaintFrancis(PA)
+Ben Seidel,1,0.5,0,0,0,0,NA,2019-20,SaintFrancis(PA)
+Total,112,0.113,0.126,0.6459999999999999,0.025,0.032,0.5,2019-20,SaintFrancis(PA)

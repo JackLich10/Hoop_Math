@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Aaron Tate,22,0.262,0.22899999999999998,0.524,0.033,0.14300000000000002,1,2014-15
-Elijah Minnie,19,0.217,0.18,0.6,0.138,0.222,0.5,2014-15
-Rodney Pryor,16,0.13,0.067,0.33299999999999996,0.028999999999999998,0.017,0.25,2014-15
-Stephan Bennett,13,0.185,0.17600000000000002,0.6,0.043,0.062,0.33299999999999996,2014-15
-Lucky Jones,12,0.152,0.17600000000000002,0.6,0.02,0,0,2014-15
-David Appolon,11,0.154,0.14300000000000002,0.375,0.1,0.071,0.33299999999999996,2014-15
-Marcquise Reed,10,0.03,0,0,0.032,0.027999999999999997,0.429,2014-15
-Lionel Gomis,8,0.278,0.429,0.6,0.2,0,0,2014-15
-Andre Frederick,5,0.294,0.273,0.6,0,0,NA,2014-15
-Charles Oliver,1,0.5,NA,0,0,NA,NA,2014-15
-Kavon Stewart,1,0.013999999999999999,0,0,0,0,NA,2014-15
-Total,118,0.145,0.128,0.495,0.038,0.032,0.33299999999999996,2014-15
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Aaron Tate,22,0.262,0.22899999999999998,0.524,0.033,0.14300000000000002,1,2014-15,RobertMorris
+Elijah Minnie,19,0.217,0.18,0.6,0.138,0.222,0.5,2014-15,RobertMorris
+Rodney Pryor,16,0.13,0.067,0.33299999999999996,0.028999999999999998,0.017,0.25,2014-15,RobertMorris
+Stephan Bennett,13,0.185,0.17600000000000002,0.6,0.043,0.062,0.33299999999999996,2014-15,RobertMorris
+Lucky Jones,12,0.152,0.17600000000000002,0.6,0.02,0,0,2014-15,RobertMorris
+David Appolon,11,0.154,0.14300000000000002,0.375,0.1,0.071,0.33299999999999996,2014-15,RobertMorris
+Marcquise Reed,10,0.03,0,0,0.032,0.027999999999999997,0.429,2014-15,RobertMorris
+Lionel Gomis,8,0.278,0.429,0.6,0.2,0,0,2014-15,RobertMorris
+Andre Frederick,5,0.294,0.273,0.6,0,0,NA,2014-15,RobertMorris
+Charles Oliver,1,0.5,NA,0,0,NA,NA,2014-15,RobertMorris
+Kavon Stewart,1,0.013999999999999999,0,0,0,0,NA,2014-15,RobertMorris
+Total,118,0.145,0.128,0.495,0.038,0.032,0.33299999999999996,2014-15,RobertMorris

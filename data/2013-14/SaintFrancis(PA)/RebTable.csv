@@ -1,10 +1,10 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Earl Brown,38,0.138,0.135,0.583,0.027999999999999997,0.045,0.5,2013-14
-Ronnie Drinnon,25,0.205,0.19699999999999998,0.565,0.051,0,0,2013-14
-Stephon Mosley,6,0.19399999999999998,0.16699999999999998,0.33299999999999996,0,NA,NA,2013-14
-Greg Brown,3,0.055999999999999994,0.061,0.667,0,0,NA,2013-14
-Ollie Jackson,2,0.043,0.055999999999999994,0.5,0,0,NA,2013-14
-Patrick Wrencher,2,0.33299999999999996,0.25,0.5,NA,NA,NA,2013-14
-Ben Millaud-Meunier,1,0.031,0.071,1,0,0,NA,2013-14
-Stephon Whyatt,1,0.013999999999999999,0.023,1,0,0,NA,2013-14
-Total,78,0.109,0.111,0.568,0.013999999999999999,0.013000000000000001,0.25,2013-14
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Earl Brown,38,0.138,0.135,0.583,0.027999999999999997,0.045,0.5,2013-14,SaintFrancis(PA)
+Ronnie Drinnon,25,0.205,0.19699999999999998,0.565,0.051,0,0,2013-14,SaintFrancis(PA)
+Stephon Mosley,6,0.19399999999999998,0.16699999999999998,0.33299999999999996,0,NA,NA,2013-14,SaintFrancis(PA)
+Greg Brown,3,0.055999999999999994,0.061,0.667,0,0,NA,2013-14,SaintFrancis(PA)
+Ollie Jackson,2,0.043,0.055999999999999994,0.5,0,0,NA,2013-14,SaintFrancis(PA)
+Patrick Wrencher,2,0.33299999999999996,0.25,0.5,NA,NA,NA,2013-14,SaintFrancis(PA)
+Ben Millaud-Meunier,1,0.031,0.071,1,0,0,NA,2013-14,SaintFrancis(PA)
+Stephon Whyatt,1,0.013999999999999999,0.023,1,0,0,NA,2013-14,SaintFrancis(PA)
+Total,78,0.109,0.111,0.568,0.013999999999999999,0.013000000000000001,0.25,2013-14,SaintFrancis(PA)

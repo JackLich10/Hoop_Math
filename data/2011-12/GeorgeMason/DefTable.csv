@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.29,0.585,0.14800000000000002,0.687,2011-12
-2pt Jumpers,0.387,0.307,0.10400000000000001,0.34299999999999997,2011-12
-3pt Shots,0.32299999999999995,0.322,0.013000000000000001,0.327,2011-12
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.29,0.585,0.14800000000000002,0.687,2011-12,GeorgeMason
+2pt Jumpers,0.387,0.307,0.10400000000000001,0.34299999999999997,2011-12,GeorgeMason
+3pt Shots,0.32299999999999995,0.322,0.013000000000000001,0.327,2011-12,GeorgeMason

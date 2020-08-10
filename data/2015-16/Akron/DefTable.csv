@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.46,0.5379999999999999,0.111,0.605,2015-16
-2pt Jumpers,0.20800000000000002,0.313,0.040999999999999995,0.326,2015-16
-3pt Shots,0.332,0.294,0.017,0.299,2015-16
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.46,0.5379999999999999,0.111,0.605,2015-16,Akron
+2pt Jumpers,0.20800000000000002,0.313,0.040999999999999995,0.326,2015-16,Akron
+3pt Shots,0.332,0.294,0.017,0.299,2015-16,Akron

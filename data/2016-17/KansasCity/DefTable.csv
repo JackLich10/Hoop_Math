@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.4,0.613,0.094,0.677,2016-17
-2pt Jumpers,0.235,0.374,0.022000000000000002,0.38299999999999995,2016-17
-3pt Shots,0.365,0.33899999999999997,0.004,0.34,2016-17
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.4,0.613,0.094,0.677,2016-17,KansasCity
+2pt Jumpers,0.235,0.374,0.022000000000000002,0.38299999999999995,2016-17,KansasCity
+3pt Shots,0.365,0.33899999999999997,0.004,0.34,2016-17,KansasCity

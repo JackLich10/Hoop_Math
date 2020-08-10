@@ -1,13 +1,13 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Cady Lalanne,43,0.272,0.278,0.659,0.042,0,0,2012-13
-Maxie Esho,23,0.19,0.157,0.42100000000000004,0.111,0,0,2012-13
-Raphiael Putney,18,0.16899999999999998,0.22399999999999998,0.846,0.135,0.091,0.2,2012-13
-Terrell Vinson,17,0.11,0.13,0.7140000000000001,0.026000000000000002,0,0,2012-13
-Sampson Carter,11,0.08800000000000001,0.125,0.778,0.071,0.1,0.5,2012-13
-Jesse Morgan,5,0.09300000000000001,0.059000000000000004,0.25,0.028999999999999998,0,0,2012-13
-Trey Davis,5,0.077,0.182,1,0.07400000000000001,0.222,1,2012-13
-Tyler Bergantino,4,0.33299999999999996,0.2,0.25,NA,NA,NA,2012-13
-Chaz Williams,4,0.011000000000000001,0,0,0.027000000000000003,0,0,2012-13
-Freddie Riley,2,0.025,0,0,0,0,NA,2012-13
-Izzy Freeman,1,0.33299999999999996,NA,0,NA,NA,NA,2012-13
-Total,133,0.128,0.139,0.609,0.051,0.033,0.21100000000000002,2012-13
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Cady Lalanne,43,0.272,0.278,0.659,0.042,0,0,2012-13,Massachusetts
+Maxie Esho,23,0.19,0.157,0.42100000000000004,0.111,0,0,2012-13,Massachusetts
+Raphiael Putney,18,0.16899999999999998,0.22399999999999998,0.846,0.135,0.091,0.2,2012-13,Massachusetts
+Terrell Vinson,17,0.11,0.13,0.7140000000000001,0.026000000000000002,0,0,2012-13,Massachusetts
+Sampson Carter,11,0.08800000000000001,0.125,0.778,0.071,0.1,0.5,2012-13,Massachusetts
+Jesse Morgan,5,0.09300000000000001,0.059000000000000004,0.25,0.028999999999999998,0,0,2012-13,Massachusetts
+Trey Davis,5,0.077,0.182,1,0.07400000000000001,0.222,1,2012-13,Massachusetts
+Tyler Bergantino,4,0.33299999999999996,0.2,0.25,NA,NA,NA,2012-13,Massachusetts
+Chaz Williams,4,0.011000000000000001,0,0,0.027000000000000003,0,0,2012-13,Massachusetts
+Freddie Riley,2,0.025,0,0,0,0,NA,2012-13,Massachusetts
+Izzy Freeman,1,0.33299999999999996,NA,0,NA,NA,NA,2012-13,Massachusetts
+Total,133,0.128,0.139,0.609,0.051,0.033,0.21100000000000002,2012-13,Massachusetts

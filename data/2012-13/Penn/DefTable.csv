@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.344,0.547,0.10099999999999999,0.608,2012-13
-2pt Jumpers,0.322,0.364,0.04,0.379,2012-13
-3pt Shots,0.33399999999999996,0.344,0.005,0.34600000000000003,2012-13
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.344,0.547,0.10099999999999999,0.608,2012-13,Penn
+2pt Jumpers,0.322,0.364,0.04,0.379,2012-13,Penn
+3pt Shots,0.33399999999999996,0.344,0.005,0.34600000000000003,2012-13,Penn

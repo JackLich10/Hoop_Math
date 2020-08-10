@@ -1,12 +1,12 @@
-name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season
-Brandon Ubel,21,0.14300000000000002,0.192,1,0.182,0.18600000000000003,0.5,2011-12
-Toney McCray,12,0.091,0.075,0.6,0.07400000000000001,0.077,0.429,2011-12
-Jorge Brian Diaz,10,0.08800000000000001,0.083,0.667,0.081,0.091,0.429,2011-12
-Caleb Walker,7,0.073,0.057,0.667,0.066,0.083,0.5,2011-12
-Mike Fox,6,0.222,0,0,0.25,0,0,2011-12
-Dylan Talley,4,0,0,NA,0.062,0.08,0.5,2011-12
-Bo Spencer,3,0.015,0.025,1,0.016,0.04,1,2011-12
-Christopher Niemann,2,0,0,NA,0.133,0,0,2011-12
-David Rivers,1,0,0,NA,0.14300000000000002,0.5,1,2011-12
-Hilliard Corey,1,0,0,NA,1,NA,0,2011-12
-Total,67,0.06,0.062,0.684,0.079,0.086,0.43799999999999994,2011-12
+name,putbacks,percent_of_total_at_rim_shots_coming_on_putbacks,percent_of_total_made_baskets_at_rim_coming_on_putbacks,putback_fg_percent_at_rim,percent_of_total_2pt_jumpers_coming_on_putbacks,percent_of_total_made_2pt_jumpers_coming_on_putbacks,putback_fg_percent_2pt_jumpers,season,team
+Brandon Ubel,21,0.14300000000000002,0.192,1,0.182,0.18600000000000003,0.5,2011-12,Nebraska
+Toney McCray,12,0.091,0.075,0.6,0.07400000000000001,0.077,0.429,2011-12,Nebraska
+Jorge Brian Diaz,10,0.08800000000000001,0.083,0.667,0.081,0.091,0.429,2011-12,Nebraska
+Caleb Walker,7,0.073,0.057,0.667,0.066,0.083,0.5,2011-12,Nebraska
+Mike Fox,6,0.222,0,0,0.25,0,0,2011-12,Nebraska
+Dylan Talley,4,0,0,NA,0.062,0.08,0.5,2011-12,Nebraska
+Bo Spencer,3,0.015,0.025,1,0.016,0.04,1,2011-12,Nebraska
+Christopher Niemann,2,0,0,NA,0.133,0,0,2011-12,Nebraska
+David Rivers,1,0,0,NA,0.14300000000000002,0.5,1,2011-12,Nebraska
+Hilliard Corey,1,0,0,NA,1,NA,0,2011-12,Nebraska
+Total,67,0.06,0.062,0.684,0.079,0.086,0.43799999999999994,2011-12,Nebraska

@@ -1,4 +1,4 @@
-shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season
-At Rim,0.312,0.5379999999999999,0.145,0.629,2011-12
-2pt Jumpers,0.327,0.315,0.077,0.342,2011-12
-3pt Shots,0.361,0.299,0.024,0.307,2011-12
+shot_type,percent_of_shots,fg_percent,percent_of_shots_blocked,unblocked_fg_percent,season,team
+At Rim,0.312,0.5379999999999999,0.145,0.629,2011-12,MichiganSt.
+2pt Jumpers,0.327,0.315,0.077,0.342,2011-12,MichiganSt.
+3pt Shots,0.361,0.299,0.024,0.307,2011-12,MichiganSt.
