@@ -1,0 +1,354 @@
+team,team_no_spaces
+UC Santa Barbara,UCSantaBarbara
+Toledo,Toledo
+Indiana,Indiana
+Louisiana,Louisiana
+Brown,Brown
+Wright St.,WrightSt.
+UC Irvine,UCIrvine
+Furman,Furman
+Southeast Mo. St.,SoutheastMo.St.
+UAB,UAB
+Tulane,Tulane
+FIU,FIU
+BYU,BYU
+Xavier,Xavier
+Charlotte,Charlotte
+Canisius,Canisius
+Wake Forest,WakeForest
+Northeastern,Northeastern
+UT Martin,UTMartin
+Robert Morris,RobertMorris
+Villanova,Villanova
+Howard,Howard
+Utah St.,UtahSt.
+Marist,Marist
+Portland St.,PortlandSt.
+Denver,Denver
+Maryland,Maryland
+Rice,Rice
+Abilene Christian,AbileneChristian
+Rider,Rider
+Boston College,BostonCollege
+Western Ky.,WesternKy.
+Penn St.,PennSt.
+UTRGV,UTRGV
+San Diego,SanDiego
+UC Davis,UCDavis
+LSU,LSU
+Houston Baptist,HoustonBaptist
+Fresno St.,FresnoSt.
+Baylor,Baylor
+North Ala.,NorthAla.
+Columbia,Columbia
+Northern Ariz.,NorthernAriz.
+La.-Monroe,La.-Monroe
+Winthrop,Winthrop
+Georgia Tech,GeorgiaTech
+Kent St.,KentSt.
+Detroit Mercy,DetroitMercy
+Weber St.,WeberSt.
+Maine,Maine
+Sam Houston St.,SamHoustonSt.
+A&M-Corpus Christi,A&M-CorpusChristi
+South Fla.,SouthFla.
+SMU,SMU
+Richmond,Richmond
+Providence,Providence
+Louisville,Louisville
+Davidson,Davidson
+North Florida,NorthFlorida
+Missouri St.,MissouriSt.
+Vanderbilt,Vanderbilt
+Washington St.,WashingtonSt.
+N.C. Central,N.C.Central
+Akron,Akron
+Bowling Green,BowlingGreen
+Eastern Mich.,EasternMich.
+Memphis,Memphis
+Murray St.,MurraySt.
+American,American
+Notre Dame,NotreDame
+Creighton,Creighton
+Central Ark.,CentralArk.
+Duke,Duke
+Prairie View,PrairieView
+Indiana St.,IndianaSt.
+UCLA,UCLA
+Pacific,Pacific
+Texas A&M,TexasA&M
+Southern U.,SouthernU.
+North Texas,NorthTexas
+Nevada,Nevada
+Army West Point,ArmyWestPoint
+UMES,UMES
+UTSA,UTSA
+Hartford,Hartford
+Alcorn,Alcorn
+Norfolk St.,NorfolkSt.
+Chattanooga,Chattanooga
+Nebraska,Nebraska
+Yale,Yale
+Lehigh,Lehigh
+Morehead St.,MoreheadSt.
+Central Mich.,CentralMich.
+Tennessee,Tennessee
+Texas St.,TexasSt.
+Jackson St.,JacksonSt.
+Southeastern La.,SoutheasternLa.
+Wyoming,Wyoming
+Minnesota,Minnesota
+Illinois,Illinois
+LIU,LIU
+UTEP,UTEP
+Loyola Chicago,LoyolaChicago
+Texas,Texas
+Fairleigh Dickinson,FairleighDickinson
+Cornell,Cornell
+West Virginia,WestVirginia
+Oklahoma,Oklahoma
+Miami (OH),Miami(OH)
+San Diego St.,SanDiegoSt.
+DePaul,DePaul
+Chicago St.,ChicagoSt.
+South Dakota,SouthDakota
+Montana St.,MontanaSt.
+Oklahoma St.,OklahomaSt.
+Wagner,Wagner
+Wofford,Wofford
+Miami (FL),Miami(FL)
+SFA,SFA
+Towson,Towson
+Delaware St.,DelawareSt.
+Liberty,Liberty
+Presbyterian,Presbyterian
+Michigan,Michigan
+East Carolina,EastCarolina
+Northwestern,Northwestern
+Buffalo,Buffalo
+Valparaiso,Valparaiso
+Elon,Elon
+Eastern Ill.,EasternIll.
+Appalachian St.,AppalachianSt.
+Fla. Atlantic,Fla.Atlantic
+Cleveland St.,ClevelandSt.
+Mississippi St.,MississippiSt.
+SIUE,SIUE
+Long Beach St.,LongBeachSt.
+Samford,Samford
+Lamar University,LamarUniversity
+Kansas St.,KansasSt.
+St. John's (NY),St.John's(NY)
+Alabama A&M,AlabamaA&M
+UNI,UNI
+Ark.-Pine Bluff,Ark.-PineBluff
+Texas Southern,TexasSouthern
+Colorado,Colorado
+VMI,VMI
+Saint Mary's (CA),SaintMary's(CA)
+Auburn,Auburn
+New Orleans,NewOrleans
+Idaho St.,IdahoSt.
+Southern California,SouthernCalifornia
+South Carolina St.,SouthCarolinaSt.
+Idaho,Idaho
+Stony Brook,StonyBrook
+Saint Peter's,SaintPeter's
+Western Mich.,WesternMich.
+Virginia,Virginia
+UCF,UCF
+Drexel,Drexel
+South Carolina,SouthCarolina
+Hawaii,Hawaii
+Kentucky,Kentucky
+Arizona,Arizona
+Lafayette,Lafayette
+VCU,VCU
+ETSU,ETSU
+Wisconsin,Wisconsin
+Alabama,Alabama
+Tennessee Tech,TennesseeTech
+Gardner-Webb,Gardner-Webb
+Central Conn. St.,CentralConn.St.
+Western Caro.,WesternCaro.
+IUPUI,IUPUI
+Pepperdine,Pepperdine
+Dartmouth,Dartmouth
+La Salle,LaSalle
+Tulsa,Tulsa
+Kansas,Kansas
+Grambling,Grambling
+Grand Canyon,GrandCanyon
+Michigan St.,MichiganSt.
+Cal St. Fullerton,CalSt.Fullerton
+Ole Miss,OleMiss
+Mississippi Val.,MississippiVal.
+UC Riverside,UCRiverside
+Clemson,Clemson
+Coastal Carolina,CoastalCarolina
+Albany (NY),Albany(NY)
+Washington,Washington
+Colorado St.,ColoradoSt.
+UMBC,UMBC
+The Citadel,TheCitadel
+Loyola Maryland,LoyolaMaryland
+Hofstra,Hofstra
+UMass Lowell,UMassLowell
+South Alabama,SouthAlabama
+Butler,Butler
+Evansville,Evansville
+Iowa,Iowa
+Florida A&M,FloridaA&M
+TCU,TCU
+Oregon,Oregon
+Col. of Charleston,Col.ofCharleston
+Harvard,Harvard
+Florida,Florida
+Saint Joseph's,SaintJoseph's
+Ohio St.,OhioSt.
+Bethune-Cookman,Bethune-Cookman
+Florida St.,FloridaSt.
+Seton Hall,SetonHall
+North Carolina,NorthCarolina
+Northern Ky.,NorthernKy.
+Oral Roberts,OralRoberts
+Navy,Navy
+Eastern Wash.,EasternWash.
+Ga. Southern,Ga.Southern
+N.C. A&T,N.C.A&T
+Santa Clara,SantaClara
+Delaware,Delaware
+New Mexico,NewMexico
+Ohio,Ohio
+CSUN,CSUN
+Coppin St.,CoppinSt.
+Temple,Temple
+Belmont,Belmont
+Monmouth,Monmouth
+California,California
+Georgia St.,GeorgiaSt.
+Georgia,Georgia
+North Dakota,NorthDakota
+Princeton,Princeton
+Saint Louis,SaintLouis
+Arizona St.,ArizonaSt.
+Southern Ill.,SouthernIll.
+UNLV,UNLV
+Iona,Iona
+Stetson,Stetson
+Marshall,Marshall
+Niagara,Niagara
+Campbell,Campbell
+Mercer,Mercer
+St. Bonaventure,St.Bonaventure
+Oregon St.,OregonSt.
+Lipscomb,Lipscomb
+Kennesaw St.,KennesawSt.
+Penn,Penn
+James Madison,JamesMadison
+UT Arlington,UTArlington
+Seattle U,SeattleU
+Georgetown,Georgetown
+UNCW,UNCW
+McNeese,McNeese
+USC Upstate,USCUpstate
+Morgan St.,MorganSt.
+New Hampshire,NewHampshire
+Iowa St.,IowaSt.
+Vermont,Vermont
+Purdue,Purdue
+Kansas City,KansasCity
+Drake,Drake
+UConn,UConn
+Marquette,Marquette
+Holy Cross,HolyCross
+Houston,Houston
+Hampton,Hampton
+FGCU,FGCU
+New Mexico St.,NewMexicoSt.
+Ball St.,BallSt.
+Milwaukee,Milwaukee
+Portland,Portland
+San Francisco,SanFrancisco
+Bucknell,Bucknell
+UIC,UIC
+LMU (CA),LMU(CA)
+UIW,UIW
+St. Francis Brooklyn,St.FrancisBrooklyn
+San Jose St.,SanJoseSt.
+Utah Valley,UtahValley
+Missouri,Missouri
+Cincinnati,Cincinnati
+South Dakota St.,SouthDakotaSt.
+Northern Ill.,NorthernIll.
+CSU Bakersfield,CSUBakersfield
+Air Force,AirForce
+Bradley,Bradley
+Troy,Troy
+Gonzaga,Gonzaga
+Northern Colo.,NorthernColo.
+Southern Miss.,SouthernMiss.
+Siena,Siena
+Southern Utah,SouthernUtah
+Western Ill.,WesternIll.
+Pittsburgh,Pittsburgh
+Montana,Montana
+Massachusetts,Massachusetts
+Mount St. Mary's,MountSt.Mary's
+Bryant,Bryant
+Syracuse,Syracuse
+Jacksonville St.,JacksonvilleSt.
+Quinnipiac,Quinnipiac
+California Baptist,CaliforniaBaptist
+Middle Tenn.,MiddleTenn.
+Rhode Island,RhodeIsland
+High Point,HighPoint
+Radford,Radford
+Duquesne,Duquesne
+Cal Poly,CalPoly
+Virginia Tech,VirginiaTech
+Charleston So.,CharlestonSo.
+North Dakota St.,NorthDakotaSt.
+Northwestern St.,NorthwesternSt.
+Fairfield,Fairfield
+Arkansas,Arkansas
+George Washington,GeorgeWashington
+UNC Asheville,UNCAsheville
+Dayton,Dayton
+Arkansas St.,ArkansasSt.
+Binghamton,Binghamton
+George Mason,GeorgeMason
+Old Dominion,OldDominion
+Green Bay,GreenBay
+UNC Greensboro,UNCGreensboro
+Little Rock,LittleRock
+Austin Peay,AustinPeay
+Rutgers,Rutgers
+Nicholls St.,NichollsSt.
+Sacramento St.,SacramentoSt.
+Eastern Ky.,EasternKy.
+William & Mary,William&Mary
+Colgate,Colgate
+NJIT,NJIT
+Merrimack,Merrimack
+Purdue Fort Wayne,PurdueFortWayne
+Boston U.,BostonU.
+Illinois St.,IllinoisSt.
+Saint Francis (PA),SaintFrancis(PA)
+Manhattan,Manhattan
+Utah,Utah
+Louisiana Tech,LouisianaTech
+Youngstown St.,YoungstownSt.
+Jacksonville,Jacksonville
+Tennessee St.,TennesseeSt.
+Omaha,Omaha
+Stanford,Stanford
+Longwood,Longwood
+Sacred Heart,SacredHeart
+NC State,NCState
+Oakland,Oakland
+Fordham,Fordham
+Alabama St.,AlabamaSt.
+Wichita St.,WichitaSt.
+Texas Tech,TexasTech
+Boise St.,BoiseSt.
